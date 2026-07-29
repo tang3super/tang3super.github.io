@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>信号筛选规则说明 · SUPER爱投资</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<div class="wrap">
+  <a class="back-link" href="index.html">← 返回期权异动雷达列表</a>
+  <h1>信号筛选规则说明</h1>
+  <p class="meta">这不是"深度虚值期权清单"，而是从可配置的标的池里，同时满足5个条件才会被记录下来的异常放量信号。</p>
+
+  <table>
+    <tr><th>维度</th><th>规则</th></tr>
+    <tr><td>标的范围</td><td>可配置，当前配置为：SNDK / NVDA / GLW / VRT / TSM / SKHY / TSLA / CRDO / MRVL / MU / GOOG / MSFT / AMZN / META / AAPL / QCOM / NVTS</td></tr>
+    <tr><td>到期窗口</td><td>未来7天内到期的合约</td></tr>
+    <tr><td>虚值程度</td><td>虚值 ≥ 15% 才算"深度虚值"</td></tr>
+    <tr><td>成交量</td><td>单合约成交量 ≥ 500张，且是昨日成交量的 ≥ 5倍（此前无成交记录的合约，视为首次放量直接计入）</td></tr>
+    <tr><td>权利金</td><td>单笔信号权利金 ≥ 5万美元</td></tr>
+  </table>
+
+  <div class="summary-box">
+    5个条件<strong>同时</strong>满足才会出现在信号里，任何一项不达标都会被静默过滤掉，不会展示——这也是"异动"这两个字的由来：不是把所有深度虚值合约列出来，而是专挑放量明显超出历史基线的那一小部分。
+  </div>
+
+  <h2>方向判定说明</h2>
+  <p>成交价格相对买一/卖一报价的位置：成交价贴近或高于卖一价，判定为主动买入；贴近或低于买一价，判定为主动卖出。系统只保留判定为买入的信号。</p>
+
+  <p class="disclaimer">仅供学习交流，不构成投资建议</p>
+</div>
+</body>
+</html>
