@@ -1,22 +1,136 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>宏观交易 · SUPER爱投资</title>
-<link rel="stylesheet" href="../assets/style.css">
+<style>
+:root{
+  --bg:#F5F5F4;
+  --card-bg:#FFFFFF;
+  --border:#E5E3DD;
+  --accent:#2F5DD4;
+  --text-primary:#1A1A1A;
+  --text-muted:#6B6B68;
+  --text-desc:#5B6472;
+  --footer-text:#B5544A;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+body{
+  font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Helvetica Neue',sans-serif;
+  background:var(--bg);
+  color:var(--text-primary);
+  padding:40px 24px 70px;
+  max-width:860px;
+  margin:0 auto;
+  -webkit-font-smoothing:antialiased;
+}
+.back-link{
+  display:inline-block;
+  font-size:14px;
+  color:var(--text-muted);
+  text-decoration:none;
+  margin-bottom:40px;
+}
+.back-link:hover{color:var(--text-primary);}
+h1{
+  font-size:34px;
+  font-weight:800;
+  letter-spacing:-0.5px;
+  margin-bottom:18px;
+  color:var(--text-primary);
+}
+.subtitle{
+  font-size:15px;
+  color:var(--text-muted);
+  margin-bottom:32px;
+  line-height:1.7;
+}
+.subtitle a{
+  color:var(--accent);
+  text-decoration:none;
+}
+.subtitle a:hover{text-decoration:underline;}
+.article-list{
+  display:flex;
+  flex-direction:column;
+  gap:16px;
+}
+.article-card{
+  display:block;
+  text-decoration:none;
+  color:inherit;
+  background:var(--card-bg);
+  border:1px solid var(--border);
+  border-left:4px solid var(--accent);
+  border-radius:8px;
+  padding:22px 26px;
+  transition:box-shadow .15s ease, transform .15s ease;
+}
+.article-card:hover{
+  box-shadow:0 4px 14px rgba(0,0,0,0.06);
+  transform:translateY(-1px);
+}
+.article-date{
+  font-size:13.5px;
+  color:var(--accent);
+  font-weight:500;
+  margin-bottom:10px;
+}
+.article-title{
+  font-size:20px;
+  font-weight:700;
+  color:var(--text-primary);
+  margin-bottom:10px;
+}
+.article-desc{
+  font-size:14.5px;
+  color:var(--text-desc);
+  line-height:1.7;
+}
+.divider{
+  border:none;
+  border-top:1px solid var(--border);
+  margin:48px 0 24px;
+}
+footer{
+  text-align:center;
+  font-size:13px;
+  color:var(--footer-text);
+}
+.empty-note{
+  margin-top:20px;
+  font-size:13px;
+  color:var(--text-muted);
+}
+</style>
 </head>
 <body>
-<div class="wrap">
-  <a class="back-link" href="../">← 返回主页</a>
-  <h1>宏观交易</h1>
-  <p class="meta">宏观经济与大类资产交易相关的分析与记录。</p>
 
-  <ul class="article-list">
-    <li class="note" style="padding:16px 0;">暂无文章，敬请期待。</li>
-  </ul>
+<a class="back-link" href="../">← 返回主页</a>
 
-  <p class="disclaimer">仅供学习交流，不构成投资建议</p>
+<h1>宏观交易</h1>
+<p class="subtitle">从宏观驱动事件出发的跨资产传导分析——货币政策、汇率冲击、地缘政治、经济周期如何影响股票、债券、大宗商品与外汇。</p>
+
+<div class="article-list">
+
+  <a class="article-card" href="./跨资产宏观传导框架/">
+    <div class="article-date">2026-07-05</div>
+    <div class="article-title">跨资产宏观传导框架</div>
+    <div class="article-desc">五大宏观情境（加息、降息、日元套息崩解、地缘冲击、通胀反复）的完整传导链条拆解，附四类资产影响方向矩阵与非共识洞察／陷阱提示。</div>
+  </a>
+
+  <!--
+    新增文章时，复制上面这一整块 <a class="article-card">...</a>，
+    改 href（新文章子文件夹路径）、article-date、article-title、article-desc 即可。
+    对应地，在本文件夹下新建一个子文件夹，把新文章的 index.html 放进去。
+  -->
+
 </div>
+
+<hr class="divider">
+
+<footer>仅供学习交流，不构成投资建议</footer>
+
 </body>
 </html>
