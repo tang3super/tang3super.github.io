@@ -11,7 +11,7 @@
  */
 
 async function loadArticles() {
-  const res = await fetch('/data/articles.json');
+  const res = await fetch('/data/articles.json', { cache: 'no-store' });
   if (!res.ok) throw new Error('articles.json 加载失败: ' + res.status);
   return res.json();
 }
