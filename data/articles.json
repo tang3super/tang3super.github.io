@@ -6,7 +6,7 @@
     "date": "2026-07-28",
     "title": "SNDK · 深度虚值期权异动",
     "summary": "13条信号同日触发，权利金合计超2588万美元，PUT集中放量在900-1000行权价区间，全部7/31到期（早于8/5财报）。",
-    "url": "options-radar/2026-07-28-sndk.html"
+    "url": "/options-radar/2026-07-28-sndk.html"
   },
   {
     "category": "options-radar",
@@ -15,7 +15,7 @@
     "date": "2026-07-28",
     "title": "MU · 深度虚值期权异动",
     "summary": "18条信号同日触发，权利金合计超653万美元，行权价横跨$600-1100，到期与财报无关，驱动因素是中国存储对手CXMT带来的多空分歧。",
-    "url": "options-radar/2026-07-28-mu.html"
+    "url": "/options-radar/2026-07-28-mu.html"
   },
   {
     "category": "macro-trade",
@@ -24,6 +24,6 @@
     "date": "2026-07-31",
     "title": "跨资产宏观传导框架",
     "summary": "五大宏观情境（加息、降息、日元套息崩解、地缘冲击、通胀反复）的完整传导链条拆解，附四类资产影响方向矩阵与非共识洞察／陷阱提示。",
-    "url": "macro-trade/macro_tool.html"
+    "url": "/macro-trade/macro_tool.html"
   }
 ]
