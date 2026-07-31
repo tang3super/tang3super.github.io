@@ -41,33 +41,8 @@
 <section class="section">
   <div class="section-head">不要错过</div>
   <h2>最新文章</h2>
-  <div class="article-grid">
-    <a class="article-tile c-blue" href="options-radar/2026-07-28-sndk.html">
-      <div class="top"></div>
-      <div class="body">
-        <div class="date">2026-07-28</div>
-        <div class="cat">期权异动雷达</div>
-        <h4>SNDK · 深度虚值期权异动</h4>
-        <p>13条信号同日触发，权利金合计超2588万美元，PUT集中放量在900-1000行权价区间。</p>
-      </div>
-    </a>
-    <a class="article-tile c-blue" href="options-radar/2026-07-28-mu.html">
-      <div class="top"></div>
-      <div class="body">
-        <div class="date">2026-07-28</div>
-        <div class="cat">期权异动雷达</div>
-        <h4>MU · 深度虚值期权异动</h4>
-        <p>18条信号同日触发，权利金合计超653万美元，行权价横跨$600-1100。</p>
-      </div>
-    </a>
-    <div class="article-tile c-muted">
-      <div class="top"></div>
-      <div class="body">
-        <div class="cat">个股分析</div>
-        <h4>暂无文章</h4>
-        <p>敬请期待。</p>
-      </div>
-    </div>
+  <div class="article-grid" id="latest-articles">
+    <!-- 内容由 assets/articles.js 从 data/articles.json 自动读取渲染，无需手动维护 -->
   </div>
 </section>
 
@@ -89,5 +64,8 @@
 </div></section>
 
 <footer class="footer">仅供学习交流，不构成投资建议</footer>
+
+<script src="/assets/articles.js"></script>
+<script>renderHomeLatest('latest-articles', 3);</script>
 </body>
 </html>
