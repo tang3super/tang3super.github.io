@@ -34,8 +34,8 @@ a:focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; }
 /* ---------- 顶部导航 ---------- */
 .nav { background: var(--surface); border-bottom: 1px solid var(--border); }
 .nav-inner { max-width: 1080px; width: 100%; margin: 0 auto; padding: 10px 24px; display: flex; align-items: center; gap: 40px; flex-wrap: wrap; }
-.nav-logo { font-family: var(--font-display); font-size: 14px; font-weight: 700; display: flex; align-items: center; }
-.nav-logo .logo-s { height: 20px; width: auto; margin-right: 2px; display: block; }
+.nav-logo { font-family: var(--font-display); font-size: 14px; font-weight: 700; display: flex; align-items: baseline; }
+.nav-logo .logo-s { font-family: 'Bevan', serif; color: var(--blue); font-size: 20px; line-height: 1; margin-right: 1px; }
 .nav-links { display: flex; gap: 20px; font-size: 13px; flex-wrap: wrap; }
 .nav-links a:hover { color: var(--blue); }
 @media (max-width: 560px) {
