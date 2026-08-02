@@ -3,7 +3,7 @@ layout: default
 title: 信号筛选规则说明
 ---
 <div class="article-page">
-<a class="back-link" href="{{ '/options-radar/' | relative_url }}" style="margin-top:40px; display:inline-block;">← 返回期权异动雷达列表</a>
+<a class="back-link" href="{{ '/options-radar/' | relative_url }}" style="margin-top:40px; display:inline-block;">← 返回期权雷达列表</a>
 <h1>信号筛选规则说明</h1>
 <p class="meta">方法论 · 不定期更新</p>
 <p>这不是"深度虚值期权清单"，而是从可配置的标的池里，同时满足5个条件才会被记录下来的异常放量信号。</p>

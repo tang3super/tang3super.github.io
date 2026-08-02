@@ -1,6 +1,6 @@
 - key: options_radar
   tag: OPTIONS
-  name: 期权异动雷达
+  name: 期权雷达
   slug: options-radar
   desc: 自研深度虚值期权异动扫描系统，定期扫描盘中信号并交叉核对隔日未平仓量变化。
 
