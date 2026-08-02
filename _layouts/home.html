@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<header>
+  <div class="eyebrow">— PORTFOLIO NOTES</div>
+  <h1>{{ page.quote }}</h1>
+  <p>{{ page.subtitle }}</p>
+</header>
+
+{% for board in site.data.boards %}
+{% assign items = site[board.key] | sort: 'date' | reverse %}
+<section class="board">
+  <div class="board-tag-row">
+    <span class="board-tag">{{ board.tag }}</span>
+    <a class="board-all" href="{{ board.slug | prepend: '/' | append: '/' | relative_url }}">ALL →</a>
+  </div>
+  <h2>{{ board.name }}</h2>
+  <p>{{ board.desc }}</p>
+  <div class="board-col-head"><span>TOPIC</span><span>DATE</span></div>
+  <div class="board-articles">
+    {% if items.size > 0 %}
+      {% for item in items limit: 3 %}
+      <a href="{{ item.url | relative_url }}">
+        <span class="board-article-title">{{ item.title }}</span>
+        <span class="board-article-date">{{ item.date | date: "%Y.%m.%d" }}</span>
+      </a>
+      {% endfor %}
+    {% else %}
+      <div class="board-empty">暂无文章，敬请期待</div>
+    {% endif %}
+  </div>
+</section>
+{% endfor %}
+
+<section class="about">
+  <div class="eyebrow">ABOUT BLOGGER</div>
+  <h2>你好，我是 Super</h2>
+  <p>目前是一名自由职业者，50岁，曾在 Emerson Network Power Ltd.、Alibaba Cloud Computing Ltd. 和 Alibaba Damo Academy 从事通信、云计算和人工智能等相关工作。受益于过去20多年的科技行业蓬勃发展，让我有机会更系统地研究投资。</p>
+  <p>我现在主要交易的有美股（正股和期权）、期货（黄金和原油）和外汇（日元货币对）。我希望专注于学习、研究和实践各类投资分析框架、交易策略与方法，结合对科技类产品的认知与沉淀，努力构建自己懂得起的投资工具与交易方法。</p>
+  <p>该网站分享的内容是我探索过程中相关的记录、思考与总结。欢迎喜欢投资的朋友一起深入交流，如下是我的联系方式。</p>
+</section>

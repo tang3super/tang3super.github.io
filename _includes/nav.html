@@ -1,0 +1,8 @@
+<nav>
+  <a class="wordmark" href="{{ '/' | relative_url }}">SUPER爱投资</a>
+  <div class="nav-links">
+    {% for board in site.data.boards %}
+    <a href="{{ board.slug | prepend: '/' | append: '/' | relative_url }}">{{ board.tag }}</a>
+    {% endfor %}
+  </div>
+</nav>

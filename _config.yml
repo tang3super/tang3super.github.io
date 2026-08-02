@@ -1,0 +1,49 @@
+title: SUPER爱投资
+description: 探索普通投资者做专业投资的可能性和边界
+url: "https://tang3super.github.io"
+baseurl: ""
+
+# 四个板块各自是一个collection，文件放在对应的 _xxx 文件夹里
+collections:
+  options_radar:
+    output: true
+    permalink: /options-radar/:path/
+  stock_analysis:
+    output: true
+    permalink: /stock-analysis/:path/
+  macro_trade:
+    output: true
+    permalink: /macro-trade/:path/
+  book_note:
+    output: true
+    permalink: /book-note/:path/
+
+# 每个collection里的文章，自动套用article布局，不用每篇文章自己写layout
+defaults:
+  - scope:
+      path: ""
+      type: options_radar
+    values:
+      layout: article
+  - scope:
+      path: ""
+      type: stock_analysis
+    values:
+      layout: article
+  - scope:
+      path: ""
+      type: macro_trade
+    values:
+      layout: article
+  - scope:
+      path: ""
+      type: book_note
+    values:
+      layout: article
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - README.md

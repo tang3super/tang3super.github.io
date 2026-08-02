@@ -1,0 +1,14 @@
+---
+layout: default
+---
+{% assign board = site.data.boards | where: "key", page.collection | first %}
+
+<div class="article-page">
+  <a class="back-link" href="{{ board.slug | prepend: '/' | append: '/' | relative_url }}" style="margin-top:40px; display:inline-block;">← 返回{{ board.name }}列表</a>
+  <h1>{{ page.title }}</h1>
+  <p class="meta">{{ page.date | date: "%Y-%m-%d" }}{% if page.subtitle %} · {{ page.subtitle }}{% endif %}</p>
+
+  {{ content }}
+
+  <p class="disclaimer">{{ page.disclaimer | default: "⚠️ 个人学习记录，不构成投资建议。数据来源公开市场，仅供参考。" }}</p>
+</div>
