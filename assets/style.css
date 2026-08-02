@@ -119,7 +119,7 @@ footer .copyright { margin-top: 12px; color: var(--muted); opacity: 0.8; }
 .article-page .back-link { display: inline-block; font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
 .article-page .back-link:hover { color: var(--accent); }
 .article-page h1 {
-  font-family: var(--font-sans); font-weight: 600; font-size: 22px;
+  font-family: var(--font-sans); font-weight: 600; font-size: 16px;
   letter-spacing: -0.1px; margin: 20px 0 6px; color: var(--ink);
 }
 .article-page .meta { font-family: var(--font-mono); font-size: 11.5px; color: var(--muted); margin-bottom: 22px; }
