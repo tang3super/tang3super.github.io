@@ -2,22 +2,22 @@
   tag: OPTIONS
   name: 期权雷达
   slug: options-radar
-  desc: 自研深度虚值期权异动扫描系统，定期扫描盘中信号并交叉核对隔日未平仓量变化。
+  desc: 自研深度虚值期权异动扫描系统，定期扫描盘中信号并交叉核对隔日未平仓量变化
 
 - key: stock_analysis
   tag: STOCKS
   name: 个股分析
   slug: stock-analysis
-  desc: "选股：产业生态洞察和BOM分析、公司WASP分析。择时：产业创新曲线理论、公司产品GTM节奏、技术分析。"
+  desc: "选股：产业生态洞察和BOM分析、公司WASP分析。择时：产业创新曲线理论、公司产品GTM节奏、技术分析"
 
 - key: macro_trade
   tag: MACRO
   name: 宏观交易
   slug: macro-trade
-  desc: 研究经济周期、地缘政治、财经政策、经济指标对美股、黄金、原油和外汇等资产的影响逻辑与传导过程，每周复盘和展望。
+  desc: 研究宏观因素对美股、黄金、原油和外汇等资产的影响逻辑与传导过程，每周复盘和展望
 
 - key: book_note
   tag: READING
   name: 读书笔记
   slug: book-note
-  desc: 博主个人投资类书单、阅读摘录和读书笔记。
+  desc: 博主个人投资类书单、阅读摘录和读书笔记
