@@ -47,3 +47,4 @@ kramdown:
 
 exclude:
   - README.md
+  - CLAUDE.md
