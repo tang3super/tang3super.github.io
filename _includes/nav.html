@@ -4,5 +4,6 @@
     {% for board in site.data.boards %}
     <a href="{{ board.slug | prepend: '/' | append: '/' | relative_url }}">{{ board.tag }}</a>
     {% endfor %}
+    <a href="{{ '/' | relative_url }}#about">ABOUT</a>
   </div>
 </nav>
