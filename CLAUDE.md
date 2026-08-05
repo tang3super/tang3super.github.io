@@ -12,10 +12,15 @@
 - 每个 collection 的文章自动套用 `_layouts/article.html`（渲染 `page.title` 为 h1、`page.date`+`page.subtitle` 为 meta、`{{ content }}` 为正文、底部自动加免责声明）。
 - 首页 (`_layouts/home.html`) 和板块列表页 (`_layouts/board-list.html`) 都从 `site[board.key] | sort: 'date' | reverse` 里取文章，首页每个板块只显示最新 3 篇。
 - 全站样式在 `assets/style.css`，用 CSS 变量：`--bg` `--ink` `--muted` `--border` `--accent` `--font-mono`（JetBrains Mono，正文默认）`--font-sans`（Inter/PingFang SC，标题用）。
+- 已接入 **Cloudflare Web Analytics**（隐私友好、不用 cookie 的访客统计），追踪代码在 `_layouts/default.html` 里 `</body>` 前，全站页面通用，不用每篇文章单独加。
 
 ## 发文章工作流
 
-用户通常会说"把 xxx.html/xxx.md 上传到网站"，源文件一般在 `C:\Users\super\Downloads`。步骤：
+用户通常会说"把 xxx.html/xxx.md 上传到网站"，源文件一般在 `C:\Users\super\Downloads`。
+
+**发布前可选一步**：用户有时会先说"审核一下 xxx"，这是要用 Gemini CLI 做发布前的事实/逻辑审核（配置见我的记忆 `gemini_cli_setup.md`），把发现的问题汇总给用户确认、按需修正原文之后，再进入下面的正式发文流程。
+
+正式发文步骤：
 
 1. **读源文件**，判断内容属于哪个板块（不确定就问用户，不要瞎猜）。
 2. **判断新建文章的日期**：没有明确关联的历史事件日期时，用当天日期。
