@@ -9,6 +9,11 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign'
+    summary: The United States and Israel attacked Iran on Feb. 28, starting a monthslong war that spread to neighboring countries and rocked global mark…
+    link: https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html
+    source: NYT > World News
+    time: 08-10 05:34
   - title: Where does Iran stand on Saudi-Pakistan-Turkiye pact?
     summary: Iran not immediately threatened by pact, analysts say, with officials focusing on aspect of diminishing US role.
     link: https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss
