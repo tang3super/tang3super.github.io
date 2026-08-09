@@ -1,0 +1,54 @@
+---
+layout: default
+---
+<div class="page-head">
+  <a class="back-link" href="{{ '/macro-trade/' | relative_url }}">← 返回宏观交易列表</a>
+  <h1>{{ page.title }}</h1>
+  <p class="desc">最近刷新 {{ page.last_updated }} · {{ page.refresh_note }}</p>
+  <p class="desc">{{ page.week_label }}</p>
+</div>
+
+<div class="nd-page">
+<style>
+  .nd-page { padding: 0 32px 20px; }
+  .nd-section { margin-bottom: 32px; }
+  .nd-head { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 1px solid var(--border); padding-bottom: 6px; margin-bottom: 12px; }
+  .nd-head h2 { font-family: var(--font-sans); font-size: 15px; font-weight: 600; color: var(--accent); margin: 0; }
+  .nd-count { font-family: var(--font-mono); font-size: 11px; color: var(--muted); }
+  .nd-item { padding: 10px 0; border-top: 1px solid var(--border); }
+  .nd-section .nd-item:first-child { border-top: none; }
+  .nd-time { font-family: var(--font-mono); font-size: 10.5px; color: var(--muted); margin-bottom: 4px; }
+  .nd-title { display: block; font-family: var(--font-sans); font-size: 13.5px; font-weight: 600; color: var(--ink); margin-bottom: 3px; }
+  .nd-title:hover { color: var(--accent); }
+  .nd-summary { font-family: var(--font-mono); font-size: 12px; color: var(--ink); line-height: 1.7; }
+  .nd-original { font-family: var(--font-mono); font-size: 10.5px; color: var(--muted); margin-top: 3px; }
+  .nd-empty { font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
+</style>
+
+{% assign has_content = false %}
+{% for topic in page.topics %}
+  {% if topic.items.size > 0 %}{% assign has_content = true %}{% endif %}
+{% endfor %}
+
+{% if has_content %}
+  {% for topic in page.topics %}
+    {% if topic.items.size > 0 %}
+    <div class="nd-section">
+      <div class="nd-head"><h2>{{ topic.name }}</h2><span class="nd-count">{{ topic.items.size }} 条</span></div>
+      {% for it in topic.items %}
+      <div class="nd-item">
+        <div class="nd-time">{{ it.time }} · {{ it.source }}</div>
+        <a class="nd-title" href="{{ it.link }}" target="_blank" rel="noopener">{{ it.title_zh | default: it.title }}</a>
+        <div class="nd-summary">{{ it.summary_zh | default: it.summary }}</div>
+        {% if it.title_zh %}<div class="nd-original">原文：{{ it.title }}</div>{% endif %}
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+  {% endfor %}
+{% else %}
+  <p class="nd-empty">本周暂无命中新闻。</p>
+{% endif %}
+</div>
+
+<p class="disclaimer">{{ page.disclaimer | default: "仅供学习交流，不构成投资建议" }}</p>
