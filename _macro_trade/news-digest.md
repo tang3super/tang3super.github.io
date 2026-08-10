@@ -9,6 +9,20 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'War on Iran: Phase II: Day 30'
+    summary: Donald Trump says the US is only ‘semi-negotiating’ with Iran.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-10 22:07
+    title_zh: 伊朗战争：第二阶段：第30天
+    summary_zh: 唐纳德·特朗普表示，美国只是与伊朗进行“半谈判”。
+  - title: Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran
+    summary: Iran gained leverage in Hormuz, but its neighbours are reshaping regional security to limit what Tehran can do with it.
+    link: https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-10 22:00
+    title_zh: 伊朗改变了霍尔木兹的规则。海湾地区正在改变伊朗的规则
+    summary_zh: 伊朗在霍尔木兹获得了影响力，但其邻国正在重塑地区安全，以限制德黑兰对其所能做的事情。
   - title: Wall St opens flat as markets monitor Hormuz situation
     summary: ''
     link: https://www.investing.com/news/stock-market-news/wall-st-open-flat-as-markets-monitor-hormuz-situation-4849511
