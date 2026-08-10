@@ -9,6 +9,13 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: What’s behind Trump’s shift to economic pressure on Iran? Will it work?
+    summary: Months into the war, Trump is returning to squeezing Iran's economy rather than military offensive for now.
+    link: https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-10 19:11
+    title_zh: 特朗普转向对伊朗施加经济压力的背后是什么？它会起作用吗？
+    summary_zh: 战争爆发几个月后，特朗普暂时重返挤压伊朗经济，而不是军事进攻。
   - title: Who is Mohsen Rezaei, and how significant is his appointment?
     summary: Former IRGC commander Rezaei will be taking over as secretary of Iran's top security body amid Hormuz talks.
     link: https://www.aljazeera.com/news/2026/8/10/who-is-mohsen-rezaei-and-how-significant-is-his-appointment?traffic_source=rss
