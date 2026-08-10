@@ -9,6 +9,13 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands
+    summary: A spokesman for the Iranian Foreign Ministry said that talks with Oman on shipping routes in the Strait of Hormuz were “separate” from discu…
+    link: https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html
+    source: NYT > World News
+    time: 08-10 19:34
+    title_zh: 伊朗坚称霍尔木兹海峡将继续关闭，直到特朗普同意要求
+    summary_zh: 伊朗外交部发言人表示，与阿曼就霍尔木兹海峡航线进行的谈判与讨论“分开”。
   - title: What’s behind Trump’s shift to economic pressure on Iran? Will it work?
     summary: Months into the war, Trump is returning to squeezing Iran's economy rather than military offensive for now.
     link: https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss
@@ -126,6 +133,13 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: Student loan borrowers face steeper 'marriage penalty' under new repayment plan
+    summary: Recent changes to the federal student loan system could impact married couples. Here's what borrowers should consider.
+    link: https://www.cnbc.com/2026/08/10/student-loan-marriage-penalty-rap.html
+    source: US Top News and Analysis
+    time: 08-10 20:15
+    title_zh: 根据新的还款计划，学生贷款借款人面临更严厉的“婚姻惩罚”
+    summary_zh: 联邦学生贷款制度最近的变化可能会影响已婚夫妇。以下是借款人应该考虑的问题。
   - title: UEFA, AFC, CONCACAF hit out at Infantino over World Cup privatisation plan
     summary: Three confederations release letter criticising FIFA's president over his proposal to sell off stakes in the World Cup.
     link: https://www.aljazeera.com/sports/2026/8/10/uefa-afc-concacaf-hit-out-at-infantino-over-world-cup-privatisation-plan?traffic_source=rss
