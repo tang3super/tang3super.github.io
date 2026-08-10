@@ -9,6 +9,12 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Energy inflation outlook: gasoline, CPI, and the Strait of Hormuz'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/energy-inflation-outlook-gasoline-cpi-and-the-strait-of-hormuz-93CH-4849823
+    source: Stock Market News
+    time: 08-10 23:20
+    title_zh: 能源通胀前景：汽油、CPI和霍尔木兹海峡
   - title: 'War on Iran: Phase II: Day 30'
     summary: Donald Trump says the US is only ‘semi-negotiating’ with Iran.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss
@@ -159,6 +165,12 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: 'Energy inflation outlook: gasoline, CPI, and the Strait of Hormuz'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/energy-inflation-outlook-gasoline-cpi-and-the-strait-of-hormuz-93CH-4849823
+    source: Stock Market News
+    time: 08-10 23:20
+    title_zh: 能源通胀前景：汽油、CPI和霍尔木兹海峡
   - title: How CPI and PPI inflation reports could move stocks this week - what to watch
     summary: ''
     link: https://www.investing.com/news/stock-market-news/how-cpi-and-ppi-inflation-reports-could-move-stocks-this-week--what-to-watch-93CH-4849531
