@@ -9,6 +9,13 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran’s president says Khamenei is in ‘perfect health’
+    summary: Iran’s President Masoud Pezeshkian says Supreme Leader Ayatollah Mojtaba Khamenei had a message of “unity and cohesion”
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-11 01:05
+    title_zh: 伊朗总统称哈梅内伊“健康状况良好”
+    summary_zh: 伊朗总统马苏德·佩泽什基安说，最高领袖哈梅内伊传达了“团结和凝聚力”的信息。
   - title: Oil prices, stocks surge as Hormuz closure drags on
     summary: US petrol prices dropped nine cents last week but could again surge if the strait closure continues, analysts warn.
     link: https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss
@@ -172,6 +179,13 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: Wednesday’s crucial CPI report will show tamer inflation, according to prediction markets
+    summary: Monday's odds on prediction market platform Kalshi show tamer inflation and little chance of exceeding economists' consensus for July.
+    link: https://www.cnbc.com/2026/08/10/crucial-cpi-report-will-show-tame-inflation-prediction-markets-show.html
+    source: US Top News and Analysis
+    time: 08-11 00:42
+    title_zh: 根据市场预测，周三关键的CPI报告将显示通胀较为温和
+    summary_zh: 周一预测市场平台Kalshi的赔率显示，通胀较为温和，7月份超出经济学家共识的可能性很小。
   - title: 'Energy inflation outlook: gasoline, CPI, and the Strait of Hormuz'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/energy-inflation-outlook-gasoline-cpi-and-the-strait-of-hormuz-93CH-4849823
@@ -212,6 +226,18 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: Nvidia and Wall Street giants plan $500B AI funding deal, FT reports
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-and-wall-street-giants-plan-500b-ai-funding-deal-ft-reports-4849933
+    source: Stock Market News
+    time: 08-11 00:49
+    title_zh: 据英国《金融时报》报道，英伟达和华尔街巨头计划5000亿美元的人工智能融资交易
+  - title: Wall Street giants to partner with Nvidia on $500 billion AI financing deal, FT reports
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/wall-street-giants-partner-with-nvidia-on-500-billion-ai-financing-deal-ft-reports-4849929
+    source: Stock Market News
+    time: 08-11 00:48
+    title_zh: 据英国《金融时报》报道，华尔街巨头将与英伟达合作达成5000亿美元的人工智能融资协议
   - title: World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand
     summary: TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semicond…
     link: https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html
