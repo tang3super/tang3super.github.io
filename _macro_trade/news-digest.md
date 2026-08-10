@@ -1,14 +1,21 @@
 ---
 layout: news-digest
 title: 新闻监控
-date: '2026-08-10'
+date: '2026-08-11'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: '2026-08-10'
+last_updated: '2026-08-11'
 refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Oil prices, stocks surge as Hormuz closure drags on
+    summary: US petrol prices dropped nine cents last week but could again surge if the strait closure continues, analysts warn.
+    link: https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-10 23:45
+    title_zh: 霍尔木兹关闭拖延，油价、库存飙升
+    summary_zh: 分析师警告称，美国汽油价格上周下跌9美分，但如果海峡继续关闭，可能会再次飙升。
   - title: 'Energy inflation outlook: gasoline, CPI, and the Strait of Hormuz'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/energy-inflation-outlook-gasoline-cpi-and-the-strait-of-hormuz-93CH-4849823
