@@ -9,6 +9,18 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Wall St opens flat as markets monitor Hormuz situation
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/wall-st-open-flat-as-markets-monitor-hormuz-situation-4849511
+    source: Stock Market News
+    time: 08-10 21:48
+    title_zh: 市场关注霍尔木兹局势，华尔街开盘持平
+  - title: TSX opens lower amid Iran war uncertainty, looming U.S. inflation data
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/tsx-futures-subdued-amid-iran-war-uncertainty-looming-us-inflation-data-4849048
+    source: Stock Market News
+    time: 08-10 21:48
+    title_zh: 伊朗战争不确定性和美国通胀数据迫在眉睫，多伦多证券交易所开盘走低
   - title: Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands
     summary: A spokesman for the Iranian Foreign Ministry said that talks with Oman on shipping routes in the Strait of Hormuz were “separate” from discu…
     link: https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html
@@ -133,6 +145,12 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: How CPI and PPI inflation reports could move stocks this week - what to watch
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/how-cpi-and-ppi-inflation-reports-could-move-stocks-this-week--what-to-watch-93CH-4849531
+    source: Stock Market News
+    time: 08-10 21:40
+    title_zh: CPI和PPI通胀报告如何影响本周股市-值得关注
   - title: Student loan borrowers face steeper 'marriage penalty' under new repayment plan
     summary: Recent changes to the federal student loan system could impact married couples. Here's what borrowers should consider.
     link: https://www.cnbc.com/2026/08/10/student-loan-marriage-penalty-rap.html
