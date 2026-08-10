@@ -9,6 +9,13 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall
+    summary: The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than fiv…
+    link: https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html
+    source: US Top News and Analysis
+    time: 08-10 12:24
+    title_zh: 美国重申对霍尔木兹封锁的控制，因谈判陷入僵局而拒绝55艘船只
+    summary_zh: 不断升级的统计凸显出双方距离解决这场已窒息霍尔木兹海峡五年多的危机还有多远..
   - title: Trump signals shift to economic pressure on Iran over new military strikes
     summary: US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers.
     link: https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss
