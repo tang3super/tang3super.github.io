@@ -9,6 +9,24 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'FTSE 100 today: Stocks slip as Mideast tensions, Iran blockade weigh'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-mideast-tensions-iran-blockade-weigh-4847960
+    source: Stock Market News
+    time: 08-10 15:28
+    title_zh: 今日富时100指数：中东紧张局势、伊朗封锁加剧，股市下跌
+  - title: European shares drift as traders weigh Hormuz conditions and upcoming U.S. data
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/european-shares-drift-as-traders-weigh-hormuz-conditions-and-upcoming-us-data-4847846
+    source: Stock Market News
+    time: 08-10 15:20
+    title_zh: 由于交易员权衡霍尔木兹条件和即将到来的美国数据，欧洲股市下跌
+  - title: Bitcoin holds above $65k with U.S. inflation, Iran risks in focus
+    summary: ''
+    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-65k-with-us-inflation-iran-risks-in-focus-4847903
+    source: Cryptocurrency News
+    time: 08-10 14:46
+    title_zh: 随着美国通胀，比特币持有6.5万美元以上，伊朗风险成为焦点
   - title: U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall
     summary: The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than fiv…
     link: https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html
