@@ -9,6 +9,13 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Who is Mohsen Rezaei, and how significant is his appointment?
+    summary: Former IRGC commander Rezaei will be taking over as secretary of Iran's top security body amid Hormuz talks.
+    link: https://www.aljazeera.com/news/2026/8/10/who-is-mohsen-rezaei-and-how-significant-is-his-appointment?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-10 18:11
+    title_zh: Mohsen Rezaei是谁？他的任命有多重要？
+    summary_zh: 前伊斯兰革命卫队指挥官雷扎伊将在霍尔木兹会谈期间接任伊朗最高安全机构秘书。
   - title: Payrolls miss cuts Fed hike odds as Asia rallies and oil firms on Hormuz stalemate
     summary: ''
     link: https://www.investing.com/news/stock-market-news/payrolls-miss-cuts-fed-hike-odds-as-asia-rallies-and-oil-firms-on-hormuz-stalemate-93CH-4848211
@@ -112,6 +119,13 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: UEFA, AFC, CONCACAF hit out at Infantino over World Cup privatisation plan
+    summary: Three confederations release letter criticising FIFA's president over his proposal to sell off stakes in the World Cup.
+    link: https://www.aljazeera.com/sports/2026/8/10/uefa-afc-concacaf-hit-out-at-infantino-over-world-cup-privatisation-plan?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-10 18:15
+    title_zh: 欧足联、亚足联、北大西洋和加勒比海足联就世界杯私有化计划猛烈抨击因凡蒂诺
+    summary_zh: 三个联合会发布信，批评国际足联主席出售世界杯股份的提议。
   - title: TD Cowen sees 25% chance Trump will succeed removing Fed’s Cook
     summary: ''
     link: https://www.investing.com/news/stock-market-news/td-cowen-sees-25-chance-trump-will-succeed-removing-feds-cook-93CH-4848212
@@ -126,6 +140,13 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand
+    summary: TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semicond…
+    link: https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html
+    source: US Top News and Analysis
+    time: 08-10 18:29
+    title_zh: 在人工智能需求旺盛的背景下，全球最大芯片制造商台积电销售额激增45%
+    summary_zh: 台积电为英伟达和谷歌等大型科技公司客户生产芯片，因此该公司的财务数据受到密切关注，被视为人工智能半导体的标志.
   - title: Sony, TSMC plan $6.3 billion JV to make  image sensors in Japan, Nikkei reports
     summary: ''
     link: https://www.investing.com/news/stock-market-news/sony-tsmc-plan-63-billion-jv-to-make--image-sensors-in-japan-nikkei-reports-4847810
