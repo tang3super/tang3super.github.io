@@ -9,6 +9,13 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran hierarchy consolidation as IRGC veteran tapped for key security role
+    summary: The office of the supreme leader has named a new security chief and established war commanders in influential roles.
+    link: https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-11 02:34
+    title_zh: 伊朗伊斯兰革命卫队资深人士被任命担任关键安全角色，伊朗等级结构整合
+    summary_zh: 最高领导人办公室任命了一位新的安全负责人，并任命了有影响力的战争指挥官。
   - title: Iran’s president says Khamenei is in ‘perfect health’
     summary: Iran’s President Masoud Pezeshkian says Supreme Leader Ayatollah Mojtaba Khamenei had a message of “unity and cohesion”
     link: https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss
@@ -226,6 +233,13 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push
+    summary: The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.
+    link: https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html
+    source: US Top News and Analysis
+    time: 08-11 02:58
+    title_zh: Nvidia与华尔街资产管理公司合作推动5000亿美元的人工智能基础设施建设
+    summary_zh: 该资本计划凸显了私人资本在为人工智能繁荣的成本融资方面日益重要的作用。
   - title: Nvidia and Wall Street giants plan $500B AI funding deal, FT reports
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-and-wall-street-giants-plan-500b-ai-funding-deal-ft-reports-4849933
