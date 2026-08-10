@@ -9,6 +9,19 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Payrolls miss cuts Fed hike odds as Asia rallies and oil firms on Hormuz stalemate
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/payrolls-miss-cuts-fed-hike-odds-as-asia-rallies-and-oil-firms-on-hormuz-stalemate-93CH-4848211
+    source: Stock Market News
+    time: 08-10 17:32
+    title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
+  - title: Southern Iran Bears Brunt of U.S. Bombing
+    summary: While fighting has abated in much of Iran, near-constant U.S. airstrikes in Qeshm island and other southern spots have upended lives and liv…
+    link: https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html
+    source: NYT > World News
+    time: 08-10 17:02
+    title_zh: 伊朗南部遭受美国轰炸
+    summary_zh: 虽然伊朗大部分地区的战斗已经减弱，但美国对格什姆岛和其他南部地区几乎持续不断的空袭已经颠覆了人们的生活和生活。
   - title: 'FTSE 100 today: Stocks slip as Mideast tensions, Iran blockade weigh'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-mideast-tensions-iran-blockade-weigh-4847960
@@ -97,6 +110,20 @@ topics:
     link: https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html
     source: NYT > World News
     time: 08-10 02:18
+- name: 货币政策
+  items:
+  - title: TD Cowen sees 25% chance Trump will succeed removing Fed’s Cook
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/td-cowen-sees-25-chance-trump-will-succeed-removing-feds-cook-93CH-4848212
+    source: Stock Market News
+    time: 08-10 17:34
+    title_zh: TD Cowen认为特朗普成功罢免美联储库克的可能性为25%
+  - title: Payrolls miss cuts Fed hike odds as Asia rallies and oil firms on Hormuz stalemate
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/payrolls-miss-cuts-fed-hike-odds-as-asia-rallies-and-oil-firms-on-hormuz-stalemate-93CH-4848211
+    source: Stock Market News
+    time: 08-10 17:32
+    title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
   - title: Sony, TSMC plan $6.3 billion JV to make  image sensors in Japan, Nikkei reports
