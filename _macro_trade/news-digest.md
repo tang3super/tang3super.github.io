@@ -9,6 +9,20 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump signals shift to economic pressure on Iran over new military strikes
+    summary: US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers.
+    link: https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-10 11:48
+    title_zh: 特朗普表示，就新的军事打击向伊朗施加经济压力
+    summary_zh: 随着油价稳定，美国依靠制裁和海军封锁，缓解了美国消费者的经济压力。
+  - title: Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz
+    summary: Brent crude prices rise as Tehran says critical waterway will not reopen without major US concessions.
+    link: https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-10 11:24
+    title_zh: 伊朗要求影响霍尔木兹海峡前景，油价攀升
+    summary_zh: 由于德黑兰表示，如果美国没有重大让步，关键水道将不会重新开放，布伦特原油价格上涨。
   - title: Houthis launch fresh ballistic missile and drone attacks on al-Makha port
     summary: Iran-backed Houthis have resumed attacks on Yemen’s al-Makha port in the Red Sea.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss
@@ -60,6 +74,18 @@ topics:
     time: 08-10 02:18
 - name: AI基建
   items:
+  - title: Sony, TSMC plan $6.3 billion JV to make  image sensors in Japan, Nikkei reports
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/sony-tsmc-plan-63-billion-jv-to-make--image-sensors-in-japan-nikkei-reports-4847810
+    source: Stock Market News
+    time: 08-10 11:55
+    title_zh: 据《日经新闻》报道，索尼和台积电计划斥资63亿美元在日本生产图像传感器
+  - title: Sony, TSMC to spend $6.3 billion to jointly make image sensors, Nikkei says
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/sony-tsmc-to-spend-63-billion-to-jointly-make-image-sensors-nikkei-says-4847807
+    source: Stock Market News
+    time: 08-10 11:24
+    title_zh: 日经称索尼、台积电将斥资63亿美元联合制造图像传感器
   - title: 'SK Hynix bear flag 80% done, tests Fibonacci support: Live levels'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/sk-hynix-bear-flag-80-done-tests-fibonacci-support-live-levels-93CH-4847791
