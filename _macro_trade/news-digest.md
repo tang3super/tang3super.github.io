@@ -9,6 +9,13 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump to demand compensation for Tehran’s ‘conflicts’
+    summary: President Donald Trump says he’ll demand compensation from Iran for people killed or wounded in the US war on Iran.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-11 04:55
+    title_zh: 特朗普要求对德黑兰的“冲突”进行赔偿
+    summary_zh: 唐纳德·特朗普总统表示，他将要求伊朗赔偿在美国对伊朗战争中死伤的人员。
   - title: Iran hierarchy consolidation as IRGC veteran tapped for key security role
     summary: The office of the supreme leader has named a new security chief and established war commanders in influential roles.
     link: https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss
@@ -186,6 +193,13 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: Trump says he spoke recently to Fed Chairman Warsh, denies regular calls
+    summary: The president said he had recently been in touch with the Fed chairman, but denied regular contact amid concerns about central bank independ…
+    link: https://www.cnbc.com/2026/08/10/trump-spoke-to-fed-chair-kevin-warsh-denies-regular-calls.html
+    source: US Top News and Analysis
+    time: 08-11 04:46
+    title_zh: 特朗普表示，他最近与美联储主席沃什进行了交谈，否认定期通话
+    summary_zh: 总统表示，他最近与美联储主席保持了联系，但由于担心央行独立性，他拒绝定期联系..
   - title: Wednesday’s crucial CPI report will show tamer inflation, according to prediction markets
     summary: Monday's odds on prediction market platform Kalshi show tamer inflation and little chance of exceeding economists' consensus for July.
     link: https://www.cnbc.com/2026/08/10/crucial-cpi-report-will-show-tame-inflation-prediction-markets-show.html
