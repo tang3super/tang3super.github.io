@@ -425,6 +425,19 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: Nvidia building 1-trillion-parameter Nemotron 4 to rival open AI models, The Information reports
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-is-developing-nemotron-4-opensource-models-the-information-reports-4852095
+    source: Stock Market News
+    time: 08-12 00:54
+    title_zh: 据《信息报》报道，Nvidia正在打造1万亿参数的Nemotron 4，与开放人工智能模型相媲美
+  - title: 'Cramer: Intel may have something up its sleeve; Nvidia''s financing push is ''monumentally positive'''
+    summary: The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
+    link: https://www.cnbc.com/2026/08/11/cramer-intel-may-have-something-up-its-sleeve-nvidias-financing-push-is-positive.html
+    source: US Top News and Analysis
+    time: 08-12 00:21
+    title_zh: 克莱默：英特尔可能有一些锦囊妙计;英伟达的融资推动是“极其积极的”
+    summary_zh: 投资俱乐部每个工作日上午10：20举行“晨会”。
   - title: Who wins most in NVIDIA’s $500 billion private capital deal?
     summary: ''
     link: https://www.investing.com/news/stock-market-news/who-wins-most-in-nvidias-500-billion-private-capital-deal-4851700
