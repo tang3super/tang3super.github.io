@@ -63,6 +63,13 @@ topics:
     source: Stock Market News
     time: 08-11 18:53
     title_zh: 霍尔木兹僵局和能源飙升考验人工智能反弹，欧洲股市下跌
+  - title: 'Hormuz deadlock: Where oil prices could head next as prospects for an imminent deal fade'
+    summary: Oil traders keep clinging to hope that the Strait of Hormuz will reopen. That won't last forever.
+    link: https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html
+    source: US Top News and Analysis
+    time: 08-11 18:29
+    title_zh: 霍尔木兹僵局：随着即将达成协议的前景黯淡，油价下一步可能走向何方
+    summary_zh: 石油交易商仍然抱有霍尔木兹海峡重新开放的希望。这不会永远持续下去。
   - title: Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on
     summary: Kurdistan Regional Government says 70 percent of its trade has been cut by the regional conflict.
     link: https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss
@@ -118,13 +125,6 @@ topics:
     time: 08-11 14:05
     title_zh: 也门胡塞武装对马哈和马里布发动弹道导弹袭击
     summary_zh: 就在最新袭击发生的一天前，胡塞叛军袭击了al-Makha及其港口，造成7人死亡。
-  - title: 'Hormuz Deadlock: Where oil prices could head next as prospects for an imminent deal fade'
-    summary: Oil traders keep clinging to hope that the Strait of Hormuz will reopen. That won't last forever.
-    link: https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html
-    source: US Top News and Analysis
-    time: 08-11 13:01
-    title_zh: 霍尔木兹僵局：随着即将达成协议的前景黯淡，油价下一步可能走向何方
-    summary_zh: 石油交易商仍然抱有霍尔木兹海峡重新开放的希望。这不会永远持续下去。
   - title: Where did all the money go if the US is running out of weapons?
     summary: The war on Iran is exposing shortages in US weapons stockpiles, raising questions about years of defence spending.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss
@@ -351,6 +351,20 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: An inflation report Wednesday should be a big deal for the Fed. Here's what to expect
+    summary: The consumer price index is expected to show only a modest increase for July.
+    link: https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html
+    source: US Top News and Analysis
+    time: 08-12 02:34
+    title_zh: 周三发布的通胀报告对美联储来说应该是一件大事。这是值得期待的
+    summary_zh: 预计7月份消费者价格指数将小幅上涨。
+  - title: Trump says NYC pied-à-terre tax 'must be stopped,' eyes federal block
+    summary: Trump in a Truth Social post called Mamdani's pied-à-terre tax a "dangerous political 'experiment' in New York will destroy" the city and st…
+    link: https://www.cnbc.com/2026/08/11/trump-nyc-pied-a-terre-tax-mamdani-lawsuit.html
+    source: US Top News and Analysis
+    time: 08-12 02:10
+    title_zh: 特朗普称纽约州的临时住所税“必须停止”，联邦政府阻止
+    summary_zh: 特朗普在《真相社会》的一篇帖子中称，马姆达尼的住所税是纽约的“危险的政治‘实验’，将摧毁“这座城市和圣……”
   - title: Credit card debt climbs to $1.26 trillion as ‘K-shaped’ divide persists, New York Fed research finds
     summary: Credit card balances are ticking higher mid-way through the year, according to a new report on household debt from the Federal Reserve Bank…
     link: https://www.cnbc.com/2026/08/11/ny-fed-credit-card-debt-hits-1point26-trillion-k-shaped-divide-persists.html
