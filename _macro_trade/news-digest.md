@@ -9,6 +9,13 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: What is the US spending all their war money on?
+    summary: Why is the US Pentagon asking for more money for the war on Iran?
+    link: https://www.aljazeera.com/video/money-works/2026/8/11/what-is-the-us-spending-all-their-war-money-on?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-11 16:04
+    title_zh: 美国把所有战争资金都花在什么上了？
+    summary_zh: 为什么美国五角大楼要求更多的钱用于对伊朗的战争？
   - title: Bitcoin falls below $64k as Hormuz hopes fade, Strategy sells more coins
     summary: ''
     link: https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-64k-as-hormuz-hopes-fade-strategy-sells-more-coins-4850798
