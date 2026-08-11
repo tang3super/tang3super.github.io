@@ -9,6 +9,34 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: U.S. oil tops $84 as Hormuz deal hopes dwindle and deadlock deepens
+    summary: U.S. crude is back above $84 as last week's anticipation of a U.S.-Iran deal dissipates.
+    link: https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html
+    source: US Top News and Analysis
+    time: 08-11 17:12
+    title_zh: 霍尔木兹协议希望破灭、僵局加深，美国油价突破84美元
+    summary_zh: 由于上周对美国原油的预期，美国原油价格重回84美元上方伊朗协议失效。
+  - title: Treasury yields up as oil prices jump and investors await inflation data
+    summary: U.S. Treasury yields edged higher Tuesday as investors await July's inflation data print amid ongoing Iran tensions.
+    link: https://www.cnbc.com/2026/08/11/treasury-yields-up-as-oil-prices-jump-investors-await-inflation-data-.html
+    source: US Top News and Analysis
+    time: 08-11 16:39
+    title_zh: 油价飙升和投资者等待通胀数据，国债收益率上涨
+    summary_zh: 美国国债收益率周二小幅走高，因投资者在伊朗紧张局势持续的情况下等待7月份的通胀数据发布。
+  - title: Trump sends conflicting signals on Iran strategy
+    summary: Trump sends conflicting signals on Iran strategy
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-11 16:26
+    title_zh: 特朗普就伊朗战略发出相互矛盾的信号
+    summary_zh: 特朗普就伊朗战略发出相互矛盾的信号
+  - title: 'Iran threat prompted secret Trump flight from Turkiye: Reports'
+    summary: Trump reportedly used catering cart to switch planes, unbeknownst to the press pool and some White House staff.
+    link: https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-11 16:18
+    title_zh: 伊朗威胁促使特朗普秘密逃离土耳其：报道
+    summary_zh: 据报道，特朗普在媒体群和一些白宫工作人员不知情的情况下使用餐车转机。
   - title: What is the US spending all their war money on?
     summary: Why is the US Pentagon asking for more money for the war on Iran?
     link: https://www.aljazeera.com/video/money-works/2026/8/11/what-is-the-us-spending-all-their-war-money-on?traffic_source=rss
