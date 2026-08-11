@@ -9,6 +9,12 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: European stocks drift as Hormuz impasse and energy spike test AI rally
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/european-stocks-drift-as-hormuz-impasse-and-energy-spike-test-ai-rally-4850799
+    source: Stock Market News
+    time: 08-11 18:53
+    title_zh: 霍尔木兹僵局和能源飙升考验人工智能反弹，欧洲股市下跌
   - title: Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on
     summary: Kurdistan Regional Government says 70 percent of its trade has been cut by the regional conflict.
     link: https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss
@@ -364,6 +370,12 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: TSMC, Sony to invest $4.7 billion in joint venture for image sensors
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/tsmc-sony-to-invest-47-billion-in-joint-venture-for-image-sensors-4851145
+    source: Stock Market News
+    time: 08-11 18:54
+    title_zh: 台积电、索尼将投资47亿美元成立图像传感器合资企业
   - title: Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?
     summary: The first three-plus years of the AI buildout has been funded by record amounts of equity and debt issued by leading tech companies. Nvidia…
     link: https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html
