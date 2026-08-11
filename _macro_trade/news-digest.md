@@ -9,6 +9,13 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on
+    summary: Kurdistan Regional Government says 70 percent of its trade has been cut by the regional conflict.
+    link: https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-11 17:47
+    title_zh: 美伊战争拖延，伊拉克半自治库尔德地区遭受重创
+    summary_zh: 库尔德斯坦地区政府表示，地区冲突导致其70%的贸易减少。
   - title: U.S. oil tops $84 as Hormuz deal hopes dwindle and deadlock deepens
     summary: U.S. crude is back above $84 as last week's anticipation of a U.S.-Iran deal dissipates.
     link: https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html
@@ -357,6 +364,13 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?
+    summary: The first three-plus years of the AI buildout has been funded by record amounts of equity and debt issued by leading tech companies. Nvidia…
+    link: https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html
+    source: US Top News and Analysis
+    time: 08-11 18:00
+    title_zh: 华尔街刚刚认可了黄詹森的人工智能“大概念”。现在怎么办？
+    summary_zh: 人工智能建设的前三年多资金来自领先科技公司发行的创纪录数量的股权和债务。英伟达…
   - title: Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push
     summary: The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.
     link: https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html
