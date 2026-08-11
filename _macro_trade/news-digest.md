@@ -9,6 +9,25 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump used military plane to leave Turkey due to Iran threat- Washington Post
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/trump-used-military-plane-to-leave-turkey-due-to-iran-threat-washington-post-93CH-4850737
+    source: Stock Market News
+    time: 08-11 10:23
+    title_zh: 由于伊朗威胁，特朗普使用军用飞机离开土耳其-华盛顿邮报
+  - title: Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens
+    summary: The dueling positions Washington and Tehran staked out showed how far apart the two sides remain even as both talked of winding down regiona…
+    link: https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html
+    source: US Top News and Analysis
+    time: 08-11 09:52
+    title_zh: 特朗普声称完全控制霍尔木兹，随着僵局加深，要求伊朗支付赔偿
+    summary_zh: 华盛顿和德黑兰的决斗立场表明，尽管双方都在谈论缩小地区范围，但双方仍然存在多远……
+  - title: Wall St futures subdued as Hormuz uncertainty persists; CPI awaited
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/wall-st-futures-subdued-as-hormuz-uncertainty-persists-cpi-awaited-4850698
+    source: Stock Market News
+    time: 08-11 09:07
+    title_zh: 由于霍尔木兹不确定性持续存在，华尔街期货走低; CPI等待
   - title: 'Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation'
     summary: US President Donald Trump said he will seek compensation from Iran for casualties in the war.
     link: https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss
@@ -188,6 +207,8 @@ topics:
     link: https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html
     source: NYT > World News
     time: 08-10 05:34
+    title_zh: 伊朗战争时间轴：美国和以色列战役中的关键时刻和袭击
+    summary_zh: 美国和以色列于2月28日袭击了伊朗，引发了长达数月的战争，战争蔓延到邻国并震撼了全球……
   - title: Where does Iran stand on Saudi-Pakistan-Turkiye pact?
     summary: Iran not immediately threatened by pact, analysts say, with officials focusing on aspect of diminishing US role.
     link: https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss
@@ -200,6 +221,12 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: Wall St futures subdued as Hormuz uncertainty persists; CPI awaited
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/wall-st-futures-subdued-as-hormuz-uncertainty-persists-cpi-awaited-4850698
+    source: Stock Market News
+    time: 08-11 09:07
+    title_zh: 由于霍尔木兹不确定性持续存在，华尔街期货走低; CPI等待
   - title: Trump says he spoke recently to Fed Chairman Warsh, denies regular calls
     summary: The president said he had recently been in touch with the Fed chairman, but denied regular contact amid concerns about central bank independ…
     link: https://www.cnbc.com/2026/08/10/trump-spoke-to-fed-chair-kevin-warsh-denies-regular-calls.html
