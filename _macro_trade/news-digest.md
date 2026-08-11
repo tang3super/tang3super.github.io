@@ -2,14 +2,21 @@
 layout: news-digest
 permalink: /macro-trade/news-digest/
 title: 新闻监控
-date: '2026-08-11'
+date: '2026-08-12'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: '2026-08-11'
+last_updated: '2026-08-12'
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says
+    summary: The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait. The Iran-backed Houthis have not comme…
+    link: https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html
+    source: NYT > World News
+    time: 08-11 23:42
+    title_zh: 也门政府称胡塞武装袭击红海船只造成四人死亡
+    summary_zh: 也门政府说，这艘船正在向巴布曼达布海峡的一个港口运送食品。伊朗支持的胡塞武装没有...
   - title: 'War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says'
     summary: President Masoud Pezeshkian says Supreme Leader Mojtaba Khamenei is in ‘perfect health’.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/11/war-on-iran-mojtaba-khamenei-is-in-perfect-health-iran-says?traffic_source=rss
