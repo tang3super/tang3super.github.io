@@ -1,14 +1,28 @@
 ---
 layout: news-digest
+permalink: /macro-trade/news-digest/
 title: 新闻监控
 date: '2026-08-11'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
 last_updated: '2026-08-11'
-refresh_note: 每 15 分钟自动刷新
+refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'FTSE 100 today: Stocks rise as Pakistan flags Iran-U.S. deal, oil retreats'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-despite-iran-fears-soft-uk-retail-data-4850839
+    source: Stock Market News
+    time: 08-11 21:00
+    title_zh: 今日富时100指数：巴基斯坦宣布伊朗与美国达成协议，石油撤退，股市上涨
+  - title: 'Iran, US set new conditions during Hormuz talks: What does this mean?'
+    summary: Oil prices surge as talks stall over competing demands, hampering prospects for reopening crucial strait.
+    link: https://www.aljazeera.com/news/2026/8/11/iran-us-set-new-conditions-during-hormuz-talks-what-does-this-mean?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-11 20:27
+    title_zh: 伊朗、美国在霍尔木兹会谈期间设定新条件：这意味着什么？
+    summary_zh: 由于谈判因相互竞争的需求而陷入僵局，油价飙升，阻碍了重新开放关键海峡的前景。
   - title: European stocks drift as Hormuz impasse and energy spike test AI rally
     summary: ''
     link: https://www.investing.com/news/stock-market-news/european-stocks-drift-as-hormuz-impasse-and-energy-spike-test-ai-rally-4850799
@@ -370,6 +384,12 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: Who wins most in NVIDIA’s $500 billion private capital deal?
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/who-wins-most-in-nvidias-500-billion-private-capital-deal-4851700
+    source: Stock Market News
+    time: 08-11 21:00
+    title_zh: 在英伟达5000亿美元的私人资本交易中，谁获胜最多？
   - title: TSMC, Sony to invest $4.7 billion in joint venture for image sensors
     summary: ''
     link: https://www.investing.com/news/stock-market-news/tsmc-sony-to-invest-47-billion-in-joint-venture-for-image-sensors-4851145
