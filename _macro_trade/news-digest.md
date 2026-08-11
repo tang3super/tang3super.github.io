@@ -9,6 +9,20 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Where did all the money go if the US is running out of weapons?
+    summary: The war on Iran is exposing shortages in US weapons stockpiles, raising questions about years of defence spending.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-11 11:32
+    title_zh: 如果美国的武器用完了，所有的钱都去了哪里？
+    summary_zh: 对伊朗的战争暴露了美国武器储备的短缺，引发了对多年国防开支的质疑。
+  - title: Trump demands compensation from Iran as talks on Strait of Hormuz continue
+    summary: US president seeks payment for '50 years' of alleged damages after Iran conditions opening of Hormuz on war reparations.
+    link: https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-11 10:32
+    title_zh: 特朗普要求伊朗赔偿，因为霍尔木兹海峡的谈判仍在继续
+    summary_zh: 伊朗就战争赔偿问题对霍尔木兹开放提出条件后，美国总统寻求赔偿“50年”的所谓损失。
   - title: Trump used military plane to leave Turkey due to Iran threat- Washington Post
     summary: ''
     link: https://www.investing.com/news/stock-market-news/trump-used-military-plane-to-leave-turkey-due-to-iran-threat-washington-post-93CH-4850737
