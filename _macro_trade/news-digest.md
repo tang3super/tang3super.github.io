@@ -9,6 +9,19 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Bitcoin falls below $64k as Hormuz hopes fade, Strategy sells more coins
+    summary: ''
+    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-64k-as-hormuz-hopes-fade-strategy-sells-more-coins-4850798
+    source: Cryptocurrency News
+    time: 08-11 14:13
+    title_zh: 随着Hormuz希望破灭，比特币跌破6.4万美元，Strategy出售更多比特币
+  - title: Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib
+    summary: The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.
+    link: https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-11 14:05
+    title_zh: 也门胡塞武装对马哈和马里布发动弹道导弹袭击
+    summary_zh: 就在最新袭击发生的一天前，胡塞叛军袭击了al-Makha及其港口，造成7人死亡。
   - title: 'Hormuz Deadlock: Where oil prices could head next as prospects for an imminent deal fade'
     summary: Oil traders keep clinging to hope that the Strait of Hormuz will reopen. That won't last forever.
     link: https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html
