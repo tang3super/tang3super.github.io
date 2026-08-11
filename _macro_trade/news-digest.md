@@ -9,6 +9,13 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Hormuz Deadlock: Where oil prices could head next as prospects for an imminent deal fade'
+    summary: Oil traders keep clinging to hope that the Strait of Hormuz will reopen. That won't last forever.
+    link: https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html
+    source: US Top News and Analysis
+    time: 08-11 13:01
+    title_zh: 霍尔木兹僵局：随着即将达成协议的前景黯淡，油价下一步可能走向何方
+    summary_zh: 石油交易商仍然抱有霍尔木兹海峡重新开放的希望。这不会永远持续下去。
   - title: Where did all the money go if the US is running out of weapons?
     summary: The war on Iran is exposing shortages in US weapons stockpiles, raising questions about years of defence spending.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss
@@ -235,6 +242,13 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: U.S. judge ends graft case against Indian billionaire Gautam Adani
+    summary: A U.S. federal judge has approved the Department of Justice's decision to dismiss the criminal probe against Indian billionaire Gautam Adani…
+    link: https://www.cnbc.com/2026/08/11/us-judge-ends-graft-case-against-indian-billionaire-gautam-adani.html
+    source: US Top News and Analysis
+    time: 08-11 12:59
+    title_zh: 美国法官结束针对印度亿万富翁高塔姆·阿达尼的贪污案
+    summary_zh: 美国联邦法官批准了司法部驳回对印度亿万富翁高塔姆·阿达尼刑事调查的决定..
   - title: Wall St futures subdued as Hormuz uncertainty persists; CPI awaited
     summary: ''
     link: https://www.investing.com/news/stock-market-news/wall-st-futures-subdued-as-hormuz-uncertainty-persists-cpi-awaited-4850698
