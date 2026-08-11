@@ -10,6 +10,19 @@ refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: S&P 500, Nasdaq open higher as investors weigh report of fresh U.S.-Iran peace deal
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-investors-weigh-report-of-fresh-usiran-peace-deal-4851869
+    source: Stock Market News
+    time: 08-11 21:42
+    title_zh: 标准普尔500指数、纳斯达克开盘走高，投资者权衡美国新指数报告伊朗和平协议
+  - title: What’s behind Iran’s new military appointments and what do they indicate?
+    summary: Observers say the nominations empower the hardline old guard, prioritise loyalty over military innovation.
+    link: https://www.aljazeera.com/news/2026/8/11/whats-behind-irans-new-military-appointments-and-what-do-they-indicate?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-11 21:28
+    title_zh: 伊朗新的军事任命背后是什么？它们表明了什么？
+    summary_zh: 观察家表示，这些提名赋予了强硬派保守派权力，将忠诚置于军事创新之上。
   - title: 'FTSE 100 today: Stocks rise as Pakistan flags Iran-U.S. deal, oil retreats'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-despite-iran-fears-soft-uk-retail-data-4850839
