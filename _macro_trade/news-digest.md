@@ -365,6 +365,13 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: Trump administration ends Medicaid, CHIP funding for gender-affirming care for children
+    summary: Federal dollars in the two health insurance programs would not go toward gender-affirming care, but states could still cover the treatments.
+    link: https://www.cnbc.com/2026/08/11/trump-medicaid-chip-funding-gender-affirming-care-children.html
+    source: US Top News and Analysis
+    time: 08-12 05:36
+    title_zh: 特朗普政府终止医疗补助，CHIP为儿童性别肯定护理提供资金
+    summary_zh: 这两个健康保险计划中的联邦资金不会用于性别肯定护理，但各州仍然可以支付治疗费用。
   - title: An inflation report Wednesday should be a big deal for the Fed. Here's what to expect
     summary: The consumer price index is expected to show only a modest increase for July.
     link: https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html
@@ -453,6 +460,13 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China
+    summary: Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips…
+    link: https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html
+    source: US Top News and Analysis
+    time: 08-12 05:01
+    title_zh: 为什么黄詹森的5000亿美元人工智能融资计划面临来自中国的巨大风险
+    summary_zh: Nvidia首席执行官Jensen Huang正在将图形处理器作为长期抵押品，以获得5000亿美元的资金。问题是他的芯片会有多快.
   - title: Nvidia building 1-trillion-parameter Nemotron 4 to rival open AI models, The Information reports
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-is-developing-nemotron-4-opensource-models-the-information-reports-4852095
