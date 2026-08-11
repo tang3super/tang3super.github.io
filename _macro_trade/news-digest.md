@@ -10,6 +10,20 @@ refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Pakistan interior minister in Tehran amid talks to reopen Hormuz
+    summary: Pakistan’s interior minister Mohsin Naqvi has held talks with Iranian Foreign Minister Abbas Araghchi in Tehran.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-12 04:35
+    title_zh: 巴基斯坦内政部长在德黑兰就重新开放霍尔木兹进行谈判
+    summary_zh: 巴基斯坦内政部长莫赫辛·纳克维在德黑兰与伊朗外交部长阿巴斯·阿拉奇举行会谈。
+  - title: US military fires on cargo vessel it said sought to break Iran blockade
+    summary: CENTCOM says helicopter fired at engine room of Panama-flagged Vela Nova as US-Iran diplomacy remains stalled.
+    link: https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-12 03:58
+    title_zh: 美国军方向试图打破伊朗封锁的货船开火
+    summary_zh: 中央司令部说，由于美伊外交仍然停滞不前，直升机向悬挂巴拿马国旗的维拉诺瓦号的发动机室开火。
   - title: Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says
     summary: The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait. The Iran-backed Houthis have not comme…
     link: https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html
