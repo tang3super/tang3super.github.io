@@ -10,6 +10,20 @@ refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says'
+    summary: President Masoud Pezeshkian says Supreme Leader Mojtaba Khamenei is in ‘perfect health’.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/11/war-on-iran-mojtaba-khamenei-is-in-perfect-health-iran-says?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-11 22:30
+    title_zh: 伊朗战争：伊朗称莫伊塔巴·哈梅内伊“健康状况良好”
+    summary_zh: 总统马苏德·佩泽什基安表示，最高领袖莫伊塔巴·哈梅内伊“健康状况良好”。
+  - title: '‘Only job I know’: Philippine sailors return to sea despite wartime risks'
+    summary: Despite risks in the Strait of Hormuz and Black Sea, seafarers from the Philippines are still competing for jobs.
+    link: https://www.aljazeera.com/features/2026/8/11/only-job-i-know-philippine-sailors-return-to-sea-despite-wartime-risks?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-11 22:06
+    title_zh: “我知道的唯一工作”：菲律宾水手不顾战时风险重返大海
+    summary_zh: 尽管霍尔木兹海峡和黑海存在风险，但来自菲律宾的海员仍在争夺工作。
   - title: S&P 500, Nasdaq open higher as investors weigh report of fresh U.S.-Iran peace deal
     summary: ''
     link: https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-investors-weigh-report-of-fresh-usiran-peace-deal-4851869
@@ -330,6 +344,13 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: Credit card debt climbs to $1.26 trillion as ‘K-shaped’ divide persists, New York Fed research finds
+    summary: Credit card balances are ticking higher mid-way through the year, according to a new report on household debt from the Federal Reserve Bank…
+    link: https://www.cnbc.com/2026/08/11/ny-fed-credit-card-debt-hits-1point26-trillion-k-shaped-divide-persists.html
+    source: US Top News and Analysis
+    time: 08-11 23:08
+    title_zh: 纽约联邦储备银行研究发现，由于“K型”鸿沟持续存在，信用卡债务攀升至1.26万亿美元
+    summary_zh: 根据联邦储备银行一份关于家庭债务的新报告，信用卡余额今年中期正在走高..
   - title: U.S. judge ends graft case against Indian billionaire Gautam Adani
     summary: A U.S. federal judge has approved the Department of Justice's decision to dismiss the criminal probe against Indian billionaire Gautam Adani…
     link: https://www.cnbc.com/2026/08/11/us-judge-ends-graft-case-against-indian-billionaire-gautam-adani.html
