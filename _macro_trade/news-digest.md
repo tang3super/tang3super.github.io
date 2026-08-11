@@ -9,6 +9,13 @@ refresh_note: 每 15 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation'
+    summary: US President Donald Trump said he will seek compensation from Iran for casualties in the war.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-11 08:00
+    title_zh: 伊朗战争直播：特朗普声称霍尔木兹海峡开放，寻求伊朗赔偿
+    summary_zh: 美国总统唐纳德·特朗普表示，他将向伊朗寻求战争中的伤亡赔偿。
   - title: Trump to demand compensation for Tehran’s ‘conflicts’
     summary: President Donald Trump says he’ll demand compensation from Iran for people killed or wounded in the US war on Iran.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss
@@ -270,7 +277,7 @@ topics:
     summary: TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semicond…
     link: https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html
     source: US Top News and Analysis
-    time: 08-10 18:29
+    time: 08-10 21:39
     title_zh: 在人工智能需求旺盛的背景下，全球最大芯片制造商台积电销售额激增45%
     summary_zh: 台积电为英伟达和谷歌等大型科技公司客户生产芯片，因此该公司的财务数据受到密切关注，被视为人工智能半导体的标志.
   - title: Sony, TSMC plan $6.3 billion JV to make  image sensors in Japan, Nikkei reports
