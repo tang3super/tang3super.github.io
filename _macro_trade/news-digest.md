@@ -5,11 +5,32 @@ title: 新闻监控
 date: '2026-08-12'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-12 22:45
+last_updated: 2026-08-12 23:41
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran remains defiant as it vows to fight US until demands met
+    summary: IRGC advisers say Iran has replaced more missiles and drones than it used, and cite falling US munition stocks.
+    link: https://www.aljazeera.com/news/2026/8/12/iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-12 23:29
+    title_zh: 伊朗仍然目中无人，誓言与美国作战，直到要求得到满足
+    summary_zh: 伊斯兰革命卫队顾问表示，伊朗更换的导弹和无人机比使用的还要多，并列举了美国弹药库存下降的情况。
+  - title: As Strait of Hormuz transit drops, Trump again says US has ‘control’
+    summary: Just eight vessels crossed strait on Tuesday, down from 130 to 140 prior to the war as peace talks stall.
+    link: https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-12 23:07
+    title_zh: 随着霍尔木兹海峡过境下降，特朗普再次表示美国拥有“控制权”
+    summary_zh: 由于和平谈判陷入僵局，周二只有8艘船只穿越海峡，从战前的130艘减少到140艘。
+  - title: Iran is not anti-imperialist. It is a state calculating survival
+    summary: Regardless of its current hostile rhetoric, the Islamic Republic will likely reach a settlement with the US and Israel.
+    link: https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-12 22:23
+    title_zh: 伊朗并不反帝国主义。这是一个计算生存的国家
+    summary_zh: 无论目前的敌对言论如何，伊斯兰共和国都可能与美国和以色列达成和解。
   - title: 'Top Iranian commander visited Iraq to discuss disarmament plan: Source'
     summary: Esmail Qaani held meetings over Iraqi government's plan to disarm armed groups and bring weapons under state control.
     link: https://www.aljazeera.com/news/2026/8/12/top-iranian-commander-visited-iraq-to-discuss-disarmament-plan-source?traffic_source=rss
