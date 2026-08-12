@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-12'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-12 17:38
+last_updated: 2026-08-12 18:41
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -565,6 +565,18 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: Four key things investors will watch in Nvidia’s earnings next week
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/four-key-things-investors-will-watch-in-nvidias-earnings-next-week-4854266
+    source: Stock Market News
+    time: 08-12 18:33
+    title_zh: 投资者将关注英伟达下周财报中的四个关键问题
+  - title: Nvidia introduces 800 VDC power system for AI data centers
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-introduces-800-vdc-power-system-for-ai-data-centers-93CH-4854242
+    source: Stock Market News
+    time: 08-12 18:27
+    title_zh: Nvidia为人工智能数据中心推出800 V直流电源系统
   - title: Samsung, SK Hynix shares rally as Temasek reportedly considers investment
     summary: ''
     link: https://www.investing.com/news/stock-market-news/samsung-sk-hynix-shares-rally-on-report-of-temasek-investment-4853637
