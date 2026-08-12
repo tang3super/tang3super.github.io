@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-12'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-12 20:12
+last_updated: 2026-08-12 21:45
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Top Iranian commander visited Iraq to discuss disarmament plan: Source'
+    summary: Esmail Qaani held meetings over Iraqi government's plan to disarm armed groups and bring weapons under state control.
+    link: https://www.aljazeera.com/news/2026/8/12/top-iranian-commander-visited-iraq-to-discuss-disarmament-plan-source?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-12 20:34
+    title_zh: 伊朗最高指挥官访问伊拉克讨论裁军计划：来源
+    summary_zh: 埃斯梅尔·卡亚尼就伊拉克政府解除武装组织武装并将武器置于国家控制之下的计划举行了会议。
   - title: 'Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?'
     summary: Iran says Hormuz stays closed until US meets its demands and changes its 'behaviour' as global energy prices rise.
     link: https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss
@@ -459,6 +466,13 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: Jim Cramer's top 10 things to watch in the stock market Wednesday
+    summary: The July CPI report matched expectations, and CoreWeave's earnings report shows booming demand for Nvidia chips.
+    link: https://www.cnbc.com/2026/08/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html
+    source: US Top News and Analysis
+    time: 08-12 20:50
+    title_zh: 吉姆·克莱默（Jim Cramer）周三股市最值得关注的10件事
+    summary_zh: 7月份CPI报告符合预期，CoreWeave的财报显示对Nvidia芯片的需求蓬勃发展。
   - title: AI’s costly buildout complicates the Fed’s inflation fight
     summary: Tech leaders say AI will drive down costs. But slow corporate adoption and the data center buildout create inflation pressures that complica…
     link: https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html
@@ -579,6 +593,13 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: Jim Cramer's top 10 things to watch in the stock market Wednesday
+    summary: The July CPI report matched expectations, and CoreWeave's earnings report shows booming demand for Nvidia chips.
+    link: https://www.cnbc.com/2026/08/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html
+    source: US Top News and Analysis
+    time: 08-12 20:50
+    title_zh: 吉姆·克莱默（Jim Cramer）周三股市最值得关注的10件事
+    summary_zh: 7月份CPI报告符合预期，CoreWeave的财报显示对Nvidia芯片的需求蓬勃发展。
   - title: Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs
     summary: With China way ahead in the market for open-weight models, Meta and Nvidia are both doing what they can to put the U.S. on the map.
     link: https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html
