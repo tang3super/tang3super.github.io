@@ -5,11 +5,38 @@ title: 新闻监控
 date: '2026-08-12'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-12 10:36
+last_updated: 2026-08-12 12:25
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Asian stocks rise as KOSPI surges; CPI, Hormuz risks temper tech rally
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-kospi-surges-cpi-hormuz-risks-temper-tech-rally-4853641
+    source: Stock Market News
+    time: 08-12 12:13
+    title_zh: KOSPI飙升，亚洲股市上涨; CPI、霍尔木兹风险抑制科技股涨势
+  - title: Oil prices rise as attacks dent hopes for Strait of Hormuz reopening
+    summary: Brent crude climbs as renewed violence dampens hopes for a return to stability in energy markets.
+    link: https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-12 11:41
+    title_zh: 袭击削弱了霍尔木兹海峡重新开放的希望，油价上涨
+    summary_zh: 由于新的暴力事件削弱了能源市场恢复稳定的希望，布伦特原油价格上涨。
+  - title: Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says
+    summary: Deaths on Egyptian-owned Tihamah mark first shipping deaths linked to Houthis since the US-Israel war on Iran began.
+    link: https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-12 11:09
+    title_zh: 也门政府称胡塞武装袭击巴布·曼德布船造成六人死亡
+    summary_zh: 埃及拥有的蒂哈马发生的死亡事件标志着自美以对伊朗战争开始以来首次与胡塞武装有关的航运死亡事件。
+  - title: Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran
+    summary: Iran's top security official says the Strait of Hormuz will not reopen unless the US meets its conditions.
+    link: https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-12 10:29
+    title_zh: 巴基斯坦纳克维访问德黑兰，伊朗坚持霍尔木兹条件
+    summary_zh: 伊朗最高安全官员表示，除非美国满足其条件，否则霍尔木兹海峡不会重新开放。
   - title: Trump boarded secret Turkey flight via catering truck due to Iran threat, reports say
     summary: ''
     link: https://www.investing.com/news/stock-market-news/trump-boarded-secret-turkey-flight-via-catering-truck-due-to-iran-threat-reports-say-4853579
@@ -391,6 +418,12 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: Asian stocks rise as KOSPI surges; CPI, Hormuz risks temper tech rally
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-kospi-surges-cpi-hormuz-risks-temper-tech-rally-4853641
+    source: Stock Market News
+    time: 08-12 12:13
+    title_zh: KOSPI飙升，亚洲股市上涨; CPI、霍尔木兹风险抑制科技股涨势
   - title: Wall St futures steady with CPI data, Hormuz risks in focus
     summary: ''
     link: https://www.investing.com/news/stock-market-news/wall-st-futures-steady-with-cpi-data-hormuz-risks-in-focus-4853566
@@ -492,6 +525,12 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: Samsung, SK Hynix shares rally as Temasek reportedly considers investment
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/samsung-sk-hynix-shares-rally-on-report-of-temasek-investment-4853637
+    source: Stock Market News
+    time: 08-12 11:56
+    title_zh: 据报道，淡马锡考虑投资，三星、SK Hynix股价上涨
   - title: Cramer says ask yourself these 3 questions to figure out what's really happening in the market
     summary: 'CNBC’s Jim Cramer said investors can quickly gauge the market by focusing on three things: bonds, oil and Nvidia.'
     link: https://www.cnbc.com/2026/08/11/cramer-questions-figure-out-market.html
