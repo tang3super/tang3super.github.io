@@ -2,14 +2,21 @@
 layout: news-digest
 permalink: /macro-trade/news-digest/
 title: 新闻监控
-date: '2026-08-12'
+date: '2026-08-13'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-12 23:41
+last_updated: 2026-08-13 00:35
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Is Russia’s economy cracking despite the Iran war windfall?
+    summary: A widening deficit and Ukrainian strikes are testing Russia's economy, even as war in the Middle East lifts oil revenue.
+    link: https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-12 23:36
+    title_zh: 尽管伊朗战争带来了意外之财，俄罗斯的经济是否正在崩溃？
+    summary_zh: 尽管中东战争增加了石油收入，但不断扩大的赤字和乌克兰的袭击正在考验俄罗斯的经济。
   - title: Iran remains defiant as it vows to fight US until demands met
     summary: IRGC advisers say Iran has replaced more missiles and drones than it used, and cite falling US munition stocks.
     link: https://www.aljazeera.com/news/2026/8/12/iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met?traffic_source=rss
