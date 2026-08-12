@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-13'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-13 05:59
+last_updated: 2026-08-13 06:48
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: US strikes in Yemen killed 153 civilians in 2025, says Pentagon review
+    summary: The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis.
+    link: https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-13 05:53
+    title_zh: 五角大楼审查称，2025年美国对也门的袭击造成153名平民死亡
+    summary_zh: 五角大楼的非机密审查为美国打击也门胡塞武装的行动对平民造成的伤害提供了新的线索。
   - title: Strait of Hormuz ship traffic near three-month low as U.S.-Iran deal in doubt
     summary: Traffic is about 90% lower than the daily average of 130 ships that transited Hormuz before the U.S. and Israel attacked Iran on Feb. 28.
     link: https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html
@@ -515,6 +522,13 @@ topics:
     time: 08-13 03:08
     title_zh: 美国海军特种中队拍摄了1905年西班牙上次日全食
     summary_zh: 三艘美国军舰被派往瓦伦西亚，用高清相机拍摄太阳日冕的照片，售价超过34美元..
+  - title: Here are five key takeaways from the July CPI inflation report
+    summary: Readings for July on the prices consumers pay for goods and services came in pretty much on target.
+    link: https://www.cnbc.com/2026/08/12/here-are-five-key-takeaways-from-the-july-cpi-inflation-report.html
+    source: US Top News and Analysis
+    time: 08-13 01:14
+    title_zh: 以下是7月份CPI通胀报告的五个关键要点
+    summary_zh: 7月份消费者为商品和服务支付的价格读数几乎符合目标。
   - title: Drought exposes Nazi-era warship wrecks beneath the Danube
     summary: Record-low water levels on the Danube near Prahovo, Serbia, have exposed the wrecks of dozens of Nazi-era vessels
     link: https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss
