@@ -10,6 +10,26 @@ refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Wall St futures steady with CPI data, Hormuz risks in focus
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/wall-st-futures-steady-with-cpi-data-hormuz-risks-in-focus-4853566
+    source: Stock Market News
+    time: 08-12 09:19
+    title_zh: CPI数据显示，华尔街期货稳定，霍尔木兹风险成为焦点
+  - title: 'Iran war live: US fires missiles at cargo ship violating Iran blockade'
+    summary: US forces disable a Panama-flagged cargo ship attempting to sail towards an Iranian port.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-12 08:00
+    title_zh: 伊朗战争直播：美国向违反伊朗封锁的货船发射导弹
+    summary_zh: 美军摧毁了一艘试图驶向伊朗港口的悬挂巴拿马国旗的货船。
+  - title: Cargo ship in flames after Houthi attack in Bab al-Mandeb strait
+    summary: Footage shows an Egyptian-owned cargo vessel in flames in the Bab al-Mandeb strait after a suspected Houthi attack.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-12 07:57
+    title_zh: 胡塞武装袭击巴布曼德海峡后货船起火
+    summary_zh: 视频显示，疑似胡塞武装袭击后，一艘埃及货船在曼德海峡起火。
   - title: Pakistan interior minister in Tehran amid talks to reopen Hormuz
     summary: Pakistan’s interior minister Mohsin Naqvi has held talks with Iranian Foreign Minister Abbas Araghchi in Tehran.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss
@@ -365,6 +385,12 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: Wall St futures steady with CPI data, Hormuz risks in focus
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/wall-st-futures-steady-with-cpi-data-hormuz-risks-in-focus-4853566
+    source: Stock Market News
+    time: 08-12 09:19
+    title_zh: CPI数据显示，华尔街期货稳定，霍尔木兹风险成为焦点
   - title: Trump administration ends Medicaid, CHIP funding for gender-affirming care for children
     summary: Federal dollars in the two health insurance programs would not go toward gender-affirming care, but states could still cover the treatments.
     link: https://www.cnbc.com/2026/08/11/trump-medicaid-chip-funding-gender-affirming-care-children.html
@@ -460,6 +486,13 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: Cramer says ask yourself these 3 questions to figure out what's really happening in the market
+    summary: 'CNBC’s Jim Cramer said investors can quickly gauge the market by focusing on three things: bonds, oil and Nvidia.'
+    link: https://www.cnbc.com/2026/08/11/cramer-questions-figure-out-market.html
+    source: US Top News and Analysis
+    time: 08-12 06:15
+    title_zh: 克莱默说，问自己这3个问题，弄清楚市场上到底发生了什么
+    summary_zh: CNBC的吉姆·克莱默（Jim Cramer）表示，投资者可以通过关注三件事来快速衡量市场：债券、石油和英伟达。
   - title: Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China
     summary: Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips…
     link: https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html
