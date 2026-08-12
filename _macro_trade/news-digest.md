@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-13'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-13 00:35
+last_updated: 2026-08-13 01:35
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Strait of Hormuz ship traffic near three-month low as U.S.-Iran deal in doubt
+    summary: Traffic is about 90% lower than the daily average of 130 ships that transited Hormuz before the U.S. and Israel attacked Iran on Feb. 28.
+    link: https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html
+    source: US Top News and Analysis
+    time: 08-13 00:33
+    title_zh: 霍尔木兹海峡船舶交通量接近三个月低点，美国伊朗协议存疑
+    summary_zh: 交通量比2月28日美国和以色列袭击伊朗之前经过霍尔木兹的130艘船只的日均交通量低约90%。
   - title: Is Russia’s economy cracking despite the Iran war windfall?
     summary: A widening deficit and Ukrainian strikes are testing Russia's economy, even as war in the Middle East lifts oil revenue.
     link: https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss
@@ -494,6 +501,13 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: Drought exposes Nazi-era warship wrecks beneath the Danube
+    summary: Record-low water levels on the Danube near Prahovo, Serbia, have exposed the wrecks of dozens of Nazi-era vessels
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-13 00:58
+    title_zh: 干旱暴露了多瑙河下纳粹时代的军舰残骸
+    summary_zh: 塞尔维亚普拉霍沃附近的多瑙河水位创历史新低，数十艘纳粹时代船只的残骸暴露在外
   - title: Jim Cramer's top 10 things to watch in the stock market Wednesday
     summary: The July CPI report matched expectations, and CoreWeave's earnings report shows booming demand for Nvidia chips.
     link: https://www.cnbc.com/2026/08/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html
