@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-12'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-12 16:25
+last_updated: 2026-08-12 17:38
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Hormuz closure squeezes global economy as oil demand destruction intensifies, IEA says
+    summary: The IEA expects oil demand to fall by 1.6 million barrels a day in 2026 as high fuel prices and Strait of Hormuz disruptions weigh on consum…
+    link: https://www.cnbc.com/2026/08/12/iea-oil-demand-hormuz.html
+    source: US Top News and Analysis
+    time: 08-12 16:31
+    title_zh: IEA表示，随着石油需求破坏加剧，霍尔木兹关闭挤压全球经济
+    summary_zh: IEA预计，由于高油价和霍尔木兹海峡中断给石油消费带来压力，2026年石油需求将每天下降160万桶.
   - title: Trump says his decoy plane faced ‘greater risk’ in secret flight change
     summary: Air Force One was still carrying journalists and top aides, who remained at apparent risk of an Iranian strike.
     link: https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss
