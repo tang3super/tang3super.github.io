@@ -5,11 +5,24 @@ title: 新闻监控
 date: '2026-08-12'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-12 15:01
+last_updated: 2026-08-12 16:25
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump says his decoy plane faced ‘greater risk’ in secret flight change
+    summary: Air Force One was still carrying journalists and top aides, who remained at apparent risk of an Iranian strike.
+    link: https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-12 15:31
+    title_zh: 特朗普称他的诱饵飞机在秘密航班变更中面临“更大风险”
+    summary_zh: 空军一号仍载有记者和高级助手，他们显然仍面临伊朗袭击的风险。
+  - title: Bitcoin flat at $63k as Iran hopes dither; CPI awaited
+    summary: ''
+    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-63k-as-iran-hopes-dither-cpi-awaited-4853755
+    source: Cryptocurrency News
+    time: 08-12 14:52
+    title_zh: 伊朗希望动摇，比特币持平于6.3万美元; CPI等待
   - title: Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes containership
     summary: A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lane…
     link: https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html
@@ -432,6 +445,12 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: Bitcoin flat at $63k as Iran hopes dither; CPI awaited
+    summary: ''
+    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-63k-as-iran-hopes-dither-cpi-awaited-4853755
+    source: Cryptocurrency News
+    time: 08-12 14:52
+    title_zh: 伊朗希望动摇，比特币持平于6.3万美元; CPI等待
   - title: Asian stocks rise as KOSPI surges; CPI, Hormuz risks temper tech rally
     summary: ''
     link: https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-kospi-surges-cpi-hormuz-risks-temper-tech-rally-4853641
