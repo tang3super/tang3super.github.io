@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-13'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-13 03:41
+last_updated: 2026-08-13 04:22
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -649,6 +649,13 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: CoreWeave counters a key bear case on the AI trade. What it means for our data center stocks
+    summary: CoreWeave is seeing strong demand for six-year-old Nvidia chips, helping justify all the current AI capex.
+    link: https://www.cnbc.com/2026/08/12/coreweave-counters-a-key-bear-case-on-the-ai-trade-what-it-means-for-our-data-center-stocks.html
+    source: US Top News and Analysis
+    time: 08-13 04:16
+    title_zh: CoreWeave反驳了人工智能贸易的一个关键熊市案例。这对我们的数据中心股票意味着什么
+    summary_zh: CoreWeave看到了对已有六年历史的Nvidia芯片的强劲需求，这有助于证明当前所有人工智能资本支出的合理性。
   - title: 'NVIDIA tests $225 resistance in bull-bear standoff: Live levels'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-stalls-below-225-as-momentum-fades-hourly-levels-93CH-4849693
