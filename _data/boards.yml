@@ -15,6 +15,10 @@
   name: 宏观交易
   slug: macro-trade
   desc: 研究宏观因素对美股、黄金、原油和外汇等资产的影响逻辑与传导过程，每周复盘和展望
+  pinned_link: /macro-trade/news-digest/
+  pinned_title: 新闻监控
+  pinned_desc: 每5分钟自动抓取更新的新闻监控页
+  pinned_badge: 实时
 
 - key: book_note
   tag: READING

@@ -18,6 +18,12 @@ layout: default
   <p>{{ board.desc }}</p>
   <div class="board-col-head"><span>TOPIC</span><span>DATE</span></div>
   <div class="board-articles">
+    {% if board.pinned_link %}
+    <a href="{{ board.pinned_link | relative_url }}">
+      <span class="board-article-title">{{ board.pinned_title }}</span>
+      <span class="board-article-date">{{ board.pinned_badge | default: "实时" }}</span>
+    </a>
+    {% endif %}
     {% if items.size > 0 %}
       {% for item in items limit: 3 %}
       <a href="{{ item.url | relative_url }}">
@@ -25,7 +31,7 @@ layout: default
         <span class="board-article-date">{{ item.date | date: "%Y.%m.%d" }}</span>
       </a>
       {% endfor %}
-    {% else %}
+    {% elsif board.pinned_link == nil %}
       <div class="board-empty">暂无文章，敬请期待</div>
     {% endif %}
   </div>
