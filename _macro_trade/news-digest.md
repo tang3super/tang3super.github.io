@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-12'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-12 19:29
+last_updated: 2026-08-12 20:12
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -579,6 +579,13 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs
+    summary: With China way ahead in the market for open-weight models, Meta and Nvidia are both doing what they can to put the U.S. on the map.
+    link: https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html
+    source: US Top News and Analysis
+    time: 08-12 20:00
+    title_zh: Meta和Nvidia在中国实验室领导的开放式AI竞赛中树立了“非常坚定的旗帜”
+    summary_zh: 随着中国在开重型号市场上遥遥领先，Meta和英伟达都在尽一切努力让美国脱颖而出。
   - title: NVIDIA’s 800 VDC architecture and the AI power infrastructure stocks set to benefit
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidias-800-vdc-architecture-and-the-ai-power-infrastructure-stocks-set-to-benefit-93CH-4854384
