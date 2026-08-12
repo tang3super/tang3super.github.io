@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-13'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-13 02:31
+last_updated: 2026-08-13 03:41
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -501,6 +501,20 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: How to trade gold prices as Fed rate hike and inflation odds shifts
+    summary: Gold prices have been volatile in 2026, but a recent rally shows renewed investor interest amid tamer inflation data and changing Fed rate e…
+    link: https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html
+    source: US Top News and Analysis
+    time: 08-13 03:22
+    title_zh: 随着美联储加息和通胀可能性的变化，如何交易黄金价格
+    summary_zh: 2026年黄金价格一直波动，但最近的涨势表明，由于通胀数据温和和美联储利率变化，投资者重新燃起兴趣.
+  - title: A Special U.S. Navy Squadron Photographed the Last Total Solar Eclipse in Spain in 1905
+    summary: Three American warships were sent to Valencia to capture pictures of the sun’s corona with a high-definition camera that would cost over $34…
+    link: https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/total-solar-eclipse-spain-1905-us-navy
+    source: NYT > World News
+    time: 08-13 03:08
+    title_zh: 美国海军特种中队拍摄了1905年西班牙上次日全食
+    summary_zh: 三艘美国军舰被派往瓦伦西亚，用高清相机拍摄太阳日冕的照片，售价超过34美元..
   - title: Drought exposes Nazi-era warship wrecks beneath the Danube
     summary: Record-low water levels on the Danube near Prahovo, Serbia, have exposed the wrecks of dozens of Nazi-era vessels
     link: https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss
@@ -635,6 +649,12 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: 'NVIDIA tests $225 resistance in bull-bear standoff: Live levels'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-stalls-below-225-as-momentum-fades-hourly-levels-93CH-4849693
+    source: Stock Market News
+    time: 08-13 03:19
+    title_zh: 英伟达在牛熊对峙中测试225美元的阻力：实时水平
   - title: Jim Cramer's top 10 things to watch in the stock market Wednesday
     summary: The July CPI report matched expectations, and CoreWeave's earnings report shows booming demand for Nvidia chips.
     link: https://www.cnbc.com/2026/08/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html
