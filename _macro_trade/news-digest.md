@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-13'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-13 06:48
+last_updated: 2026-08-13 07:24
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Arabian Sea Bird and Turtle Habitat Threatened by Oil From Grounded Tanker
+    summary: The spill of Russian crude bound for India compounds the environmental damage from spills in and around the Strait of Hormuz, where tankers…
+    link: https://www.nytimes.com/2026/08/12/world/middleeast/oil-spill-oman.html
+    source: NYT > World News
+    time: 08-13 06:49
+    title_zh: 阿拉伯海鸟类和海龟栖息地受到搁浅油轮石油的威胁
+    summary_zh: 运往印度的俄罗斯原油泄漏加剧了霍尔木兹海峡及其周边地区泄漏对环境的破坏，油轮.
   - title: US strikes in Yemen killed 153 civilians in 2025, says Pentagon review
     summary: The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis.
     link: https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss
