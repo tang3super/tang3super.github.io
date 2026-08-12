@@ -10,8 +10,17 @@ layout: default
   <p class="desc">{{ page.list_desc | default: board.desc }}</p>
 </div>
 
-{% if items.size > 0 %}
+{% if items.size > 0 or page.pinned_link %}
 <ul class="article-list">
+  {% if page.pinned_link %}
+  <li>
+    <a class="article-item" href="{{ page.pinned_link | relative_url }}">
+      <div class="date">{{ page.pinned_badge | default: "实时" }}</div>
+      <div class="title">{{ page.pinned_title }}</div>
+      {% if page.pinned_desc %}<div class="desc">{{ page.pinned_desc }}</div>{% endif %}
+    </a>
+  </li>
+  {% endif %}
   {% for item in items %}
   <li>
     <a class="article-item" href="{{ item.url | relative_url }}">
