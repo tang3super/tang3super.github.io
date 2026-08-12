@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-12'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-12 12:25
+last_updated: 2026-08-12 13:53
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes containership
+    summary: A cargoship and containership have been hit in the Red Sea and Gulf of Oman as the war inflicts a toll on the world's critical shipping lane…
+    link: https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html
+    source: US Top News and Analysis
+    time: 08-12 13:10
+    title_zh: 胡塞武装袭击造成红海一年多来首例六人死亡;美国袭击集装箱船
+    summary_zh: 一艘货船和集装箱船在红海和阿曼湾遭到袭击，战争对世界重要的航道造成了损失..
+  - title: Did Trump flee an Iranian assassination plot on a catering truck?
+    summary: New reports reveal the US President hid in a catering truck to switch planes over an alleged bomb plot in July.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-12 12:52
+    title_zh: 特朗普是否乘坐餐车逃离了伊朗的暗杀阴谋？
+    summary_zh: 新的报道显示，美国总统躲在一辆餐饮卡车里，准备在7月份的一次所谓的炸弹阴谋中转机。
   - title: Asian stocks rise as KOSPI surges; CPI, Hormuz risks temper tech rally
     summary: ''
     link: https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-kospi-surges-cpi-hormuz-risks-temper-tech-rally-4853641
