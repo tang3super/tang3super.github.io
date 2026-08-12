@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-12'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-12 18:41
+last_updated: 2026-08-12 19:29
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?'
+    summary: Iran says Hormuz stays closed until US meets its demands and changes its 'behaviour' as global energy prices rise.
+    link: https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-12 18:27
+    title_zh: 伊朗驳斥特朗普“控制”霍尔木兹的说法：谈判最新进展如何？
+    summary_zh: 伊朗表示，霍尔木兹将继续关闭，直到美国满足其要求并随着全球能源价格上涨改变其“行为”。
   - title: Hormuz closure squeezes global economy as oil demand destruction intensifies, IEA says
     summary: The IEA expects oil demand to fall by 1.6 million barrels a day in 2026 as high fuel prices and Strait of Hormuz disruptions weigh on consum…
     link: https://www.cnbc.com/2026/08/12/iea-oil-demand-hormuz.html
@@ -452,6 +459,13 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: AI’s costly buildout complicates the Fed’s inflation fight
+    summary: Tech leaders say AI will drive down costs. But slow corporate adoption and the data center buildout create inflation pressures that complica…
+    link: https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html
+    source: US Top News and Analysis
+    time: 08-12 19:00
+    title_zh: 人工智能昂贵的建设使美联储的通胀斗争变得复杂
+    summary_zh: 科技领袖表示，人工智能将降低成本。但缓慢的企业采用和数据中心的建设会带来通货膨胀压力，使.
   - title: Bitcoin flat at $63k as Iran hopes dither; CPI awaited
     summary: ''
     link: https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-63k-as-iran-hopes-dither-cpi-awaited-4853755
@@ -565,6 +579,12 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: NVIDIA’s 800 VDC architecture and the AI power infrastructure stocks set to benefit
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidias-800-vdc-architecture-and-the-ai-power-infrastructure-stocks-set-to-benefit-93CH-4854384
+    source: Stock Market News
+    time: 08-12 18:59
+    title_zh: 英伟达的800 V DC架构和人工智能电力基础设施股票将受益
   - title: Four key things investors will watch in Nvidia’s earnings next week
     summary: ''
     link: https://www.investing.com/news/stock-market-news/four-key-things-investors-will-watch-in-nvidias-earnings-next-week-4854266
