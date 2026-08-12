@@ -5,11 +5,17 @@ title: 新闻监控
 date: '2026-08-12'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-12 09:54
+last_updated: 2026-08-12 10:36
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump boarded secret Turkey flight via catering truck due to Iran threat, reports say
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/trump-boarded-secret-turkey-flight-via-catering-truck-due-to-iran-threat-reports-say-4853579
+    source: Stock Market News
+    time: 08-12 09:37
+    title_zh: 据报道，由于伊朗威胁，特朗普乘坐餐车登上土耳其秘密航班
   - title: Wall St futures steady with CPI data, Hormuz risks in focus
     summary: ''
     link: https://www.investing.com/news/stock-market-news/wall-st-futures-steady-with-cpi-data-hormuz-risks-in-focus-4853566
