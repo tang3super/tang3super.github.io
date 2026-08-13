@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-13'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-13 20:29
+last_updated: 2026-08-13 21:58
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on
+    summary: Iran’s central bank chief said Thursday that the country is set to join the BRICS New Development Bank.
+    link: https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html
+    source: US Top News and Analysis
+    time: 08-13 21:01
+    title_zh: 随着与美国的战争拖延，伊朗希望加强与金砖国家的经济联盟
+    summary_zh: 伊朗央行行长周四表示，该国将加入金砖国家新开发银行。
   - title: Easing inflation pressures, Cerebras earnings, falling Hormuz traffic and more in Morning Squawk
     summary: Here are five key things investors need to know to start the trading day.
     link: https://www.cnbc.com/2026/08/13/heres-what-to-know-before-the-market-opens.html
@@ -38,6 +45,13 @@ topics:
     time: 08-13 17:30
     title_zh: 也门军队称胡塞武装在塔伊兹的袭击因升级而被击退
     summary_zh: 也门政府宣布袭击胡塞武装阵地后，军事升级持续了几天。
+  - title: Who Are the Houthis, Iran-Backed Militia Entering Mideast War?
+    summary: Amid relentless war in the Middle East, the Iran-backed militants seem poised to renew their conflict with Yemen’s Saudi-backed government.
+    link: https://www.nytimes.com/article/houthi-yemen-militia-iran.html
+    source: NYT > World News
+    time: 08-13 17:19
+    title_zh: 谁是胡塞武装、伊朗支持的民兵进入中东战争？
+    summary_zh: 在中东无情的战争中，伊朗支持的武装分子似乎准备与沙特支持的也门政府重新爆发冲突。
   - title: 'FTSE 100 today: Stocks slip as GDP cools, Hormuz tensions simmer'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-gdp-cools-hormuz-tensions-simmer-4856735
@@ -537,20 +551,6 @@ topics:
     source: Stock Market News
     time: 08-10 09:28
     title_zh: 随着霍尔木兹重新开放疑虑加剧，美国股市期货几乎没有变化
-  - title: Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal
-    summary: Oil rose as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not be coming anyt…
-    link: https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html
-    source: US Top News and Analysis
-    time: 08-10 09:23
-    title_zh: 美国不确定性导致油价上涨伊朗海峡霍尔木兹协议
-    summary_zh: 油价上涨，因交易员评估美国和伊朗发出的混合信号，因担心开放霍尔木兹海峡的协议可能不会到来。
-  - title: Houthis renew missile and drone attacks on Yemen’s port of al-Makha
-    summary: The latest Houthi attacks come less than 24 hours after an earlier barrage struck al-Makha (Mocha) and its commercial port.
-    link: https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-10 08:19
-    title_zh: 胡塞武装再次对也门马卡港发动导弹和无人机袭击
-    summary_zh: 胡塞武装最近的袭击发生在早些时候袭击al-Makha（莫查）及其商业港口不到24小时后。
 - name: 货币政策
   items:
   - title: New federal rules could end mortgage escrow interest for some homeowners. States are suing to block them
