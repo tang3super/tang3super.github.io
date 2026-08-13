@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-13'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-13 17:52
+last_updated: 2026-08-13 18:48
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Yemeni forces say Houthi attack repelled in Taiz amid escalation
+    summary: Military escalation continues for days after the Yemeni government announced it is attacking Houthi positions.
+    link: https://www.aljazeera.com/news/2026/8/13/yemeni-forces-say-houthi-attack-repelled-in-taiz-amid-escalation?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-13 17:30
+    title_zh: 也门军队称胡塞武装在塔伊兹的袭击因升级而被击退
+    summary_zh: 也门政府宣布袭击胡塞武装阵地后，军事升级持续了几天。
   - title: 'FTSE 100 today: Stocks slip as GDP cools, Hormuz tensions simmer'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-gdp-cools-hormuz-tensions-simmer-4856735
@@ -542,13 +549,15 @@ topics:
     link: https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss
     source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
     time: 08-10 02:44
-  - title: Iran Taps Longtime I.R.G.C. Commander Mohsen Rezaei to Top Security Post
-    summary: The appointment of Mohsen Rezaei as secretary of the Supreme National Security Council suggests that Iran’s old guard is consolidating power…
-    link: https://www.nytimes.com/2026/08/09/world/middleeast/iran-security-council-guards-commander.html
-    source: NYT > World News
-    time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: FIFA’s Infantino backed by six Arab federations including Qatar and Morocco
+    summary: Football's top official boosted by further support for his presidency after proposed private investment in game nixed.
+    link: https://www.aljazeera.com/sports/2026/8/13/fifas-infantino-backed-by-six-arab-federations-including-qatar-and-morocco?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-13 17:18
+    title_zh: 国际足联因凡蒂诺得到卡塔尔和摩洛哥等六个阿拉伯联合会的支持
+    summary_zh: 在私人投资足球的提议被否决后，这位足球最高官员因其总统任期得到进一步支持而受到鼓舞。
   - title: Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets
     summary: Ukraine has launched a heavy drone assault on warships and major Russian grain export terminals in the Black Sea port city of Novorossiysk.
     link: https://www.cnbc.com/2026/08/13/ukraine-russia-novorossiysk-grain.html
