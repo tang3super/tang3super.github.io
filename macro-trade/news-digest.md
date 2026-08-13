@@ -5,11 +5,32 @@ title: 新闻监控
 date: '2026-08-13'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-13 19:34
+last_updated: 2026-08-13 20:29
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Easing inflation pressures, Cerebras earnings, falling Hormuz traffic and more in Morning Squawk
+    summary: Here are five key things investors need to know to start the trading day.
+    link: https://www.cnbc.com/2026/08/13/heres-what-to-know-before-the-market-opens.html
+    source: US Top News and Analysis
+    time: 08-13 20:21
+    title_zh: 缓解通胀压力、Cerebras盈利、霍尔木兹交通量下降等Morning Squawk
+    summary_zh: 以下是投资者在开始交易日时需要了解的五件关键事情。
+  - title: The Iran war risks bringing the G7's fastest-growing economy to a halt
+    summary: The U.K. economy is showing further signs of a long-awaited rebound, but the picture is complicated by the fallout from the Iran war and hig…
+    link: https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html
+    source: US Top News and Analysis
+    time: 08-13 20:09
+    title_zh: 伊朗战争有可能使七国集团增长最快的经济陷入停滞
+    summary_zh: 英国经济进一步显示出期待已久的反弹迹象，但伊朗战争和高通胀的影响使情况变得复杂。
+  - title: US-Iran talks in deadlock – what’s the latest?
+    summary: The US and Iran continue their standoff in the Strait of Hormuz as mediators try to coax talks.
+    link: https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-13 19:56
+    title_zh: 美伊谈判陷入僵局--最新消息是什么？
+    summary_zh: 美国和伊朗继续在霍尔木兹海峡对峙，调解人试图说服谈判。
   - title: Yemeni forces say Houthi attack repelled in Taiz amid escalation
     summary: Military escalation continues for days after the Yemeni government announced it is attacking Houthi positions.
     link: https://www.aljazeera.com/news/2026/8/13/yemeni-forces-say-houthi-attack-repelled-in-taiz-amid-escalation?traffic_source=rss
@@ -530,27 +551,15 @@ topics:
     time: 08-10 08:19
     title_zh: 胡塞武装再次对也门马卡港发动导弹和无人机袭击
     summary_zh: 胡塞武装最近的袭击发生在早些时候袭击al-Makha（莫查）及其商业港口不到24小时后。
-  - title: 'Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan'
-    summary: Trump says US will wait for economic pressure to mount on Iran, as Israel formally rejects 15-point Gaza peace plan.
-    link: https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-10 08:00
-    title_zh: 伊朗战争直播：美国与德黑兰“半谈判”;以色列拒绝加沙计划
-    summary_zh: 特朗普表示，随着以色列正式拒绝15点加沙和平计划，美国将等待对伊朗施加的经济压力。
-  - title: 'Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign'
-    summary: The United States and Israel attacked Iran on Feb. 28, starting a monthslong war that spread to neighboring countries and rocked global mark…
-    link: https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html
-    source: NYT > World News
-    time: 08-10 05:34
-    title_zh: 伊朗战争时间轴：美国和以色列战役中的关键时刻和袭击
-    summary_zh: 美国和以色列于2月28日袭击了伊朗，引发了长达数月的战争，战争蔓延到邻国并震撼了全球……
-  - title: Where does Iran stand on Saudi-Pakistan-Turkiye pact?
-    summary: Iran not immediately threatened by pact, analysts say, with officials focusing on aspect of diminishing US role.
-    link: https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-10 02:44
 - name: 货币政策
   items:
+  - title: New federal rules could end mortgage escrow interest for some homeowners. States are suing to block them
+    summary: A new lawsuit challenges recently issued rules from federal banking regulators that preempts state laws requiring banks to pay interest on e…
+    link: https://www.cnbc.com/2026/08/13/mortgage-escrow-account-interest-lawsuit-bank-rules.html
+    source: US Top News and Analysis
+    time: 08-13 20:15
+    title_zh: 新的联邦规定可能会终止一些房主的抵押贷款托管利息。各州正在起诉阻止它们
+    summary_zh: 一项新诉讼挑战了联邦银行监管机构最近发布的规则，该规则优先于要求银行支付利息的州法律.
   - title: FIFA’s Infantino backed by six Arab federations including Qatar and Morocco
     summary: Football's top official boosted by further support for his presidency after proposed private investment in game nixed.
     link: https://www.aljazeera.com/sports/2026/8/13/fifas-infantino-backed-by-six-arab-federations-including-qatar-and-morocco?traffic_source=rss
