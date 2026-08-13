@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-14'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-14 02:01
+last_updated: 2026-08-14 03:18
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -554,6 +554,13 @@ topics:
     summary_zh: 不断升级的统计凸显出双方距离解决这场已窒息霍尔木兹海峡五年多的危机还有多远..
 - name: 货币政策
   items:
+  - title: Trump administration ‘gutted’ federal civil rights enforcement, HRW says
+    summary: A new report finds key federal agencies have stopped providing oversight of civil rights laws nationally.
+    link: https://www.aljazeera.com/news/2026/8/13/trump-administration-gutted-federal-civil-rights-enforcement-hrw-says?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-14 01:46
+    title_zh: 人权观察称，特朗普政府“摧毁”了联邦民权执法
+    summary_zh: 一份新报告发现，主要联邦机构已停止对全国民权法进行监督。
   - title: Federal Reserve Board issues enforcement action with former employee of Regions Bank
     summary: Federal Reserve Board issues enforcement action with former employee of Regions Bank
     link: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm
