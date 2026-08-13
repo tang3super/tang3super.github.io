@@ -5,11 +5,31 @@ title: 新闻监控
 date: '2026-08-13'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-13 13:59
+last_updated: 2026-08-13 15:40
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'FTSE 100 today: Stocks slip as GDP cools, Hormuz tensions simmer'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-gdp-cools-hormuz-tensions-simmer-4856735
+    source: Stock Market News
+    time: 08-13 15:05
+    title_zh: 富时100指数今日：随着GDP降温，股市下滑，霍尔木兹紧张局势升温
+  - title: Will the Houthis shut down Saudi Arabian shipping?
+    summary: The announcement of a new naval blockade threatens to restart full-scale war between Yemen's Houthis and Saudi Arabia
+    link: https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-13 14:21
+    title_zh: 胡塞武装会关闭沙特阿拉伯航运吗？
+    summary_zh: 宣布实施新的海军封锁可能会重启也门胡塞武装和沙特阿拉伯之间的全面战争
+  - title: Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors
+    summary: Ukraine has reported an acute shortage of Patriot interceptors since the US went to war with Iran in February.
+    link: https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-13 13:26
+    title_zh: 俄罗斯袭击在乌克兰港口引发火灾;泽连斯基寻求拦截器
+    summary_zh: 自二月份美国与伊朗开战以来，乌克兰报告称爱国者拦截器严重短缺。
   - title: '‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows'
     summary: The Persian Strait Gulf Authority said "the Strait of Hormuz remains blocked and will not be reopened until Iran's conditions are accepted."
     link: https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html
@@ -529,6 +549,18 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: Bitcoin holds below $64k as in-line U.S. CPI provides little support
+    summary: ''
+    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-64k-as-inline-us-cpi-provides-little-support-4856758
+    source: Cryptocurrency News
+    time: 08-13 15:19
+    title_zh: 由于美国CPI提供的支持很少，比特币跌破6.4万美元
+  - title: European stocks rise as on-target U.S. CPI dampens Fed hike expectations
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/european-stocks-rise-as-ontarget-us-cpi-dampens-fed-hike-expectations-4856640
+    source: Stock Market News
+    time: 08-13 15:07
+    title_zh: 美国CPI达标抑制美联储加息预期，欧股上涨
   - title: U.S. stock futures flat after in-line CPI, upbeat tech earnings
     summary: ''
     link: https://www.investing.com/news/stock-market-news/us-stock-futures-flat-after-inline-cpi-upbeat-tech-earnings-4856478
@@ -697,6 +729,12 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: L&T wins order worth up to $1.6 billion for Nvidia AI factory
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/lt-wins-order-worth-up-to-16-billion-for-nvidia-ai-factory-93CH-4856699
+    source: Stock Market News
+    time: 08-13 14:47
+    title_zh: L & T为Nvidia AI工厂赢得价值高达16亿美元的订单
   - title: CoreWeave counters a key bear case on the AI trade. What it means for our data center stocks
     summary: CoreWeave is seeing strong demand for six-year-old Nvidia chips, helping justify all the current AI capex.
     link: https://www.cnbc.com/2026/08/12/coreweave-counters-a-key-bear-case-on-the-ai-trade-what-it-means-for-our-data-center-stocks.html
