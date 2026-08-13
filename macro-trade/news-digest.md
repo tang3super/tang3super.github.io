@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-14'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-14 05:31
+last_updated: 2026-08-14 06:21
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -554,6 +554,13 @@ topics:
     summary_zh: 不断升级的统计凸显出双方距离解决这场已窒息霍尔木兹海峡五年多的危机还有多远..
 - name: 货币政策
   items:
+  - title: Mamdani's NYC pied-à-terre tax can continue rollout during court appeal
+    summary: The tax championed by Mayor Zohran Mamdani has drawn the ire of President Donald Trump, who said it must be stopped and vowed to explore fed…
+    link: https://www.cnbc.com/2026/08/13/mamdani-nyc-pied-a-terre-tax-lawsuit.html
+    source: US Top News and Analysis
+    time: 08-14 05:31
+    title_zh: Mamdani的纽约州临时住所税可以在法庭上诉期间继续推出
+    summary_zh: 市长佐兰·马姆达尼（Zohran Mamdani）倡导的税收引起了唐纳德·特朗普（Donald Trump）总统的愤怒，他表示必须停止该税收，并发誓要探索.
   - title: Trump administration ‘gutted’ federal civil rights enforcement, HRW says
     summary: A new report finds key federal agencies have stopped providing oversight of civil rights laws nationally.
     link: https://www.aljazeera.com/news/2026/8/13/trump-administration-gutted-federal-civil-rights-enforcement-hrw-says?traffic_source=rss
