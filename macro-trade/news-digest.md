@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-13'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-13 22:58
+last_updated: 2026-08-13 23:59
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Will all-out war in Yemen reignite as the Houthis escalate attacks?
+    summary: Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks.
+    link: https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-13 23:27
+    title_zh: 随着胡塞武装袭击升级，也门的全面战争会重新点燃吗？
+    summary_zh: 分析人士表示，随着胡塞武装加大袭击力度，沙特阿拉伯正在加强其在地区盟友中的地位。
+  - title: Iran says Strait of Hormuz under its control, rejects Trump claims
+    summary: Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway.
+    link: https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-13 22:59
+    title_zh: 伊朗称霍尔木兹海峡在其控制之下，拒绝特朗普的说法
+    summary_zh: 伊朗声称完全控制霍尔木兹海峡，挑战美国在这条战略水道的主导地位。
   - title: Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on
     summary: Iran’s central bank chief said Thursday that the country is set to join the BRICS New Development Bank.
     link: https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html
@@ -538,21 +552,15 @@ topics:
     time: 08-10 11:24
     title_zh: 伊朗要求影响霍尔木兹海峡前景，油价攀升
     summary_zh: 由于德黑兰表示，如果美国没有重大让步，关键水道将不会重新开放，布伦特原油价格上涨。
-  - title: Houthis launch fresh ballistic missile and drone attacks on al-Makha port
-    summary: Iran-backed Houthis have resumed attacks on Yemen’s al-Makha port in the Red Sea.
-    link: https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-10 09:34
-    title_zh: 胡塞武装对马哈港发动新的弹道导弹和无人机袭击
-    summary_zh: 伊朗支持的胡塞武装恢复了对也门红海马卡港的袭击。
-  - title: U.S. stock futures little changed as Hormuz reopening doubts grow
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/us-stock-futures-little-changedas-hormuz-reopening-doubts-grow-4847793
-    source: Stock Market News
-    time: 08-10 09:28
-    title_zh: 随着霍尔木兹重新开放疑虑加剧，美国股市期货几乎没有变化
 - name: 货币政策
   items:
+  - title: Federal Reserve Board issues enforcement action with former employee of Regions Bank
+    summary: Federal Reserve Board issues enforcement action with former employee of Regions Bank
+    link: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm
+    source: 'FRB: Press Release - All Releases'
+    time: 08-13 23:00
+    title_zh: 美联储对地区银行前雇员采取强制行动
+    summary_zh: 美联储对地区银行前雇员采取强制行动
   - title: New federal rules could end mortgage escrow interest for some homeowners. States are suing to block them
     summary: A new lawsuit challenges recently issued rules from federal banking regulators that preempts state laws requiring banks to pay interest on e…
     link: https://www.cnbc.com/2026/08/13/mortgage-escrow-account-interest-lawsuit-bank-rules.html
