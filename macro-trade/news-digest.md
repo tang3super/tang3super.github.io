@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-13'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-13 15:40
+last_updated: 2026-08-13 16:53
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -549,6 +549,13 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets
+    summary: Ukraine has launched a heavy drone assault on warships and major Russian grain export terminals in the Black Sea port city of Novorossiysk.
+    link: https://www.cnbc.com/2026/08/13/ukraine-russia-novorossiysk-grain.html
+    source: US Top News and Analysis
+    time: 08-13 15:20
+    title_zh: 乌克兰袭击俄罗斯黑海粮食出口码头，引发粮食市场警告
+    summary_zh: 乌克兰对黑海港口城市新罗西斯克的军舰和俄罗斯主要粮食出口码头发动了猛烈的无人机袭击。
   - title: Bitcoin holds below $64k as in-line U.S. CPI provides little support
     summary: ''
     link: https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-64k-as-inline-us-cpi-provides-little-support-4856758
