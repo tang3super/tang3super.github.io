@@ -2,14 +2,28 @@
 layout: news-digest
 permalink: /macro-trade/news-digest/
 title: 新闻监控
-date: '2026-08-13'
+date: '2026-08-14'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-13 23:59
+last_updated: 2026-08-14 01:01
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Reports of US sailors in Middle East trying to jump ship spark outcry
+    summary: US senators call for inquiry as USS Lincoln has record-long period without port stop amid war on Iran.
+    link: https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-14 00:44
+    title_zh: 有关美国水手在中东试图跳船的报道引发强烈抗议
+    summary_zh: 美国参议员呼吁进行调查，因为林肯号在伊朗战争期间没有停靠港口的时间创历史新高。
+  - title: Is Russia’s economy cracking despite the Iran war windfall?
+    summary: A widening deficit and Ukrainian strikes are testing Russia's economy, even as war in the Middle East lifts oil revenue.
+    link: https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-14 00:40
+    title_zh: 尽管伊朗战争带来了意外之财，俄罗斯的经济是否正在崩溃？
+    summary_zh: 尽管中东战争增加了石油收入，但不断扩大的赤字和乌克兰的袭击正在考验俄罗斯的经济。
   - title: Will all-out war in Yemen reignite as the Houthis escalate attacks?
     summary: Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks.
     link: https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss
@@ -538,20 +552,6 @@ topics:
     time: 08-10 12:24
     title_zh: 美国重申对霍尔木兹封锁的控制，因谈判陷入僵局而拒绝55艘船只
     summary_zh: 不断升级的统计凸显出双方距离解决这场已窒息霍尔木兹海峡五年多的危机还有多远..
-  - title: Trump signals shift to economic pressure on Iran over new military strikes
-    summary: US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers.
-    link: https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-10 11:48
-    title_zh: 特朗普表示，就新的军事打击向伊朗施加经济压力
-    summary_zh: 随着油价稳定，美国依靠制裁和海军封锁，缓解了美国消费者的经济压力。
-  - title: Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz
-    summary: Brent crude prices rise as Tehran says critical waterway will not reopen without major US concessions.
-    link: https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-10 11:24
-    title_zh: 伊朗要求影响霍尔木兹海峡前景，油价攀升
-    summary_zh: 由于德黑兰表示，如果美国没有重大让步，关键水道将不会重新开放，布伦特原油价格上涨。
 - name: 货币政策
   items:
   - title: Federal Reserve Board issues enforcement action with former employee of Regions Bank
