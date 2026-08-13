@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-13'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-13 16:53
+last_updated: 2026-08-13 17:52
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -736,6 +736,13 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea
+    summary: SK Hynix, the leading maker of high-bandwidth memory, is pouring $720 billion into memory factories to meet AI demand. We got an exclusive f…
+    link: https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html
+    source: US Top News and Analysis
+    time: 08-13 17:00
+    title_zh: SK Hynix耗资7200亿美元的人工智能建设正在接管韩国
+    summary_zh: 领先的高带宽内存制造商SK Hynix正在向内存工厂投入7200亿美元，以满足人工智能需求。我们有一个独家的.
   - title: L&T wins order worth up to $1.6 billion for Nvidia AI factory
     summary: ''
     link: https://www.investing.com/news/stock-market-news/lt-wins-order-worth-up-to-16-billion-for-nvidia-ai-factory-93CH-4856699
