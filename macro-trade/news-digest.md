@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-13'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-13 08:05
+last_updated: 2026-08-13 10:41
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran war live: US, Tehran exchange opposing claims over Hormuz control'
+    summary: President Trump again insists US has 'total control' of strait, while Tehran resolute that the US must meet its demands.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-13 08:00
+    title_zh: 伊朗战争直播：美国、德黑兰就霍尔木兹控制权交换反对主张
+    summary_zh: 特朗普总统再次坚称美国“完全控制”海峡，而德黑兰则坚决认为美国必须满足其要求。
   - title: Arabian Sea Bird and Turtle Habitat Threatened by Oil From Grounded Tanker
     summary: The spill of Russian crude bound for India compounds the environmental damage from spills in and around the Strait of Hormuz, where tankers…
     link: https://www.nytimes.com/2026/08/12/world/middleeast/oil-spill-oman.html
@@ -515,6 +522,12 @@ topics:
     time: 08-10 02:18
 - name: 货币政策
   items:
+  - title: U.S. stock futures flat after in-line CPI, upbeat tech earnings
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/us-stock-futures-flat-after-inline-cpi-upbeat-tech-earnings-4856478
+    source: Stock Market News
+    time: 08-13 08:34
+    title_zh: CPI上涨后，美国股市期货持平，科技公司盈利乐观
   - title: How to trade gold prices as Fed rate hike and inflation odds shifts
     summary: Gold prices have been volatile in 2026, but a recent rally shows renewed investor interest amid tamer inflation data and changing Fed rate e…
     link: https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html
@@ -522,6 +535,13 @@ topics:
     time: 08-13 03:22
     title_zh: 随着美联储加息和通胀可能性的变化，如何交易黄金价格
     summary_zh: 2026年黄金价格一直波动，但最近的涨势表明，由于通胀数据温和和美联储利率变化，投资者重新燃起兴趣.
+  - title: A Special U.S. Navy Squadron Photographed the Last Total Solar Eclipse in Spain in 1905
+    summary: Three American warships were sent to Valencia to capture pictures of the sun’s corona with a high-definition camera that would cost over $34…
+    link: https://www.nytimes.com/2026/08/12/world/europe/total-solar-eclipse-spain-1905-us-navy.html
+    source: NYT > World News
+    time: 08-13 03:08
+    title_zh: 美国海军特种中队拍摄了1905年西班牙上次日全食
+    summary_zh: 三艘美国军舰被派往瓦伦西亚，用高清相机拍摄太阳日冕的照片，售价超过34美元..
   - title: A Special U.S. Navy Squadron Photographed the Last Total Solar Eclipse in Spain in 1905
     summary: Three American warships were sent to Valencia to capture pictures of the sun’s corona with a high-definition camera that would cost over $34…
     link: https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/total-solar-eclipse-spain-1905-us-navy
