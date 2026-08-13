@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-13'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-13 10:41
+last_updated: 2026-08-13 12:29
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: '‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows'
+    summary: The Persian Strait Gulf Authority said "the Strait of Hormuz remains blocked and will not be reopened until Iran's conditions are accepted."
+    link: https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html
+    source: US Top News and Analysis
+    time: 08-13 12:05
+    title_zh: “霍尔木兹仍然被封锁”：伊朗对特朗普的说法提出异议，因为交通量跌至近3个月低点
+    summary_zh: 波斯湾海峡管理局表示：“霍尔木兹海峡仍然被封锁，在伊朗的条件被接受之前不会重新开放。"
   - title: 'Iran war live: US, Tehran exchange opposing claims over Hormuz control'
     summary: President Trump again insists US has 'total control' of strait, while Tehran resolute that the US must meet its demands.
     link: https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control?traffic_source=rss
