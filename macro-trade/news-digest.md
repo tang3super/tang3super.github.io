@@ -2,10 +2,10 @@
 layout: news-digest
 permalink: /macro-trade/news-digest/
 title: 新闻监控
-date: '2026-08-14'
+date: '2026-08-15'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-14 23:07
+last_updated: 2026-08-15 00:02
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -557,6 +557,13 @@ topics:
     summary_zh: 伊朗在霍尔木兹获得了影响力，但其邻国正在重塑地区安全，以限制德黑兰对其所能做的事情。
 - name: 货币政策
   items:
+  - title: Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing
+    summary: Mangione's lawyers are expected to argue his federal plea means he cannot be prosecuted in state court for Brian Thompson's slaying due to d…
+    link: https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html
+    source: US Top News and Analysis
+    time: 08-15 00:02
+    title_zh: 路易吉·曼吉安内（Luigi Mangione）在与联合医疗集团首席执行官被杀有关的联邦案件中认罪
+    summary_zh: 曼吉奥内的律师预计将辩称，他的联邦抗辩意味着他不能因布莱恩·汤普森被杀而在州法院受到起诉。
   - title: New Zealand break ranks with Oceania as FIFA’s Infantino divide grows
     summary: Oceania have offered support to Gianni Infantino, but New Zealand have gone against their own confederation in FIFA row.
     link: https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss
