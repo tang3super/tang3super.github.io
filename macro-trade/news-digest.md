@@ -5,11 +5,31 @@ title: 新闻监控
 date: '2026-08-14'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-14 17:15
+last_updated: 2026-08-14 18:18
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: European shares on track to snap 4-week rally as US-Iran tensions lift oil
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/european-shares-flat-but-set-for-weekly-loss-as-iran-tensions-lift-oil-4859863
+    source: Stock Market News
+    time: 08-14 18:00
+    title_zh: 美伊紧张局势提振油价，欧洲股市有望结束连续4周的涨势
+  - title: What is a ‘ceasefire’ supposed to achieve?
+    summary: 'Gaza, Lebanon, Iran, Ukraine: four ceasefires, none that held. AJLabs on why truces keep collapsing.'
+    link: https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-14 17:00
+    title_zh: “停火”到底是为了什么？
+    summary_zh: 加沙、黎巴嫩、伊朗、乌克兰：四次停火，均未实现。AJLabs解释了为什么休战不断失败。
+  - title: Treasury yields rise as U.S. threatens Iran with more economic sanctions
+    summary: The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — rose 2 basis points to 4.661%.
+    link: https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html
+    source: US Top News and Analysis
+    time: 08-14 16:55
+    title_zh: 美国国债收益率上涨，因美国威胁对伊朗实施更多经济制裁
+    summary_zh: 美国10年期国债收益率（美国政府借款的关键基准）上涨2个基点，至4.661%。
   - title: US Treasury Sec Bessent vows ’never been seen’ measures on Iran
     summary: ''
     link: https://www.investing.com/news/stock-market-news/us-treasury-sec-bessent-vows-never-been-seen-measures-on-iran-93CH-4859692
@@ -534,28 +554,15 @@ topics:
     time: 08-10 19:34
     title_zh: 伊朗坚称霍尔木兹海峡将继续关闭，直到特朗普同意要求
     summary_zh: 伊朗外交部发言人表示，与阿曼就霍尔木兹海峡航线进行的谈判与讨论“分开”。
-  - title: What’s behind Trump’s shift to economic pressure on Iran? Will it work?
-    summary: Months into the war, Trump is returning to squeezing Iran's economy rather than military offensive for now.
-    link: https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-10 19:11
-    title_zh: 特朗普转向对伊朗施加经济压力的背后是什么？它会起作用吗？
-    summary_zh: 战争爆发几个月后，特朗普暂时重返挤压伊朗经济，而不是军事进攻。
-  - title: Who is Mohsen Rezaei, and how significant is his appointment?
-    summary: Former IRGC commander Rezaei will be taking over as secretary of Iran's top security body amid Hormuz talks.
-    link: https://www.aljazeera.com/news/2026/8/10/who-is-mohsen-rezaei-and-how-significant-is-his-appointment?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-10 18:11
-    title_zh: Mohsen Rezaei是谁？他的任命有多重要？
-    summary_zh: 前伊斯兰革命卫队指挥官雷扎伊将在霍尔木兹会谈期间接任伊朗最高安全机构秘书。
-  - title: Payrolls miss cuts Fed hike odds as Asia rallies and oil firms on Hormuz stalemate
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/payrolls-miss-cuts-fed-hike-odds-as-asia-rallies-and-oil-firms-on-hormuz-stalemate-93CH-4848211
-    source: Stock Market News
-    time: 08-10 17:32
-    title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: 货币政策
   items:
+  - title: New Zealand break ranks with Oceania as FIFA’s Infantino divide grows
+    summary: Oceania have offered support to Gianni Infantino, but New Zealand have gone against their own confederation in FIFA row.
+    link: https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-14 17:35
+    title_zh: 随着国际足联因凡蒂诺分歧的扩大，新西兰与大洋洲决裂
+    summary_zh: 大洋洲向詹尼·因凡蒂诺提供了支持，但新西兰在国际足联争端中与自己的联盟作对。
   - title: Mamdani's NYC pied-à-terre tax can continue rollout during court appeal
     summary: The tax championed by Mayor Zohran Mamdani has drawn the ire of President Donald Trump, who said it must be stopped and vowed to explore fed…
     link: https://www.cnbc.com/2026/08/13/mamdani-nyc-pied-a-terre-tax-lawsuit.html
