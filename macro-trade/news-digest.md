@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-15'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-15 00:02
+last_updated: 2026-08-15 01:02
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -564,6 +564,13 @@ topics:
     time: 08-15 00:02
     title_zh: 路易吉·曼吉安内（Luigi Mangione）在与联合医疗集团首席执行官被杀有关的联邦案件中认罪
     summary_zh: 曼吉奥内的律师预计将辩称，他的联邦抗辩意味着他不能因布莱恩·汤普森被杀而在州法院受到起诉。
+  - title: Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing
+    summary: Mangione admits to shooting Brian Thompson in federal court, still faces separate state charges.
+    link: https://www.aljazeera.com/news/2026/8/14/mangione-pleads-guilty-to-federal-charges-in-unitedhealthcare-ceo-killing?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-14 23:43
+    title_zh: 曼吉安内承认联邦指控杀害联合医疗集团首席执行官
+    summary_zh: 曼吉奥内在联邦法院承认枪杀了布莱恩·汤普森，但仍面临州政府的单独指控。
   - title: New Zealand break ranks with Oceania as FIFA’s Infantino divide grows
     summary: Oceania have offered support to Gianni Infantino, but New Zealand have gone against their own confederation in FIFA row.
     link: https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss
