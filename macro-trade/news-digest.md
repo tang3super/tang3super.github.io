@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-15'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-15 03:45
+last_updated: 2026-08-15 04:16
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -800,6 +800,13 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: Goldman’s latest cash cow is all about funding the AI infrastructure boom
+    summary: Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.
+    link: https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html
+    source: US Top News and Analysis
+    time: 08-15 04:05
+    title_zh: 高盛最新的摇钱树就是为人工智能基础设施繁荣提供资金
+    summary_zh: 英伟达和英特尔最近利用该银行来帮助他们满足不断增长的计算需求。
   - title: 'Private credit roundup: Nvidia’s half trillion for chips financing, plus others'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/private-credit-roundup-nvidias-half-trillion-for-chips-financing-plus-others-4861033
