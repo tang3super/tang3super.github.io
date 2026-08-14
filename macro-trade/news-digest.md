@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-15'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-15 05:56
+last_updated: 2026-08-15 06:17
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war
+    summary: Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.
+    link: https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-15 05:50
+    title_zh: 特朗普表示，他将在伊朗战争期间宣布霍尔木兹海峡为美国“领土”
+    summary_zh: 对海峡的控制一直是美国和伊朗之间正在进行的停火谈判的一个症结。
   - title: Housing investors say this is their worst market in at least 3 years
     summary: Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest lev…
     link: https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html
@@ -548,13 +555,6 @@ topics:
     time: 08-10 22:07
     title_zh: 伊朗战争：第二阶段：第30天
     summary_zh: 唐纳德·特朗普表示，美国只是与伊朗进行“半谈判”。
-  - title: Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran
-    summary: Iran gained leverage in Hormuz, but its neighbours are reshaping regional security to limit what Tehran can do with it.
-    link: https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-10 22:00
-    title_zh: 伊朗改变了霍尔木兹的规则。海湾地区正在改变伊朗的规则
-    summary_zh: 伊朗在霍尔木兹获得了影响力，但其邻国正在重塑地区安全，以限制德黑兰对其所能做的事情。
 - name: 货币政策
   items:
   - title: Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing
@@ -800,6 +800,13 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: Nvidia discloses $21 billion stake in SpaceX at end of second quarter
+    summary: Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.
+    link: https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html
+    source: US Top News and Analysis
+    time: 08-15 05:45
+    title_zh: Nvidia披露第二季度末持有SpaceX 210亿美元股份
+    summary_zh: Nvidia通过投资xAI获得的SpaceX股份截至第二季度末价值约为210亿美元。
   - title: Goldman’s latest cash cow is all about funding the AI infrastructure boom
     summary: Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.
     link: https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html
