@@ -5,11 +5,17 @@ title: 新闻监控
 date: '2026-08-14'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-14 11:29
+last_updated: 2026-08-14 13:15
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: US Treasury Sec Bessent vows ’never been seen’ measures on Iran
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/us-treasury-sec-bessent-vows-never-been-seen-measures-on-iran-93CH-4859692
+    source: Stock Market News
+    time: 08-14 12:45
+    title_zh: 美国财政部Bessent誓言对伊朗采取“从未见过”的措施
   - title: U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln
     summary: '"It will be a combination of economic isolation like ‌the world has ​never seen before, ​and ​the continued blockade in ‌the Strait of ​Horm…'
     link: https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html
@@ -548,13 +554,6 @@ topics:
     source: Stock Market News
     time: 08-10 17:32
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
-  - title: Southern Iran Bears Brunt of U.S. Bombing
-    summary: While fighting has abated in much of Iran, near-constant U.S. airstrikes in Qeshm island and other southern spots have upended lives and liv…
-    link: https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html
-    source: NYT > World News
-    time: 08-10 17:02
-    title_zh: 伊朗南部遭受美国轰炸
-    summary_zh: 虽然伊朗大部分地区的战斗已经减弱，但美国对格什姆岛和其他南部地区几乎持续不断的空袭已经颠覆了人们的生活和生活。
 - name: 货币政策
   items:
   - title: Mamdani's NYC pied-à-terre tax can continue rollout during court appeal
@@ -779,6 +778,12 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/goldman-in-talks-with-investors-on-nvidia-financing-deal-after-landing-prized-role-sources-say-4859677
+    source: Stock Market News
+    time: 08-14 12:18
+    title_zh: 消息人士称，高盛在获得Nvidia的宝贵职位后，正在与投资者就Nvidia融资协议进行谈判
   - title: An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea
     summary: SK Hynix, the leading maker of high-bandwidth memory, is pouring $720 billion into memory factories to meet AI demand. We got an exclusive f…
     link: https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html
