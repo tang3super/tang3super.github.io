@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-14'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-14 22:13
+last_updated: 2026-08-14 23:07
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Housing investors say this is their worst market in at least 3 years
+    summary: Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest lev…
+    link: https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html
+    source: US Top News and Analysis
+    time: 08-14 23:02
+    title_zh: 房地产投资者表示，这是他们至少3年来最糟糕的市场
+    summary_zh: 抵押贷款利率在2月底触及近期低点，但在与伊朗战争开始时大幅上升。他们现在正处于最高水平.
   - title: 'US threatens ‘indefinite’ blockade against Iran: How long can it last?'
     summary: US Secretary of Defense Pete Hegseth claims US Navy can sustain blockade despite reports of poor conditions.
     link: https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss
@@ -548,12 +555,6 @@ topics:
     time: 08-10 22:00
     title_zh: 伊朗改变了霍尔木兹的规则。海湾地区正在改变伊朗的规则
     summary_zh: 伊朗在霍尔木兹获得了影响力，但其邻国正在重塑地区安全，以限制德黑兰对其所能做的事情。
-  - title: Wall St opens flat as markets monitor Hormuz situation
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/wall-st-open-flat-as-markets-monitor-hormuz-situation-4849511
-    source: Stock Market News
-    time: 08-10 21:48
-    title_zh: 市场关注霍尔木兹局势，华尔街开盘持平
 - name: 货币政策
   items:
   - title: New Zealand break ranks with Oceania as FIFA’s Infantino divide grows
