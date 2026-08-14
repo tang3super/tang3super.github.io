@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-14'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-14 19:11
+last_updated: 2026-08-14 19:56
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'US threatens ‘indefinite’ blockade against Iran: How long can it last?'
+    summary: US Secretary of Defense Pete Hegseth claims US Navy can sustain blockade despite reports of poor conditions.
+    link: https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-14 19:06
+    title_zh: 美国威胁对伊朗进行“无限期”封锁：能持续多久？
+    summary_zh: 美国国防部长皮特·赫格塞斯声称，尽管有报道称条件恶劣，但美国海军能够维持封锁。
   - title: 'FTSE 100 today: Stocks dip as miners slide, Hormuz tensions mount'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-down-as-miners-drag-index-lower-hormuz-oil-risk-weighs-4859864
@@ -547,12 +554,6 @@ topics:
     source: Stock Market News
     time: 08-10 21:48
     title_zh: 市场关注霍尔木兹局势，华尔街开盘持平
-  - title: TSX opens lower amid Iran war uncertainty, looming U.S. inflation data
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/tsx-futures-subdued-amid-iran-war-uncertainty-looming-us-inflation-data-4849048
-    source: Stock Market News
-    time: 08-10 21:48
-    title_zh: 伊朗战争不确定性和美国通胀数据迫在眉睫，多伦多证券交易所开盘走低
 - name: 货币政策
   items:
   - title: New Zealand break ranks with Oceania as FIFA’s Infantino divide grows
