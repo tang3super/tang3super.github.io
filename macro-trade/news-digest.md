@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-14'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-14 20:56
+last_updated: 2026-08-14 22:13
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -785,6 +785,12 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: 'Private credit roundup: Nvidia’s half trillion for chips financing, plus others'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/private-credit-roundup-nvidias-half-trillion-for-chips-financing-plus-others-4861033
+    source: Stock Market News
+    time: 08-14 21:54
+    title_zh: 私人信贷综述：英伟达5000亿美元用于芯片融资，以及其他
   - title: Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say
     summary: ''
     link: https://www.investing.com/news/stock-market-news/goldman-in-talks-with-investors-on-nvidia-financing-deal-after-landing-prized-role-sources-say-4859677
