@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-14'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-14 09:09
+last_updated: 2026-08-14 11:29
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln
+    summary: '"It will be a combination of economic isolation like ‌the world has ​never seen before, ​and ​the continued blockade in ‌the Strait of ​Horm…'
+    link: https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html
+    source: US Top News and Analysis
+    time: 08-14 09:52
+    title_zh: 美国将对伊朗使用“从未见过”的经济策略;海军努力救助陷入困境的亚伯拉罕·林肯号航空母舰
+    summary_zh: “这将是世界从未见过的经济孤立，以及对霍尔姆海峡的持续封锁的结合.
+  - title: Norway’s FM tells Al Jazeera the US war on Iran was not ‘smart’
+    summary: Norway’s FM Espen Barth Eide says the Iran war failed to achieve its initial aims and strengthened hardliners in Tehran.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-14 09:09
+    title_zh: 挪威外长告诉半岛电视台，美国对伊朗的战争并不“明智”
+    summary_zh: 挪威外长埃斯彭·巴斯·艾德表示，伊朗战争未能实现其最初目标，并增强了德黑兰的强硬派。
   - title: UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz
     summary: No injuries were reported in the attack, which the UAE called 'piracy' and a threat to global energy security.
     link: https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss
@@ -541,18 +555,6 @@ topics:
     time: 08-10 17:02
     title_zh: 伊朗南部遭受美国轰炸
     summary_zh: 虽然伊朗大部分地区的战斗已经减弱，但美国对格什姆岛和其他南部地区几乎持续不断的空袭已经颠覆了人们的生活和生活。
-  - title: 'FTSE 100 today: Stocks slip as Mideast tensions, Iran blockade weigh'
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-mideast-tensions-iran-blockade-weigh-4847960
-    source: Stock Market News
-    time: 08-10 15:28
-    title_zh: 今日富时100指数：中东紧张局势、伊朗封锁加剧，股市下跌
-  - title: European shares drift as traders weigh Hormuz conditions and upcoming U.S. data
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/european-shares-drift-as-traders-weigh-hormuz-conditions-and-upcoming-us-data-4847846
-    source: Stock Market News
-    time: 08-10 15:20
-    title_zh: 由于交易员权衡霍尔木兹条件和即将到来的美国数据，欧洲股市下跌
 - name: 货币政策
   items:
   - title: Mamdani's NYC pied-à-terre tax can continue rollout during court appeal
