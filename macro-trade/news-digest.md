@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-14'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-14 07:54
+last_updated: 2026-08-14 09:09
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz
+    summary: No injuries were reported in the attack, which the UAE called 'piracy' and a threat to global energy security.
+    link: https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-14 08:33
+    title_zh: 阿联酋指责伊朗在霍尔木兹海峡袭击两艘ADNCO船只
+    summary_zh: 这次袭击没有造成人员伤亡，阿联酋称之为“海盗行为”，对全球能源安全构成威胁。
+  - title: 'Iran war live: US eyes indefinite Iran naval blockade'
+    summary: US Defense Secretary Pete Hegseth says the US can sustain its blockade against Iran 'indefinitely'.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-14 08:00
+    title_zh: 伊朗战争直播：美国着眼于伊朗无限期海上封锁
+    summary_zh: 美国国防部长皮特·赫格塞斯表示，美国可以“无限期”维持对伊朗的封锁。
   - title: Reports of US sailors in Middle East trying to jump ship spark outcry
     summary: US senators call for inquiry as USS Lincoln has record-long period without port stop amid war on Iran.
     link: https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss
@@ -539,19 +553,6 @@ topics:
     source: Stock Market News
     time: 08-10 15:20
     title_zh: 由于交易员权衡霍尔木兹条件和即将到来的美国数据，欧洲股市下跌
-  - title: Bitcoin holds above $65k with U.S. inflation, Iran risks in focus
-    summary: ''
-    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-65k-with-us-inflation-iran-risks-in-focus-4847903
-    source: Cryptocurrency News
-    time: 08-10 14:46
-    title_zh: 随着美国通胀，比特币持有6.5万美元以上，伊朗风险成为焦点
-  - title: U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall
-    summary: The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than fiv…
-    link: https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html
-    source: US Top News and Analysis
-    time: 08-10 12:24
-    title_zh: 美国重申对霍尔木兹封锁的控制，因谈判陷入僵局而拒绝55艘船只
-    summary_zh: 不断升级的统计凸显出双方距离解决这场已窒息霍尔木兹海峡五年多的危机还有多远..
 - name: 货币政策
   items:
   - title: Mamdani's NYC pied-à-terre tax can continue rollout during court appeal
