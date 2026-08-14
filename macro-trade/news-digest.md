@@ -5,11 +5,17 @@ title: 新闻监控
 date: '2026-08-14'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-14 18:18
+last_updated: 2026-08-14 19:11
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'FTSE 100 today: Stocks dip as miners slide, Hormuz tensions mount'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-down-as-miners-drag-index-lower-hormuz-oil-risk-weighs-4859864
+    source: Stock Market News
+    time: 08-14 18:43
+    title_zh: 今日富时100指数：矿业下滑，霍尔木兹紧张局势加剧，股市下跌
   - title: European shares on track to snap 4-week rally as US-Iran tensions lift oil
     summary: ''
     link: https://www.investing.com/news/stock-market-news/european-shares-flat-but-set-for-weekly-loss-as-iran-tensions-lift-oil-4859863
@@ -547,13 +553,6 @@ topics:
     source: Stock Market News
     time: 08-10 21:48
     title_zh: 伊朗战争不确定性和美国通胀数据迫在眉睫，多伦多证券交易所开盘走低
-  - title: Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands
-    summary: A spokesman for the Iranian Foreign Ministry said that talks with Oman on shipping routes in the Strait of Hormuz were “separate” from discu…
-    link: https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html
-    source: NYT > World News
-    time: 08-10 19:34
-    title_zh: 伊朗坚称霍尔木兹海峡将继续关闭，直到特朗普同意要求
-    summary_zh: 伊朗外交部发言人表示，与阿曼就霍尔木兹海峡航线进行的谈判与讨论“分开”。
 - name: 货币政策
   items:
   - title: New Zealand break ranks with Oceania as FIFA’s Infantino divide grows
