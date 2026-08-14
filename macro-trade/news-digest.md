@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-15'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-15 07:00
+last_updated: 2026-08-15 07:28
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Houthi attack on port kills four eroding truce with Yemen’s government
+    summary: Six Houthi ballistic missiles struck Yemen's government-held al-Makha port, killing at least four.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-15 06:58
+    title_zh: 胡塞武装袭击港口造成四人死亡，破坏了与也门政府的休战
+    summary_zh: 六枚胡塞武装弹道导弹袭击了也门政府控制的马卡港，造成至少四人死亡。
+  - title: Yemen’s government says Houthi attack on al-Makha kills at least four
+    summary: Hostilities are rising between Iran-backed Houthis and Yemen's internationally recognised government.
+    link: https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-15 06:45
+    title_zh: 也门政府称胡塞武装袭击al-Makha造成至少四人死亡
+    summary_zh: 伊朗支持的胡塞武装与国际公认的也门政府之间的敌意正在加剧。
   - title: Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war
     summary: Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.
     link: https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss
@@ -542,19 +556,6 @@ topics:
     time: 08-10 23:45
     title_zh: 霍尔木兹关闭拖延，油价、库存飙升
     summary_zh: 分析师警告称，美国汽油价格上周下跌9美分，但如果海峡继续关闭，可能会再次飙升。
-  - title: 'Energy inflation outlook: gasoline, CPI, and the Strait of Hormuz'
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/energy-inflation-outlook-gasoline-cpi-and-the-strait-of-hormuz-93CH-4849823
-    source: Stock Market News
-    time: 08-10 23:20
-    title_zh: 能源通胀前景：汽油、CPI和霍尔木兹海峡
-  - title: 'War on Iran: Phase II: Day 30'
-    summary: Donald Trump says the US is only ‘semi-negotiating’ with Iran.
-    link: https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-10 22:07
-    title_zh: 伊朗战争：第二阶段：第30天
-    summary_zh: 唐纳德·特朗普表示，美国只是与伊朗进行“半谈判”。
 - name: 货币政策
   items:
   - title: Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing
