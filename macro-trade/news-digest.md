@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-16'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-16 07:39
+last_updated: 2026-08-16 07:55
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Yemen’s government says Houthi strikes hit residential areas in Marib
+    summary: Yemen's Ministry of Information denounces attacks on Marib as 'escalation' that threatens lives and increases suffering.
+    link: https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-16 07:27
+    title_zh: 也门政府称胡塞武装袭击了马里布的住宅区
+    summary_zh: 也门新闻部谴责对马里布的袭击是“升级”，威胁生命并增加痛苦。
   - title: Qatar denies it is detaining three Iranian bomber pilots
     summary: Iran says Qatar is holding three pilots who were shot down in March. Doha decries 'misleading statements'.
     link: https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss
@@ -552,12 +559,6 @@ topics:
     time: 08-11 16:04
     title_zh: 美国把所有战争资金都花在什么上了？
     summary_zh: 为什么美国五角大楼要求更多的钱用于对伊朗的战争？
-  - title: Bitcoin falls below $64k as Hormuz hopes fade, Strategy sells more coins
-    summary: ''
-    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-64k-as-hormuz-hopes-fade-strategy-sells-more-coins-4850798
-    source: Cryptocurrency News
-    time: 08-11 14:13
-    title_zh: 随着Hormuz希望破灭，比特币跌破6.4万美元，Strategy出售更多比特币
 - name: 货币政策
   items:
   - title: California tackles multiple wildfires as firefighter workforce faces strain
