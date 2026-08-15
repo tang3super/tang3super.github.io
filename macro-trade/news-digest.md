@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-15'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-15 11:21
+last_updated: 2026-08-15 11:58
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Did the US really destroy Iran’s ballistic missile capability?
+    summary: The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream".
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-15 11:52
+    title_zh: 美国真的摧毁了伊朗的弹道导弹能力吗？
+    summary_zh: 美国声称摧毁了伊朗的导弹能力，但一位前白宫顾问称这是“白日梦”。
   - title: US President Trump says he will declare Strait of Hormuz US territory
     summary: US President Donald Trump said he will “soon” declare the Strait of Hormuz a US territory.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss
@@ -549,13 +556,6 @@ topics:
     time: 08-11 04:55
     title_zh: 特朗普要求对德黑兰的“冲突”进行赔偿
     summary_zh: 唐纳德·特朗普总统表示，他将要求伊朗赔偿在美国对伊朗战争中死伤的人员。
-  - title: Iran hierarchy consolidation as IRGC veteran tapped for key security role
-    summary: The office of the supreme leader has named a new security chief and established war commanders in influential roles.
-    link: https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-11 02:34
-    title_zh: 伊朗伊斯兰革命卫队资深人士被任命担任关键安全角色，伊朗等级结构整合
-    summary_zh: 最高领导人办公室任命了一位新的安全负责人，并任命了有影响力的战争指挥官。
 - name: 货币政策
   items:
   - title: 'HRW says US civil rights enforcement reduced under Trump: What to know'
