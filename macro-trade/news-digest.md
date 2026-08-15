@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-16'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-16 04:43
+last_updated: 2026-08-16 04:59
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -560,6 +560,13 @@ topics:
     summary_zh: 就在最新袭击发生的一天前，胡塞叛军袭击了al-Makha及其港口，造成7人死亡。
 - name: 货币政策
   items:
+  - title: California tackles multiple wildfires as firefighter workforce faces strain
+    summary: The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.
+    link: https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-16 04:40
+    title_zh: 消防员面临压力，加州应对多起野火
+    summary_zh: 联邦荒地消防人员面临着低薪和生活成本问题，正在应对特朗普时代的削减。
   - title: 'Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.'
     summary: Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at t…
     link: https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html
