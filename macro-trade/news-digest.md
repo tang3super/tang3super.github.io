@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-16'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-16 04:59
+last_updated: 2026-08-16 05:25
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Qatar denies it is detaining three Iranian bomber pilots
+    summary: Iran says Qatar is holding three pilots who were shot down in March. Doha decries 'misleading statements'.
+    link: https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-16 04:55
+    title_zh: 卡塔尔否认拘留三名伊朗轰炸机飞行员
+    summary_zh: 伊朗称卡塔尔扣押了三名三月份被击落的飞行员。多哈谴责“误导性言论”。
   - title: US aircraft carrier expected to relieve USS Lincoln in Middle East
     summary: The USS Washington's movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war.
     link: https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss
@@ -551,13 +558,6 @@ topics:
     source: Cryptocurrency News
     time: 08-11 14:13
     title_zh: 随着Hormuz希望破灭，比特币跌破6.4万美元，Strategy出售更多比特币
-  - title: Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib
-    summary: The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.
-    link: https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-11 14:05
-    title_zh: 也门胡塞武装对马哈和马里布发动弹道导弹袭击
-    summary_zh: 就在最新袭击发生的一天前，胡塞叛军袭击了al-Makha及其港口，造成7人死亡。
 - name: 货币政策
   items:
   - title: California tackles multiple wildfires as firefighter workforce faces strain
@@ -838,6 +838,12 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: Why Nvidia’s $500bn investment mobilization is a positive for the stock
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/why-nvidias-500bn-investment-mobilization-is-a-positive-for-the-stock-4861855
+    source: Stock Market News
+    time: 08-16 05:07
+    title_zh: 为什么英伟达5000亿美元的投资动员对该股有利
   - title: Nvidia weighs $3 bln in SB Energy for Ohio AI data center - The Information
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-weighs-3-bln-in-sb-energy-for-ohio-ai-data-center--the-information-4861850
