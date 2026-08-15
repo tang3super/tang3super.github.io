@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-15'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-15 08:02
+last_updated: 2026-08-15 09:44
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’'
+    summary: US President Trump says that 'pretty soon' he will declare the Strait of Hormuz a US territory once Iran is defeated.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-15 08:00
+    title_zh: 伊朗战争直播：特朗普发誓“很快”将霍尔木兹纳入美国领土
+    summary_zh: 美国总统特朗普表示，一旦伊朗被击败，他“很快”将宣布霍尔木兹海峡为美国领土。
   - title: Houthi attack on port kills four eroding truce with Yemen’s government
     summary: Six Houthi ballistic missiles struck Yemen's government-held al-Makha port, killing at least four.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss
@@ -549,15 +556,15 @@ topics:
     time: 08-11 01:05
     title_zh: 伊朗总统称哈梅内伊“健康状况良好”
     summary_zh: 伊朗总统马苏德·佩泽什基安说，最高领袖哈梅内伊传达了“团结和凝聚力”的信息。
-  - title: Oil prices, stocks surge as Hormuz closure drags on
-    summary: US petrol prices dropped nine cents last week but could again surge if the strait closure continues, analysts warn.
-    link: https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-10 23:45
-    title_zh: 霍尔木兹关闭拖延，油价、库存飙升
-    summary_zh: 分析师警告称，美国汽油价格上周下跌9美分，但如果海峡继续关闭，可能会再次飙升。
 - name: 货币政策
   items:
+  - title: Mangione pleads guilty as polarising CEO killing reaches new phase
+    summary: Luigi Mangione pleaded guilty to federal charges over the fatal shooting of UnitedHealthcare CEO Brian Thompson in 2024.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-15 09:20
+    title_zh: 曼吉安内认罪，两极分化的首席执行官谋杀案达到新阶段
+    summary_zh: 路易吉·曼焦内（Luigi Mangione）承认了2024年联合医疗集团首席执行官布莱恩·汤普森（Brian Thompson）被枪杀的联邦指控。
   - title: Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing
     summary: Mangione's lawyers are expected to argue his federal plea means he cannot be prosecuted in state court for Brian Thompson's slaying due to d…
     link: https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html
