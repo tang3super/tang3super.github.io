@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-16'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-16 03:57
+last_updated: 2026-08-16 04:19
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -831,6 +831,18 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: Nvidia weighs $3 bln in SB Energy for Ohio AI data center - The Information
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-weighs-3-bln-in-sb-energy-for-ohio-ai-data-center--the-information-4861850
+    source: Stock Market News
+    time: 08-16 04:07
+    title_zh: Nvidia斥资30亿美元收购俄亥俄州人工智能数据中心SB Energy- The Info
+  - title: Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-3-billion-in-sb-energy-as-part-of-openai-data-center-deal-the-information-reports-4861844
+    source: Stock Market News
+    time: 08-16 03:42
+    title_zh: 据《信息报》报道，Nvidia正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分
   - title: Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market
     summary: No surprises on inflation and new financing developments in the artificial intelligence trade drove the record-breaking action on Wall Stree…
     link: https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html
