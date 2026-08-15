@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-15'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-15 16:50
+last_updated: 2026-08-15 17:12
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: As China Pushes to Expand in Asia, Trump Focuses on Iran
+    summary: Asian allies are beginning to wonder whether the United States would or could defend them in a war.
+    link: https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html
+    source: NYT > World News
+    time: 08-15 17:01
+    title_zh: 随着中国推动亚洲扩张，特朗普将重点放在伊朗
+    summary_zh: 亚洲盟友开始怀疑美国是否会或能够在战争中保护他们。
+  - title: The Iranian YouTube Show Posing Questions Few Dare Ask
+    summary: Azad, a popular online debate program, has tackled topics that push the limits of Iran’s authoritarian system. Some wonder how it has remain…
+    link: https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html
+    source: NYT > World News
+    time: 08-15 17:00
+    title_zh: 伊朗YouTube节目提出了很少有人敢问的问题
+    summary_zh: 阿扎德是一个受欢迎的在线辩论节目，它探讨了突破伊朗独裁制度极限的话题。有些人想知道它是如何保留的..
   - title: Iran says no decision yet on a return to talks with the US
     summary: FM Abbas Araghchi says Iran is working with Oman on routes, but Hormuz shipping depends on US meeting conditions.
     link: https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss
@@ -543,19 +557,6 @@ topics:
     time: 08-11 09:52
     title_zh: 特朗普声称完全控制霍尔木兹，随着僵局加深，要求伊朗支付赔偿
     summary_zh: 华盛顿和德黑兰的决斗立场表明，尽管双方都在谈论缩小地区范围，但双方仍然存在多远……
-  - title: Wall St futures subdued as Hormuz uncertainty persists; CPI awaited
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/wall-st-futures-subdued-as-hormuz-uncertainty-persists-cpi-awaited-4850698
-    source: Stock Market News
-    time: 08-11 09:07
-    title_zh: 由于霍尔木兹不确定性持续存在，华尔街期货走低; CPI等待
-  - title: 'Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation'
-    summary: US President Donald Trump said he will seek compensation from Iran for casualties in the war.
-    link: https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-11 08:00
-    title_zh: 伊朗战争直播：特朗普声称霍尔木兹海峡开放，寻求伊朗赔偿
-    summary_zh: 美国总统唐纳德·特朗普表示，他将向伊朗寻求战争中的伤亡赔偿。
 - name: 货币政策
   items:
   - title: 'HRW says US civil rights enforcement reduced under Trump: What to know'
