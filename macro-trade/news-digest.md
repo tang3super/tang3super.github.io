@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-15'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-15 22:43
+last_updated: 2026-08-15 22:59
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran Says Qatar Captured Three of Its Pilots Early in War With U.S.
+    summary: Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government has not commented.
+    link: https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html
+    source: NYT > World News
+    time: 08-15 22:52
+    title_zh: 伊朗称卡塔尔在与美国战争初期俘虏了三名飞行员
+    summary_zh: 伊朗表示，这些飞行员自3月2日战斗机被击落以来一直被关押。卡塔尔政府尚未发表评论。
   - title: Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
     summary: Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.
     link: https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss
@@ -551,13 +558,6 @@ topics:
     time: 08-11 11:32
     title_zh: 如果美国的武器用完了，所有的钱都去了哪里？
     summary_zh: 对伊朗的战争暴露了美国武器储备的短缺，引发了对多年国防开支的质疑。
-  - title: Trump demands compensation from Iran as talks on Strait of Hormuz continue
-    summary: US president seeks payment for '50 years' of alleged damages after Iran conditions opening of Hormuz on war reparations.
-    link: https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-11 10:32
-    title_zh: 特朗普要求伊朗赔偿，因为霍尔木兹海峡的谈判仍在继续
-    summary_zh: 伊朗就战争赔偿问题对霍尔木兹开放提出条件后，美国总统寻求赔偿“50年”的所谓损失。
 - name: 货币政策
   items:
   - title: 'Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.'
