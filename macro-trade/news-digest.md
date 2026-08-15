@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-15'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-15 18:59
+last_updated: 2026-08-15 19:23
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck
+    summary: Iran's deputy foreign minister says Hormuz "will remain Iranian" after Trump's claim that the waterway would soon become U.S. territory.
+    link: https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html
+    source: US Top News and Analysis
+    time: 08-15 19:00
+    title_zh: 有报道称另一艘船被撞，伊朗拒绝了特朗普对霍尔木兹海峡的主权主张
+    summary_zh: 伊朗副外交部长表示，在特朗普声称霍尔木兹水道很快将成为美国领土后，霍尔木兹“将继续是伊朗人”。
   - title: As China Pushes to Expand in Asia, Trump Focuses on Iran
     summary: Asian allies are beginning to wonder whether the United States would or could defend them in a war.
     link: https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html
@@ -550,13 +557,6 @@ topics:
     source: Stock Market News
     time: 08-11 10:23
     title_zh: 由于伊朗威胁，特朗普使用军用飞机离开土耳其-华盛顿邮报
-  - title: Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens
-    summary: The dueling positions Washington and Tehran staked out showed how far apart the two sides remain even as both talked of winding down regiona…
-    link: https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html
-    source: US Top News and Analysis
-    time: 08-11 09:52
-    title_zh: 特朗普声称完全控制霍尔木兹，随着僵局加深，要求伊朗支付赔偿
-    summary_zh: 华盛顿和德黑兰的决斗立场表明，尽管双方都在谈论缩小地区范围，但双方仍然存在多远……
 - name: 货币政策
   items:
   - title: 'HRW says US civil rights enforcement reduced under Trump: What to know'
