@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-15'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-15 22:22
+last_updated: 2026-08-15 22:43
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -560,6 +560,20 @@ topics:
     summary_zh: 伊朗就战争赔偿问题对霍尔木兹开放提出条件后，美国总统寻求赔偿“50年”的所谓损失。
 - name: 货币政策
   items:
+  - title: 'Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.'
+    summary: Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at t…
+    link: https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html
+    source: US Top News and Analysis
+    time: 08-15 22:24
+    title_zh: 预测市场和体育博彩：这家英国交易所如何试图在美国做到这两点
+    summary_zh: Scarkets正在进入美国预测市场竞赛，但也在美国监管不确定性的情况下申请作为州内的体育博彩。
+  - title: College can cost $100,000 a year. Here's how families are covering the tab
+    summary: Because families struggle to pay for school, many students and their parents increasingly depend on federal and private aid to help foot the…
+    link: https://www.cnbc.com/2026/08/15/how-families-pay-for-college-as-tuition-costs-soar.html
+    source: US Top News and Analysis
+    time: 08-15 21:30
+    title_zh: 上大学每年的费用为10万美元。以下是家庭如何支付费用
+    summary_zh: 由于家庭难以支付学费，许多学生及其家长越来越依赖联邦和私人援助来帮助支付.
   - title: 'HRW says US civil rights enforcement reduced under Trump: What to know'
     summary: A new report documents how federal agencies have reduced the number of civil rights cases they pursue as staffing falls.
     link: https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss
@@ -817,6 +831,13 @@ topics:
     title_zh: 由于亚洲反弹和石油公司陷入霍尔木兹僵局，就业机会未能削减美联储提高了可能性
 - name: AI基建
   items:
+  - title: Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market
+    summary: No surprises on inflation and new financing developments in the artificial intelligence trade drove the record-breaking action on Wall Stree…
+    link: https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html
+    source: US Top News and Analysis
+    time: 08-15 22:22
+    title_zh: 随着英特尔和英伟达在上周市场上推动人工智能交易，
+    summary_zh: 通货膨胀和人工智能贸易的新融资发展并不令人意外，推动了Wall Stree的破纪录行动……
   - title: Nvidia scales back $250 billion OpenAI data center guarantee, WSJ reports
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-4861638
