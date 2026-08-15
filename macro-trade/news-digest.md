@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-15'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-15 10:38
+last_updated: 2026-08-15 11:21
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: US President Trump says he will declare Strait of Hormuz US territory
+    summary: US President Donald Trump said he will “soon” declare the Strait of Hormuz a US territory.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-15 10:25
+    title_zh: 美国总统特朗普表示将宣布霍尔木兹海峡为美国领土
+    summary_zh: 美国总统唐纳德特朗普表示，他将“很快”宣布霍尔木兹海峡为美国领土。
   - title: 'Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’'
     summary: US President Trump says that 'pretty soon' he will declare the Strait of Hormuz a US territory once Iran is defeated.
     link: https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss
@@ -549,15 +556,15 @@ topics:
     time: 08-11 02:34
     title_zh: 伊朗伊斯兰革命卫队资深人士被任命担任关键安全角色，伊朗等级结构整合
     summary_zh: 最高领导人办公室任命了一位新的安全负责人，并任命了有影响力的战争指挥官。
-  - title: Iran’s president says Khamenei is in ‘perfect health’
-    summary: Iran’s President Masoud Pezeshkian says Supreme Leader Ayatollah Mojtaba Khamenei had a message of “unity and cohesion”
-    link: https://www.aljazeera.com/video/newsfeed/2026/8/10/irans-president-says-khamenei-is-in-perfect?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-11 01:05
-    title_zh: 伊朗总统称哈梅内伊“健康状况良好”
-    summary_zh: 伊朗总统马苏德·佩泽什基安说，最高领袖哈梅内伊传达了“团结和凝聚力”的信息。
 - name: 货币政策
   items:
+  - title: 'HRW says US civil rights enforcement reduced under Trump: What to know'
+    summary: A new report documents how federal agencies have reduced the number of civil rights cases they pursue as staffing falls.
+    link: https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-15 11:04
+    title_zh: 人权观察称特朗普领导下美国民权执法减少：需要了解什么
+    summary_zh: 一份新的报告记录了联邦机构如何随着人员配备减少而减少其追查的民权案件数量。
   - title: Mangione pleads guilty as polarising CEO killing reaches new phase
     summary: Luigi Mangione pleaded guilty to federal charges over the fatal shooting of UnitedHealthcare CEO Brian Thompson in 2024.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss
