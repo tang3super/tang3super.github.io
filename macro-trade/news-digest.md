@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-15'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-15 12:33
+last_updated: 2026-08-15 12:59
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran says no decision yet on a return to talks with the US
+    summary: FM Abbas Araghchi says Iran is working with Oman on routes, but Hormuz shipping depends on US meeting conditions.
+    link: https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-15 12:24
+    title_zh: 伊朗表示尚未就恢复与美国谈判做出决定
+    summary_zh: 外交部长阿巴斯·阿拉奇表示，伊朗正在与阿曼就航线进行合作，但霍尔木兹航运取决于美国的满足条件。
   - title: Did the US really destroy Iran’s ballistic missile capability?
     summary: The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream".
     link: https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss
@@ -549,13 +556,6 @@ topics:
     time: 08-11 08:00
     title_zh: 伊朗战争直播：特朗普声称霍尔木兹海峡开放，寻求伊朗赔偿
     summary_zh: 美国总统唐纳德·特朗普表示，他将向伊朗寻求战争中的伤亡赔偿。
-  - title: Trump to demand compensation for Tehran’s ‘conflicts’
-    summary: President Donald Trump says he’ll demand compensation from Iran for people killed or wounded in the US war on Iran.
-    link: https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-11 04:55
-    title_zh: 特朗普要求对德黑兰的“冲突”进行赔偿
-    summary_zh: 唐纳德·特朗普总统表示，他将要求伊朗赔偿在美国对伊朗战争中死伤的人员。
 - name: 货币政策
   items:
   - title: 'HRW says US civil rights enforcement reduced under Trump: What to know'
