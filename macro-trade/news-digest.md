@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-15'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-15 19:41
+last_updated: 2026-08-15 19:56
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
+    summary: Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.
+    link: https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-15 19:30
+    title_zh: 中国是否寻求效仿伊朗对台湾周边霍尔木兹海峡的封锁？
+    summary_zh: 台湾长期以来一直为中国的军事入侵做好准备，但伊朗和乌克兰的战争暴露了新的潜在威胁。
   - title: Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck
     summary: Iran's deputy foreign minister says Hormuz "will remain Iranian" after Trump's claim that the waterway would soon become U.S. territory.
     link: https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html
@@ -551,12 +558,6 @@ topics:
     time: 08-11 10:32
     title_zh: 特朗普要求伊朗赔偿，因为霍尔木兹海峡的谈判仍在继续
     summary_zh: 伊朗就战争赔偿问题对霍尔木兹开放提出条件后，美国总统寻求赔偿“50年”的所谓损失。
-  - title: Trump used military plane to leave Turkey due to Iran threat- Washington Post
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/trump-used-military-plane-to-leave-turkey-due-to-iran-threat-washington-post-93CH-4850737
-    source: Stock Market News
-    time: 08-11 10:23
-    title_zh: 由于伊朗威胁，特朗普使用军用飞机离开土耳其-华盛顿邮报
 - name: 货币政策
   items:
   - title: 'HRW says US civil rights enforcement reduced under Trump: What to know'
