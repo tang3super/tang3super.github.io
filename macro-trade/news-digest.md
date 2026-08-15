@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-16'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-16 01:47
+last_updated: 2026-08-16 01:59
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: US aircraft carrier expected to relieve USS Lincoln in Middle East
+    summary: The USS Washington's movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war.
+    link: https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-16 01:49
+    title_zh: 美国航空母舰预计将在中东接替林肯号航空母舰
+    summary_zh: 华盛顿号航空母舰发起这场运动之际，有报道称，在伊朗战争持续期间，林肯号航空母舰的状况十分恶劣。
   - title: Iran Says Qatar Captured Three of Its Pilots Early in War With U.S.
     summary: Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government has not commented.
     link: https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html
@@ -551,13 +558,6 @@ topics:
     time: 08-11 14:05
     title_zh: 也门胡塞武装对马哈和马里布发动弹道导弹袭击
     summary_zh: 就在最新袭击发生的一天前，胡塞叛军袭击了al-Makha及其港口，造成7人死亡。
-  - title: Where did all the money go if the US is running out of weapons?
-    summary: The war on Iran is exposing shortages in US weapons stockpiles, raising questions about years of defence spending.
-    link: https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-11 11:32
-    title_zh: 如果美国的武器用完了，所有的钱都去了哪里？
-    summary_zh: 对伊朗的战争暴露了美国武器储备的短缺，引发了对多年国防开支的质疑。
 - name: 货币政策
   items:
   - title: 'Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.'
