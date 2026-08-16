@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-16'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-16 07:55
+last_updated: 2026-08-16 08:54
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon'
+    summary: Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-16 08:00
+    title_zh: 伊朗战争直播：霍尔木兹海峡谈判仍在继续;以色列在黎巴嫩杀死11人
+    summary_zh: 随着伊朗和阿曼继续就霍尔木兹问题进行谈判，以色列在六月休战以来对黎巴嫩发动的最致命袭击中造成11人死亡。
   - title: Yemen’s government says Houthi strikes hit residential areas in Marib
     summary: Yemen's Ministry of Information denounces attacks on Marib as 'escalation' that threatens lives and increases suffering.
     link: https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss
@@ -552,13 +559,6 @@ topics:
     time: 08-11 16:18
     title_zh: 伊朗威胁促使特朗普秘密逃离土耳其：报道
     summary_zh: 据报道，特朗普在媒体群和一些白宫工作人员不知情的情况下使用餐车转机。
-  - title: What is the US spending all their war money on?
-    summary: Why is the US Pentagon asking for more money for the war on Iran?
-    link: https://www.aljazeera.com/video/money-works/2026/8/11/what-is-the-us-spending-all-their-war-money-on?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-11 16:04
-    title_zh: 美国把所有战争资金都花在什么上了？
-    summary_zh: 为什么美国五角大楼要求更多的钱用于对伊朗的战争？
 - name: 货币政策
   items:
   - title: California tackles multiple wildfires as firefighter workforce faces strain
