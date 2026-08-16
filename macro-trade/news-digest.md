@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-16'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-16 19:46
+last_updated: 2026-08-16 19:59
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: ‘Limited options’ for many Iranians as war with US chokes economy
+    summary: Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.
+    link: https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-16 19:38
+    title_zh: 与美国的战争扼杀了经济，许多伊朗人的“选择有限”
+    summary_zh: 与美国的战争摧毁了经济并导致物价飙升，数百万伊朗人入不敷出。
   - title: 'Trump threatens to make the Strait of Hormuz a US territory: Can he?'
     summary: US president has yet another outlandish threat for Iran, with no end to war in sight.
     link: https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss
@@ -550,13 +557,6 @@ topics:
     source: Stock Market News
     time: 08-11 18:53
     title_zh: 霍尔木兹僵局和能源飙升考验人工智能反弹，欧洲股市下跌
-  - title: 'Hormuz deadlock: Where oil prices could head next as prospects for an imminent deal fade'
-    summary: Oil traders keep clinging to hope that the Strait of Hormuz will reopen. That won't last forever.
-    link: https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html
-    source: US Top News and Analysis
-    time: 08-11 18:29
-    title_zh: 霍尔木兹僵局：随着即将达成协议的前景黯淡，油价下一步可能走向何方
-    summary_zh: 石油交易商仍然抱有霍尔木兹海峡重新开放的希望。这不会永远持续下去。
 - name: 货币政策
   items:
   - title: California tackles multiple wildfires as firefighter workforce faces strain
