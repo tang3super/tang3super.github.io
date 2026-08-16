@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-16'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-16 19:01
+last_updated: 2026-08-16 19:28
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Trump threatens to make the Strait of Hormuz a US territory: Can he?'
+    summary: US president has yet another outlandish threat for Iran, with no end to war in sight.
+    link: https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-16 19:14
+    title_zh: 特朗普威胁要使霍尔木兹海峡成为美国领土：他能吗？
+    summary_zh: 美国总统对伊朗再次发出奇怪的威胁，战争尚未结束。
   - title: The post-Hormuz era offers Africa a great opportunity
     summary: But to capture its benefits, the continent needs to develop an effective, common maritime policy.
     link: https://www.aljazeera.com/opinions/2026/8/16/the-post-hormuz-era-offers-africa-a-great-opportunity?traffic_source=rss
@@ -550,13 +557,6 @@ topics:
     time: 08-11 18:29
     title_zh: 霍尔木兹僵局：随着即将达成协议的前景黯淡，油价下一步可能走向何方
     summary_zh: 石油交易商仍然抱有霍尔木兹海峡重新开放的希望。这不会永远持续下去。
-  - title: Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on
-    summary: Kurdistan Regional Government says 70 percent of its trade has been cut by the regional conflict.
-    link: https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-11 17:47
-    title_zh: 美伊战争拖延，伊拉克半自治库尔德地区遭受重创
-    summary_zh: 库尔德斯坦地区政府表示，地区冲突导致其70%的贸易减少。
 - name: 货币政策
   items:
   - title: California tackles multiple wildfires as firefighter workforce faces strain
