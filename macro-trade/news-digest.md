@@ -5,11 +5,16 @@ title: 新闻监控
 date: '2026-08-16'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-16 18:25
+last_updated: 2026-08-16 18:49
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: The post-Hormuz era offers Africa a great opportunity
+    summary: But to capture its benefits, the continent needs to develop an effective, common maritime policy.
+    link: https://www.aljazeera.com/opinions/2026/8/16/the-post-hormuz-era-offers-africa-a-great-opportunity?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-16 18:09
   - title: 'Cincinnati Open: Djokovic stunned by Tirante in second round'
     summary: Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon.
     link: https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss
@@ -552,13 +557,6 @@ topics:
     time: 08-11 17:47
     title_zh: 美伊战争拖延，伊拉克半自治库尔德地区遭受重创
     summary_zh: 库尔德斯坦地区政府表示，地区冲突导致其70%的贸易减少。
-  - title: U.S. oil tops $84 as Hormuz deal hopes dwindle and deadlock deepens
-    summary: U.S. crude is back above $84 as last week's anticipation of a U.S.-Iran deal dissipates.
-    link: https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html
-    source: US Top News and Analysis
-    time: 08-11 17:12
-    title_zh: 霍尔木兹协议希望破灭、僵局加深，美国油价突破84美元
-    summary_zh: 由于上周对美国原油的预期，美国原油价格重回84美元上方伊朗协议失效。
 - name: 货币政策
   items:
   - title: California tackles multiple wildfires as firefighter workforce faces strain
