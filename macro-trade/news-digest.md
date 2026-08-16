@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-16'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-16 12:01
+last_updated: 2026-08-16 12:43
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Yemeni government forces hit back after new Houthi offensive
+    summary: Yemeni government forces, backed by Saudi Arabia, have struck back after a new Houthi offensive in areas it controls.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-16 12:09
+    title_zh: 也门政府军在胡塞武装发动新攻势后进行反击
+    summary_zh: 也门政府军在沙特阿拉伯的支持下，在胡塞武装对其控制地区发动新一轮进攻后进行了反击。
   - title: 'Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon'
     summary: Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.
     link: https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss
@@ -552,13 +559,6 @@ topics:
     time: 08-11 16:26
     title_zh: 特朗普就伊朗战略发出相互矛盾的信号
     summary_zh: 特朗普就伊朗战略发出相互矛盾的信号
-  - title: 'Iran threat prompted secret Trump flight from Turkiye: Reports'
-    summary: Trump reportedly used catering cart to switch planes, unbeknownst to the press pool and some White House staff.
-    link: https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-11 16:18
-    title_zh: 伊朗威胁促使特朗普秘密逃离土耳其：报道
-    summary_zh: 据报道，特朗普在媒体群和一些白宫工作人员不知情的情况下使用餐车转机。
 - name: 货币政策
   items:
   - title: California tackles multiple wildfires as firefighter workforce faces strain
