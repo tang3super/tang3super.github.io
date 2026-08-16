@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-16'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-16 21:21
+last_updated: 2026-08-16 21:48
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates
+    summary: Houthi missile and drone strikes target Marib and al-Makha, killing at least four people and injuring eight.
+    link: https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-16 21:18
+    title_zh: 随着也门冲突升级，胡塞武装对马哈和马里布发动新的袭击
+    summary_zh: 胡塞武装导弹和无人机袭击目标是马里布和马哈，造成至少四人死亡、八人受伤。
   - title: ‘Limited options’ for many Iranians as war with US chokes economy
     summary: Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.
     link: https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss
@@ -551,12 +558,6 @@ topics:
     time: 08-11 20:27
     title_zh: 伊朗、美国在霍尔木兹会谈期间设定新条件：这意味着什么？
     summary_zh: 由于谈判因相互竞争的需求而陷入僵局，油价飙升，阻碍了重新开放关键海峡的前景。
-  - title: European stocks drift as Hormuz impasse and energy spike test AI rally
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/european-stocks-drift-as-hormuz-impasse-and-energy-spike-test-ai-rally-4850799
-    source: Stock Market News
-    time: 08-11 18:53
-    title_zh: 霍尔木兹僵局和能源飙升考验人工智能反弹，欧洲股市下跌
 - name: 货币政策
   items:
   - title: California tackles multiple wildfires as firefighter workforce faces strain
