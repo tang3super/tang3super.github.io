@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-16'
 summary: 2026年第33周监控
 week_label: 2026年第33周监控
-last_updated: 2026-08-16 16:46
+last_updated: 2026-08-16 17:11
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Cincinnati Open: Djokovic stunned by Tirante in second round'
+    summary: Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon.
+    link: https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-16 17:03
+    title_zh: 辛辛那提公开赛：德约科维奇在第二轮被蒂兰特击败
+    summary_zh: 诺瓦克·德约科维奇在炎热的天气中苦苦挣扎，在温布尔登以来的首场比赛中被赶出辛辛那提公开赛。
+  - title: As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones
+    summary: The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program.
+    link: https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html
+    source: NYT > World News
+    time: 08-16 17:02
+    title_zh: 随着伊朗战争演变为经济战，美国新战略召回旧战略
+    summary_zh: 美国和伊朗准备突破他们为和平与伊朗核计划斡旋条款设定的最后期限。
   - title: Yemeni government forces hit back after new Houthi offensive
     summary: Yemeni government forces, backed by Saudi Arabia, have struck back after a new Houthi offensive in areas it controls.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss
@@ -545,20 +559,6 @@ topics:
     time: 08-11 17:12
     title_zh: 霍尔木兹协议希望破灭、僵局加深，美国油价突破84美元
     summary_zh: 由于上周对美国原油的预期，美国原油价格重回84美元上方伊朗协议失效。
-  - title: Treasury yields up as oil prices jump and investors await inflation data
-    summary: U.S. Treasury yields edged higher Tuesday as investors await July's inflation data print amid ongoing Iran tensions.
-    link: https://www.cnbc.com/2026/08/11/treasury-yields-up-as-oil-prices-jump-investors-await-inflation-data-.html
-    source: US Top News and Analysis
-    time: 08-11 16:39
-    title_zh: 油价飙升和投资者等待通胀数据，国债收益率上涨
-    summary_zh: 美国国债收益率周二小幅走高，因投资者在伊朗紧张局势持续的情况下等待7月份的通胀数据发布。
-  - title: Trump sends conflicting signals on Iran strategy
-    summary: Trump sends conflicting signals on Iran strategy
-    link: https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-11 16:26
-    title_zh: 特朗普就伊朗战略发出相互矛盾的信号
-    summary_zh: 特朗普就伊朗战略发出相互矛盾的信号
 - name: 货币政策
   items:
   - title: California tackles multiple wildfires as firefighter workforce faces strain
