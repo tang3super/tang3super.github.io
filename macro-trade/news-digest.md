@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-17'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-17 04:59
+last_updated: 2026-08-17 05:23
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'US-Iran MoU is set to expire: What to know'
+    summary: Both sides accused the other of violating the June agreement shortly after it was signed.
+    link: https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-17 04:28
+    title_zh: 美伊谅解备忘录即将到期：需要了解什么
+    summary_zh: 双方都指责对方在六月协议签署后不久违反了协议。
   - title: Erdogan calls for Strait of Hormuz reopening amid oil disruption
     summary: Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss
