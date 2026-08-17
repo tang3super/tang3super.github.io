@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-17'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-17 23:10
+last_updated: 2026-08-17 23:36
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates
+    summary: The armed group, based in Yemen and backed by Iran, said it had launched missiles near the vital maritime trade route, in a conflict that sh…
+    link: https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html
+    source: NYT > World News
+    time: 08-17 23:16
+    title_zh: 胡塞武装声称袭击沙特船只，因为红海暴力升级
+    summary_zh: 这个总部位于也门并得到伊朗支持的武装组织表示，它在重要的海上贸易路线附近发射了导弹，这场冲突导致了.
+  - title: Trump demands Iran ‘put up the white flag of surrender’ as MoU expires
+    summary: President also claims US is in direct contact with IRGC, denies a rush to end conflict ahead of November's US midterms.
+    link: https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-17 23:06
+    title_zh: 特朗普要求伊朗在谅解备忘录到期后“举起投降白旗”
+    summary_zh: 总统还声称美国正在与伊斯兰革命卫队直接接触，否认在11月美国中期选举之前急于结束冲突。
   - title: Iran signals readiness for ‘US ground operations’ as MoU expires
     summary: Iran's more offensive posture follows Trump's comment that the US would soon make the Strait of Hormuz its territory.
     link: https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss
