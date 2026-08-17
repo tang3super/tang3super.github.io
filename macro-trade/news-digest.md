@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-17'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-17 10:47
+last_updated: 2026-08-17 11:35
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Rare Pallas’s cat captured on camera in northern Iran mountains
+    summary: Footage shows a rare sighting of one of Iran’s most elusive wild felines.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-17 10:55
+    title_zh: 伊朗北部山区的罕见帕拉斯猫被摄像机捕捉到
+    summary_zh: 视频显示，伊朗最难以捉摸的野生猫科动物之一的罕见目击。
   - title: 'Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner'
     summary: Hamas calls on Board of Peace to 'compel' Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.
     link: https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss
