@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-17'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-17 21:13
+last_updated: 2026-08-17 21:53
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict
+    summary: The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.
+    link: https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html
+    source: US Top News and Analysis
+    time: 08-17 21:17
+    title_zh: 伊朗排除延长临时协议的可能性，油价上涨，有可能升级冲突
+    summary_zh: 美国-伊朗协议本应开放霍尔木兹海峡，同时他们在60天内就德黑兰核计划达成最终协议。
   - title: 'Yemen’s drone war: Rivals flex growing aerial muscle'
     summary: Houthi and government forces exchange drone attacks, marking a major shift in war tactics.
     link: https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss
