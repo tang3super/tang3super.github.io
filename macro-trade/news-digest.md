@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-17'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-17 20:23
+last_updated: 2026-08-17 21:13
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Yemen’s drone war: Rivals flex growing aerial muscle'
+    summary: Houthi and government forces exchange drone attacks, marking a major shift in war tactics.
+    link: https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-17 20:44
+    title_zh: 也门无人机战争：竞争对手展示不断增长的空中肌肉
+    summary_zh: 胡塞武装和政府军互相无人机袭击，标志着战争策略的重大转变。
+  - title: 'Trump scales down war games with South Korea: Why it matters'
+    summary: US president cites Seoul's reluctance to back his war on Iran, and his warm ties with North Korea's leader as reasons.
+    link: https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-17 20:20
+    title_zh: 特朗普缩减与韩国的军事演习：为什么这很重要
+    summary_zh: 美国总统以首尔不愿支持对伊朗战争以及他与朝鲜领导人的友好关系为理由。
   - title: 'US-Iran Memorandum of Understanding expires: How and why it fell apart'
     summary: Trump deemed the MoU 'over' within a month of it being signed, as the two sides traded attacks despite a 'ceasefire'.
     link: https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart?traffic_source=rss
@@ -127,6 +141,18 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Groq valuation falls to $3.5 billion after Nvidia talent deal - Bloomberg
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/groq-valuation-falls-to-35-billion-after-nvidia-talent-deal--bloomberg-93CH-4863210
+    source: Stock Market News
+    time: 08-17 21:01
+    title_zh: Nvidia人才交易后，Groq估值跌至35亿美元-彭博社
+  - title: Nvidia to invest $1.5 billion in SB Energy under OpenAI data center deal
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-to-invest-15-billion-in-sb-energy-under-openai-data-center-deal-4863156
+    source: Stock Market News
+    time: 08-17 20:54
+    title_zh: Nvidia将根据OpenAI数据中心交易向SB Energy投资15亿美元
   - title: Analysis-Big investors hunt for tomorrow’s AI winners as capex angst fades
     summary: ''
     link: https://www.investing.com/news/stock-market-news/analysisbig-investors-hunt-for-tomorrows-ai-winners-as-capex-angst-fades-4862135
