@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 04:03
+last_updated: 2026-08-18 04:37
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -169,6 +169,13 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: Sanders proposes bill to stop Social Security benefit garnishment for unpaid student loans
+    summary: Sen. Bernie Sanders, I-Vermont, announced a new proposal on Monday to protect federal student loan borrowers from having their Social Securi…
+    link: https://www.cnbc.com/2026/08/17/bernie-sanders-social-security-garnishment-student-loans.html
+    source: US Top News and Analysis
+    time: 08-18 04:13
+    title_zh: 桑德斯提出法案，停止对未付学生贷款扣押社会保障福利
+    summary_zh: 佛蒙特州参议员伯尼·桑德斯周一宣布了一项新提案，以保护联邦学生贷款借款人免受社会安全.
   - title: Luigi Mangione’s state murder trial is postponed after federal guilty plea
     summary: ''
     link: https://www.investing.com/news/stock-market-news/luigi-mangiones-state-murder-trial-is-postponed-after-federal-guilty-plea-4863852
