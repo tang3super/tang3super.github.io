@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 05:28
+last_updated: 2026-08-18 05:50
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -183,6 +183,12 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: 'UPS vs FedEx: valuation, earnings, and dividend compared'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/ups-vs-fedex-valuation-earnings-and-dividend-compared-93CH-4864024
+    source: Stock Market News
+    time: 08-18 05:37
+    title_zh: UPS vs FedEx：估值，盈利和股息比较
   - title: Sanders proposes bill to stop Social Security benefit garnishment for unpaid student loans
     summary: Sen. Bernie Sanders, I-Vermont, announced a new proposal on Monday to protect federal student loan borrowers from having their Social Securi…
     link: https://www.cnbc.com/2026/08/17/bernie-sanders-social-security-garnishment-student-loans.html
