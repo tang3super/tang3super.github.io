@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 02:06
+last_updated: 2026-08-18 02:54
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -163,6 +163,13 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations
+    summary: Abbott accuses airports of religious discrimination over wudu stations, calls for federal investigation.
+    link: https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-18 02:02
+    title_zh: CAIR猛烈抨击德克萨斯州州长在机场清洗站的“反穆斯林噱头”
+    summary_zh: 阿博特指责机场对雾都车站存在宗教歧视，呼吁联邦调查。
   - title: Clashes between government and opposition fighters in Somalia’s Baidoa
     summary: Heavy clashes broke out in Baidoa, Somalia between federal troops and armed opposition groups.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss
