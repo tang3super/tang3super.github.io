@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 04:58
+last_updated: 2026-08-18 05:28
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump says Iran will not make the deal he believes is necessary
+    summary: Trump says Iran will not make the deal he believes is necessary
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-18 04:49
+    title_zh: 特朗普表示伊朗不会达成他认为必要的协议
+    summary_zh: 特朗普表示伊朗不会达成他认为必要的协议
+  - title: Trump’s approval rating sinks to new low
+    summary: New poll found a majority of US citizens concerned about the US war on Iran.
+    link: https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-18 04:41
+    title_zh: 特朗普支持率跌至新低
+    summary_zh: 新的民意调查发现，大多数美国公民对美国对伊朗的战争感到担忧。
   - title: US railroad Union Pacific turned charges meant to cover fuel cost spike from Iran war into profit
     summary: ''
     link: https://www.investing.com/news/stock-market-news/us-railroad-union-pacific-turned-charges-meant-to-cover-fuel-cost-spike-from-iran-war-into-profit-4862493
