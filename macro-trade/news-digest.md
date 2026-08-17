@@ -5,11 +5,17 @@ title: 新闻监控
 date: '2026-08-17'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-17 14:05
+last_updated: 2026-08-17 15:12
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Bitcoin steadies at $63.5k; Iran tensions, U.S. regulations in focus
+    summary: ''
+    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-635k-iran-tensions-us-regulations-in-focus-4862213
+    source: Cryptocurrency News
+    time: 08-17 14:47
+    title_zh: 比特币价格稳定在6.35万美元;伊朗紧张局势，美国监管成为焦点
   - title: Japanese automakers vulnerable to one-two punch of Iran war, yen rally
     summary: Japanese automakers vulnerable to one-two punch of Iran war, yen rally
     link: https://www.cnbc.com/2026/08/17/japanese-automakers-vulnerable-iran-war-yen-rally.html
