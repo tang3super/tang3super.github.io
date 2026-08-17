@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-17'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-17 16:00
+last_updated: 2026-08-17 16:52
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing
+    summary: Ayatollah Mojtaba Khamenei’s appointment of hard-line loyalists to top jobs suggests he is prepared to keep the country on a war footing and…
+    link: https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html
+    source: NYT > World News
+    time: 08-17 16:29
+    title_zh: 伊朗最高领袖暗示有意让国家陷入战争
+    summary_zh: 阿亚图拉·莫杰塔巴·哈梅内伊任命强硬派效忠者担任最高职位，这表明他准备让国家处于战争状态，并...
   - title: Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry
     summary: Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal…
     link: https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html
