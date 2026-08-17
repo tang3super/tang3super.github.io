@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-17'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-17 19:54
+last_updated: 2026-08-17 20:23
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'US-Iran Memorandum of Understanding expires: How and why it fell apart'
+    summary: Trump deemed the MoU 'over' within a month of it being signed, as the two sides traded attacks despite a 'ceasefire'.
+    link: https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-17 20:07
+    title_zh: 美伊谅解备忘录到期：如何以及为何破裂
+    summary_zh: 特朗普在签署谅解备忘录后一个月内就认为该备忘录“结束”，因为尽管“停火”，双方仍互相攻击。
   - title: TSX futures inch higher amid easing Fed rate hike bets, Hormuz disruptions
     summary: ''
     link: https://www.investing.com/news/stock-market-news/tsx-futures-inch-higher-amid-easing-fed-rate-hike-bets-hormuz-disruptions-4862741
