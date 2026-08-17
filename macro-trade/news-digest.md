@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 00:20
+last_updated: 2026-08-18 00:50
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -85,6 +85,13 @@ topics:
     source: Cryptocurrency News
     time: 08-17 14:47
     title_zh: 比特币价格稳定在6.35万美元;伊朗紧张局势，美国监管成为焦点
+  - title: Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea
+    summary: In a social media post, the president scolded South Korea for not helping denuclearize Iran, and also praised North Korea and its leader.
+    link: https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html
+    source: NYT > World News
+    time: 08-17 14:16
+    title_zh: 特朗普命令五角大楼减少与盟友韩国的军事演习
+    summary_zh: 总统在社交媒体帖子中斥责韩国没有帮助伊朗无核化，并赞扬了朝鲜及其领导人。
   - title: Japanese automakers vulnerable to one-two punch of Iran war, yen rally
     summary: Japanese automakers vulnerable to one-two punch of Iran war, yen rally
     link: https://www.cnbc.com/2026/08/17/japanese-automakers-vulnerable-iran-war-yen-rally.html
