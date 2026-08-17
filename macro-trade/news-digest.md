@@ -5,11 +5,17 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 03:20
+last_updated: 2026-08-18 03:46
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: US railroad Union Pacific turned charges meant to cover fuel cost spike from Iran war into profit
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/us-railroad-union-pacific-turned-charges-meant-to-cover-fuel-cost-spike-from-iran-war-into-profit-4862493
+    source: Stock Market News
+    time: 08-18 03:30
+    title_zh: 美国铁路联合太平洋公司将伊朗战争导致燃料成本飙升的费用转化为利润
   - title: 'War on Iran: Phase II, Day 37'
     summary: Iran is offering $30,000 for captured or killed US soldiers. Trump cuts back South Korea drills.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/17/war-on-iran-phase-ii-day-37?traffic_source=rss
@@ -163,6 +169,12 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: Luigi Mangione’s state murder trial is postponed after federal guilty plea
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/luigi-mangiones-state-murder-trial-is-postponed-after-federal-guilty-plea-4863852
+    source: Stock Market News
+    time: 08-18 03:31
+    title_zh: 联邦认罪后，路易吉·曼吉奥内的州谋杀案审判被推迟
   - title: CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations
     summary: Abbott accuses airports of religious discrimination over wudu stations, calls for federal investigation.
     link: https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss
