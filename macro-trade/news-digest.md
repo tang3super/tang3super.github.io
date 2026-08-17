@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-17'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-17 21:53
+last_updated: 2026-08-17 22:15
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -148,6 +148,19 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Nvidia backs financing for OpenAI data center in Ohio
+    summary: Technology giants are shelling out billions to scale capacity to meet massive data center demand.
+    link: https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html
+    source: US Top News and Analysis
+    time: 08-17 22:10
+    title_zh: Nvidia支持为俄亥俄州OpenAI数据中心融资
+    summary_zh: 科技巨头正在斥资数十亿美元扩大容量，以满足庞大的数据中心需求。
+  - title: Nvidia said to back $100bn OpenAI data center in Ohio
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-said-to-back-100bn-openai-data-center-in-ohio-4863442
+    source: Stock Market News
+    time: 08-17 22:07
+    title_zh: Nvidia表示将支持俄亥俄州价值1000亿美元的OpenAI数据中心
   - title: Groq valuation falls to $3.5 billion after Nvidia talent deal - Bloomberg
     summary: ''
     link: https://www.investing.com/news/stock-market-news/groq-valuation-falls-to-35-billion-after-nvidia-talent-deal--bloomberg-93CH-4863210
