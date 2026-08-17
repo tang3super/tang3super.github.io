@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-17'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-17 15:12
+last_updated: 2026-08-17 16:00
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry
+    summary: Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal…
+    link: https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html
+    source: US Top News and Analysis
+    time: 08-17 15:46
+    title_zh: 霍尔木兹海峡航运在美国之前陷入停滞伊朗停火到期
+    summary_zh: 由于美国和伊朗之间的停火协议将于周一到期，且没有达成协议，霍尔木兹海峡的航运交通量跌至新低.
   - title: Bitcoin steadies at $63.5k; Iran tensions, U.S. regulations in focus
     summary: ''
     link: https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-635k-iran-tensions-us-regulations-in-focus-4862213
@@ -71,6 +78,20 @@ topics:
     time: 08-17 03:18
     title_zh: 埃尔多安呼吁在石油中断的情况下重新开放霍尔木兹海峡
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
+- name: 货币政策
+  items:
+  - title: 'FTSE 100 today: Stocks rise as soft U.S. retail data trims Fed rate bets'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-soft-us-retail-data-trims-fed-rate-bets-4862246
+    source: Stock Market News
+    time: 08-17 15:27
+    title_zh: 今日富时100指数：美国零售数据疲软削弱美联储利率押注，股市上涨
+  - title: European stocks edge up as falling yields and Fed pause bets lift sentiment
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/european-stocks-edge-up-as-falling-yields-and-fed-pause-bets-lift-sentiment-4862175
+    source: Stock Market News
+    time: 08-17 15:04
+    title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
   - title: Analysis-Big investors hunt for tomorrow’s AI winners as capex angst fades
