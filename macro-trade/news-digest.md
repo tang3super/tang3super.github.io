@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 01:45
+last_updated: 2026-08-18 02:06
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -163,6 +163,13 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: Clashes between government and opposition fighters in Somalia’s Baidoa
+    summary: Heavy clashes broke out in Baidoa, Somalia between federal troops and armed opposition groups.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-18 01:42
+    title_zh: 索马里政府和反对派武装人员在拜多阿发生冲突
+    summary_zh: 索马里拜多阿联邦军队与武装反对派组织爆发激烈冲突。
   - title: Treasury yields hold steady as investors await Fed minutes
     summary: ''
     link: https://www.investing.com/news/stock-market-news/treasury-yields-hold-steady-as-investors-await-fed-minutes-93CH-4863664
