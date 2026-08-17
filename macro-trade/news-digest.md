@@ -5,11 +5,17 @@ title: 新闻监控
 date: '2026-08-17'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-17 12:22
+last_updated: 2026-08-17 13:03
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: These 3 defense stocks have outperformed since the onset of the U.S.-Iran war
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/these-3-defense-stocks-have-outperformed-since-the-onset-of-the-usiran-war-93CH-4862121
+    source: Stock Market News
+    time: 08-17 12:33
+    title_zh: 自美国上市以来，这3只国防股表现出色-伊朗战争
   - title: U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War
     summary: President Trump said a cease-fire agreed in June would lead to limits on Iran’s nuclear program and finish the conflict, but the countries a…
     link: https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html
