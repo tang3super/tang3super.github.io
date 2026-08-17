@@ -5,11 +5,17 @@ title: 新闻监控
 date: '2026-08-17'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-17 19:03
+last_updated: 2026-08-17 19:34
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: TSX futures inch higher amid easing Fed rate hike bets, Hormuz disruptions
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/tsx-futures-inch-higher-amid-easing-fed-rate-hike-bets-hormuz-disruptions-4862741
+    source: Stock Market News
+    time: 08-17 19:10
+    title_zh: 由于美联储加息押注放松、霍尔木兹混乱，多伦多证券交易所期货小幅走高
   - title: Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing
     summary: Ayatollah Mojtaba Khamenei’s appointment of hard-line loyalists to top jobs suggests he is prepared to keep the country on a war footing and…
     link: https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html
@@ -87,6 +93,12 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: TSX futures inch higher amid easing Fed rate hike bets, Hormuz disruptions
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/tsx-futures-inch-higher-amid-easing-fed-rate-hike-bets-hormuz-disruptions-4862741
+    source: Stock Market News
+    time: 08-17 19:10
+    title_zh: 由于美联储加息押注放松、霍尔木兹混乱，多伦多证券交易所期货小幅走高
   - title: Treasury yields edge lower as investors look ahead to latest FOMC minutes
     summary: Treasury yields fell as traders awaited the latest FOMC minutes due later this week.
     link: https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html
