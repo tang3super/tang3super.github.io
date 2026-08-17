@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-17'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-17 22:15
+last_updated: 2026-08-17 22:46
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran signals readiness for ‘US ground operations’ as MoU expires
+    summary: Iran's more offensive posture follows Trump's comment that the US would soon make the Strait of Hormuz its territory.
+    link: https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-17 22:15
+    title_zh: 谅解备忘录到期后，伊朗表示已准备好“美国地面行动”
+    summary_zh: 在特朗普评论美国将很快将霍尔木兹海峡纳入其领土之后，伊朗采取了更具攻击性的姿态。
   - title: Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict
     summary: The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.
     link: https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html
@@ -98,6 +105,13 @@ topics:
     time: 08-17 10:55
     title_zh: 伊朗北部山区的罕见帕拉斯猫被摄像机捕捉到
     summary_zh: 视频显示，伊朗最难以捉摸的野生猫科动物之一的罕见目击。
+  - title: Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects
+    summary: Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government denies detaining any Iranian…
+    link: https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html
+    source: NYT > World News
+    time: 08-17 10:43
+    title_zh: 伊朗称卡塔尔几个月前俘虏了其飞行员，卡塔尔拒绝了这一说法
+    summary_zh: 伊朗表示，这些飞行员自3月2日战斗机被击落以来一直被关押。卡塔尔政府否认拘留任何伊朗人……
   - title: 'Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner'
     summary: Hamas calls on Board of Peace to 'compel' Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.
     link: https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss
