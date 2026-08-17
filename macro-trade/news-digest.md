@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-17'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-17 23:36
+last_updated: 2026-08-17 23:55
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -149,6 +149,12 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: Treasury yields hold steady as investors await Fed minutes
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/treasury-yields-hold-steady-as-investors-await-fed-minutes-93CH-4863664
+    source: Stock Market News
+    time: 08-17 23:39
+    title_zh: 投资者等待美联储会议纪要，国债收益率保持稳定
   - title: TSX futures inch higher amid easing Fed rate hike bets, Hormuz disruptions
     summary: ''
     link: https://www.investing.com/news/stock-market-news/tsx-futures-inch-higher-amid-easing-fed-rate-hike-bets-hormuz-disruptions-4862741
@@ -176,6 +182,13 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Nvidia financing initiative follows SEC guidance that takes sponsors off the hook for data center investments
+    summary: Recent SEC instructions on data center bonds appear applicable to the recent Nvidia financing move, lawyers say.
+    link: https://www.cnbc.com/2026/08/17/nvidia-financing-initiative-follows-sec-guidance-taking-sponsors-off-the-hook.html
+    source: US Top News and Analysis
+    time: 08-17 23:51
+    title_zh: Nvidia融资计划遵循SEC的指导，使赞助商摆脱了数据中心投资的负担
+    summary_zh: 律师表示，美国证券交易委员会最近关于数据中心债券的指示似乎适用于英伟达最近的融资举措。
   - title: Why is SK hynix stock surging today?
     summary: ''
     link: https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4863521
