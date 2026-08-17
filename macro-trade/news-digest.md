@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 00:50
+last_updated: 2026-08-18 01:13
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'War on Iran: Phase II, Day 37'
+    summary: Iran is offering $30,000 for captured or killed US soldiers. Trump cuts back South Korea drills.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/17/war-on-iran-phase-ii-day-37?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-18 00:27
+    title_zh: 伊朗战争：第二阶段，第37天
+    summary_zh: 伊朗为被俘或阵亡的美国士兵提供3万美元。特朗普削减了韩国演习。
   - title: Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates
     summary: The armed group, based in Yemen and backed by Iran, said it had launched missiles near the vital maritime trade route, in a conflict that sh…
     link: https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html
