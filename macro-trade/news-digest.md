@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-17'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-17 16:52
+last_updated: 2026-08-17 17:25
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -87,6 +87,13 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: Treasury yields edge lower as investors look ahead to latest FOMC minutes
+    summary: Treasury yields fell as traders awaited the latest FOMC minutes due later this week.
+    link: https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html
+    source: US Top News and Analysis
+    time: 08-17 16:08
+    title_zh: 由于投资者展望最新的联邦公开市场委员会会议纪要，美国国债收益率小幅走低
+    summary_zh: 由于交易员等待本周晚些时候公布的最新FOMC会议纪要，美国国债收益率下跌。
   - title: 'FTSE 100 today: Stocks rise as soft U.S. retail data trims Fed rate bets'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-soft-us-retail-data-trims-fed-rate-bets-4862246
