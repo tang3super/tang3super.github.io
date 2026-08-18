@@ -5,11 +5,24 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 21:31
+last_updated: 2026-08-18 22:08
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: US stocks open lower as Iran stalemate lifts oil, yields
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/us-stocks-open-lower-as-iran-stalemate-lifts-oil-yields-4865519
+    source: Stock Market News
+    time: 08-18 21:54
+    title_zh: 伊朗僵局提振石油收益率，美国股市开盘走低
+  - title: 'Yemeni government escalates attacks against Houthis: What’s next?'
+    summary: Fighting intensifies across Yemen as Houthis clash with internationally recognised government forces across many fronts.
+    link: https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-18 21:51
+    title_zh: 也门政府升级对胡塞武装的攻击：下一步是什么？
+    summary_zh: 随着胡塞武装在多条战线上与国际公认的政府军发生冲突，也门各地的战斗愈演愈烈。
   - title: 'Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’'
     summary: Qatar says Iran’s claim it is holding missing aircrew is untrue and a “media ploy”, with Tehran yet to verify it.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss
@@ -348,6 +361,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Why is SK hynix stock sliding today?
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4865558
+    source: Stock Market News
+    time: 08-18 21:47
+    title_zh: 为什么SK hynix股价今天下滑？
   - title: Nvidia's AI moat is shifting from chips to capital
     summary: Nvidia still has dominant market share in AI chips, but with competition picking up steam, the company is taking greater advantage of anothe…
     link: https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html
