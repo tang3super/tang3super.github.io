@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 05:09
+last_updated: 2026-08-19 05:36
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal
+    summary: US president hits out as states bordering the Strait of Hormuz continue talks on managing the strategic waterway.
+    link: https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-19 05:03
+    title_zh: 特朗普表示，由于对伊朗与阿曼霍尔木兹协议的愤怒，不计划与伊朗进行会谈
+    summary_zh: 美国总统猛烈抨击霍尔木兹海峡沿岸国家继续就管理这条战略水道进行谈判。
   - title: Iran prepares to keep economy alive as US threatens further sanctions
     summary: Iran’s authorities say they could shift to offensive operations as Washington considers further sanctions.
     link: https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss
