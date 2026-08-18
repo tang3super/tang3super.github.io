@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 03:18
+last_updated: 2026-08-19 03:44
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -309,6 +309,13 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: A Rescue Mission in Remote Colombia
+    summary: Our photographer Federico Rios joined aid flights in Chocó to document earthquake rescue efforts in remote communities.
+    link: https://www.nytimes.com/video/world/americas/100000011097252/a-rescue-mission-in-remote-colombia.html
+    source: NYT > World News
+    time: 08-19 03:33
+    title_zh: 哥伦比亚偏远地区的救援任务
+    summary_zh: 我们的摄影师Federico Rios加入了乔科的援助航班，记录偏远社区的地震救援工作。
   - title: FOMC minutes, crude oil inventories among economic data due Wednesday
     summary: ''
     link: https://www.investing.com/news/stock-market-news/fomc-minutes-crude-oil-inventories-among-economic-data-due-wednesday-93CH-4865840
