@@ -5,11 +5,23 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 09:11
+last_updated: 2026-08-18 10:20
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Oil prices climb, bond yields rise as US-Iran ceasefire expires
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/oil-prices-climb-bond-yields-rise-as-usiran-ceasefire-expires-4864169
+    source: Stock Market News
+    time: 08-18 09:18
+    title_zh: 美伊停火到期，油价攀升，债券收益率上升
+  - title: U.S. stock futures muted after Wall St slips on Iran tensions, oil surge
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/us-stock-futures-muted-after-wall-st-slips-on-iran-tensions-oil-surge-4864158
+    source: Stock Market News
+    time: 08-18 09:03
+    title_zh: 伊朗紧张局势导致华尔街下跌，油价飙升，美国股市期货走低
   - title: 'Iran war live: Trump rejects MoU extension as US claims control of Hormuz'
     summary: US president says Iran should 'put up the white flag of surrender' as the two nations’ MoU expired on Monday.
     link: https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss
@@ -256,6 +268,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: 'SK Hynix tests 200 SMA after +43% rally: Live levels'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/sk-hynix-tests-200-sma-after-43-rally-live-levels-93CH-4864162
+    source: Stock Market News
+    time: 08-18 09:07
+    title_zh: SK Hynix上涨+43%后测试200平均汇率：实时水平
   - title: Nvidia financing initiative follows SEC guidance that takes sponsors off the hook for data center investments
     summary: Recent SEC instructions on data center bonds appear applicable to the recent Nvidia financing move, lawyers say.
     link: https://www.cnbc.com/2026/08/17/nvidia-financing-initiative-follows-sec-guidance-taking-sponsors-off-the-hook.html
