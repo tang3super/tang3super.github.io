@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 18:47
+last_updated: 2026-08-18 19:10
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -321,6 +321,19 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Nvidia's AI moat is shifting from chips to capital
+    summary: Nvidia still has dominant market share in AI chips, but with competition picking up steam, the company is taking greater advantage of anothe…
+    link: https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html
+    source: US Top News and Analysis
+    time: 08-18 19:00
+    title_zh: 英伟达的人工智能护城河正在从芯片转向资本
+    summary_zh: 英伟达在人工智能芯片领域仍然占据主导地位，但随着竞争加剧，该公司正在更大地利用另一个.
+  - title: Nvidia or Sandisk? BofA reveals which stock is under-owned and which is crowded
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-or-sandisk-bofa-reveals-which-stock-is-underowned-and-which-is-crowded-4864782
+    source: Stock Market News
+    time: 08-18 18:44
+    title_zh: 英伟达还是Sandisk？美国银行揭示哪些股票持股不足，哪些股票拥挤
   - title: BofA raises hyperscaler AI capex outlook to $3.6tn through 2028
     summary: ''
     link: https://www.investing.com/news/stock-market-news/bofa-raises-hyperscaler-ai-capex-outlook-to-36tn-through-2028-93CH-4864617
