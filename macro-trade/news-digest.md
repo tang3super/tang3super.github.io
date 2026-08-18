@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 23:16
+last_updated: 2026-08-18 23:48
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran clubs face Qatar and UAE sides at neutral venues in Champions League
+    summary: Following the start of the US-Israel war on Iran, the first match of the Iranian league was played last week.
+    link: https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-18 23:14
+    title_zh: 伊朗俱乐部在欧冠中立场地迎战卡塔尔和阿联酋球队
+    summary_zh: 美以对伊朗战争爆发后，伊朗联赛的首场比赛于上周进行。
   - title: US stocks open lower as Iran stalemate lifts oil, yields
     summary: ''
     link: https://www.investing.com/news/stock-market-news/us-stocks-open-lower-as-iran-stalemate-lifts-oil-yields-4865519
