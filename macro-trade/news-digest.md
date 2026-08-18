@@ -5,11 +5,24 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 19:58
+last_updated: 2026-08-18 20:47
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Qatar rejects Iran’s ‘false’ claims about missing pilots
+    summary: Majed al-Ansari says the Iranian planes 'violated Qatar’s sovereignty' and were dealt with in accordance with the law.
+    link: https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-18 20:39
+    title_zh: 卡塔尔否认伊朗有关失踪飞行员的“虚假”说法
+    summary_zh: 马吉德·安萨里表示，伊朗飞机“侵犯了卡塔尔的主权”，并依法处理。
+  - title: 'FTSE 100 today: Stocks up buoyed by energy majors; Iran tensions escalate'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-energy-majors-defy-hormuz-strike-fears-4864418
+    source: Stock Market News
+    time: 08-18 20:15
+    title_zh: 今日富时100指数：能源巨头提振股市上涨;伊朗紧张局势升级
   - title: Why has Trump threatened to bomb Oman – for a second time?
     summary: The US president threatened to bomb Oman over Hormuz, with US-Iran peace negotiations in a deadlock.
     link: https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss
