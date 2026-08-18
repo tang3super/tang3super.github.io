@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 00:12
+last_updated: 2026-08-19 00:48
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran prepares to keep economy alive as US threatens further sanctions
+    summary: Iran’s authorities say they could shift to offensive operations as Washington considers further sanctions.
+    link: https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-19 00:21
+    title_zh: 美国威胁进一步制裁伊朗准备维持经济活力
+    summary_zh: 伊朗当局表示，随着华盛顿考虑进一步制裁，他们可能会转向进攻行动。
   - title: Iran clubs face Qatar and UAE sides at neutral venues in Champions League
     summary: Following the start of the US-Israel war on Iran, the first match of the Iranian league was played last week.
     link: https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss
