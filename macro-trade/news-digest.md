@@ -5,11 +5,17 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 14:55
+last_updated: 2026-08-18 15:32
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Bitcoin edges up to $64k; Iran, rate jitters weigh on crypto
+    summary: ''
+    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-edges-up-to-64k-iran-rate-jitters-weigh-on-crypto-4864371
+    source: Cryptocurrency News
+    time: 08-18 14:54
+    title_zh: 比特币逼近6.4万美元;伊朗，利率动荡给加密货币带来压力
   - title: Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says
     summary: British maritime agency says the incident caused one casualty and damaged the vessel's engine room.
     link: https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss
