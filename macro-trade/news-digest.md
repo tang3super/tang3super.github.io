@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 22:49
+last_updated: 2026-08-18 23:16
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -361,6 +361,18 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: S&P affirms Nvidia rating at AA on Ohio campus guarantee
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/sp-affirms-nvidia-rating-at-aa-on-ohio-campus-guarantee-93CH-4865664
+    source: Stock Market News
+    time: 08-18 22:54
+    title_zh: 标准普尔确认英伟达对俄亥俄州校园担保的AA评级
+  - title: 'Nvidia and Broadcom earnings: TD Cowen says earnings won’t settle big questions'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-and-broadcom-earnings-td-cowen-says-earnings-wont-settle-big-questions-4865643
+    source: Stock Market News
+    time: 08-18 22:33
+    title_zh: Nvidia和Broadcom盈利：TD Cowen表示盈利不会解决重大问题
   - title: Why is SK hynix stock sliding today?
     summary: ''
     link: https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4865558
