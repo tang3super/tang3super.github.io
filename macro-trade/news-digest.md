@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 16:04
+last_updated: 2026-08-18 16:49
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Treasury yields rise as oil gains and U.S.-Iran tensions fuel inflation fears
+    summary: Tuesday saw yields on U.S. 30-year Treasury yields add over 1 basis point to trade at around 5.322%, hovering just below its highest level s…
+    link: https://www.cnbc.com/2026/08/18/treasury-yields-.html
+    source: US Top News and Analysis
+    time: 08-18 15:58
+    title_zh: 随着油价上涨和美国国债收益率上升伊朗紧张局势加剧通胀担忧
+    summary_zh: 周二，美国30年期国债收益率上涨逾1个基点，至5.322%左右，略低于历史最高水平。
   - title: Bitcoin edges up to $64k; Iran, rate jitters weigh on crypto
     summary: ''
     link: https://www.investing.com/news/cryptocurrency-news/bitcoin-edges-up-to-64k-iran-rate-jitters-weigh-on-crypto-4864371
