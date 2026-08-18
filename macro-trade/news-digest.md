@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 17:17
+last_updated: 2026-08-18 17:51
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Global bond yields hit multi-decade highs as governments pay the price for U.S.-Iran stalemate
+    summary: International government bond yields followed U.S. Treasury yields higher on Tuesday.
+    link: https://www.cnbc.com/2026/08/18/bond-yields-government-us10y-treasury-note-iran.html
+    source: US Top News and Analysis
+    time: 08-18 17:45
+    title_zh: 随着各国政府为美国国债付出代价，全球债券收益率触及数十年来的高点伊朗僵局
+    summary_zh: 周二，国际政府债券收益率跟随美国国债收益率走高。
   - title: Treasury yields rise as oil gains and U.S.-Iran tensions fuel inflation fears
     summary: Tuesday saw yields on U.S. 30-year Treasury yields add over 1 basis point to trade at around 5.322%, hovering just below its highest level s…
     link: https://www.cnbc.com/2026/08/18/treasury-yields-.html
