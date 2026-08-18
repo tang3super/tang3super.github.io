@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 00:48
+last_updated: 2026-08-19 01:13
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -309,6 +309,13 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: 'Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh'
+    summary: A sell-off in long-term Treasurys is raising borrowing costs, exposing how debt, AI spending and energy are turning the bond market into a p…
+    link: https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html
+    source: US Top News and Analysis
+    time: 08-19 00:48
+    title_zh: 分析：华尔街等待沃什，债券市场压力正在挤压大街
+    summary_zh: 长期国债的抛售正在提高借贷成本，暴露了债务、人工智能支出和能源如何将债券市场变成一个公共市场。
   - title: 'UPS vs FedEx: valuation, earnings, and dividend compared'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/ups-vs-fedex-valuation-earnings-and-dividend-compared-93CH-4864024
