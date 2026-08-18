@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 05:36
+last_updated: 2026-08-19 05:53
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -402,6 +402,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Moody’s affirms Nvidia stock Aa1 rating on Ohio data center deal
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/moodys-affirms-nvidia-stock-aa1-rating-on-ohio-data-center-deal-93CH-4866178
+    source: Stock Market News
+    time: 08-19 05:38
+    title_zh: 穆迪确认英伟达对俄亥俄州数据中心交易的股票Aa 1评级
   - title: S&P affirms Nvidia rating at AA on Ohio campus guarantee
     summary: ''
     link: https://www.investing.com/news/stock-market-news/sp-affirms-nvidia-rating-at-aa-on-ohio-campus-guarantee-93CH-4865664
