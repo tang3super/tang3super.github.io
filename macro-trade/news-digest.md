@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 19:38
+last_updated: 2026-08-18 19:58
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Why has Trump threatened to bomb Oman – for a second time?
+    summary: The US president threatened to bomb Oman over Hormuz, with US-Iran peace negotiations in a deadlock.
+    link: https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-18 19:33
+    title_zh: 特朗普为何第二次威胁要轰炸阿曼？
+    summary_zh: 美国总统威胁要就霍尔木兹问题轰炸阿曼，导致美伊和平谈判陷入僵局。
   - title: US stock futures drop as fading Iran peace hopes lift oil, bond yields
     summary: ''
     link: https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-fading-iran-peace-hopes-lift-oil-bond-yields-4864587
