@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 02:02
+last_updated: 2026-08-19 02:51
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -309,6 +309,12 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: FOMC minutes, crude oil inventories among economic data due Wednesday
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/fomc-minutes-crude-oil-inventories-among-economic-data-due-wednesday-93CH-4865840
+    source: Stock Market News
+    time: 08-19 02:00
+    title_zh: FOMC会议纪要、周三公布的经济数据中的原油库存
   - title: 'Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh'
     summary: A sell-off in long-term Treasurys is raising borrowing costs, exposing how debt, AI spending and energy are turning the bond market into a p…
     link: https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html
