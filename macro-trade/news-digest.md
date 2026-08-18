@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 11:57
+last_updated: 2026-08-18 12:35
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict
+    summary: The attack caused damage to the engine room and resulted in a crew casualty, UKMTO said, adding that the remaining crew were being assisted…
+    link: https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html
+    source: US Top News and Analysis
+    time: 08-18 12:34
+    title_zh: 美国军舰在霍尔木兹海峡遭到袭击伊朗停火协议到期可能导致冲突旷日持久
+    summary_zh: 英国运输组织表示，这次袭击造成机舱损坏，并导致一名机组人员伤亡，并补充说，其余机组人员正在接受援助.
   - title: Oil prices climb, bond yields rise as US-Iran ceasefire expires
     summary: ''
     link: https://www.investing.com/news/stock-market-news/oil-prices-climb-bond-yields-rise-as-usiran-ceasefire-expires-4864169
