@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 20:47
+last_updated: 2026-08-18 21:31
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’'
+    summary: Qatar says Iran’s claim it is holding missing aircrew is untrue and a “media ploy”, with Tehran yet to verify it.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-18 21:12
+    title_zh: 卡塔尔：伊朗声称多哈扣押失踪飞行员是“媒体策略”
+    summary_zh: 卡塔尔表示，伊朗声称扣押失踪机组人员的说法是不真实的，是“媒体策略”，德黑兰尚未对此进行核实。
   - title: Qatar rejects Iran’s ‘false’ claims about missing pilots
     summary: Majed al-Ansari says the Iranian planes 'violated Qatar’s sovereignty' and were dealt with in accordance with the law.
     link: https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss
