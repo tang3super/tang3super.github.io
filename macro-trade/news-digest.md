@@ -5,11 +5,23 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 17:51
+last_updated: 2026-08-18 18:14
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: US stock futures drop as fading Iran peace hopes lift oil, bond yields
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-fading-iran-peace-hopes-lift-oil-bond-yields-4864587
+    source: Stock Market News
+    time: 08-18 17:48
+    title_zh: 伊朗和平希望减弱提振石油和债券收益率，美国股市期货下跌
+  - title: Wolfe Research sees oil prices holding steady amid US-Iran standoff
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/wolfe-research-sees-oil-prices-holding-steady-amid-usiran-standoff-93CH-4864607
+    source: Stock Market News
+    time: 08-18 17:46
+    title_zh: 沃尔夫研究公司认为，在美伊僵局中，油价保持稳定
   - title: Global bond yields hit multi-decade highs as governments pay the price for U.S.-Iran stalemate
     summary: International government bond yields followed U.S. Treasury yields higher on Tuesday.
     link: https://www.cnbc.com/2026/08/18/bond-yields-government-us10y-treasury-note-iran.html
@@ -309,6 +321,18 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: BofA raises hyperscaler AI capex outlook to $3.6tn through 2028
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/bofa-raises-hyperscaler-ai-capex-outlook-to-36tn-through-2028-93CH-4864617
+    source: Stock Market News
+    time: 08-18 17:52
+    title_zh: 美国银行将超大规模人工智能资本支出展望提高至2028年3.6万亿美元
+  - title: 'Nvidia earnings: Why BofA says August 26 earnings will be the moment of truth'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-earnings-why-bofa-says-august-26-earnings-will-be-the-moment-of-truth-93CH-4864612
+    source: Stock Market News
+    time: 08-18 17:48
+    title_zh: 英伟达财报：为什么美国银行称8月26日财报将是关键时刻
   - title: 'SK Hynix tests 200 SMA after +43% rally: Live levels'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/sk-hynix-tests-200-sma-after-43-rally-live-levels-93CH-4864162
