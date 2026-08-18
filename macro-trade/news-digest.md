@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-18'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-18 14:00
+last_updated: 2026-08-18 14:55
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says
+    summary: British maritime agency says the incident caused one casualty and damaged the vessel's engine room.
+    link: https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-18 14:35
+    title_zh: 英国运输组织称，船只在霍尔木兹海峡被“未知弹丸”击中
+    summary_zh: 英国海事机构表示，该事件造成一人伤亡，并损坏了该船的发动机室。
+  - title: Trump says N Korea’s Kim has responded to his request for a conversation
+    summary: US president says conversations with Kim Jong Un at a 'positive' stage and slams Seoul for refusing to join war on Iran.
+    link: https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-18 13:44
+    title_zh: 特朗普称朝鲜金正恩已回应他的对话请求
+    summary_zh: 美国总统表示与金正恩的对话处于“积极”阶段，并猛烈抨击首尔拒绝加入对伊朗的战争。
   - title: Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict
     summary: The attack caused damage to the engine room and resulted in a crew casualty, UKMTO said, adding that the remaining crew were being assisted…
     link: https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html
