@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 02:57
+last_updated: 2026-08-20 03:24
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -433,6 +433,13 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: Protests in Kyiv back ex-defence minister Fedorov’s call for elections
+    summary: Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo Fedorov.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-20 03:09
+    title_zh: 基辅抗议活动支持前国防部长费多罗夫的选举呼吁
+    summary_zh: 基辅的乌克兰人举行抗议活动，支持被赶下台的国防部长米卡洛·费多罗夫。
   - title: Fed officials saw need for rate hike if inflation doesn't cool, minutes show
     summary: The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.
     link: https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html
