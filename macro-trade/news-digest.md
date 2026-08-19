@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 05:29
+last_updated: 2026-08-20 05:51
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -52,6 +52,12 @@ topics:
     time: 08-19 22:47
     title_zh: 向我们发送有关伊朗战争的问题
     summary_zh: 报道战争、外交、能源和更广泛中东的《泰晤士报》记者正在加入我们的“询问记者”专题，作为冲突.
+  - title: Bitcoin muted at $65k as markets parse U.S. regulations, Iran tensions
+    summary: ''
+    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-64k-as-markets-parse-us-regulations-iran-tensions-4866471
+    source: Cryptocurrency News
+    time: 08-19 22:03
+    title_zh: 由于市场分析美国法规和伊朗紧张局势，比特币跌至6.5万美元
   - title: 'War on Iran: Iran allegedly targets the UAE'
     summary: After reports that Iran targeted the UAE with two ballistic missiles, the Emirates has suspended trade with Tehran.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss
@@ -86,12 +92,6 @@ topics:
     time: 08-19 18:39
     title_zh: 阿联酋停止与伊朗的贸易关系并称其遭到导弹袭击
     summary_zh: 阿联酋长期以来一直是伊朗的主要贸易中心，分析人士表示，它一直是伊朗逃避国际制裁的关键……
-  - title: Bitcoin flat at $64k as markets parse U.S. regulations, Iran tensions
-    summary: ''
-    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-64k-as-markets-parse-us-regulations-iran-tensions-4866471
-    source: Cryptocurrency News
-    time: 08-19 17:19
-    title_zh: 由于市场分析美国法规和伊朗紧张局势，比特币持平于6.4万美元
   - title: How the Iran War Made Africa’s Richest Man Even Richer
     summary: Africans have turned to one of their own for fuel as the world’s supplies run low. But they are not the only ones with the continent’s riche…
     link: https://www.nytimes.com/2026/08/19/world/africa/dangote-iran-refinery-oil-nigeria.html
