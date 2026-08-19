@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 23:03
+last_updated: 2026-08-19 23:40
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Send Us Your Questions About the Iran War
+    summary: Times reporters who cover the war, diplomacy, energy and the broader Middle East are joining our “Ask a Correspondent” feature as the confli…
+    link: https://www.nytimes.com/2026/08/19/world/iran-war-reader-questions.html
+    source: NYT > World News
+    time: 08-19 22:47
+    title_zh: 向我们发送有关伊朗战争的问题
+    summary_zh: 报道战争、外交、能源和更广泛中东的《泰晤士报》记者正在加入我们的“询问记者”专题，作为冲突.
   - title: 'War on Iran: Iran allegedly targets the UAE'
     summary: After reports that Iran targeted the UAE with two ballistic missiles, the Emirates has suspended trade with Tehran.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss
@@ -539,6 +546,13 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares
+    summary: Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.
+    link: https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html
+    source: US Top News and Analysis
+    time: 08-19 23:09
+    title_zh: Marvell在人工智能芯片交易中获得6%的支持，谷歌将购买高达122亿美元的股票
+    summary_zh: 谷歌及其竞争对手一直在寻求定制芯片，以提高效率并减少对英伟达的依赖。
   - title: Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region
     summary: Nvidia is trying to connect GPU customers with Nordic data-center operators as cheap power and available land fuel the region’s AI infrastru…
     link: https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html
