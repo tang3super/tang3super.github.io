@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 04:59
+last_updated: 2026-08-20 05:29
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts'
+    summary: Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say.
+    link: https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-20 05:01
+    title_zh: 林肯号航空母舰的困境凸显了美国海军在长期伊朗战争中的局限性：专家
+    summary_zh: 专家表示，有关严峻形势的报道突显了供应挑战，以及美国计划的前景问题。
   - title: Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan
     summary: Citizens and entities would have to seek authorisation to contact universities or talk to foreign media.
     link: https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss
