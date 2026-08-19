@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 17:35
+last_updated: 2026-08-19 18:02
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -371,6 +371,20 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: Ukraine’s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky
+    summary: Mykhailo Fedorov, a popular young leader who was fired last month, said Russia should not be allowed to dictate when Ukrainians can choose t…
+    link: https://www.nytimes.com/2026/08/19/world/europe/ukraine-fedorov-zelensky-elections.html
+    source: NYT > World News
+    time: 08-19 17:36
+    title_zh: 乌克兰前国防部长呼吁举行选举，巩固与泽连斯基的决裂
+    summary_zh: 上个月被解雇的受欢迎的年轻领导人米哈伊洛·费多罗夫表示，不应该让俄罗斯决定乌克兰人何时可以选择……
+  - title: Dollar risks are mounting. Here’s what could weaken the greenback
+    summary: Currency strategists flag Treasury risk, softer U.S. data and uncertain Fed policy as key factors that could pressure the dollar.
+    link: https://www.cnbc.com/2026/08/19/inflation-dollar-risks-fed.html
+    source: US Top News and Analysis
+    time: 08-19 17:32
+    title_zh: 美元风险正在增加。以下是可能削弱美元的因素
+    summary_zh: 外汇策略师将财政部风险、美国数据疲软和美联储政策不确定视为可能对美元施压的关键因素。
   - title: Treasury yields pull back from multi-decade highs ahead of FOMC minutes
     summary: The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — fell 2 basis points to 4.686%.
     link: https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html
@@ -484,6 +498,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Nvidia credit risk gauge hits new peak as SoftBank readies record bond issue
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-credit-risk-gauge-hits-new-peak-as-softbank-readies-record-bond-issue-4866761
+    source: Stock Market News
+    time: 08-19 17:26
+    title_zh: 软银准备发行创纪录的债券，Nvidia信用风险指标达到新高
   - title: SK Hynix to buy back $28 bln in treasury shares
     summary: ''
     link: https://www.investing.com/news/stock-market-news/sk-hynix-to-buy-back-28-bln-in-treasury-shares-4866528
