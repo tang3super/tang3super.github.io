@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 07:59
+last_updated: 2026-08-19 09:28
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’'
+    summary: Trump says no talks with Tehran scheduled; Iranian Foreign Minister Abbas Araghchi claims US 'begging' for negotiations.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-19 08:00
+    title_zh: 伊朗战争直播：特朗普否认伊朗谈判，德黑兰声称美国“乞求”
+    summary_zh: 特朗普表示没有计划与德黑兰举行会谈;伊朗外交部长阿巴斯·阿拉奇声称美国“恳求”谈判。
+  - title: Democrats call for USS Lincoln probe, question US Navy’s readiness
+    summary: Lawmakers question whether conditions on the aircraft carrier indicate a 'pattern' of poor planning amid the Iran war.
+    link: https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-19 07:45
+    title_zh: 民主党呼吁对林肯号进行调查，质疑美国海军的准备情况
+    summary_zh: 立法者质疑航空母舰上的状况是否表明伊朗战争期间计划不周的“模式”。
   - title: Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal
     summary: US president hits out as states bordering the Strait of Hormuz continue talks on managing the strategic waterway.
     link: https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss
