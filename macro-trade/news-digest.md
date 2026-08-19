@@ -5,11 +5,17 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 19:52
+last_updated: 2026-08-19 20:16
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Global bonds pull back from historic yield peaks as Hormuz traffic thins
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/global-bond-rout-pauses-as-sovereign-yields-back-off-multidecade-highs-4866597
+    source: Stock Market News
+    time: 08-19 20:11
+    title_zh: 随着霍尔木兹交通量减少，全球债券收益率从历史峰值回落
   - title: U.A.E. Halts Trade Ties With Iran and Says It Was Targeted With Missiles
     summary: The Emirates has long been a major trading hub for Iran, and analysts say it has been key to Iranian efforts to evade international sanction…
     link: https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html
@@ -378,6 +384,13 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: In Ukraine, forcible military recruitment efforts escalate into violence
+    summary: '''Busification'', the term describing being captured on the street, is engulfed by abuse and corruption.'
+    link: https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-19 19:47
+    title_zh: 在乌克兰，强行征兵活动升级为暴力
+    summary_zh: “商业化”是一个描述在街上被捕的术语，它被虐待和腐败所吞没。
   - title: Ukraine’s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky
     summary: Mykhailo Fedorov, a popular young leader who was fired last month, said Russia should not be allowed to dictate when Ukrainians can choose t…
     link: https://www.nytimes.com/2026/08/19/world/europe/ukraine-fedorov-zelensky-elections.html
@@ -505,6 +518,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Why is SK hynix stock rallying today?
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-rallying-today-93CH-4867318
+    source: Stock Market News
+    time: 08-19 20:08
+    title_zh: SK hynix股价为何今天上涨？
   - title: The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole
     summary: Chinese AI firms have reportedly accessed advanced Nvidia computing power overseas, testing U.S. export controls. Lawmakers weigh closing th…
     link: https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html
