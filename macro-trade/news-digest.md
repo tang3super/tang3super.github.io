@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 13:48
+last_updated: 2026-08-19 14:18
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -337,6 +337,13 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: Ukraine’s ousted defence minister calls for elections during war
+    summary: Mykhailo Fedorov's call is first such demand by a major Ukrainian political figure since Russia's full-scale invasion.
+    link: https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-19 13:59
+    title_zh: 乌克兰被罢黜的国防部长呼吁在战争期间举行选举
+    summary_zh: 米哈伊洛·费多罗夫的呼吁是自俄罗斯全面入侵以来乌克兰主要政治人物首次提出此类要求。
   - title: A Rescue Mission in Remote Colombia
     summary: Our photographer Federico Rios joined aid flights in Chocó to document earthquake rescue efforts in remote communities.
     link: https://www.nytimes.com/video/world/americas/100000011097252/a-rescue-mission-in-remote-colombia.html
