@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 01:54
+last_updated: 2026-08-20 02:19
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: NATO ‘prepared’ to defend allies amid report of Iranian strike plans
+    summary: NATO says it will 'do what is necessary' amid media report Iran considered strikes against US targets in Europe.
+    link: https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-20 01:50
+    title_zh: 北约“准备”在伊朗罢工计划的报告中保卫盟友
+    summary_zh: 北约表示，它将“采取必要措施”，因为媒体报道伊朗考虑打击美国在欧洲的目标。
   - title: 'Seven decades of US regime change efforts: What have they achieved?'
     summary: US interventions in Iran and beyond reveal a recurring pattern of regime changes, with high human and financial costs.
     link: https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved?traffic_source=rss
@@ -419,6 +426,26 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: Fed officials saw need for rate hike if inflation doesn't cool, minutes show
+    summary: The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.
+    link: https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html
+    source: US Top News and Analysis
+    time: 08-20 02:07
+    title_zh: 会议记录显示，如果通胀不降温，美联储官员认为有必要加息
+    summary_zh: 美联储周三公布了7月28日至29日政策会议纪要。
+  - title: Philadelphia Fed index and jobless claims due Thursday
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/philadelphia-fed-index-and-jobless-claims-due-thursday-93CH-4868016
+    source: Stock Market News
+    time: 08-20 02:00
+    title_zh: 费城联邦储备银行指数和申请失业救济人数将于周四到期
+  - title: Minutes of the Federal Open Market Committee, July 28–29, 2026
+    summary: Minutes of the Federal Open Market Committee, July 28–29, 2026
+    link: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm
+    source: 'FRB: Press Release - All Releases'
+    time: 08-20 02:00
+    title_zh: 联邦公开市场委员会会议记录，2026年7月28日至29日
+    summary_zh: 联邦公开市场委员会会议记录，2026年7月28日至29日
   - title: In Ukraine, forcible military recruitment efforts escalate into violence
     summary: '''Busification'', the term describing being captured on the street, is engulfed by abuse and corruption.'
     link: https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss
