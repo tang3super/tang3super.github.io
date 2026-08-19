@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 16:19
+last_updated: 2026-08-19 16:58
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -364,6 +364,13 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: Treasury yields pull back from multi-decade highs ahead of FOMC minutes
+    summary: The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — fell 2 basis points to 4.686%.
+    link: https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html
+    source: US Top News and Analysis
+    time: 08-19 16:33
+    title_zh: 美国国债收益率在FOMC会议纪要之前从数十年高点回落
+    summary_zh: 10年期美国国债收益率（美国政府借款的关键基准）下跌2个基点，至4.686%。
   - title: European stocks reel from worst day in a month; Lagarde, Fed minutes awaited
     summary: ''
     link: https://www.investing.com/news/stock-market-news/european-stocks-reel-from-worst-day-in-a-month-lagarde-fed-minutes-awaited-4866488
@@ -512,6 +519,13 @@ topics:
     source: Stock Market News
     time: 08-19 05:38
     title_zh: 穆迪确认英伟达对俄亥俄州数据中心交易的股票Aa 1评级
+  - title: Nvidia's AI moat is shifting from chips to capital
+    summary: Nvidia still has dominant market share in AI chips, but with competition picking up steam, the company is taking greater advantage of anothe…
+    link: https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html
+    source: US Top News and Analysis
+    time: 08-19 00:13
+    title_zh: 英伟达的人工智能护城河正在从芯片转向资本
+    summary_zh: 英伟达在人工智能芯片领域仍然占据主导地位，但随着竞争加剧，该公司正在更大地利用另一个.
   - title: S&P affirms Nvidia rating at AA on Ohio campus guarantee
     summary: ''
     link: https://www.investing.com/news/stock-market-news/sp-affirms-nvidia-rating-at-aa-on-ohio-campus-guarantee-93CH-4865664
@@ -530,13 +544,6 @@ topics:
     source: Stock Market News
     time: 08-18 21:47
     title_zh: 为什么SK hynix股价今天下滑？
-  - title: Nvidia's AI moat is shifting from chips to capital
-    summary: Nvidia still has dominant market share in AI chips, but with competition picking up steam, the company is taking greater advantage of anothe…
-    link: https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html
-    source: US Top News and Analysis
-    time: 08-18 19:00
-    title_zh: 英伟达的人工智能护城河正在从芯片转向资本
-    summary_zh: 英伟达在人工智能芯片领域仍然占据主导地位，但随着竞争加剧，该公司正在更大地利用另一个.
   - title: Nvidia or Sandisk? BofA reveals which stock is under-owned and which is crowded
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-or-sandisk-bofa-reveals-which-stock-is-underowned-and-which-is-crowded-4864782
