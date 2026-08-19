@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 09:28
+last_updated: 2026-08-19 10:39
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -416,6 +416,18 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: South Korea’s KOSPI briefly halts trade after 5% slide as SK Hynix, Samsung tumble
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/south-koreas-kospi-briefly-halts-trade-after-5-slide-as-sk-hynix-samsung-tumble-4866353
+    source: Stock Market News
+    time: 08-19 09:55
+    title_zh: 随着SK Hynix和三星暴跌，韩国KOSPI在下跌5%后短暂停止交易
+  - title: Why is SK Hynix stock tumbling today?
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-tumbling-today-93CH-4866304
+    source: Stock Market News
+    time: 08-19 09:21
+    title_zh: SK Hynix股价为何今天暴跌？
   - title: Moody’s affirms Nvidia stock Aa1 rating on Ohio data center deal
     summary: ''
     link: https://www.investing.com/news/stock-market-news/moodys-affirms-nvidia-stock-aa1-rating-on-ohio-data-center-deal-93CH-4866178
