@@ -5,11 +5,31 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 14:18
+last_updated: 2026-08-19 15:09
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran
+    summary: Washington and Tehran are considering next steps after negotiations fell apart, while the UAE has suspended trade with Iran.
+    link: https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html
+    source: US Top News and Analysis
+    time: 08-19 15:08
+    title_zh: 据报道，随着阿联酋断绝与德黑兰的贸易，伊朗正在考虑对美国在欧洲的目标发动袭击
+    summary_zh: 谈判破裂后，华盛顿和德黑兰正在考虑下一步行动，而阿联酋则暂停了与伊朗的贸易。
+  - title: 'South Africa to Australia: Why coal profits are surging during Iran war'
+    summary: Coal companies are reporting a huge rise in profits, but analysts say global clean energy transition is still on track.
+    link: https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-19 14:27
+    title_zh: 南非到澳大利亚：为什么伊朗战争期间煤炭利润飙升
+    summary_zh: 煤炭公司报告利润大幅增长，但分析师表示，全球清洁能源转型仍在正轨上。
+  - title: Bitcoin steady at $64k as markets parse U.S. regulations, Iran tensions
+    summary: ''
+    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-64k-as-markets-parse-us-regulations-iran-tensions-4866471
+    source: Cryptocurrency News
+    time: 08-19 14:20
+    title_zh: 随着市场解析美国法规和伊朗紧张局势，比特币稳定在6.4万美元
   - title: UAE imposes indefinite trade embargo on Iran over alleged missile attacks
     summary: Iran denies launching missiles at the UAE, suggesting the incident was a 'false flag operation'.
     link: https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss
@@ -337,6 +357,13 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: Zelenskyy faces challenge to his wartime rule as former defense chief calls for election
+    summary: Former Ukraine Defense Minister Mykhailo Fedorov has called for wartime elections, saying Kyiv must restore its democratic process despite t…
+    link: https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html
+    source: US Top News and Analysis
+    time: 08-19 15:06
+    title_zh: 前国防部长呼吁选举，泽连斯基战时统治面临挑战
+    summary_zh: 乌克兰前国防部长米哈伊洛·费多罗夫呼吁举行战时选举，称基辅必须恢复民主进程，尽管.
   - title: Ukraine’s ousted defence minister calls for elections during war
     summary: Mykhailo Fedorov's call is first such demand by a major Ukrainian political figure since Russia's full-scale invasion.
     link: https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss
