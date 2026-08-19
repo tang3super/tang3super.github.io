@@ -2,14 +2,28 @@
 layout: news-digest
 permalink: /macro-trade/news-digest/
 title: 新闻监控
-date: '2026-08-19'
+date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 23:40
+last_updated: 2026-08-20 00:02
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Seven decades of US regime change efforts: What have they achieved?'
+    summary: US interventions in Iran and beyond reveal a recurring pattern of regime changes, with high human and financial costs.
+    link: https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-19 23:46
+    title_zh: 美国七十年来政权更迭的努力：他们取得了哪些成就？
+    summary_zh: 美国对伊朗及其他地区的干预揭示了政权更迭的反复模式，造成了高昂的人力和财政成本。
+  - title: UAE severs trade with Iran after reported missile strike
+    summary: Washington and Tehran are considering next steps after negotiations fell apart, while the UAE has suspended trade with Iran.
+    link: https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html
+    source: US Top News and Analysis
+    time: 08-19 23:38
+    title_zh: 据报道，阿联酋在导弹袭击后断绝与伊朗的贸易
+    summary_zh: 谈判破裂后，华盛顿和德黑兰正在考虑下一步行动，而阿联酋则暂停了与伊朗的贸易。
   - title: Send Us Your Questions About the Iran War
     summary: Times reporters who cover the war, diplomacy, energy and the broader Middle East are joining our “Ask a Correspondent” feature as the confli…
     link: https://www.nytimes.com/2026/08/19/world/iran-war-reader-questions.html
@@ -71,13 +85,6 @@ topics:
     time: 08-19 16:00
     title_zh: 伊朗战争：特朗普再次尝试经济压力
     summary_zh: 伊朗经历了数十年的制裁。分析人士表示，面对更多情况，局势可能会升级而不是投降。
-  - title: Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran
-    summary: Washington and Tehran are considering next steps after negotiations fell apart, while the UAE has suspended trade with Iran.
-    link: https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html
-    source: US Top News and Analysis
-    time: 08-19 15:08
-    title_zh: 据报道，随着阿联酋断绝与德黑兰的贸易，伊朗正在考虑对美国在欧洲的目标发动袭击
-    summary_zh: 谈判破裂后，华盛顿和德黑兰正在考虑下一步行动，而阿联酋则暂停了与伊朗的贸易。
   - title: 'South Africa to Australia: Why coal profits are surging during Iran war'
     summary: Coal companies are reporting a huge rise in profits, but analysts say global clean energy transition is still on track.
     link: https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss
