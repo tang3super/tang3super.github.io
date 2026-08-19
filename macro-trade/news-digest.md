@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 18:37
+last_updated: 2026-08-19 18:59
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: U.A.E. Halts Trade Ties With Iran and Says It Was Targeted With Missiles
+    summary: The Emirates has long been a major trading hub for Iran, and analysts say it has been key to Iranian efforts to evade international sanction…
+    link: https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html
+    source: NYT > World News
+    time: 08-19 18:39
+    title_zh: 阿联酋停止与伊朗的贸易关系并称其遭到导弹袭击
+    summary_zh: 阿联酋长期以来一直是伊朗的主要贸易中心，分析人士表示，它一直是伊朗逃避国际制裁的关键……
   - title: How the Iran War Made Africa’s Richest Man Even Richer
     summary: Africans have turned to one of their own for fuel as the world’s supplies run low. But they are not the only ones with the continent’s riche…
     link: https://www.nytimes.com/2026/08/19/world/africa/dangote-iran-refinery-oil-nigeria.html
