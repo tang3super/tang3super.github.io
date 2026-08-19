@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 11:28
+last_updated: 2026-08-19 12:07
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: UAE imposes indefinite trade embargo on Iran over alleged missile attacks
+    summary: Iran denies launching missiles at the UAE, suggesting the incident was a 'false flag operation'.
+    link: https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-19 11:34
+    title_zh: 阿联酋因涉嫌导弹袭击对伊朗实施无限期贸易禁运
+    summary_zh: 伊朗否认向阿联酋发射导弹，暗示该事件是一次“假旗行动”。
   - title: 'Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’'
     summary: Trump says no talks with Tehran scheduled; Iranian Foreign Minister Abbas Araghchi claims US 'begging' for negotiations.
     link: https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss
