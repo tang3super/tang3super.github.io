@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 04:02
+last_updated: 2026-08-20 04:38
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -433,6 +433,13 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed
+    summary: Treasury's move to buy back more long-term debt cooled a bond selloff, but economists warn it could raise new inflation and independence que…
+    link: https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html
+    source: US Top News and Analysis
+    time: 08-20 04:02
+    title_zh: 贝森特采取措施抑制国债收益率，给沃什领导的美联储带来新的压力
+    summary_zh: 财政部回购更多长期债务的举措冷却了债券抛售，但经济学家警告称，这可能会引发新的通胀和独立压力.
   - title: Protests in Kyiv back ex-defence minister Fedorov’s call for elections
     summary: Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo Fedorov.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss
