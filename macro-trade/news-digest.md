@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 21:57
+last_updated: 2026-08-19 22:31
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -539,6 +539,13 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region
+    summary: Nvidia is trying to connect GPU customers with Nordic data-center operators as cheap power and available land fuel the region’s AI infrastru…
+    link: https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html
+    source: US Top News and Analysis
+    time: 08-19 22:25
+    title_zh: 消息人士告诉CNBC，Nvidia在北欧扮演媒人，因为AI数据中心交易在该地区蓬勃发展
+    summary_zh: Nvidia正试图将图形处理器客户与北欧数据中心运营商连接起来，因为廉价的电力和可用的土地燃料该地区的人工智能基础设施.
   - title: Why is SK hynix stock rallying today?
     summary: ''
     link: https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-rallying-today-93CH-4867318
