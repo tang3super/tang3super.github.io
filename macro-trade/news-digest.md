@@ -5,11 +5,32 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 20:16
+last_updated: 2026-08-19 21:12
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'War on Iran: Iran allegedly targets the UAE'
+    summary: After reports that Iran targeted the UAE with two ballistic missiles, the Emirates has suspended trade with Tehran.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-19 21:01
+    title_zh: 对伊朗战争：伊朗据称瞄准阿联酋
+    summary_zh: 在有报道称伊朗用两枚弹道导弹瞄准阿联酋后，阿联酋暂停了与德黑兰的贸易。
+  - title: US war on Iran puts Cambodian children’s education at risk
+    summary: US war on Iran puts Cambodian children’s education at risk
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/19/us-war-on-iran-puts-cambodian-childrens-education-at-risk?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-19 20:56
+    title_zh: 美国对伊朗的战争使柬埔寨儿童的教育处于危险之中
+    summary_zh: 美国对伊朗的战争使柬埔寨儿童的教育处于危险之中
+  - title: 'UAE trade embargo could shut Iran’s key economic escape route: Here’s why'
+    summary: The UAE announced the embargo, accusing Iran of launching missiles into its territory.
+    link: https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-19 20:37
+    title_zh: 阿联酋贸易禁运可能会关闭伊朗的关键经济逃生路线：原因如下
+    summary_zh: 阿联酋宣布禁运，指责伊朗向其领土发射导弹。
   - title: Global bonds pull back from historic yield peaks as Hormuz traffic thins
     summary: ''
     link: https://www.investing.com/news/stock-market-news/global-bond-rout-pauses-as-sovereign-yields-back-off-multidecade-highs-4866597
