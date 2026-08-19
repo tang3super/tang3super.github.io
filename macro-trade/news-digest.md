@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 02:19
+last_updated: 2026-08-20 02:57
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan
+    summary: Citizens and entities would have to seek authorisation to contact universities or talk to foreign media.
+    link: https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-20 02:21
+    title_zh: 伊朗强硬派议会对“外国渗透”计划表示担忧
+    summary_zh: 公民和实体必须寻求授权才能联系大学或与外国媒体交谈。
   - title: NATO ‘prepared’ to defend allies amid report of Iranian strike plans
     summary: NATO says it will 'do what is necessary' amid media report Iran considered strikes against US targets in Europe.
     link: https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss
