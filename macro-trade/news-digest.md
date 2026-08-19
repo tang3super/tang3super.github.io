@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 07:24
+last_updated: 2026-08-20 07:44
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers
+    summary: The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.
+    link: https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html
+    source: US Top News and Analysis
+    time: 08-20 07:25
+    title_zh: 特朗普宣布对伊朗进行“经济战”，威胁其支持者将面临“巨大”后果
+    summary_zh: 该声明延续了特朗普政府自四月份以来在“经济愤怒行动”的旗帜下发起的施压运动。
+  - title: Trump announces ‘most crushing economic operation ever’ against Iran
+    summary: US president also says any country that trades with Iran will 'face tremendous economic consequences'.
+    link: https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-20 07:18
+    title_zh: 特朗普宣布针对伊朗进行“有史以来最具破坏性的经济行动”
+    summary_zh: 美国总统还表示，任何与伊朗进行贸易的国家都将“面临巨大的经济后果”。
   - title: What to Know About Iran’s Economic Ties With Gulf Countries
     summary: The United Arab Emirates, Iran’s most important regional trading partner, announced a total embargo on transactions with Tehran on Tuesday.
     link: https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html
