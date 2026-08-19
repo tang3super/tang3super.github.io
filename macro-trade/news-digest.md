@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 06:10
+last_updated: 2026-08-20 06:39
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: What to Know About Iran’s Economic Ties With Gulf Countries
+    summary: The United Arab Emirates, Iran’s most important regional trading partner, announced a total embargo on transactions with Tehran on Tuesday.
+    link: https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html
+    source: NYT > World News
+    time: 08-20 06:12
+    title_zh: 了解伊朗与海湾国家的经济关系
+    summary_zh: 伊朗最重要的地区贸易伙伴阿拉伯联合酋长国周二宣布全面禁止与德黑兰的交易。
   - title: 'USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts'
     summary: Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say.
     link: https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss
