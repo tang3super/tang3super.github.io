@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 15:52
+last_updated: 2026-08-19 16:19
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran war: Trump tries economic pressure — again'
+    summary: Iran has survived decades of sanctions. Faced with more, it is likely to escalate rather than surrender, analysts said.
+    link: https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html
+    source: NYT > World News
+    time: 08-19 16:00
+    title_zh: 伊朗战争：特朗普再次尝试经济压力
+    summary_zh: 伊朗经历了数十年的制裁。分析人士表示，面对更多情况，局势可能会升级而不是投降。
   - title: Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran
     summary: Washington and Tehran are considering next steps after negotiations fell apart, while the UAE has suspended trade with Iran.
     link: https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html
