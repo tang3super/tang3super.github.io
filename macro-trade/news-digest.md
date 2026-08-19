@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 12:07
+last_updated: 2026-08-19 12:49
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -423,6 +423,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: SK Hynix union finalising preliminary wage deal- Reuters
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/sk-hynix-union-finalising-preliminary-wage-deal-reuters-93CH-4866409
+    source: Stock Market News
+    time: 08-19 11:56
+    title_zh: SK海力士工会敲定初步工资协议-路透社
   - title: Nvidia H200 chips reach China in small shipments, FT reports
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-h200-chips-reach-china-in-small-shipments-ft-reports-4866385
