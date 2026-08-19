@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 16:58
+last_updated: 2026-08-19 17:35
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: How the Iran War Made Africa’s Richest Man Even Richer
+    summary: Africans have turned to one of their own for fuel as the world’s supplies run low. But they are not the only ones with the continent’s riche…
+    link: https://www.nytimes.com/2026/08/19/world/africa/dangote-iran-refinery-oil-nigeria.html
+    source: NYT > World News
+    time: 08-19 17:00
+    title_zh: 伊朗战争如何让非洲首富变得更加富有
+    summary_zh: 由于世界供应不足，非洲人转向自己的燃料。但他们并不是唯一拥有非洲大陆财富的人.
   - title: 'Iran war: Trump tries economic pressure — again'
     summary: Iran has survived decades of sanctions. Faced with more, it is likely to escalate rather than surrender, analysts said.
     link: https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html
