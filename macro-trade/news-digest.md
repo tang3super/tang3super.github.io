@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 18:02
+last_updated: 2026-08-19 18:37
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -498,6 +498,13 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole
+    summary: Chinese AI firms have reportedly accessed advanced Nvidia computing power overseas, testing U.S. export controls. Lawmakers weigh closing th…
+    link: https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html
+    source: US Top News and Analysis
+    time: 08-19 18:32
+    title_zh: 美国禁止英伟达最好的芯片销往中国。现在它正在试图堵住一个关键漏洞
+    summary_zh: 据报道，中国人工智能公司已在海外获得先进的英伟达计算能力，测试美国的出口管制。立法者权衡关闭.
   - title: Nvidia credit risk gauge hits new peak as SoftBank readies record bond issue
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-credit-risk-gauge-hits-new-peak-as-softbank-readies-record-bond-issue-4866761
