@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 04:38
+last_updated: 2026-08-20 04:59
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -433,6 +433,13 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: Trump bemoans Fed interest rate policy, says U.S. should be paying much less
+    summary: As he has done in the past, Trump accused Fed officials of having political motives.
+    link: https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html
+    source: US Top News and Analysis
+    time: 08-20 04:32
+    title_zh: 特朗普哀叹美联储利率政策，称美国应该少付一些钱
+    summary_zh: 正如他过去所做的那样，特朗普指责美联储官员有政治动机。
   - title: Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed
     summary: Treasury's move to buy back more long-term debt cooled a bond selloff, but economists warn it could raise new inflation and independence que…
     link: https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html
