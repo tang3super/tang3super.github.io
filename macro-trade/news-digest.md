@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-19'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-19 10:39
+last_updated: 2026-08-19 11:28
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -416,6 +416,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Nvidia H200 chips reach China in small shipments, FT reports
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-h200-chips-reach-china-in-small-shipments-ft-reports-4866385
+    source: Stock Market News
+    time: 08-19 11:12
+    title_zh: 据英国《金融时报》报道，Nvidia H200芯片少量发货抵达中国
   - title: South Korea’s KOSPI briefly halts trade after 5% slide as SK Hynix, Samsung tumble
     summary: ''
     link: https://www.investing.com/news/stock-market-news/south-koreas-kospi-briefly-halts-trade-after-5-slide-as-sk-hynix-samsung-tumble-4866353
