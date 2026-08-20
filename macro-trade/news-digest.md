@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 12:49
+last_updated: 2026-08-20 13:18
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump vows ‘economic warfare’ on countries helping Iran
+    summary: US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-20 12:31
+    title_zh: 特朗普发誓要对帮助伊朗的国家进行“经济战”
+    summary_zh: 美国总统唐纳德·特朗普威胁要对任何帮助伊朗或与伊朗做生意的国家进行“经济登陆日”。
   - title: Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance
     summary: Trump's order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.
     link: https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss
@@ -656,6 +663,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: 'SK Hynix tests Ichimoku cloud top at 1,725,000 KRW: Live levels'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/sk-hynix-tests-200-sma-after-43-rally-live-levels-93CH-4864162
+    source: Stock Market News
+    time: 08-20 13:07
+    title_zh: SK Hynix以1，725，000克朗的价格测试Ichimoku云顶部：实时水平
   - title: SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback
     summary: Shares of SK Hynix surged over 12% in Seoul after the company announced a massive stock buyback.
     link: https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html
@@ -793,12 +806,6 @@ topics:
     source: Stock Market News
     time: 08-18 17:48
     title_zh: 英伟达财报：为什么美国银行称8月26日财报将是关键时刻
-  - title: 'SK Hynix tests 200 SMA after +43% rally: Live levels'
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/sk-hynix-tests-200-sma-after-43-rally-live-levels-93CH-4864162
-    source: Stock Market News
-    time: 08-18 09:07
-    title_zh: SK Hynix上涨+43%后测试200平均汇率：实时水平
   - title: Nvidia financing initiative follows SEC guidance that takes sponsors off the hook for data center investments
     summary: Recent SEC instructions on data center bonds appear applicable to the recent Nvidia financing move, lawyers say.
     link: https://www.cnbc.com/2026/08/17/nvidia-financing-initiative-follows-sec-guidance-taking-sponsors-off-the-hook.html
