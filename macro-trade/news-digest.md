@@ -5,11 +5,32 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 23:03
+last_updated: 2026-08-20 23:43
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure
+    summary: The Trump administration's plan to crush Iran's economy will likely negate the need for further U.S. military operations, Treasury Secretary…
+    link: https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html
+    source: US Top News and Analysis
+    time: 08-20 23:40
+    title_zh: 贝森特表示，随着美国加大经济压力，美国可能不会重启大规模伊朗战斗
+    summary_zh: 特朗普政府摧毁伊朗经济的计划可能会消除美国进一步军事行动的必要性，财政部长……
+  - title: How China and Russia could hobble Trump’s plans to isolate Iran
+    summary: Iran's deep trade ties with Beijing and Moscow could prove difficult for the US to disrupt, say analysts.
+    link: https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-20 22:55
+    title_zh: 中国和俄罗斯如何阻碍特朗普孤立伊朗的计划
+    summary_zh: 分析人士表示，美国可能很难破坏伊朗与北京和莫斯科的深厚贸易关系。
+  - title: '‘Tremendous costs’: Can Trump stop other countries from trading with Iran?'
+    summary: Iran's foreign minister has dismissed Trump’s latest threats, calling them a “diversion" from America’s own crisis."
+    link: https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-20 22:40
+    title_zh: “巨大的成本”：特朗普能否阻止其他国家与伊朗进行贸易？
+    summary_zh: 伊朗外交部长驳斥了特朗普的最新威胁，称这些威胁是对美国自身危机的“转移注意力”。"
   - title: Trump Threat Puts Focus on Iran’s Trading Partners
     summary: President Trump appeared to suggest that the United States would impose economic penalties on countries that do business with Iran, though h…
     link: https://www.nytimes.com/2026/08/20/world/middleeast/iran-trade-trump-threat-china.html
@@ -534,27 +555,6 @@ topics:
     time: 08-17 12:01
     title_zh: 美国和伊朗突破最后期限，达成结束战争的广泛协议
     summary_zh: 特朗普总统表示，6月份达成的停火协议将导致限制伊朗核计划并结束冲突，但两国.
-  - title: Rare Pallas’s cat captured on camera in northern Iran mountains
-    summary: Footage shows a rare sighting of one of Iran’s most elusive wild felines.
-    link: https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-17 10:55
-    title_zh: 伊朗北部山区的罕见帕拉斯猫被摄像机捕捉到
-    summary_zh: 视频显示，伊朗最难以捉摸的野生猫科动物之一的罕见目击。
-  - title: Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects
-    summary: Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government denies detaining any Iranian…
-    link: https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html
-    source: NYT > World News
-    time: 08-17 10:43
-    title_zh: 伊朗称卡塔尔几个月前俘虏了其飞行员，卡塔尔拒绝了这一说法
-    summary_zh: 伊朗表示，这些飞行员自3月2日战斗机被击落以来一直被关押。卡塔尔政府否认拘留任何伊朗人……
-  - title: 'Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner'
-    summary: Hamas calls on Board of Peace to 'compel' Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.
-    link: https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-17 08:00
-    title_zh: 伊朗战争直播：德黑兰与美国谅解备忘录即将到期;哈马斯的海亚会见库什纳
-    summary_zh: 哈马斯在开罗会见贾里德·库什纳后呼吁和平委员会“迫使”以色列接受加沙和平计划。
 - name: 货币政策
   items:
   - title: Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch
