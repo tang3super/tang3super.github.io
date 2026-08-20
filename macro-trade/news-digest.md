@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-21'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-21 03:59
+last_updated: 2026-08-21 04:34
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -557,6 +557,20 @@ topics:
     title_zh: 自美国上市以来，这3只国防股表现出色-伊朗战争
 - name: 货币政策
   items:
+  - title: Warsh faces Fed independence test as Bessent moves in on central bank's turf
+    summary: Bessent’s effort to tamp down long-term Treasury yields could force Warsh to clarify how far the Fed should go in coordinating on bonds and…
+    link: https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html
+    source: US Top News and Analysis
+    time: 08-21 04:02
+    title_zh: 贝森特进入央行地盘，沃什面临美联储独立性测试
+    summary_zh: 贝森特压低长期国债收益率的努力可能会迫使沃什澄清美联储应该在债券和..
+  - title: Federal Reserve Board announces approval of application by National Westminster Bank Plc
+    summary: Federal Reserve Board announces approval of application by National Westminster Bank Plc
+    link: https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm
+    source: 'FRB: Press Release - All Releases'
+    time: 08-21 04:00
+    title_zh: 美联储宣布批准国民威斯敏斯特银行的申请
+    summary_zh: 美联储宣布批准国民威斯敏斯特银行的申请
   - title: Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch
     summary: Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsc…
     link: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm
