@@ -5,11 +5,17 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 13:49
+last_updated: 2026-08-20 14:19
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Watch these U.S. stocks as oil prices surge on the Iran conflict
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/watch-these-us-stocks-as-oil-prices-surge-on-the-iran-conflict-93CH-4868717
+    source: Stock Market News
+    time: 08-20 13:44
+    title_zh: 随着伊朗冲突导致油价飙升，观看这些美国股票
   - title: Trump vows ‘economic warfare’ on countries helping Iran
     summary: US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss
