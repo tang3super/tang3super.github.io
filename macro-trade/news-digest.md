@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-21'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-21 03:01
+last_updated: 2026-08-21 03:37
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: US Treasury secretary says new economic measures will ‘collapse’ Iran
+    summary: Scott Bessent has not said if countries such as China could be targeted in an effort to economically isolate Tehran.
+    link: https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-21 03:11
+    title_zh: 美国财政部长称新经济措施将“摧毁”伊朗
+    summary_zh: 斯科特·贝森特没有透露中国等国家是否会成为经济孤立德黑兰的目标。
   - title: Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure
     summary: The Trump administration's plan to crush Iran's economy will likely negate the need for further U.S. military operations, Treasury Secretary…
     link: https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html
@@ -548,13 +555,6 @@ topics:
     source: Stock Market News
     time: 08-17 12:33
     title_zh: 自美国上市以来，这3只国防股表现出色-伊朗战争
-  - title: U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War
-    summary: President Trump said a cease-fire agreed in June would lead to limits on Iran’s nuclear program and finish the conflict, but the countries a…
-    link: https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html
-    source: NYT > World News
-    time: 08-17 12:01
-    title_zh: 美国和伊朗突破最后期限，达成结束战争的广泛协议
-    summary_zh: 特朗普总统表示，6月份达成的停火协议将导致限制伊朗核计划并结束冲突，但两国.
 - name: 货币政策
   items:
   - title: Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch
