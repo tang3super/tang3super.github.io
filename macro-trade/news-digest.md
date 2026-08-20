@@ -5,11 +5,39 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 16:30
+last_updated: 2026-08-20 17:07
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?
+    summary: For weeks, there has been no diplomatic progress, but also no full-scale fighting, as both sides seem to believe they can hold out longer th…
+    link: https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html
+    source: NYT > World News
+    time: 08-20 17:04
+    title_zh: 随着伊朗和美国陷入不安的对峙，谁会先眨眼？
+    summary_zh: 几周来，没有取得外交进展，也没有全面战斗，因为双方似乎都相信他们可以坚持更长时间。
+  - title: Why Your Next Long-Haul Layover May Be in Seoul, Not Dubai
+    summary: The Iran war has slashed transit traffic at Middle Eastern airports, creating opportunities for hubs in Asia and beyond — at least for now.
+    link: https://www.nytimes.com/2026/08/20/world/asia/iran-war-asia-airports-dubai.html
+    source: NYT > World News
+    time: 08-20 16:45
+    title_zh: 为什么您的下一次长途中转可能是在首尔，而不是迪拜
+    summary_zh: 伊朗战争大幅削减了中东机场的过境交通，为亚洲及其他地区的枢纽创造了机会--至少目前是这样。
+  - title: Are Hormuz ships more willing to defy Iran or the US? What the data shows
+    summary: Most ships are trying to mask identities while trying to cross the strait. But more seem scared of Iran than of the US.
+    link: https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-20 16:43
+    title_zh: 霍尔木兹船只更愿意反抗伊朗还是美国？数据显示什么
+    summary_zh: 大多数船只在试图穿越海峡时都试图掩盖身份。但似乎更害怕伊朗而不是美国。
+  - title: 'Heatwaves and energy crunch: Can Europe withstand a double shock?'
+    summary: Heatwaves are squeezing growth and productivity while the Iran war drives up Europe's energy costs.
+    link: https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-20 16:24
+    title_zh: 热浪和能源紧缩：欧洲能否承受双重冲击？
+    summary_zh: 热浪正在挤压经济增长和生产力，而伊朗战争推高了欧洲的能源成本。
   - title: Somali pirate menace returns as U.S.-Iran war stokes regional chaos and saps enforcement resources
     summary: Somali piracy incidents have resurged in the Red Sea region in recent times, especially since the U.S.-Iran war kicked off-major concern for…
     link: https://www.cnbc.com/2026/08/20/somali-pirates-return-iran-war.html
