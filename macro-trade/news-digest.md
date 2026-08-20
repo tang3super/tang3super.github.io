@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-21'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-21 05:32
+last_updated: 2026-08-21 05:56
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: The Message Behind Trump’s Threats of ‘Economic Warfare’ Against Iran
+    summary: President Trump’s threats of an “economic D-Day” carry a clear signal to Iran that he does not want to go back to war.
+    link: https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html
+    source: NYT > World News
+    time: 08-21 05:45
+    title_zh: 特朗普对伊朗发动“经济战”威胁背后的信息
+    summary_zh: 特朗普总统威胁“经济诺曼底登陆日”，向伊朗发出了一个明确的信号，表明他不想重返战争。
   - title: US Treasury secretary says new economic measures will ‘collapse’ Iran
     summary: Scott Bessent has not said if countries such as China could be targeted in an effort to economically isolate Tehran.
     link: https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran?traffic_source=rss
@@ -549,12 +556,6 @@ topics:
     time: 08-17 13:16
     title_zh: 伊朗最高谈判代表宣布与美国和以色列的战争胜利
     summary_zh: 伊朗议会议长兼高级谈判代表穆罕默德·巴克尔·卡利巴夫宣布军事和政治胜利。
-  - title: These 3 defense stocks have outperformed since the onset of the U.S.-Iran war
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/these-3-defense-stocks-have-outperformed-since-the-onset-of-the-usiran-war-93CH-4862121
-    source: Stock Market News
-    time: 08-17 12:33
-    title_zh: 自美国上市以来，这3只国防股表现出色-伊朗战争
 - name: 货币政策
   items:
   - title: Warsh faces Fed independence test as Bessent moves in on central bank's turf
