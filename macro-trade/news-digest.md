@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 14:19
+last_updated: 2026-08-20 15:11
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -669,6 +669,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: SK Hynix reaches deal to pay 60% of bonuses in company shares- Reuters
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/sk-hynix-reaches-deal-to-pay-60-of-bonuses-in-company-shares-reuters-93CH-4868775
+    source: Stock Market News
+    time: 08-20 14:48
+    title_zh: SK Hynix达成协议，以公司股票形式支付60%的奖金-路透社
   - title: 'SK Hynix tests Ichimoku cloud top at 1,725,000 KRW: Live levels'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/sk-hynix-tests-200-sma-after-43-rally-live-levels-93CH-4864162
