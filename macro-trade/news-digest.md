@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 21:54
+last_updated: 2026-08-20 22:26
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump Threat Puts Focus on Iran’s Trading Partners
+    summary: President Trump appeared to suggest that the United States would impose economic penalties on countries that do business with Iran, though h…
+    link: https://www.nytimes.com/2026/08/20/world/middleeast/iran-trade-trump-threat-china.html
+    source: NYT > World News
+    time: 08-20 22:12
+    title_zh: 特朗普威胁将焦点放在伊朗贸易伙伴身上
+    summary_zh: 特朗普总统似乎暗示，美国将对与伊朗做生意的国家实施经济惩罚，尽管他说。
   - title: 'War on Iran: Trump announces a new campaign to isolate Iran economically'
     summary: US President Donald Trump has announced a new campaign to isolate Iran and punish its trading partners.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss
@@ -548,15 +555,15 @@ topics:
     time: 08-17 08:00
     title_zh: 伊朗战争直播：德黑兰与美国谅解备忘录即将到期;哈马斯的海亚会见库什纳
     summary_zh: 哈马斯在开罗会见贾里德·库什纳后呼吁和平委员会“迫使”以色列接受加沙和平计划。
-  - title: 'US-Iran MoU is set to expire: What to know'
-    summary: Both sides accused the other of violating the June agreement shortly after it was signed.
-    link: https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-17 04:28
-    title_zh: 美伊谅解备忘录即将到期：需要了解什么
-    summary_zh: 双方都指责对方在六月协议签署后不久违反了协议。
 - name: 货币政策
   items:
+  - title: Ex-defence chief’s call for wartime election raises pressure on Zelenskyy
+    summary: Fedorov, a popular figure, is challenging Zelenskyy but holding a vote under Russia's bombs is near impossible.
+    link: https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-20 21:32
+    title_zh: 前国防部长呼吁战时选举给泽连斯基带来压力
+    summary_zh: 费多罗夫是一位受欢迎的人物，他正在挑战泽连斯基，但在俄罗斯的轰炸下举行投票几乎是不可能的。
   - title: U.S. stock futures rise on easing Treasury yields; Fed minutes in focus
     summary: ''
     link: https://www.investing.com/news/stock-market-news/us-stock-futures-rise-on-easing-treasury-yields-fed-minutes-in-focus-4868458
@@ -738,6 +745,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: 'NVIDIA coiled in tight $5 range at $217: Hourly levels'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-stalls-near-22750-double-top-live-levels-93CH-4863473
+    source: Stock Market News
+    time: 08-20 22:17
+    title_zh: NVIDIA在217美元的时候紧紧地盘绕在5美元的范围内：每小时水平
   - title: SK Hynix reaches deal to pay 60% of bonuses in company shares- Reuters
     summary: ''
     link: https://www.investing.com/news/stock-market-news/sk-hynix-reaches-deal-to-pay-60-of-bonuses-in-company-shares-reuters-93CH-4868775
