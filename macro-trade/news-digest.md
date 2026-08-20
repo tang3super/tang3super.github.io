@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-21'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-21 05:56
+last_updated: 2026-08-21 06:21
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: '2 Hijackings in 4 Days: Somali Piracy Surges'
+    summary: Experts worry that the conflict in Iran and other regional dynamics are setting the stage for a Somali pirates’ comeback.
+    link: https://www.nytimes.com/2026/08/20/world/africa/2-hijackings-in-4-days-somali-piracy-surges.html
+    source: NYT > World News
+    time: 08-21 05:58
+    title_zh: 4天内发生2起劫持事件：索马里海盗激增
+    summary_zh: 专家担心，伊朗冲突和其他地区动态正在为索马里海盗的卷土重来奠定基础。
   - title: The Message Behind Trump’s Threats of ‘Economic Warfare’ Against Iran
     summary: President Trump’s threats of an “economic D-Day” carry a clear signal to Iran that he does not want to go back to war.
     link: https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html
@@ -549,13 +556,6 @@ topics:
     time: 08-17 13:18
     title_zh: 日本汽车制造商容易受到伊朗战争的双重打击，日元上涨
     summary_zh: 日本汽车制造商容易受到伊朗战争的双重打击，日元上涨
-  - title: Iran’s top negotiator declares victory in war against the US and Israel
-    summary: Iran’s Parliament speaker and top negotiator Mohammad Baqer Qalibaf has declared both a military and political victory.
-    link: https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-17 13:16
-    title_zh: 伊朗最高谈判代表宣布与美国和以色列的战争胜利
-    summary_zh: 伊朗议会议长兼高级谈判代表穆罕默德·巴克尔·卡利巴夫宣布军事和政治胜利。
 - name: 货币政策
   items:
   - title: Warsh faces Fed independence test as Bessent moves in on central bank's turf
