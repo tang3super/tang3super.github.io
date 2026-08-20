@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-21'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-21 01:13
+last_updated: 2026-08-21 01:51
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -759,6 +759,18 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Nvidia to ship AI chip for China by year-end, The Information reports
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-to-ship-ai-chip-for-china-by-yearend-the-information-reports-4870258
+    source: Stock Market News
+    time: 08-21 01:36
+    title_zh: 据《信息报》报道，英伟达将在年底前向中国发货人工智能芯片
+  - title: Nvidia plans China AI return with new specialized chip, report says
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-plans-china-ai-return-with-new-specialized-chip-report-says-4870265
+    source: Stock Market News
+    time: 08-21 01:24
+    title_zh: 报告称，英伟达计划带着新的专用芯片重返中国人工智能
   - title: 'NVIDIA coiled in tight $5 range at $217: Hourly levels'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-stalls-near-22750-double-top-live-levels-93CH-4863473
