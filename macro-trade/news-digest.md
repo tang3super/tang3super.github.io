@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-21'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-21 07:11
+last_updated: 2026-08-21 07:39
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Houthis and government trade attacks as Yemen slides back to full-scale war
+    summary: Gov't forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.
+    link: https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-21 07:19
+    title_zh: 也门重新陷入全面战争，胡塞武装和政府贸易袭击
+    summary_zh: 胡塞武装声称袭击了沙特阿拉伯的两个目标，政府部队在过去24小时内发动了81次袭击。
   - title: '2 Hijackings in 4 Days: Somali Piracy Surges'
     summary: Experts worry that the conflict in Iran and other regional dynamics are setting the stage for a Somali pirates’ comeback.
     link: https://www.nytimes.com/2026/08/20/world/africa/2-hijackings-in-4-days-somali-piracy-surges.html
@@ -549,13 +556,6 @@ topics:
     time: 08-17 14:16
     title_zh: 特朗普命令五角大楼减少与盟友韩国的军事演习
     summary_zh: 总统在社交媒体帖子中斥责韩国没有帮助伊朗无核化，并赞扬了朝鲜及其领导人。
-  - title: Japanese automakers vulnerable to one-two punch of Iran war, yen rally
-    summary: Japanese automakers vulnerable to one-two punch of Iran war, yen rally
-    link: https://www.cnbc.com/2026/08/17/japanese-automakers-vulnerable-iran-war-yen-rally.html
-    source: US Top News and Analysis
-    time: 08-17 13:18
-    title_zh: 日本汽车制造商容易受到伊朗战争的双重打击，日元上涨
-    summary_zh: 日本汽车制造商容易受到伊朗战争的双重打击，日元上涨
 - name: 货币政策
   items:
   - title: Warsh faces Fed independence test as Bessent moves in on central bank's turf
