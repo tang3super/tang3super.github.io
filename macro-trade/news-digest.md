@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 15:55
+last_updated: 2026-08-20 16:30
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Somali pirate menace returns as U.S.-Iran war stokes regional chaos and saps enforcement resources
+    summary: Somali piracy incidents have resurged in the Red Sea region in recent times, especially since the U.S.-Iran war kicked off-major concern for…
+    link: https://www.cnbc.com/2026/08/20/somali-pirates-return-iran-war.html
+    source: US Top News and Analysis
+    time: 08-20 16:15
+    title_zh: 索马里海盗威胁卷土重来，美国-伊朗战争加剧地区混乱并消耗执法资源
+    summary_zh: 索马里海盗事件近年来在红海地区死灰复燃，特别是自美国-伊朗战争拉开帷幕--主要关注.
+  - title: Oil flows nearly tripled before US-Iran MoU expired, analysis shows
+    summary: Some 374 million barrels of oil exited the Gulf during 60-day window covered by MoU, Kpler data shows.
+    link: https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-20 15:38
+    title_zh: 分析显示，在美伊谅解备忘录到期之前，石油流量几乎增加了两倍
+    summary_zh: Kpler数据显示，在谅解备忘录涵盖的60天窗口期内，约有3.74亿桶石油流出海湾地区。
   - title: 'FTSE 100 today: Stocks down as U.S.-Iran Hormuz standoff drags on'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-down-as-usiran-hormuz-standoff-drags-on-4868820
