@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 07:59
+last_updated: 2026-08-20 09:27
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran war live: Trump announces ‘most crushing’ Iran sanctions'
+    summary: Trump says Washington may resume talks with Tehran 'at some point'.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-20 08:00
+    title_zh: 伊朗战争直播：特朗普宣布对伊朗实施“最严厉”的制裁
+    summary_zh: 特朗普表示，华盛顿可能会“在某个时候”恢复与德黑兰的谈判。
   - title: Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers
     summary: The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.
     link: https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html
@@ -461,6 +468,12 @@ topics:
     summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
+  - title: U.S. stock futures rise on easing Treasury yields; Fed minutes in focus
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/us-stock-futures-rise-on-easing-treasury-yields-fed-minutes-in-focus-4868458
+    source: Stock Market News
+    time: 08-20 07:55
+    title_zh: 美国股市期货因美国国债收益率宽松而上涨;美联储会议纪要成为焦点
   - title: Trump bemoans Fed interest rate policy, says U.S. should be paying much less
     summary: As he has done in the past, Trump accused Fed officials of having political motives.
     link: https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html
@@ -636,6 +649,18 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Why is SK Hynix stock surging today?
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4868502
+    source: Stock Market News
+    time: 08-20 08:50
+    title_zh: SK Hynix股价为何今天飙升？
+  - title: SK Hynix shares rebound 8% after record $28.6 billion buyback plan
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/sk-hynix-shares-rebound-8-after-record-286-billion-buyback-plan-4868496
+    source: Stock Market News
+    time: 08-20 08:42
+    title_zh: SK Hynix股价在创纪录的286亿美元回购计划后反弹8%
   - title: Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares
     summary: Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.
     link: https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html
