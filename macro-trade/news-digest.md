@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 21:04
+last_updated: 2026-08-20 21:54
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'War on Iran: Trump announces a new campaign to isolate Iran economically'
+    summary: US President Donald Trump has announced a new campaign to isolate Iran and punish its trading partners.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-20 21:14
+    title_zh: 对伊朗战争：特朗普宣布在经济上孤立伊朗的新行动
+    summary_zh: 美国总统唐纳德·特朗普宣布了一项新的行动，以孤立伊朗并惩罚其贸易伙伴。
   - title: Oil prices rise 3% as Trump sharpens Iran rhetoric amid talks impasse
     summary: Oil moved higher early Thursday after U.S. President Donald Trump sharpened his rhetoric against Iran.
     link: https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html
@@ -548,13 +555,6 @@ topics:
     time: 08-17 04:28
     title_zh: 美伊谅解备忘录即将到期：需要了解什么
     summary_zh: 双方都指责对方在六月协议签署后不久违反了协议。
-  - title: Erdogan calls for Strait of Hormuz reopening amid oil disruption
-    summary: Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.
-    link: https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-17 03:18
-    title_zh: 埃尔多安呼吁在石油中断的情况下重新开放霍尔木兹海峡
-    summary_zh: 土耳其总统雷杰普·塔伊普·埃尔多安呼吁重新开放霍尔木兹海峡。
 - name: 货币政策
   items:
   - title: U.S. stock futures rise on easing Treasury yields; Fed minutes in focus
