@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 19:41
+last_updated: 2026-08-20 20:01
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Oil prices rise 3% as Trump sharpens Iran rhetoric amid talks impasse
+    summary: Oil moved higher early Thursday after U.S. President Donald Trump sharpened his rhetoric against Iran.
+    link: https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html
+    source: US Top News and Analysis
+    time: 08-20 19:59
+    title_zh: 特朗普在谈判僵局中加剧伊朗言论，油价上涨3%
+    summary_zh: 在美国总统唐纳德·特朗普加强针对伊朗的言论后，油价周四早些时候走高。
   - title: How conflict is making life more expensive for Iranians
     summary: How conflict is making life more expensive for Iranians
     link: https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss
