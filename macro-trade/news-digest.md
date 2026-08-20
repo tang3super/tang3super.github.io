@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 09:27
+last_updated: 2026-08-20 10:37
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance
+    summary: Trump's order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.
+    link: https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-20 09:56
+    title_zh: 伊朗与特朗普的争端动摇了韩国72年的联盟
+    summary_zh: 特朗普缩减军事演习的命令令首尔感到不安，重新引发了对美国安全保证的怀疑。
   - title: 'Iran war live: Trump announces ‘most crushing’ Iran sanctions'
     summary: Trump says Washington may resume talks with Tehran 'at some point'.
     link: https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss
