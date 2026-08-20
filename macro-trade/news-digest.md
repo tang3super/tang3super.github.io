@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 11:27
+last_updated: 2026-08-20 12:07
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -656,6 +656,13 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback
+    summary: Shares of SK Hynix surged over 12% in Seoul after the company announced a massive stock buyback.
+    link: https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html
+    source: US Top News and Analysis
+    time: 08-20 11:30
+    title_zh: SK Hynix宣布大规模股票回购后，首尔股价飙升逾12%
+    summary_zh: SK Hynix宣布大规模股票回购后，该公司在首尔的股价飙升逾12%。
   - title: Why is SK Hynix stock surging today?
     summary: ''
     link: https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4868502
