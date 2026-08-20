@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 17:07
+last_updated: 2026-08-20 17:47
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: How conflict is making life more expensive for Iranians
+    summary: How conflict is making life more expensive for Iranians
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-20 17:20
+    title_zh: 冲突如何使伊朗人的生活更加昂贵
+    summary_zh: 冲突如何使伊朗人的生活更加昂贵
   - title: As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?
     summary: For weeks, there has been no diplomatic progress, but also no full-scale fighting, as both sides seem to believe they can hold out longer th…
     link: https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html
@@ -31,6 +38,13 @@ topics:
     time: 08-20 16:43
     title_zh: 霍尔木兹船只更愿意反抗伊朗还是美国？数据显示什么
     summary_zh: 大多数船只在试图穿越海峡时都试图掩盖身份。但似乎更害怕伊朗而不是美国。
+  - title: Trump says Iran's economy is collapsing. A former central bank adviser in Tehran pushes back
+    summary: Iran's economy is deteriorating under the weight of mounting sanctions, but far from unraveling, a former adviser to Iran's central bank tol…
+    link: https://www.cnbc.com/2026/08/20/iran-economy-worries-trump-sanction-war-hormuz-uae-.html
+    source: US Top News and Analysis
+    time: 08-20 16:38
+    title_zh: 特朗普称伊朗经济正在崩溃。德黑兰一名前央行顾问反驳
+    summary_zh: 在日益严重的制裁的重压下，伊朗经济正在恶化，但伊朗央行的一位前顾问远未崩溃。
   - title: 'Heatwaves and energy crunch: Can Europe withstand a double shock?'
     summary: Heatwaves are squeezing growth and productivity while the Iran war drives up Europe's energy costs.
     link: https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss
