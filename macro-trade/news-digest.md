@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 22:26
+last_updated: 2026-08-20 23:03
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -557,6 +557,20 @@ topics:
     summary_zh: 哈马斯在开罗会见贾里德·库什纳后呼吁和平委员会“迫使”以色列接受加沙和平计划。
 - name: 货币政策
   items:
+  - title: Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch
+    summary: Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsc…
+    link: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm
+    source: 'FRB: Press Release - All Releases'
+    time: 08-20 23:00
+    title_zh: 联邦储备委员会对SouthPoint Bancshares，Inc.采取执法行动。并宣布终止与德意志银行、德意志银行美国公司和德意志银行纽约分行的执法行动
+    summary_zh: 联邦储备委员会对SouthPoint Bancshares，Inc.采取执法行动。并宣布终止与Deutsch的执法行动.
+  - title: Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank
+    summary: Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank
+    link: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm
+    source: 'FRB: Press Release - All Releases'
+    time: 08-20 23:00
+    title_zh: 联邦储备委员会对地区银行前雇员和联合社区银行前雇员采取执法行动
+    summary_zh: 联邦储备委员会对地区银行前雇员和联合社区银行前雇员采取执法行动
   - title: Ex-defence chief’s call for wartime election raises pressure on Zelenskyy
     summary: Fedorov, a popular figure, is challenging Zelenskyy but holding a vote under Russia's bombs is near impossible.
     link: https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss
