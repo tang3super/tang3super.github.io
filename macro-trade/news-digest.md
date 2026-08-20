@@ -5,11 +5,17 @@ title: 新闻监控
 date: '2026-08-20'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-20 15:11
+last_updated: 2026-08-20 15:55
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'FTSE 100 today: Stocks down as U.S.-Iran Hormuz standoff drags on'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-down-as-usiran-hormuz-standoff-drags-on-4868820
+    source: Stock Market News
+    time: 08-20 15:21
+    title_zh: 今日富时100指数：美国股市下跌伊朗霍尔木兹僵局持续
   - title: Watch these U.S. stocks as oil prices surge on the Iran conflict
     summary: ''
     link: https://www.investing.com/news/stock-market-news/watch-these-us-stocks-as-oil-prices-surge-on-the-iran-conflict-93CH-4868717
