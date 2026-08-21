@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-22'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-22 04:44
+last_updated: 2026-08-22 05:02
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -783,6 +783,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: 'Nvidia fiscal Q2 2027 earnings outlook: what to watch on August 26'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-fiscal-q2-2027-earnings-outlook-what-to-watch-on-august-26-93CH-4872130
+    source: Stock Market News
+    time: 08-22 04:34
+    title_zh: Nvidia 2027年第二财季盈利展望：8月26日值得关注
   - title: 'Trending stocks to watch: NVIDIA, Super Micro, Intel and more'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/trending-stocks-to-watch-nvidia-super-micro-intel-and-more-93CH-4872054
