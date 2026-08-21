@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-21'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-21 12:19
+last_updated: 2026-08-21 12:58
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: '''A delicate dance'': JD Vance says economic pressure is the best way to achieve Washington''s objectives in Iran'
+    summary: Vance said "what has been true over the last couple of weeks is they felt a lot more pressure than we have."
+    link: https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html
+    source: US Top News and Analysis
+    time: 08-21 12:32
+    title_zh: “微妙的舞蹈”：JD Vance表示经济压力是实现华盛顿在伊朗目标的最佳方式
+    summary_zh: 万斯说：“过去几周的情况是，他们感受到的压力比我们大得多。"
   - title: 'Iran war live: US vows toughest Iran sanctions, urges China support'
     summary: US Treasury Secretary Bessent says new economic measures will 'collapse' Iranian government.
     link: https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss
@@ -550,12 +557,6 @@ topics:
     time: 08-17 15:46
     title_zh: 霍尔木兹海峡航运在美国之前陷入停滞伊朗停火到期
     summary_zh: 由于美国和伊朗之间的停火协议将于周一到期，且没有达成协议，霍尔木兹海峡的航运交通量跌至新低.
-  - title: Bitcoin steadies at $63.5k; Iran tensions, U.S. regulations in focus
-    summary: ''
-    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-635k-iran-tensions-us-regulations-in-focus-4862213
-    source: Cryptocurrency News
-    time: 08-17 14:47
-    title_zh: 比特币价格稳定在6.35万美元;伊朗紧张局势，美国监管成为焦点
 - name: 货币政策
   items:
   - title: Warsh faces Fed independence test as Bessent moves in on central bank's turf
