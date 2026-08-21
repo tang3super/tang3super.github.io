@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-21'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-21 19:12
+last_updated: 2026-08-21 19:41
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Closure of al-Makha port leaves workers and traders fearing for the future
+    summary: Houthi attacks on al-Makha port forced it to suspend operations, leaving workers without jobs and traders concerned.
+    link: https://www.aljazeera.com/economy/2026/8/21/houthi-attacks-on-mokha-port-forced-it-to-suspend-operations-leaving-workers-jobless?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-21 19:15
+    title_zh: al-Makha港口的关闭让工人和贸易商对未来感到担忧
+    summary_zh: 胡塞武装对al-Makha港口的袭击迫使该港口暂停运营，导致工人失业，贸易商也受到影响。
   - title: Iran Must Plan to Overcome ‘Unjust Sanctions,’ Top Tehran Official Says
     summary: Mohammad Bagher Ghalibaf, lead negotiator in talks with the United States, made the comments after President Trump vowed an “economic D-Day”…
     link: https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html
@@ -551,12 +558,6 @@ topics:
     time: 08-17 20:07
     title_zh: 美伊谅解备忘录到期：如何以及为何破裂
     summary_zh: 特朗普在签署谅解备忘录后一个月内就认为该备忘录“结束”，因为尽管“停火”，双方仍互相攻击。
-  - title: TSX futures inch higher amid easing Fed rate hike bets, Hormuz disruptions
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/tsx-futures-inch-higher-amid-easing-fed-rate-hike-bets-hormuz-disruptions-4862741
-    source: Stock Market News
-    time: 08-17 19:10
-    title_zh: 由于美联储加息押注放松、霍尔木兹混乱，多伦多证券交易所期货小幅走高
 - name: 货币政策
   items:
   - title: Warsh faces Fed independence test as Bessent moves in on central bank's turf
