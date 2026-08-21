@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-21'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-21 18:13
+last_updated: 2026-08-21 18:48
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran Must Plan to Overcome ‘Unjust Sanctions,’ Top Tehran Official Says
+    summary: Mohammad Bagher Ghalibaf, lead negotiator in talks with the United States, made the comments after President Trump vowed an “economic D-Day”…
+    link: https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html
+    source: NYT > World News
+    time: 08-21 18:44
+    title_zh: 德黑兰高级官员称伊朗必须计划克服“不公正制裁”
+    summary_zh: 与美国谈判的首席谈判代表穆罕默德·巴格尔·加利巴夫在特朗普总统誓言“经济诺曼底登陆日”后发表了上述言论……
   - title: Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran
     summary: Oil prices eased Friday but remained on track for a second straight weekly gain as hopes of a swift reopening of the Strait of Hormuz faded…
     link: https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html
@@ -550,13 +557,6 @@ topics:
     source: Stock Market News
     time: 08-17 19:10
     title_zh: 由于美联储加息押注放松、霍尔木兹混乱，多伦多证券交易所期货小幅走高
-  - title: Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing
-    summary: Ayatollah Mojtaba Khamenei’s appointment of hard-line loyalists to top jobs suggests he is prepared to keep the country on a war footing and…
-    link: https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html
-    source: NYT > World News
-    time: 08-17 16:29
-    title_zh: 伊朗最高领袖暗示有意让国家陷入战争
-    summary_zh: 阿亚图拉·莫杰塔巴·哈梅内伊任命强硬派效忠者担任最高职位，这表明他准备让国家处于战争状态，并...
 - name: 货币政策
   items:
   - title: Warsh faces Fed independence test as Bessent moves in on central bank's turf
