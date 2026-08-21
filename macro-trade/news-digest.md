@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-21'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-21 17:03
+last_updated: 2026-08-21 17:47
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -775,6 +775,13 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback
+    summary: Samsung Electronics plans shareholder returns totaling 90 trillion won to 110 trillion won, including about 30 trillion won in third-quarter…
+    link: https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html
+    source: US Top News and Analysis
+    time: 08-21 17:08
+    title_zh: SK Hynix回购后，三星计划获得高达800亿美元的股东回报
+    summary_zh: 三星电子计划股东回报总额为90万亿韩圆至110万亿韩圆，其中第三季度约30万亿韩圆.
   - title: Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say
     summary: Taiwan's economic growth could moderate due to its vulnerability to risks of capex slowdown, macroeconomic downturns, and concentration in s…
     link: https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html
