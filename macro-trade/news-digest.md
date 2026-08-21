@@ -5,11 +5,17 @@ title: 新闻监控
 date: '2026-08-22'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-22 01:45
+last_updated: 2026-08-22 02:04
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: NATO commander holds talks on Hormuz Strait navigation support
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nato-commander-holds-talks-on-hormuz-strait-navigation-support-93CH-4871996
+    source: Stock Market News
+    time: 08-22 01:46
+    title_zh: 北约指挥官就霍尔木兹海峡航行支持举行会谈
   - title: Why Iran is threatening Europe’s ‘strategically important’ southeast
     summary: Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?
     link: https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss
@@ -552,12 +558,6 @@ topics:
     time: 08-18 04:41
     title_zh: 特朗普支持率跌至新低
     summary_zh: 新的民意调查发现，大多数美国公民对美国对伊朗的战争感到担忧。
-  - title: US railroad Union Pacific turned charges meant to cover fuel cost spike from Iran war into profit
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/us-railroad-union-pacific-turned-charges-meant-to-cover-fuel-cost-spike-from-iran-war-into-profit-4862493
-    source: Stock Market News
-    time: 08-18 03:30
-    title_zh: 美国铁路联合太平洋公司将伊朗战争导致燃料成本飙升的费用转化为利润
 - name: 货币政策
   items:
   - title: Djibouti Football Federation accused of misusing funds from FIFA
