@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-21'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-21 21:52
+last_updated: 2026-08-21 22:21
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -17,6 +17,13 @@ topics:
     time: 08-21 21:48
     title_zh: 美国军方表示，自5月以来，已协助6.6亿桶石油通过霍尔木兹海峡
     summary_zh: 霍尔木兹的安全局势仍然存在争议，但美国正在帮助石油通过该海峡。
+  - title: 'Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets'
+    summary: The US and Israel's war on Iran has upended global financial and energy markets.
+    link: https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-21 21:47
+    title_zh: 特朗普的“经济登陆日”成为第一个受害者：不是伊朗，而是美国市场
+    summary_zh: 美国和以色列对伊朗的战争颠覆了全球金融和能源市场。
   - title: Why China Thinks It Can Resist Trump’s Economic Threats on Iran
     summary: Beijing can squeeze U.S. critical mineral supplies and has enough oil to withstand the loss of Iranian crude, Chinese analysts say.
     link: https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html
@@ -551,13 +558,6 @@ topics:
     time: 08-17 23:06
     title_zh: 特朗普要求伊朗在谅解备忘录到期后“举起投降白旗”
     summary_zh: 总统还声称美国正在与伊斯兰革命卫队直接接触，否认在11月美国中期选举之前急于结束冲突。
-  - title: Iran signals readiness for ‘US ground operations’ as MoU expires
-    summary: Iran's more offensive posture follows Trump's comment that the US would soon make the Strait of Hormuz its territory.
-    link: https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-17 22:15
-    title_zh: 谅解备忘录到期后，伊朗表示已准备好“美国地面行动”
-    summary_zh: 在特朗普评论美国将很快将霍尔木兹海峡纳入其领土之后，伊朗采取了更具攻击性的姿态。
 - name: 货币政策
   items:
   - title: Warsh faces Fed independence test as Bessent moves in on central bank's turf
