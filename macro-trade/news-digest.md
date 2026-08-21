@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-21'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-21 22:21
+last_updated: 2026-08-21 22:58
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'War on Iran: The US could focus on economically isolating Iran'
+    summary: The US Treasury Secretary, has indicated a change in US strategy towards Iran, focusing on economic isolation.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-21 21:59
+    title_zh: 伊朗战争：美国可以专注于经济孤立伊朗
+    summary_zh: 美国财政部长表示，美国对伊朗的战略将发生变化，重点放在经济孤立上。
   - title: U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May
     summary: The security situation in Hormuz remains contested but the U.S. is helping oil get through the strait.
     link: https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html
@@ -551,15 +558,15 @@ topics:
     time: 08-17 23:16
     title_zh: 胡塞武装声称袭击沙特船只，因为红海暴力升级
     summary_zh: 这个总部位于也门并得到伊朗支持的武装组织表示，它在重要的海上贸易路线附近发射了导弹，这场冲突导致了.
-  - title: Trump demands Iran ‘put up the white flag of surrender’ as MoU expires
-    summary: President also claims US is in direct contact with IRGC, denies a rush to end conflict ahead of November's US midterms.
-    link: https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-17 23:06
-    title_zh: 特朗普要求伊朗在谅解备忘录到期后“举起投降白旗”
-    summary_zh: 总统还声称美国正在与伊斯兰革命卫队直接接触，否认在11月美国中期选举之前急于结束冲突。
 - name: 货币政策
   items:
+  - title: Djibouti Football Federation accused of misusing funds from FIFA
+    summary: FIFA and CAF provides more than $1m a year to Djibouti's federation, which faces corruption allegations over misuse.
+    link: https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-21 22:18
+    title_zh: 吉布提足协被指控滥用国际足联资金
+    summary_zh: 国际足联和CAF每年向吉布提足协提供超过100万美元的资金，该足协因滥用而面临腐败指控。
   - title: Warsh faces Fed independence test as Bessent moves in on central bank's turf
     summary: Bessent’s effort to tamp down long-term Treasury yields could force Warsh to clarify how far the Fed should go in coordinating on bonds and…
     link: https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html
