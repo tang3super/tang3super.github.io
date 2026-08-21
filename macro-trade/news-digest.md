@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-21'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-21 07:58
+last_updated: 2026-08-21 09:17
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran war live: US vows toughest Iran sanctions, urges China support'
+    summary: US Treasury Secretary Bessent says new economic measures will 'collapse' Iranian government.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-21 08:00
+    title_zh: 伊朗战争直播：美国誓言对伊朗实施最严厉制裁，敦促中国支持
+    summary_zh: 美国财政部长贝森特表示，新的经济措施将“推翻”伊朗政府。
   - title: Houthis and government trade attacks as Yemen slides back to full-scale war
     summary: Gov't forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.
     link: https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss
@@ -549,13 +556,6 @@ topics:
     source: Cryptocurrency News
     time: 08-17 14:47
     title_zh: 比特币价格稳定在6.35万美元;伊朗紧张局势，美国监管成为焦点
-  - title: Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea
-    summary: In a social media post, the president scolded South Korea for not helping denuclearize Iran, and also praised North Korea and its leader.
-    link: https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html
-    source: NYT > World News
-    time: 08-17 14:16
-    title_zh: 特朗普命令五角大楼减少与盟友韩国的军事演习
-    summary_zh: 总统在社交媒体帖子中斥责韩国没有帮助伊朗无核化，并赞扬了朝鲜及其领导人。
 - name: 货币政策
   items:
   - title: Warsh faces Fed independence test as Bessent moves in on central bank's turf
@@ -774,6 +774,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: SK Hynix plans semiconductor fab in Japan, Hankyoreh reports
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/sk-hynix-plans-semiconductor-fab-in-japan-hankyoreh-reports-4870683
+    source: Stock Market News
+    time: 08-21 08:38
+    title_zh: 据Hankyoreh报道，SK Hynix计划在日本建立半导体工厂
   - title: Nvidia to ship AI chip for China by year-end, The Information reports
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-to-ship-ai-chip-for-china-by-yearend-the-information-reports-4870258
