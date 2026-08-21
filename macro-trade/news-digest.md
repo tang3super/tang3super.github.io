@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-21'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-21 11:33
+last_updated: 2026-08-21 12:19
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -774,6 +774,13 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say
+    summary: Taiwan's economic growth could moderate due to its vulnerability to risks of capex slowdown, macroeconomic downturns, and concentration in s…
+    link: https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html
+    source: US Top News and Analysis
+    time: 08-21 11:59
+    title_zh: 经济学家表示，台湾人工智能推动的GDP增长11%的预测可能不可持续
+    summary_zh: 由于台湾容易受到资本支出放缓、宏观经济低迷和集中的风险的影响，台湾经济增长可能会放缓.
   - title: SK Hynix plans semiconductor fab in Japan, Hankyoreh reports
     summary: ''
     link: https://www.investing.com/news/stock-market-news/sk-hynix-plans-semiconductor-fab-in-japan-hankyoreh-reports-4870683
