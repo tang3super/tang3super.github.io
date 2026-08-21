@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-21'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-21 21:03
+last_updated: 2026-08-21 21:52
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May
+    summary: The security situation in Hormuz remains contested but the U.S. is helping oil get through the strait.
+    link: https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html
+    source: US Top News and Analysis
+    time: 08-21 21:48
+    title_zh: 美国军方表示，自5月以来，已协助6.6亿桶石油通过霍尔木兹海峡
+    summary_zh: 霍尔木兹的安全局势仍然存在争议，但美国正在帮助石油通过该海峡。
+  - title: Why China Thinks It Can Resist Trump’s Economic Threats on Iran
+    summary: Beijing can squeeze U.S. critical mineral supplies and has enough oil to withstand the loss of Iranian crude, Chinese analysts say.
+    link: https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html
+    source: NYT > World News
+    time: 08-21 21:44
+    title_zh: 为什么中国认为自己可以抵御特朗普对伊朗的经济威胁
+    summary_zh: 中国分析人士表示，北京可以挤压美国关键的矿产供应，并且拥有足够的石油来抵御伊朗原油的损失。
   - title: US allies in Asia wary as Trump moves military assets for Iran war
     summary: Allies worry about the US ability to deter China, even if the bulk of US forces remain in the region.
     link: https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss
@@ -544,20 +558,6 @@ topics:
     time: 08-17 22:15
     title_zh: 谅解备忘录到期后，伊朗表示已准备好“美国地面行动”
     summary_zh: 在特朗普评论美国将很快将霍尔木兹海峡纳入其领土之后，伊朗采取了更具攻击性的姿态。
-  - title: Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict
-    summary: The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.
-    link: https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html
-    source: US Top News and Analysis
-    time: 08-17 21:17
-    title_zh: 伊朗排除延长临时协议的可能性，油价上涨，有可能升级冲突
-    summary_zh: 美国-伊朗协议本应开放霍尔木兹海峡，同时他们在60天内就德黑兰核计划达成最终协议。
-  - title: 'Yemen’s drone war: Rivals flex growing aerial muscle'
-    summary: Houthi and government forces exchange drone attacks, marking a major shift in war tactics.
-    link: https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-17 20:44
-    title_zh: 也门无人机战争：竞争对手展示不断增长的空中肌肉
-    summary_zh: 胡塞武装和政府军互相无人机袭击，标志着战争策略的重大转变。
 - name: 货币政策
   items:
   - title: Warsh faces Fed independence test as Bessent moves in on central bank's turf
@@ -776,6 +776,18 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Nvidia in talks to invest hundreds of millions in power startup Cloverleaf - WSJ
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-hundreds-of-millions-in-power-startup-cloverleaf--wsj-4871664
+    source: Stock Market News
+    time: 08-21 21:08
+    title_zh: 英伟达正在洽谈向电力初创公司Cloverleaf投资数亿美元-《华尔街日报》
+  - title: 'AI capex cycle look more economically viable than it did six months ago: JPM'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/ai-capex-cycle-look-more-economically-viable-than-it-did-six-months-ago-jpm-4871627
+    source: Stock Market News
+    time: 08-21 20:57
+    title_zh: 人工智能资本支出周期看起来比六个月前在经济上更可行：JPM
   - title: Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback
     summary: Samsung Electronics plans shareholder returns totaling 90 trillion won to 110 trillion won, including about 30 trillion won in third-quarter…
     link: https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html
