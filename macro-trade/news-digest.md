@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-22'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-22 02:04
+last_updated: 2026-08-22 02:51
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -783,6 +783,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Besides Nvidia, what earnings should investors keep tabs on next week?
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/besides-nvidia-what-earnings-should-investors-keep-tabs-on-next-week-93CH-4872015
+    source: Stock Market News
+    time: 08-22 02:05
+    title_zh: 除了英伟达之外，投资者下周还应该关注哪些收益？
   - title: Nvidia in talks to invest hundreds of millions in power startup Cloverleaf - WSJ
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-hundreds-of-millions-in-power-startup-cloverleaf--wsj-4871664
