@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-22'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-22 00:44
+last_updated: 2026-08-22 01:12
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays
+    summary: The favorite energy stocks of hedge funds - including one with a projected 65% upside
+    link: https://www.cnbc.com/2026/08/21/energy-sector-is-in-focus-because-of-iran-ai-and-california-here-are-hedge-funds-top-plays.html
+    source: US Top News and Analysis
+    time: 08-22 00:29
+    title_zh: 由于伊朗、人工智能和加利福尼亚州，能源行业成为焦点。以下是对冲基金的热门游戏
+    summary_zh: 对冲基金最喜欢的能源股-包括预计上涨65%的能源股
   - title: 'War on Iran: The US could focus on economically isolating Iran'
     summary: The US Treasury Secretary, has indicated a change in US strategy towards Iran, focusing on economic isolation.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss
@@ -551,13 +558,6 @@ topics:
     time: 08-18 00:27
     title_zh: 伊朗战争：第二阶段，第37天
     summary_zh: 伊朗为被俘或阵亡的美国士兵提供3万美元。特朗普削减了韩国演习。
-  - title: Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates
-    summary: The armed group, based in Yemen and backed by Iran, said it had launched missiles near the vital maritime trade route, in a conflict that sh…
-    link: https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html
-    source: NYT > World News
-    time: 08-17 23:16
-    title_zh: 胡塞武装声称袭击沙特船只，因为红海暴力升级
-    summary_zh: 这个总部位于也门并得到伊朗支持的武装组织表示，它在重要的海上贸易路线附近发射了导弹，这场冲突导致了.
 - name: 货币政策
   items:
   - title: Djibouti Football Federation accused of misusing funds from FIFA
