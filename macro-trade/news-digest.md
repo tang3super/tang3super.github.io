@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-22'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-22 02:51
+last_updated: 2026-08-22 03:16
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -783,6 +783,13 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom
+    summary: Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
+    link: https://www.cnbc.com/2026/08/21/an-overlooked-ai-winner-taps-new-cfo-as-street-awaits-nvidia.html
+    source: US Top News and Analysis
+    time: 08-22 02:55
+    title_zh: 一位被忽视的人工智能获胜者任命了一位新的首席财务官-另外，Nvidia的关键盈利迫在眉睫
+    summary_zh: 每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。
   - title: Besides Nvidia, what earnings should investors keep tabs on next week?
     summary: ''
     link: https://www.investing.com/news/stock-market-news/besides-nvidia-what-earnings-should-investors-keep-tabs-on-next-week-93CH-4872015
