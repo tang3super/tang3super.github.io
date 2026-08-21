@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-21'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-21 20:01
+last_updated: 2026-08-21 21:03
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: US allies in Asia wary as Trump moves military assets for Iran war
+    summary: Allies worry about the US ability to deter China, even if the bulk of US forces remain in the region.
+    link: https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-21 20:32
+    title_zh: 特朗普为伊朗战争调动军事资产，美国在亚洲的盟友保持警惕
+    summary_zh: 盟国担心美国威慑中国的能力，即使大部分美国军队留在该地区。
+  - title: US designates Hezbollah an Iranian proxy, sanctions funding network
+    summary: The US Treasury labels Lebanon-based group 'an extension' of the IRGC's Quds Force and takes aim at financing.
+    link: https://www.aljazeera.com/news/2026/8/21/us-designates-hezbollah-an-iranian-proxy-sanctions-funding-network?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-21 20:12
+    title_zh: 美国指定真主党为伊朗代理人，制裁资金网络
+    summary_zh: 美国财政部将这个总部位于华盛顿的组织称为伊斯兰革命卫队圣城军的“延伸”，并瞄准了融资。
   - title: Closure of al-Makha port leaves workers and traders fearing for the future
     summary: Houthi attacks on al-Makha port forced it to suspend operations, leaving workers without jobs and traders concerned.
     link: https://www.aljazeera.com/economy/2026/8/21/houthi-attacks-on-mokha-port-forced-it-to-suspend-operations-leaving-workers-jobless?traffic_source=rss
@@ -544,20 +558,6 @@ topics:
     time: 08-17 20:44
     title_zh: 也门无人机战争：竞争对手展示不断增长的空中肌肉
     summary_zh: 胡塞武装和政府军互相无人机袭击，标志着战争策略的重大转变。
-  - title: 'Trump scales down war games with South Korea: Why it matters'
-    summary: US president cites Seoul's reluctance to back his war on Iran, and his warm ties with North Korea's leader as reasons.
-    link: https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-17 20:20
-    title_zh: 特朗普缩减与韩国的军事演习：为什么这很重要
-    summary_zh: 美国总统以首尔不愿支持对伊朗战争以及他与朝鲜领导人的友好关系为理由。
-  - title: 'US-Iran Memorandum of Understanding expires: How and why it fell apart'
-    summary: Trump deemed the MoU 'over' within a month of it being signed, as the two sides traded attacks despite a 'ceasefire'.
-    link: https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-17 20:07
-    title_zh: 美伊谅解备忘录到期：如何以及为何破裂
-    summary_zh: 特朗普在签署谅解备忘录后一个月内就认为该备忘录“结束”，因为尽管“停火”，双方仍互相攻击。
 - name: 货币政策
   items:
   - title: Warsh faces Fed independence test as Bessent moves in on central bank's turf
