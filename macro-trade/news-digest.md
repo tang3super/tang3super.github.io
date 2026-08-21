@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-22'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-22 01:12
+last_updated: 2026-08-22 01:45
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Why Iran is threatening Europe’s ‘strategically important’ southeast
+    summary: Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?
+    link: https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-22 01:29
+    title_zh: 为什么伊朗威胁欧洲“具有重要战略意义”的东南部
+    summary_zh: 德黑兰威胁了美国空军基地所在地保加利亚，但这种威胁的可信度有多高？
   - title: Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays
     summary: The favorite energy stocks of hedge funds - including one with a projected 65% upside
     link: https://www.cnbc.com/2026/08/21/energy-sector-is-in-focus-because-of-iran-ai-and-california-here-are-hedge-funds-top-plays.html
@@ -551,13 +558,6 @@ topics:
     source: Stock Market News
     time: 08-18 03:30
     title_zh: 美国铁路联合太平洋公司将伊朗战争导致燃料成本飙升的费用转化为利润
-  - title: 'War on Iran: Phase II, Day 37'
-    summary: Iran is offering $30,000 for captured or killed US soldiers. Trump cuts back South Korea drills.
-    link: https://www.aljazeera.com/video/newsfeed/2026/8/17/war-on-iran-phase-ii-day-37?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-18 00:27
-    title_zh: 伊朗战争：第二阶段，第37天
-    summary_zh: 伊朗为被俘或阵亡的美国士兵提供3万美元。特朗普削减了韩国演习。
 - name: 货币政策
   items:
   - title: Djibouti Football Federation accused of misusing funds from FIFA
