@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-22'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-22 03:40
+last_updated: 2026-08-22 03:56
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -783,6 +783,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: 'Trending stocks to watch: NVIDIA, Super Micro, Intel and more'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/trending-stocks-to-watch-nvidia-super-micro-intel-and-more-93CH-4872054
+    source: Stock Market News
+    time: 08-22 03:35
+    title_zh: 值得关注的趋势股票：英伟达、Super Micro、英特尔等
   - title: An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom
     summary: Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
     link: https://www.cnbc.com/2026/08/21/an-overlooked-ai-winner-taps-new-cfo-as-street-awaits-nvidia.html
