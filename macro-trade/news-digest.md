@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-23'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-23 03:33
+last_updated: 2026-08-23 03:51
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -797,6 +797,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-customers-notified-about-airelated-price-hikes-above-15-bloomberg-news-reports-4872385
+    source: Stock Market News
+    time: 08-23 03:24
+    title_zh: 据彭博社报道，英伟达客户已通知人工智能相关价格上涨超过15%
   - title: What happens when the AI capex cycle slows?
     summary: ''
     link: https://www.investing.com/news/stock-market-news/what-happens-when-the-ai-capex-cycle-slows-4872382
