@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-23'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-23 04:01
+last_updated: 2026-08-23 04:32
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran grants permission for some Iraqi oil tankers to pass through Hormuz
+    summary: Iraqi President Nizar Amidi says his country's territory will not be used to launch attacks against any other state.
+    link: https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-23 04:05
+    title_zh: 伊朗允许一些伊拉克油轮通过霍尔木兹
+    summary_zh: 伊拉克总统尼扎尔·阿米迪说，伊拉克领土不会被用来对任何其他国家发动袭击。
   - title: What did war with the US reveal about Iran’s weapons capabilities?
     summary: Iran says production is ongoing, but details will not be revealed during war conditions.
     link: https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss
@@ -552,13 +559,6 @@ topics:
     time: 08-18 14:35
     title_zh: 英国运输组织称，船只在霍尔木兹海峡被“未知弹丸”击中
     summary_zh: 英国海事机构表示，该事件造成一人伤亡，并损坏了该船的发动机室。
-  - title: Trump says N Korea’s Kim has responded to his request for a conversation
-    summary: US president says conversations with Kim Jong Un at a 'positive' stage and slams Seoul for refusing to join war on Iran.
-    link: https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-18 13:44
-    title_zh: 特朗普称朝鲜金正恩已回应他的对话请求
-    summary_zh: 美国总统表示与金正恩的对话处于“积极”阶段，并猛烈抨击首尔拒绝加入对伊朗的战争。
 - name: 货币政策
   items:
   - title: US judge strikes down Trump immigrant visa ban affecting 75 countries
@@ -797,6 +797,13 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Nvidia customers reportedly warned about AI-related price hikes
+    summary: The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Blo…
+    link: https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html
+    source: US Top News and Analysis
+    time: 08-23 04:26
+    title_zh: 据报道，英伟达客户警告人工智能相关价格上涨
+    summary_zh: 该芯片制造商告诉其一些最大的客户，包含其人工智能芯片的服务器的价格可能会上涨15%以上，Blo.
   - title: Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-customers-notified-about-airelated-price-hikes-above-15-bloomberg-news-reports-4872385
