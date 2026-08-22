@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-22'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-22 17:12
+last_updated: 2026-08-22 17:42
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran says new US sanctions violate sovereignty of other states
+    summary: Foreign Ministry spokesman Esmaeil Baghaei slams Trump's latest threat as a return to 'full-scale classic colonialism'.
+    link: https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-22 17:14
+    title_zh: 伊朗称美国新制裁侵犯了其他国家主权
+    summary_zh: 外交部发言人伊斯梅尔·巴格伊猛烈抨击特朗普的最新威胁，称其是“全面经典殖民主义”的回归。
   - title: Iranian president says time to end war with US from ‘position of strength’
     summary: Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.
     link: https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss
@@ -551,13 +558,6 @@ topics:
     source: Stock Market News
     time: 08-18 09:03
     title_zh: 伊朗紧张局势导致华尔街下跌，油价飙升，美国股市期货走低
-  - title: 'Iran war live: Trump rejects MoU extension as US claims control of Hormuz'
-    summary: US president says Iran should 'put up the white flag of surrender' as the two nations’ MoU expired on Monday.
-    link: https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-18 08:00
-    title_zh: 伊朗战争直播：美国声称控制霍尔木兹，特朗普拒绝延长谅解备忘录
-    summary_zh: 美国总统表示，随着两国的谅解备忘录于周一到期，伊朗应该“举起投降白旗”。
 - name: 货币政策
   items:
   - title: US judge strikes down Trump immigrant visa ban affecting 75 countries
