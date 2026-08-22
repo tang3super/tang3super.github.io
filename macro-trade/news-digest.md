@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-22'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-22 11:28
+last_updated: 2026-08-22 12:06
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -560,6 +560,13 @@ topics:
     summary_zh: 美国总统表示，随着两国的谅解备忘录于周一到期，伊朗应该“举起投降白旗”。
 - name: 货币政策
   items:
+  - title: US judge strikes down Trump immigrant visa ban affecting 75 countries
+    summary: A federal judge in Manhattan ruled against the State Department's suspension of immigrant visas.
+    link: https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-22 11:19
+    title_zh: 美国法官推翻影响75个国家的特朗普移民签证禁令
+    summary_zh: 曼哈顿的一名联邦法官裁定国务院暂停移民签证无效。
   - title: Is the Fed’s stock valuation model working again?
     summary: ''
     link: https://www.investing.com/news/stock-market-news/is-the-feds-stock-valuation-model-working-again-4872237
