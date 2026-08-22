@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-22'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-22 07:49
+last_updated: 2026-08-22 08:23
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran war live: Trump says he views Strait of Hormuz as ‘American territory’'
+    summary: US president says Iran 'would love to make a deal, but they’re not ready to make the right deal in my opinion'.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-22 08:00
+    title_zh: 伊朗战争直播：特朗普称他将霍尔木兹海峡视为“美国领土”
+    summary_zh: 美国总统表示，伊朗“很乐意达成协议，但在我看来，他们还没有准备好达成正确的协议”。
   - title: NATO commander holds talks on Hormuz Strait navigation support
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nato-commander-holds-talks-on-hormuz-strait-navigation-support-93CH-4871996
@@ -551,13 +558,6 @@ topics:
     time: 08-18 04:49
     title_zh: 特朗普表示伊朗不会达成他认为必要的协议
     summary_zh: 特朗普表示伊朗不会达成他认为必要的协议
-  - title: Trump’s approval rating sinks to new low
-    summary: New poll found a majority of US citizens concerned about the US war on Iran.
-    link: https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-18 04:41
-    title_zh: 特朗普支持率跌至新低
-    summary_zh: 新的民意调查发现，大多数美国公民对美国对伊朗的战争感到担忧。
 - name: 货币政策
   items:
   - title: Djibouti Football Federation accused of misusing funds from FIFA
