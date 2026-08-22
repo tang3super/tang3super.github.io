@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-22'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-22 18:27
+last_updated: 2026-08-22 18:49
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'
+    summary: U.S. Treasury Secretary Scott Bessent told CNBC on Thursday that the proposed economic measures will likely negate the need for major U.S. m…
+    link: https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html
+    source: US Top News and Analysis
+    time: 08-22 18:34
+    title_zh: 在美国实施严厉新制裁之前，伊朗批评“治外主权”
+    summary_zh: 美国财政部长斯科特·贝森特周四告诉CNBC，拟议的经济措施可能会消除美国实施重大财政政策的必要性。
   - title: Iran says new US sanctions violate sovereignty of other states
     summary: Foreign Ministry spokesman Esmaeil Baghaei slams Trump's latest threat as a return to 'full-scale classic colonialism'.
     link: https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss
@@ -552,12 +559,6 @@ topics:
     source: Stock Market News
     time: 08-18 09:18
     title_zh: 美伊停火到期，油价攀升，债券收益率上升
-  - title: U.S. stock futures muted after Wall St slips on Iran tensions, oil surge
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/us-stock-futures-muted-after-wall-st-slips-on-iran-tensions-oil-surge-4864158
-    source: Stock Market News
-    time: 08-18 09:03
-    title_zh: 伊朗紧张局势导致华尔街下跌，油价飙升，美国股市期货走低
 - name: 货币政策
   items:
   - title: US judge strikes down Trump immigrant visa ban affecting 75 countries
