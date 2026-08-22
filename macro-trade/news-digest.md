@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-22'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-22 22:30
+last_updated: 2026-08-22 22:50
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: What did war with the US reveal about Iran’s weapons capabilities?
+    summary: Iran says production is ongoing, but details will not be revealed during war conditions.
+    link: https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-22 22:19
+    title_zh: 与美国的战争揭示了伊朗的武器能力的哪些信息？
+    summary_zh: 伊朗表示生产正在进行中，但在战争期间不会透露细节。
   - title: 'CTA equity positioning back to pre-Iran levels: BofA'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/cta-equity-positioning-back-to-preiran-levels-bofa-4872364
@@ -552,13 +559,6 @@ topics:
     time: 08-18 13:44
     title_zh: 特朗普称朝鲜金正恩已回应他的对话请求
     summary_zh: 美国总统表示与金正恩的对话处于“积极”阶段，并猛烈抨击首尔拒绝加入对伊朗的战争。
-  - title: Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict
-    summary: The attack caused damage to the engine room and resulted in a crew casualty, UKMTO said, adding that the remaining crew were being assisted…
-    link: https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html
-    source: US Top News and Analysis
-    time: 08-18 12:34
-    title_zh: 美国军舰在霍尔木兹海峡遭到袭击伊朗停火协议到期可能导致冲突旷日持久
-    summary_zh: 英国运输组织表示，这次袭击造成机舱损坏，并导致一名机组人员伤亡，并补充说，其余机组人员正在接受援助.
 - name: 货币政策
   items:
   - title: US judge strikes down Trump immigrant visa ban affecting 75 countries
