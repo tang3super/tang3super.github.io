@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-23'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-23 04:53
+last_updated: 2026-08-23 05:09
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -797,6 +797,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Nvidia customers face over 15% server price hikes as memory costs soar - report
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-customers-face-over-15-server-price-hikes-as-memory-costs-soar--report-4872389
+    source: Stock Market News
+    time: 08-23 04:47
+    title_zh: 报告称，由于内存成本飙升，Nvidia客户面临超过15%的服务器价格上涨
   - title: Nvidia customers reportedly warned about AI-related price hikes
     summary: The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Blo…
     link: https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html
