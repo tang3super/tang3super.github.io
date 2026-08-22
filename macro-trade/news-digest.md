@@ -5,11 +5,17 @@ title: 新闻监控
 date: '2026-08-22'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-22 21:49
+last_updated: 2026-08-22 22:02
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'CTA equity positioning back to pre-Iran levels: BofA'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/cta-equity-positioning-back-to-preiran-levels-bofa-4872364
+    source: Stock Market News
+    time: 08-22 21:47
+    title_zh: 美国银行：MTA股票定位回到伊朗前的水平
   - title: Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'
     summary: U.S. Treasury Secretary Scott Bessent told CNBC on Thursday that the proposed economic measures will likely negate the need for major U.S. m…
     link: https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html
@@ -553,12 +559,6 @@ topics:
     time: 08-18 12:34
     title_zh: 美国军舰在霍尔木兹海峡遭到袭击伊朗停火协议到期可能导致冲突旷日持久
     summary_zh: 英国运输组织表示，这次袭击造成机舱损坏，并导致一名机组人员伤亡，并补充说，其余机组人员正在接受援助.
-  - title: Oil prices climb, bond yields rise as US-Iran ceasefire expires
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/oil-prices-climb-bond-yields-rise-as-usiran-ceasefire-expires-4864169
-    source: Stock Market News
-    time: 08-18 09:18
-    title_zh: 美伊停火到期，油价攀升，债券收益率上升
 - name: 货币政策
   items:
   - title: US judge strikes down Trump immigrant visa ban affecting 75 countries
