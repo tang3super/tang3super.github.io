@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-22'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-22 08:23
+last_updated: 2026-08-22 09:55
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iranian president says time to end war with US from ‘position of strength’
+    summary: Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.
+    link: https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-22 08:59
+    title_zh: 伊朗总统表示是时候从“优势地位”结束与美国的战争了
+    summary_zh: 阿曼和伊朗外交部长在华盛顿准备经济制裁之际举行电话会议。
   - title: 'Iran war live: Trump says he views Strait of Hormuz as ‘American territory’'
     summary: US president says Iran 'would love to make a deal, but they’re not ready to make the right deal in my opinion'.
     link: https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss
@@ -551,15 +558,14 @@ topics:
     time: 08-18 08:00
     title_zh: 伊朗战争直播：美国声称控制霍尔木兹，特朗普拒绝延长谅解备忘录
     summary_zh: 美国总统表示，随着两国的谅解备忘录于周一到期，伊朗应该“举起投降白旗”。
-  - title: Trump says Iran will not make the deal he believes is necessary
-    summary: Trump says Iran will not make the deal he believes is necessary
-    link: https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-18 04:49
-    title_zh: 特朗普表示伊朗不会达成他认为必要的协议
-    summary_zh: 特朗普表示伊朗不会达成他认为必要的协议
 - name: 货币政策
   items:
+  - title: Is the Fed’s stock valuation model working again?
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/is-the-feds-stock-valuation-model-working-again-4872237
+    source: Stock Market News
+    time: 08-22 08:37
+    title_zh: 美联储的股票估值模型是否再次发挥作用？
   - title: Djibouti Football Federation accused of misusing funds from FIFA
     summary: FIFA and CAF provides more than $1m a year to Djibouti's federation, which faces corruption allegations over misuse.
     link: https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss
