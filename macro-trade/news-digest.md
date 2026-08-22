@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-23'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-23 02:49
+last_updated: 2026-08-23 03:11
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -797,6 +797,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: What happens when the AI capex cycle slows?
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/what-happens-when-the-ai-capex-cycle-slows-4872382
+    source: Stock Market News
+    time: 08-23 02:43
+    title_zh: 当AI资本支出周期放缓时会发生什么？
   - title: 'Nvidia fiscal Q2 2027 earnings outlook: what to watch on August 26'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-fiscal-q2-2027-earnings-outlook-what-to-watch-on-august-26-93CH-4872130
