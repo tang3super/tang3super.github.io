@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-23'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-23 07:34
+last_updated: 2026-08-23 07:51
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran warns nearby nations against joining US ‘economic war’ efforts
+    summary: The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
+    link: https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-23 07:26
+    title_zh: 伊朗警告邻国不要加入美国的“经济战”努力
+    summary_zh: 发出这一警告之际，美国总统唐纳德·特朗普威胁要在经济上孤立伊朗以削弱其政府。
   - title: Iran grants permission for some Iraqi oil tankers to pass through Hormuz
     summary: Iraqi President Nizar Amidi says his country's territory will not be used to launch attacks against any other state.
     link: https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss
@@ -552,13 +559,6 @@ topics:
     source: Cryptocurrency News
     time: 08-18 14:54
     title_zh: 比特币逼近6.4万美元;伊朗，利率动荡给加密货币带来压力
-  - title: Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says
-    summary: British maritime agency says the incident caused one casualty and damaged the vessel's engine room.
-    link: https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-18 14:35
-    title_zh: 英国运输组织称，船只在霍尔木兹海峡被“未知弹丸”击中
-    summary_zh: 英国海事机构表示，该事件造成一人伤亡，并损坏了该船的发动机室。
 - name: 货币政策
   items:
   - title: US judge strikes down Trump immigrant visa ban affecting 75 countries
