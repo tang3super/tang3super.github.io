@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-24'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-24 06:29
+last_updated: 2026-08-24 06:49
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -56,6 +56,12 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Why sovereign AI should reinforce rather than undermine the AI capex cycle?
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/why-sovereign-ai-should-reinforce-rather-than-undermine-the-ai-capex-cycle-4872480
+    source: Stock Market News
+    time: 08-24 06:33
+    title_zh: 为什么主权人工智能应该加强而不是破坏人工智能资本支出周期？
   - title: Here are the 2 big things we're watching in the stock market this week
     summary: Nvidia reports earnings, and Fed Chairman Kevin Warsh is set to deliver his first Jackson Hole speech.
     link: https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html
