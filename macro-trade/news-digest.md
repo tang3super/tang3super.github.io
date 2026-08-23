@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-23'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-23 20:51
+last_updated: 2026-08-23 21:22
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran Warns Gulf States Not to Join Trump’s Economic War
+    summary: Iran’s new hard-line national security adviser, Mohsen Rezaei, vowed to prevent “a single drop of oil” from leaving the region.
+    link: https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html
+    source: NYT > World News
+    time: 08-23 20:47
+    title_zh: 伊朗警告海湾国家不要加入特朗普的经济战争
+    summary_zh: 伊朗新任强硬派国家安全顾问莫赫森·雷扎伊发誓要阻止“一滴石油”离开该地区。
   - title: Can Iran retaliate against countries that join US ‘economic war’?
     summary: Iran's security chief has warned of retaliation against countries joining US ‘economic war'.
     link: https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss
@@ -555,12 +562,6 @@ topics:
     time: 08-18 19:33
     title_zh: 特朗普为何第二次威胁要轰炸阿曼？
     summary_zh: 美国总统威胁要就霍尔木兹问题轰炸阿曼，导致美伊和平谈判陷入僵局。
-  - title: US stock futures drop as fading Iran peace hopes lift oil, bond yields
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-fading-iran-peace-hopes-lift-oil-bond-yields-4864587
-    source: Stock Market News
-    time: 08-18 17:48
-    title_zh: 伊朗和平希望减弱提振石油和债券收益率，美国股市期货下跌
 - name: 货币政策
   items:
   - title: Zelenskyy says wartime elections could ‘destroy’ Ukraine
