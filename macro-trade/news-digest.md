@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-24'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-24 05:29
+last_updated: 2026-08-24 05:47
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat
+    summary: Bessent told CNBC that the sanctions will be the "toughest" in history.
+    link: https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html
+    source: US Top News and Analysis
+    time: 08-24 05:45
+    title_zh: 德黑兰否认经济战威胁，财政部长宣布对伊朗实施制裁
+    summary_zh: 贝森特告诉CNBC，制裁将是历史上“最严厉”的。
+  - title: Will Donald Trump’s new sanctions against Iran work?
+    summary: The US president says he will impose 'crushing measures' on Tehran.
+    link: https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-24 05:34
+    title_zh: 唐纳德·特朗普对伊朗的新制裁会奏效吗？
+    summary_zh: 美国总统表示，他将对德黑兰实施“毁灭性措施”。
   - title: 'Trump has ‘run out of options’ in Iran war: Stephen Walt'
     summary: Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.
     link: https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss
