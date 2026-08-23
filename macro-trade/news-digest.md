@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-23'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-23 23:18
+last_updated: 2026-08-23 23:41
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions
+    summary: Iranian President Masoud Pezeshkian says Iran has stood firm despite what he calls a full-scale war.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-23 23:25
+    title_zh: 佩泽什基安表示，尽管有战争和制裁，伊朗“还没有成为委内瑞拉”
+    summary_zh: 伊朗总统马苏德·佩泽什基安表示，尽管发生了他所说的全面战争，但伊朗仍然立场坚定。
   - title: Gulf markets rise as oil prices climb on Iran sanction fears
     summary: ''
     link: https://www.investing.com/news/stock-market-news/gulf-markets-rise-as-oil-prices-climb-on-iran-sanction-fears-93CH-4872460
@@ -555,13 +562,6 @@ topics:
     time: 08-18 21:12
     title_zh: 卡塔尔：伊朗声称多哈扣押失踪飞行员是“媒体策略”
     summary_zh: 卡塔尔表示，伊朗声称扣押失踪机组人员的说法是不真实的，是“媒体策略”，德黑兰尚未对此进行核实。
-  - title: Qatar rejects Iran’s ‘false’ claims about missing pilots
-    summary: Majed al-Ansari says the Iranian planes 'violated Qatar’s sovereignty' and were dealt with in accordance with the law.
-    link: https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-18 20:39
-    title_zh: 卡塔尔否认伊朗有关失踪飞行员的“虚假”说法
-    summary_zh: 马吉德·安萨里表示，伊朗飞机“侵犯了卡塔尔的主权”，并依法处理。
 - name: 货币政策
   items:
   - title: Zelenskyy says wartime elections could ‘destroy’ Ukraine
