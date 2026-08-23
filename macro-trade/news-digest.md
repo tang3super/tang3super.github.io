@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-23'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-23 19:27
+last_updated: 2026-08-23 19:45
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Small UK power plant shut down after cyberattack linked to Iran: Telegraph'
+    summary: The U.K. government says the incident did not pose a risk to the country's energy system, adding that it briefed CEOs of companies in the se…
+    link: https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html
+    source: US Top News and Analysis
+    time: 08-23 19:35
+    title_zh: 英国小型发电厂在与伊朗有关的网络攻击后关闭：电讯报
+    summary_zh: 英国政府表示，该事件没有对该国能源系统构成风险，并补充说，它向该公司的首席执行官通报了情况.
   - title: 'Iran war live: Tehran warns neighbours against joining US economic war'
     summary: Official says any state joining US would be considered enemies and Tehran would target their interests in retaliation.
     link: https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss
@@ -553,15 +560,15 @@ topics:
     source: Stock Market News
     time: 08-18 17:46
     title_zh: 沃尔夫研究公司认为，在美伊僵局中，油价保持稳定
-  - title: Global bond yields hit multi-decade highs as governments pay the price for U.S.-Iran stalemate
-    summary: International government bond yields followed U.S. Treasury yields higher on Tuesday.
-    link: https://www.cnbc.com/2026/08/18/bond-yields-government-us10y-treasury-note-iran.html
-    source: US Top News and Analysis
-    time: 08-18 17:45
-    title_zh: 随着各国政府为美国国债付出代价，全球债券收益率触及数十年来的高点伊朗僵局
-    summary_zh: 周二，国际政府债券收益率跟随美国国债收益率走高。
 - name: 货币政策
   items:
+  - title: 'Small UK power plant shut down after cyberattack linked to Iran: Telegraph'
+    summary: The U.K. government says the incident did not pose a risk to the country's energy system, adding that it briefed CEOs of companies in the se…
+    link: https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html
+    source: US Top News and Analysis
+    time: 08-23 19:35
+    title_zh: 英国小型发电厂在与伊朗有关的网络攻击后关闭：电讯报
+    summary_zh: 英国政府表示，该事件没有对该国能源系统构成风险，并补充说，它向该公司的首席执行官通报了情况.
   - title: US judge strikes down Trump immigrant visa ban affecting 75 countries
     summary: A federal judge in Manhattan ruled against the State Department's suspension of immigrant visas.
     link: https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss
