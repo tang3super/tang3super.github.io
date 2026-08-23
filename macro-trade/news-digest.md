@@ -5,11 +5,24 @@ title: 新闻监控
 date: '2026-08-23'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-23 21:49
+last_updated: 2026-08-23 22:09
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Gulf markets rise as oil prices climb on Iran sanction fears
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/gulf-markets-rise-as-oil-prices-climb-on-iran-sanction-fears-93CH-4872460
+    source: Stock Market News
+    time: 08-23 21:49
+    title_zh: 海湾市场上涨，油价因伊朗制裁担忧而攀升
+  - title: The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
+    summary: In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.
+    link: https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-23 21:37
+    title_zh: 苏伊士运河危机阻止了大英帝国。霍尔木兹会击败美国吗？
+    summary_zh: 在半岛电视台新播客的最新一集中，Deja Vu探讨了石油、航运和战争如何塑造海湾地区。
   - title: Iran Warns Gulf States Not to Join Trump’s Economic War
     summary: Iran’s new hard-line national security adviser, Mohsen Rezaei, vowed to prevent “a single drop of oil” from leaving the region.
     link: https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html
@@ -549,19 +562,6 @@ topics:
     time: 08-18 20:39
     title_zh: 卡塔尔否认伊朗有关失踪飞行员的“虚假”说法
     summary_zh: 马吉德·安萨里表示，伊朗飞机“侵犯了卡塔尔的主权”，并依法处理。
-  - title: 'FTSE 100 today: Stocks up buoyed by energy majors; Iran tensions escalate'
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-energy-majors-defy-hormuz-strike-fears-4864418
-    source: Stock Market News
-    time: 08-18 20:15
-    title_zh: 今日富时100指数：能源巨头提振股市上涨;伊朗紧张局势升级
-  - title: Why has Trump threatened to bomb Oman – for a second time?
-    summary: The US president threatened to bomb Oman over Hormuz, with US-Iran peace negotiations in a deadlock.
-    link: https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-18 19:33
-    title_zh: 特朗普为何第二次威胁要轰炸阿曼？
-    summary_zh: 美国总统威胁要就霍尔木兹问题轰炸阿曼，导致美伊和平谈判陷入僵局。
 - name: 货币政策
   items:
   - title: Zelenskyy says wartime elections could ‘destroy’ Ukraine
