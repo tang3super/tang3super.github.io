@@ -2,11 +2,11 @@
 title: 跨资产宏观传导框架
 date: 2026-08-03
 subtitle: 点击情境标签切换，查看传导链条与资产影响
-summary: 从宏观驱动事件出发，拆解传导链条、四类资产的方向性影响，以及容易被忽略的非共识洞察，覆盖加息、降息、日元套息崩解、地缘冲击、CPI/PPI通胀数据强弱、劳动力数据强弱共10种情境，按驱动因素分组浏览。
+summary: 从宏观驱动事件出发，拆解传导链条、四类资产的方向性影响，以及容易被忽略的非共识洞察，覆盖加息、降息、日元套息崩解、地缘冲击、CPI/PPI通胀数据强弱、美债长端期限溢价冲击、劳动力数据强弱共11种情境，按驱动因素分组浏览，另附美债曲线形态速览。
 ---
 
 <div class="summary-box">
-从宏观驱动事件出发，拆解传导链条、四类资产（美元、美债收益率、黄金、股市）的方向性影响，以及容易被忽略的非共识洞察或陷阱提示，覆盖加息、降息、日元套息崩解、地缘政治冲击、CPI意外走强/走弱、PPI意外走强/走弱、劳动力数据超预期走强/走弱共10种情境，按驱动因素分组、点击下方标签切换。
+从宏观驱动事件出发，拆解传导链条、四类资产（美元、美债收益率、黄金、股市）的方向性影响，以及容易被忽略的非共识洞察或陷阱提示，覆盖加息、降息、日元套息崩解、地缘政治冲击、CPI意外走强/走弱、PPI意外走强/走弱、美债长端期限溢价冲击、劳动力数据超预期走强/走弱共11种情境，按驱动因素分组、点击下方标签切换。
 </div>
 
 <style>
@@ -65,6 +65,25 @@ summary: 从宏观驱动事件出发，拆解传导链条、四类资产的方�
 <div class="macro-tool">
 <div class="tabs" id="tabs"></div>
 <div id="sc"></div>
+
+<div class="matrix-wrap">
+  <div class="section-label">曲线形态速览</div>
+  <p style="font-size:13px;color:var(--muted);line-height:1.6;margin:-4px 0 16px;">美债短端（2Y）反映Fed政策路径预期，美债长端（10Y/30Y）反映期限溢价——二者方向可能不同，<strong style="color:var(--ink);font-weight:500;">美债利差走势比单一收益率更有信号价值</strong>。任何情境下都建议顺手看一眼，不依赖具体触发事件。</p>
+  <div class="igrid">
+    <div class="icard">
+      <div class="icard-asset">陡峭化（美债2s10s / 2s30s 利差走阔）</div>
+      <div class="icard-note">通常意味着美债短端降息预期在兑现，但长端因通胀黏性/财政供给/买家撤退面临额外压力。经济数据转弱但长端独立走高的组合是典型形态——本轮（2026年8月）30年期美债收益率创19年新高属于此类。</div>
+    </div>
+    <div class="icard">
+      <div class="icard-asset">收窄 / 倒挂（美债利差走平或转负）</div>
+      <div class="icard-note">通常意味着市场在为衰退定价，美债短端因预期大幅降息而快速下行，长端跟随但幅度较小；历史上是经济周期转向的重要前瞻信号。</div>
+    </div>
+  </div>
+  <div class="ins" style="margin-top:14px;">
+    <div class="ins-label">重点监控指标</div>
+    <div class="ins-text">美债2s10s、2s30s利差的方向和幅度（不只是单看DGS2/DGS10/DGS30三条美债收益率本身）；30年期美债标售的认购倍数与中标利率相对预发行（when-issued）收益率的偏离程度——这个能直接反映海外买家意愿，与"美债长端期限溢价冲击"卡片直接对应。</div>
+  </div>
+</div>
 
 <div class="matrix-wrap">
   <div class="section-label">快速参考矩阵</div>
@@ -231,6 +250,25 @@ const scenarios = {
     ],
     insight:{type:'trap', label:'陷阱提示', text:'PPI走弱看似是"皆大欢喜"的情境，但一定要交叉验证走弱的来源——若是能源等供给端价格回落带来的成本缓解，是纯粹的好消息；但若是终端需求疲软导致生产商被迫降价出货（去库存压力），则是需求破坏的早期信号，与"CPI意外走弱"卡片里的陷阱提示是同一个判断逻辑，需要放在一起交叉核对。'}
   },
+  term_premium_shock: {
+    label: '美债长端期限溢价冲击',
+    driver: '经济周期',
+    lag: '数周 ~ 数月',
+    trigger: '30年期国债标售遇冷（认购倍数走低、中标利率高于预发行收益率）与海外主要持有国（英国/中国/日本）同步减持同时出现，叠加AI相关企业债发行创纪录，市场开始为"谁来接盘长端供给"重新定价。',
+    chain: [
+      '财政部发债规模扩大、海外买家意愿下降，长端一级市场需求转弱，直接体现在标售的中标利率和认购倍数上',
+      '与此同时，AI资本开支驱动的科技公司为融资建设算力/数据中心大举发行投资级债券，与美债长端在同一批长久期资金池里竞争',
+      '短端因Fed政策预期基本稳定甚至下行而不受影响，长端因此独立走高，曲线陡峭化（2s30s、2s10s利差走阔）',
+      '若外国官方买家（尤其日本）同时因本币贬值被迫干预汇率而抛售美债，会形成"汇率→长端"的反向反馈，进一步放大供给压力，而不是单纯由货币政策或经济数据驱动'
+    ],
+    impacts: [
+      {asset:'美债收益率(长端)', dir:'up', note:'标售遇冷+海外买家撤退直接体现在中标利率上，短端基本不受影响'},
+      {asset:'成长股/纳指', dir:'down', note:'长端是估值贴现率的锚，久期最长、叙事驱动型标的最先承压；硬件/供给紧张型标的可能逆势抗跌'},
+      {asset:'黄金', dir:'neutral', note:'实际利率上行的压制，与"去美元化/买家撤退"带来的对冲需求相互抵消，方向不明确'},
+      {asset:'美元指数', dir:'neutral', note:'传统利差逻辑指向走强，但若长端上涨源于买家撤退而非追捧，美元的支撑逻辑本身更脆弱'}
+    ],
+    insight:{type:'ins', label:'非共识洞察', text:'这类情境最容易被误判为"加息式"的货币政策冲击，但它跟"美联储加息"卡片的本质区别在于——短端不动，只有长端在涨。判断关键是2s30s利差是否走阔（而非收窄），以及30年期标售的认购倍数和中标利率相对于预发行收益率的偏离幅度。如果本国短端稳定、只有长端独立走高，说明这是供给/买家结构问题，而不是Fed紧缩，不能直接套用"加息"卡片里"美元走强、黄金承压"那类线性结论。'}
+  },
   labor_strong: {
     label: '劳动力数据超预期走强',
     driver: '经济周期',
@@ -271,9 +309,9 @@ const scenarios = {
   }
 };
 
-const order = ['fed_hike','fed_cut','yen_carry','geopolitical','cpi_strong','cpi_weak','ppi_strong','ppi_weak','labor_strong','labor_weak'];
+const order = ['fed_hike','fed_cut','yen_carry','geopolitical','cpi_strong','cpi_weak','ppi_strong','ppi_weak','term_premium_shock','labor_strong','labor_weak'];
 
-// 按驱动因素分组渲染标签，10个情境放在一起时更容易扫读
+// 按驱动因素分组渲染标签，11个情境放在一起时更容易扫读
 const tabsEl = document.getElementById('tabs');
 let lastDriver = null;
 let currentGroupRow = null;
@@ -359,6 +397,7 @@ function matrixDir(key, asset){
     cpi_weak:    {usd:'down', yield:'down', gold:'up', equity:'neutral'},
     ppi_strong:  {usd:'up', yield:'up', gold:'neutral', equity:'down'},
     ppi_weak:    {usd:'down', yield:'down', gold:'neutral', equity:'up'},
+    term_premium_shock:{usd:'neutral', yield:'up', gold:'neutral', equity:'down'},
     labor_strong:{usd:'up', yield:'up', gold:'down', equity:'neutral'},
     labor_weak:  {usd:'down', yield:'down', gold:'up', equity:'neutral'}
   };
