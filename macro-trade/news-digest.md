@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-23'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-23 19:45
+last_updated: 2026-08-23 20:00
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Can Iran retaliate against countries that join US ‘economic war’?
+    summary: Iran's security chief has warned of retaliation against countries joining US ‘economic war'.
+    link: https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-23 19:50
+    title_zh: 伊朗能否对加入美国“经济战争”的国家进行报复？
+    summary_zh: 伊朗安全负责人警告称，要对加入美国“经济战争”的国家进行报复。
   - title: 'Small UK power plant shut down after cyberattack linked to Iran: Telegraph'
     summary: The U.K. government says the incident did not pose a risk to the country's energy system, adding that it briefed CEOs of companies in the se…
     link: https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html
@@ -554,12 +561,6 @@ topics:
     source: Stock Market News
     time: 08-18 17:48
     title_zh: 伊朗和平希望减弱提振石油和债券收益率，美国股市期货下跌
-  - title: Wolfe Research sees oil prices holding steady amid US-Iran standoff
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/wolfe-research-sees-oil-prices-holding-steady-amid-usiran-standoff-93CH-4864607
-    source: Stock Market News
-    time: 08-18 17:46
-    title_zh: 沃尔夫研究公司认为，在美伊僵局中，油价保持稳定
 - name: 货币政策
   items:
   - title: 'Small UK power plant shut down after cyberattack linked to Iran: Telegraph'
@@ -805,6 +806,12 @@ topics:
     title_zh: 由于收益率下降和美联储暂停押注提振情绪，欧洲股市小幅上涨
 - name: AI基建
   items:
+  - title: Citi expects Nvidia stock to trade higher post earnings
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/citi-expects-nvidia-stock-to-trade-higher-post-earnings-4872442
+    source: Stock Market News
+    time: 08-23 19:17
+    title_zh: 花旗预计英伟达股价将上涨
   - title: Nvidia customers face over 15% server price hikes as memory costs soar - report
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-customers-face-over-15-server-price-hikes-as-memory-costs-soar--report-4872389
