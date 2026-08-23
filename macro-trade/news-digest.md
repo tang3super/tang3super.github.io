@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-23'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-23 07:51
+last_updated: 2026-08-23 08:25
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran war live: Tehran warns neighbours against joining US economic war'
+    summary: Official says any state joining US would be considered enemies and Tehran would target their interests in retaliation.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-23 08:00
+    title_zh: 伊朗战争直播：德黑兰警告邻国不要加入美国经济战争
+    summary_zh: 官员说，任何加入美国的国家都将被视为敌人，德黑兰将以他们的利益为报复目标。
+  - title: Iran threatens countries that join US ‘economic D-Day’
+    summary: Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-23 07:56
+    title_zh: 伊朗威胁加入美国“经济诺曼底登陆日”的国家
+    summary_zh: 伊朗警告称，加入美国针对伊朗经济战的国家将面临“针锋相对”的行动。
   - title: Iran warns nearby nations against joining US ‘economic war’ efforts
     summary: The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
     link: https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss
@@ -546,19 +560,6 @@ topics:
     time: 08-18 17:45
     title_zh: 随着各国政府为美国国债付出代价，全球债券收益率触及数十年来的高点伊朗僵局
     summary_zh: 周二，国际政府债券收益率跟随美国国债收益率走高。
-  - title: Treasury yields rise as oil gains and U.S.-Iran tensions fuel inflation fears
-    summary: Tuesday saw yields on U.S. 30-year Treasury yields add over 1 basis point to trade at around 5.322%, hovering just below its highest level s…
-    link: https://www.cnbc.com/2026/08/18/treasury-yields-.html
-    source: US Top News and Analysis
-    time: 08-18 15:58
-    title_zh: 随着油价上涨和美国国债收益率上升伊朗紧张局势加剧通胀担忧
-    summary_zh: 周二，美国30年期国债收益率上涨逾1个基点，至5.322%左右，略低于历史最高水平。
-  - title: Bitcoin edges up to $64k; Iran, rate jitters weigh on crypto
-    summary: ''
-    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-edges-up-to-64k-iran-rate-jitters-weigh-on-crypto-4864371
-    source: Cryptocurrency News
-    time: 08-18 14:54
-    title_zh: 比特币逼近6.4万美元;伊朗，利率动荡给加密货币带来压力
 - name: 货币政策
   items:
   - title: US judge strikes down Trump immigrant visa ban affecting 75 countries
