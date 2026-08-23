@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-23'
 summary: 2026年第34周监控
 week_label: 2026年第34周监控
-last_updated: 2026-08-23 20:00
+last_updated: 2026-08-23 20:51
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -563,6 +563,13 @@ topics:
     title_zh: 伊朗和平希望减弱提振石油和债券收益率，美国股市期货下跌
 - name: 货币政策
   items:
+  - title: Zelenskyy says wartime elections could ‘destroy’ Ukraine
+    summary: The embattled Ukrainian president slams Mykhailo Fedorov's idea as a 'tsunami' that would 'split' the country.
+    link: https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-23 20:19
+    title_zh: 泽连斯基称战时选举可能“摧毁”乌克兰
+    summary_zh: 陷入困境的乌克兰总统猛烈抨击米哈伊洛·费多罗夫的想法是一场将“分裂”国家的“海啸”。
   - title: 'Small UK power plant shut down after cyberattack linked to Iran: Telegraph'
     summary: The U.K. government says the incident did not pose a risk to the country's energy system, adding that it briefed CEOs of companies in the se…
     link: https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html
