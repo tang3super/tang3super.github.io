@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-24'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-24 10:51
+last_updated: 2026-08-24 11:41
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -77,6 +77,12 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-discusses-perplexity-investment-at-30-billionplus-valuation-the-information-reports-4872594
+    source: Stock Market News
+    time: 08-24 11:25
+    title_zh: 据《信息报》报道，Nvidia讨论以超过300亿美元的估值进行Perplexity投资
   - title: 'SK Hynix stalls below 200MA in bull trap test: Live levels'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/sk-hynix-stalls-below-200ma-in-bull-trap-test-live-levels-93CH-4872532
