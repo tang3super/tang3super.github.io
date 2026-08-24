@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 01:18
+last_updated: 2026-08-25 01:50
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump admin unveils anti-Iran global sanctions plan, signals China not exempt
+    summary: The Trump administration unveiled a plan to isolate Iran's economy by threatening to impose secondary sanctions on the Islamic Republic's "e…
+    link: https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html
+    source: US Top News and Analysis
+    time: 08-25 01:49
+    title_zh: 特朗普政府公布反伊朗全球制裁计划，暗示中国不会豁免
+    summary_zh: 特朗普政府公布了一项孤立伊朗经济的计划，威胁要对伊朗伊斯兰共和国实施二级制裁。
+  - title: Trump administration announces ‘economic D-day’ sanctions on Iran
+    summary: Treasury Secretary Scott Bessent says US sanctions will intensify to choke off Iran's revenues and isolate the country.
+    link: https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 01:10
+    title_zh: 特朗普政府宣布对伊朗实施“D日”经济制裁
+    summary_zh: 财政部长斯科特·贝森特表示，美国将加强制裁，以扼杀伊朗的收入并孤立该国。
   - title: What to expect as Iran braces for new US economic measures amid war
     summary: Tehran may count on links with China and others to weather the storm, but average Iranian people will bear the brunt.
     link: https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war?traffic_source=rss
