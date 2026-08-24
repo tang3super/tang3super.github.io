@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-24'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-24 09:50
+last_updated: 2026-08-24 10:51
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures
+    summary: The escalation came as both sides have missed a 60-day ceasefire window to reach a deal, closing off the formal truce mechanism to end the s…
+    link: https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html
+    source: US Top News and Analysis
+    time: 08-24 10:25
+    title_zh: 德黑兰威胁扣押船只，美国将对伊朗发起“最大规模的金融攻势”
+    summary_zh: 事态升级之际，双方错过了达成协议的60天停火窗口，关闭了正式停火机制以结束冲突.
   - title: Oil prices fall as investors await 'toughest' U.S. sanctions on Iran
     summary: Oil prices fell Monday as investors awaited details of what Washington has billed as its toughest-ever sanctions campaign against Iran.
     link: https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html
