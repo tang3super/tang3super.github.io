@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-24'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-24 20:03
+last_updated: 2026-08-24 21:07
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: South Korea says US cancelled upcoming joint marine exercises over Iran war
+    summary: The cancellation follows Trump's surprise order last week to scale back a separate annual joint military drill.
+    link: https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-24 20:28
+    title_zh: 韩国称美国因伊朗战争取消了即将举行的联合海上演习
+    summary_zh: 此次取消是在特朗普上周意外下令缩减单独的年度联合军事演习之后进行的。
   - title: 'US threatens toughest sanctions yet against Iran: What we know'
     summary: Tehran has threatened to retaliate against any country that joins new US economic measures.
     link: https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss
@@ -151,6 +158,13 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Jim Cramer's top 10 things to watch in the stock market Monday
+    summary: Nvidia reports earnings this week, but it's not the only thing that matters to the AI trade.
+    link: https://www.cnbc.com/2026/08/24/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html
+    source: US Top News and Analysis
+    time: 08-24 20:39
+    title_zh: 吉姆·克莱默（Jim Cramer）周一股市最值得关注的10件事
+    summary_zh: 英伟达本周公布了财报，但这并不是人工智能行业唯一重要的事情。
   - title: A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.
     summary: An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to hum…
     link: https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html
