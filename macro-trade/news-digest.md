@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 02:18
+last_updated: 2026-08-25 03:04
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump’s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say
+    summary: Trump’s stock trading could face heightened congressional scrutiny if Democrats retake either chamber in the midterms.
+    link: https://www.cnbc.com/2026/08/24/trump-oil-gas-stocks-iran-war-investments-democrats.html
+    source: US Top News and Analysis
+    time: 08-25 02:34
+    title_zh: 国会民主党人称，伊朗战争期间特朗普的石油和天然气股票上涨至1550万美元
+    summary_zh: 如果民主党在中期选举中重新夺回任何一个议院，特朗普的股票交易可能会面临国会的严格审查。
   - title: Trump administration announces global economic war on Iran
     summary: The US says it is targeting all of Iran’s sources of revenue, including oil.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss
