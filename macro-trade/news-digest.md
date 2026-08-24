@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-24'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-24 16:24
+last_updated: 2026-08-24 17:11
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Where Iran’s Young People Gather, the Government Sees Threats to Its Authority
+    summary: In recent weeks, the police have closed dozens of cafes, often citing laws that stipulate women must veil in public. Experts say the closure…
+    link: https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html
+    source: NYT > World News
+    time: 08-24 16:47
+    title_zh: 伊朗年轻人聚集的地方，政府看到对其权威的威胁
+    summary_zh: 最近几周，警方关闭了数十家咖啡馆，经常援引法律规定女性必须在公共场合戴面纱。专家称关闭.
   - title: How much more are you spending on petrol since the war in Iran began?
     summary: At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.
     link: https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss
@@ -123,6 +130,20 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say
+    summary: The tech giant says it does not sell the devices in Russia, but they are widely available on resale markets. When purchased that way, they a…
+    link: https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html
+    source: NYT > World News
+    time: 08-24 17:02
+    title_zh: 俄罗斯的一些人工智能乌克兰官员称无人机由Nvidia微电脑驱动
+    summary_zh: 这家科技巨头表示，它不在俄罗斯销售这些设备，但它们在转售市场上广泛销售。当以这种方式购买时，他们.
+  - title: A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.
+    summary: An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to hum…
+    link: https://www.nytimes.com/2026/08/24/world/europe/drones-autonomous-ai-kill.html
+    source: NYT > World News
+    time: 08-24 17:00
+    title_zh: 无人机杀死三名乌克兰人。它是由人工智能严格引导的
+    summary_zh: 乌克兰官员称，一架配备英伟达芯片的俄罗斯无人机发动的袭击预示着反乌托邦的未来，武器不受束缚……
   - title: Xiaomi launches new Xring chip, partners with TSMC for production, sources say
     summary: ''
     link: https://www.investing.com/news/stock-market-news/xiaomi-launches-new-xring-chip-partners-with-tsmc-for-production-sources-say-4872712
