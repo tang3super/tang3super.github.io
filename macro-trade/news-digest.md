@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-24'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-24 22:45
+last_updated: 2026-08-24 23:24
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -177,6 +177,13 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Nvidia says Groq racks will be online this year following $20 billion purchase
+    summary: Nvidia's race to manufacture Groq chips and make them available to customers highlights the growing importance in AI of low-latency inferenc…
+    link: https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html
+    source: US Top News and Analysis
+    time: 08-24 23:00
+    title_zh: Nvidia表示，以200亿美元收购Groq货架将于今年上线
+    summary_zh: Nvidia竞相制造Groq芯片并将其提供给客户，凸显了低延迟推理在人工智能中日益重要的意义.
   - title: Watch these key S&P 500 support levels ahead of PCE, Nvidia, and Jackson Hole
     summary: ''
     link: https://www.investing.com/news/stock-market-news/watch-these-key-sp-500-support-levels-ahead-of-pce-nvidia-and-jackson-hole-93CH-4873701
