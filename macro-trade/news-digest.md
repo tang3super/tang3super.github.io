@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-24'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-24 18:02
+last_updated: 2026-08-24 18:47
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'US threatens toughest sanctions yet against Iran: What we know'
+    summary: Tehran has threatened to retaliate against any country that joins new US economic measures.
+    link: https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-24 18:23
+    title_zh: 美国威胁对伊朗实施迄今为止最严厉的制裁：我们所知道的
+    summary_zh: 德黑兰威胁要对任何加入美国新经济措施的国家进行报复。
   - title: U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands
     summary: The move to call off the high-profile event was communicated in June, South Korea said. President Trump shortened another joint military exe…
     link: https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html
