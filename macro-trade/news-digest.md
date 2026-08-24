@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-24'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-24 21:59
+last_updated: 2026-08-24 22:45
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran Pledges to Defy Trump’s Economic Sanctions
+    summary: Analysts say Tehran could intensify the dispute militarily after attempts to squeeze its economy. An Iranian official vowed “not a single dr…
+    link: https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html
+    source: NYT > World News
+    time: 08-24 22:04
+    title_zh: 伊朗承诺无视特朗普的经济制裁
+    summary_zh: 分析人士表示，德黑兰在试图挤压其经济后可能会在军事上加剧争端。一名伊朗官员发誓“没有一个医生.
   - title: Wall Street opens lower as high-stakes Iran, inflation tests loom
     summary: ''
     link: https://www.investing.com/news/stock-market-news/wall-street-opens-lower-as-highstakes-iran-inflation-tests-loom-4873698
