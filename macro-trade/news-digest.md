@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-24'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-24 08:00
+last_updated: 2026-08-24 09:50
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Oil prices fall as investors await 'toughest' U.S. sanctions on Iran
+    summary: Oil prices fell Monday as investors awaited details of what Washington has billed as its toughest-ever sanctions campaign against Iran.
+    link: https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html
+    source: US Top News and Analysis
+    time: 08-24 08:59
+    title_zh: 投资者等待美国对伊朗实施“最严厉”制裁，油价下跌
+    summary_zh: 油价周一下跌，投资者等待华盛顿所称的对伊朗有史以来最严厉制裁行动的细节。
+  - title: 'Iran war live: Iranian parliament advances plans for Hormuz service fees'
+    summary: Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for Tehran's services.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-24 08:00
+    title_zh: 伊朗战争直播：伊朗议会推进霍尔木兹服务费计划
+    summary_zh: 法律草案规定，获准通过霍尔木兹海峡的国家船只将支付德黑兰的服务费用。
   - title: Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat
     summary: Bessent told CNBC that the sanctions will be the "toughest" in history.
     link: https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html
@@ -56,6 +70,12 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: 'SK Hynix stalls below 200MA in bull trap test: Live levels'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/sk-hynix-stalls-below-200ma-in-bull-trap-test-live-levels-93CH-4872532
+    source: Stock Market News
+    time: 08-24 09:05
+    title_zh: SK Hynix在牛市测试中跌破200 MA：实时水平
   - title: Why sovereign AI should reinforce rather than undermine the AI capex cycle?
     summary: ''
     link: https://www.investing.com/news/stock-market-news/why-sovereign-ai-should-reinforce-rather-than-undermine-the-ai-capex-cycle-4872480
