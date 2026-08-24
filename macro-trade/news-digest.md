@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 06:54
+last_updated: 2026-08-25 07:14
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: How US sanctions on Iran ripple through global markets and consumers
+    summary: New sanctions hit Iran's aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.
+    link: https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 06:46
+    title_zh: 美国对伊朗的制裁如何影响全球市场和消费者
+    summary_zh: 新的制裁打击了伊朗的航空、科技和航运业，加大了全球市场和能源价格的压力。
   - title: 'US public support for Iran war falls as Trump approval at record low: Poll'
     summary: Falling Republican support, rising gas prices, and fears of a long conflict drive a decline in backing for the Iran war.
     link: https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss
