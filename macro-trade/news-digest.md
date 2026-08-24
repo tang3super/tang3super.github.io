@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-24'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-24 17:11
+last_updated: 2026-08-24 18:02
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands
+    summary: The move to call off the high-profile event was communicated in June, South Korea said. President Trump shortened another joint military exe…
+    link: https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html
+    source: NYT > World News
+    time: 08-24 17:19
+    title_zh: 美国海军陆战队员以伊朗战争需求为由取消与韩国的演习
+    summary_zh: 韩国表示，取消这一备受瞩目的活动的举措是在六月份传达的。特朗普总统缩短了另一项联合军事行动.
+  - title: US threat of ‘economic D-Day’ for Iran tests Trump’s China detente
+    summary: Exerting maximum economic pressure on Tehran would risk blowback from Beijing.
+    link: https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-24 17:10
+    title_zh: 美国对伊朗的“经济登陆日”威胁考验特朗普对华缓和
+    summary_zh: 向德黑兰施加最大经济压力可能会遭到北京的反击。
   - title: Where Iran’s Young People Gather, the Government Sees Threats to Its Authority
     summary: In recent weeks, the police have closed dozens of cafes, often citing laws that stipulate women must veil in public. Experts say the closure…
     link: https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html
@@ -130,6 +144,13 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.
+    summary: An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to hum…
+    link: https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html
+    source: NYT > World News
+    time: 08-24 17:29
+    title_zh: 无人机杀死三名乌克兰人。它是由人工智能严格引导的
+    summary_zh: 乌克兰官员称，一架配备英伟达芯片的俄罗斯无人机发动的袭击预示着反乌托邦的未来，武器不受束缚……
   - title: Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say
     summary: The tech giant says it does not sell the devices in Russia, but they are widely available on resale markets. When purchased that way, they a…
     link: https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html
