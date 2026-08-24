@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 01:50
+last_updated: 2026-08-25 02:18
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump administration announces global economic war on Iran
+    summary: The US says it is targeting all of Iran’s sources of revenue, including oil.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 01:53
+    title_zh: 特朗普政府宣布对伊朗发动全球经济战
+    summary_zh: 美国表示，它的目标是伊朗的所有收入来源，包括石油。
   - title: Trump admin unveils anti-Iran global sanctions plan, signals China not exempt
     summary: The Trump administration unveiled a plan to isolate Iran's economy by threatening to impose secondary sanctions on the Islamic Republic's "e…
     link: https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html
