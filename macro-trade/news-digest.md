@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-24'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-24 12:28
+last_updated: 2026-08-24 13:11
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -75,6 +75,12 @@ topics:
     summary_zh: 埃克佩里克佩·埃克波表示，美以对伊朗的战争迫使尼日利亚扩大天然气产量。
 - name: 货币政策
   items:
+  - title: Asian stocks sink as Samsung, Alibaba lead tech rout; Nvidia, Fed in focus
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/asian-stocks-sink-as-samsung-alibaba-lead-tech-rout-nvidia-fed-in-focus-4872614
+    source: Stock Market News
+    time: 08-24 12:35
+    title_zh: 三星、阿里巴巴引领科技股暴跌，亚洲股市下跌;英伟达、美联储成为焦点
   - title: Here are the 2 big things we're watching in the stock market this week
     summary: Nvidia reports earnings, and Fed Chairman Kevin Warsh is set to deliver his first Jackson Hole speech.
     link: https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html
@@ -84,6 +90,18 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Asian stocks sink as Samsung, Alibaba lead tech rout; Nvidia, Fed in focus
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/asian-stocks-sink-as-samsung-alibaba-lead-tech-rout-nvidia-fed-in-focus-4872614
+    source: Stock Market News
+    time: 08-24 12:35
+    title_zh: 三星、阿里巴巴引领科技股暴跌，亚洲股市下跌;英伟达、美联储成为焦点
+  - title: 'Samsung vs SK Hynix: how their latest shareholder return plans compare'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/samsung-vs-sk-hynix-how-their-latest-shareholder-return-plans-compare-93CH-4872612
+    source: Stock Market News
+    time: 08-24 12:25
+    title_zh: 三星vs SK Hynix：他们最新的股东回报计划如何比较
   - title: Nvidia in talks to invest in Perplexity at $30B valuation- The Information
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-in-perplexity-at-30b-valuation-the-information-93CH-4872606
