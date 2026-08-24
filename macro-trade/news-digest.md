@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-24'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-24 15:39
+last_updated: 2026-08-24 16:24
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: How much more are you spending on petrol since the war in Iran began?
+    summary: At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.
+    link: https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-24 15:26
+    title_zh: 自伊朗战争开始以来，您在汽油上又花了多少钱？
+    summary_zh: 自美国和以色列对伊朗发动袭击以来，至少有145个国家报告汽油价格上涨。
   - title: 'FTSE 100 today: Stocks lower as Iran sanctions and tech selloff weigh'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-lower-as-iran-sanctions-and-tech-selloff-weigh-4872749
@@ -94,6 +101,13 @@ topics:
     summary_zh: 埃克佩里克佩·埃克波表示，美以对伊朗的战争迫使尼日利亚扩大天然气产量。
 - name: 货币政策
   items:
+  - title: Treasury yields fall as investors brace for Warsh’s Jackson Hole keynote amid bond fears
+    summary: Treasury yields fell Monday as investors await Federal Reserve Chair Kevin Warsh's keynote speech at Jackson Hole later this week.
+    link: https://www.cnbc.com/2026/08/24/treasury-yields-warsh-jackson-hole.html
+    source: US Top News and Analysis
+    time: 08-24 16:14
+    title_zh: 由于债券担忧，投资者为沃什杰克逊霍尔的主题演讲做好准备，国债收益率下跌
+    summary_zh: 由于投资者等待美联储主席凯文·沃什本周晚些时候在杰克逊霍尔发表主题演讲，美国国债收益率周一下跌。
   - title: Asian stocks sink as Samsung, Alibaba lead tech rout; Nvidia, Fed in focus
     summary: ''
     link: https://www.investing.com/news/stock-market-news/asian-stocks-sink-as-samsung-alibaba-lead-tech-rout-nvidia-fed-in-focus-4872614
