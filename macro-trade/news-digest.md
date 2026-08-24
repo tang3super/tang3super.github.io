@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 00:01
+last_updated: 2026-08-25 00:48
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: What to expect as Iran braces for new US economic measures amid war
+    summary: Tehran may count on links with China and others to weather the storm, but average Iranian people will bear the brunt.
+    link: https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 00:02
+    title_zh: 伊朗在战争中准备迎接美国新的经济措施，会发生什么
+    summary_zh: 德黑兰可能指望与中国和其他国家的联系来度过这场风暴，但普通伊朗人民将首当其冲。
   - title: Iran Pledges to Defy Trump’s Economic Sanctions
     summary: Analysts say Tehran could intensify the dispute militarily after attempts to squeeze its economy. An Iranian official vowed “not a single dr…
     link: https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html
@@ -177,6 +184,13 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: From Nvidia earnings to trade war tape bombs, a simple strategy could be this week's best bet
+    summary: Mike Khouw gives a low-risk options strategy to play the next few weeks.
+    link: https://www.cnbc.com/2026/08/24/from-nvidia-earnings-to-trade-war-tape-bombs-a-simple-strategy-could-be-this-weeks-best-bet.html
+    source: US Top News and Analysis
+    time: 08-25 00:07
+    title_zh: 从英伟达的收益到贸易战争磁带炸弹，一个简单的策略可能是本周最好的选择
+    summary_zh: Mike Khouw给出了未来几周的低风险期权策略。
   - title: Nvidia says Groq racks will be online this year following $20 billion purchase
     summary: Nvidia's race to manufacture Groq chips and make them available to customers highlights the growing importance in AI of low-latency inferenc…
     link: https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html
