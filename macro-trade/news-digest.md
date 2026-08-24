@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 04:36
+last_updated: 2026-08-25 05:03
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: A New Effort to Punish Iran
+    summary: The Trump administration says it will try to cut the country off from the global economy by targeting its trading partners.
+    link: https://www.nytimes.com/2026/08/24/world/iran-sanctions-threat-economy-ukraine.html
+    source: NYT > World News
+    time: 08-25 04:48
+    title_zh: 惩罚伊朗的新努力
+    summary_zh: 特朗普政府表示，将试图通过针对其贸易伙伴来切断该国与全球经济的联系。
   - title: Yemen’s Houthis report attack on Saudi ship
     summary: Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.
     link: https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss
