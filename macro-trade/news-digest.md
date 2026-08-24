@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 05:03
+last_updated: 2026-08-25 05:38
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -17,6 +17,13 @@ topics:
     time: 08-25 04:48
     title_zh: 惩罚伊朗的新努力
     summary_zh: 特朗普政府表示，将试图通过针对其贸易伙伴来切断该国与全球经济的联系。
+  - title: 'Video: Iran reacts to US ‘economic D-Day’ sanctions'
+    summary: Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 04:48
+    title_zh: 视频：伊朗对美国“诺曼底登陆”经济制裁的反应
+    summary_zh: 伊朗经济部长阿里·马达尼-扎德对美国宣布的新经济压力运动做出了回应。
   - title: Yemen’s Houthis report attack on Saudi ship
     summary: Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.
     link: https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss
