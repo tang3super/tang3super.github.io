@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-24'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-24 11:41
+last_updated: 2026-08-24 12:28
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: '‘We know this movie’: Iran mocks latest US sanctions'
+    summary: Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the 'same movie on repeat'.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-24 12:02
+    title_zh: “我们知道这部电影”：伊朗嘲笑美国最新制裁
+    summary_zh: 阿巴斯·阿拉奇表示，美国可能于周一公布的新制裁就像“重复看同一部电影”。
   - title: U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures
     summary: The escalation came as both sides have missed a 60-day ceasefire window to reach a deal, closing off the formal truce mechanism to end the s…
     link: https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html
@@ -77,6 +84,12 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Nvidia in talks to invest in Perplexity at $30B valuation- The Information
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-in-perplexity-at-30b-valuation-the-information-93CH-4872606
+    source: Stock Market News
+    time: 08-24 12:08
+    title_zh: Nvidia正在洽谈以300亿美元估值投资Perplexity- The Info
   - title: Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-discusses-perplexity-investment-at-30-billionplus-valuation-the-information-reports-4872594
