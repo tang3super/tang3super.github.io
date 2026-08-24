@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 03:37
+last_updated: 2026-08-25 04:00
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Yemen’s Houthis report attack on Saudi ship
+    summary: Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.
+    link: https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 03:44
+    title_zh: 也门胡塞武装报告袭击沙特船只
+    summary_zh: 沙特航运公司Bahri证实其船只遭到袭击，所有船员都安全。
   - title: Trump’s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say
     summary: Trump’s stock trading could face heightened congressional scrutiny if Democrats retake either chamber in the midterms.
     link: https://www.cnbc.com/2026/08/24/trump-oil-gas-stocks-iran-war-investments-democrats.html
@@ -212,6 +219,19 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Here's what the charts say about Nvidia's stock heading into earnings
+    summary: We see a flashing yellow light into Nvidia's earnings report Wednesday night.
+    link: https://www.cnbc.com/2026/08/24/heres-what-the-charts-say-about-nvidias-stock-heading-into-earnings.html
+    source: US Top News and Analysis
+    time: 08-25 03:51
+    title_zh: 以下是图表显示的Nvidia股票收益
+    summary_zh: 周三晚上，我们看到英伟达的盈利报告亮起了黄灯。
+  - title: Nvidia earnings risks and the peers with the most to lose
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-earnings-risks-and-the-peers-with-the-most-to-lose-93CH-4874092
+    source: Stock Market News
+    time: 08-25 03:33
+    title_zh: 英伟达的盈利风险和同行最多的损失
   - title: From Nvidia earnings to trade war tape bombs, a simple strategy could be this week's best bet
     summary: Mike Khouw gives a low-risk options strategy to play the next few weeks.
     link: https://www.cnbc.com/2026/08/24/from-nvidia-earnings-to-trade-war-tape-bombs-a-simple-strategy-could-be-this-weeks-best-bet.html
