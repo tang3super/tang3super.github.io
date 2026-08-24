@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 05:38
+last_updated: 2026-08-25 05:58
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'US public support for Iran war falls as Trump approval at record low: Poll'
+    summary: Falling Republican support, rising gas prices, and fears of a long conflict drive a decline in backing for the Iran war.
+    link: https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 05:35
+    title_zh: 民意调查显示，特朗普支持率创历史新低，美国公众对伊朗战争的支持率下降
+    summary_zh: 共和党支持率下降、天然气价格上涨以及对长期冲突的担忧导致对伊朗战争的支持率下降。
   - title: A New Effort to Punish Iran
     summary: The Trump administration says it will try to cut the country off from the global economy by targeting its trading partners.
     link: https://www.nytimes.com/2026/08/24/world/iran-sanctions-threat-economy-ukraine.html
@@ -205,6 +212,13 @@ topics:
     summary_zh: 埃克佩里克佩·埃克波表示，美以对伊朗的战争迫使尼日利亚扩大天然气产量。
 - name: 货币政策
   items:
+  - title: Mark Walter's TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers
+    summary: Federal authorities are investigating how two insurers that are part of Mark Walter's business empire classified more than $20 billion in lo…
+    link: https://www.cnbc.com/2026/08/24/mark-walter-twg-david-markowitz-goldman-federal-probe.html
+    source: US Top News and Analysis
+    time: 08-25 05:37
+    title_zh: 马克·沃尔特（Mark Walter）的TWG Global在保险公司调查中聘请高盛资深人士马科维茨（Markowitz）担任首席律师
+    summary_zh: 联邦当局正在调查马克·沃尔特商业帝国的两家保险公司如何将超过200亿美元的损失分类。
   - title: Watch these key S&P 500 support levels ahead of PCE, Nvidia, and Jackson Hole
     summary: ''
     link: https://www.investing.com/news/stock-market-news/watch-these-key-sp-500-support-levels-ahead-of-pce-nvidia-and-jackson-hole-93CH-4873701
