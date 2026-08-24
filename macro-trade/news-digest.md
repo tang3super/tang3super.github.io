@@ -5,11 +5,30 @@ title: 新闻监控
 date: '2026-08-24'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-24 14:29
+last_updated: 2026-08-24 15:39
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'FTSE 100 today: Stocks lower as Iran sanctions and tech selloff weigh'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-lower-as-iran-sanctions-and-tech-selloff-weigh-4872749
+    source: Stock Market News
+    time: 08-24 15:17
+    title_zh: 今日富时100指数：伊朗制裁和科技股抛售导致股市走低
+  - title: European equities trade sideways as markets await Iran sanctions
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/european-equities-trade-sideways-as-markets-await-iran-sanctions-4872688
+    source: Stock Market News
+    time: 08-24 15:14
+    title_zh: 市场等待伊朗制裁，欧洲股市横向交易
+  - title: 'Pakistan’s army chief Munir returns to Iran: Can he break US war deadlock?'
+    summary: Pakistan says it can offer a channel between Tehran and Washington, but analysts differ over how much influence it has.
+    link: https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-24 14:30
+    title_zh: 巴基斯坦陆军参谋长穆尼尔重返伊朗：他能打破美国战争僵局吗？
+    summary_zh: 巴基斯坦表示，它可以在德黑兰和华盛顿之间提供一个渠道，但分析人士对其影响力有多大存在分歧。
   - title: '‘We know this movie’: Iran mocks latest US sanctions'
     summary: Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the 'same movie on repeat'.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss
@@ -90,6 +109,18 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Xiaomi launches new Xring chip, partners with TSMC for production, sources say
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/xiaomi-launches-new-xring-chip-partners-with-tsmc-for-production-sources-say-4872712
+    source: Stock Market News
+    time: 08-24 15:12
+    title_zh: 消息人士称，小米推出新款Xring芯片，与台积电合作生产
+  - title: Wall St futures fall amid elevated yields; Nvidia results, Jackson Hole in focus
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/wall-st-futures-steady-after-weekly-losses-nvidia-results-jackson-hole-in-focus-4872516
+    source: Stock Market News
+    time: 08-24 14:53
+    title_zh: 华尔街期货在收益率上升的情况下下跌; Nvidia业绩，Jackson Hole成为焦点
   - title: Asian stocks sink as Samsung, Alibaba lead tech rout; Nvidia, Fed in focus
     summary: ''
     link: https://www.investing.com/news/stock-market-news/asian-stocks-sink-as-samsung-alibaba-lead-tech-rout-nvidia-fed-in-focus-4872614
