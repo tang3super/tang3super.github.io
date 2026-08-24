@@ -5,11 +5,17 @@ title: 新闻监控
 date: '2026-08-24'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-24 21:07
+last_updated: 2026-08-24 21:59
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Wall Street opens lower as high-stakes Iran, inflation tests loom
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/wall-street-opens-lower-as-highstakes-iran-inflation-tests-loom-4873698
+    source: Stock Market News
+    time: 08-24 21:37
+    title_zh: 伊朗面临高风险，通胀测试迫在眉睫，华尔街开盘走低
   - title: South Korea says US cancelled upcoming joint marine exercises over Iran war
     summary: The cancellation follows Trump's surprise order last week to scale back a separate annual joint military drill.
     link: https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss
@@ -136,6 +142,12 @@ topics:
     summary_zh: 埃克佩里克佩·埃克波表示，美以对伊朗的战争迫使尼日利亚扩大天然气产量。
 - name: 货币政策
   items:
+  - title: Watch these key S&P 500 support levels ahead of PCE, Nvidia, and Jackson Hole
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/watch-these-key-sp-500-support-levels-ahead-of-pce-nvidia-and-jackson-hole-93CH-4873701
+    source: Stock Market News
+    time: 08-24 21:37
+    title_zh: 在PCE、Nvidia和Jackson Hole之前观看这些关键的标准普尔500支撑位
   - title: Treasury yields fall as investors brace for Warsh’s Jackson Hole keynote amid bond fears
     summary: Treasury yields fell Monday as investors await Federal Reserve Chair Kevin Warsh's keynote speech at Jackson Hole later this week.
     link: https://www.cnbc.com/2026/08/24/treasury-yields-warsh-jackson-hole.html
@@ -158,6 +170,12 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Watch these key S&P 500 support levels ahead of PCE, Nvidia, and Jackson Hole
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/watch-these-key-sp-500-support-levels-ahead-of-pce-nvidia-and-jackson-hole-93CH-4873701
+    source: Stock Market News
+    time: 08-24 21:37
+    title_zh: 在PCE、Nvidia和Jackson Hole之前观看这些关键的标准普尔500支撑位
   - title: Jim Cramer's top 10 things to watch in the stock market Monday
     summary: Nvidia reports earnings this week, but it's not the only thing that matters to the AI trade.
     link: https://www.cnbc.com/2026/08/24/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html
