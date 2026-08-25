@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 08:40
+last_updated: 2026-08-25 10:07
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -226,6 +226,12 @@ topics:
     summary_zh: 埃克佩里克佩·埃克波表示，美以对伊朗的战争迫使尼日利亚扩大天然气产量。
 - name: 货币政策
   items:
+  - title: Wall St futures steady as investors brace for Nvidia results, Fed signals
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-investors-brace-for-nvidia-results-fed-signals-4874359
+    source: Stock Market News
+    time: 08-25 09:05
+    title_zh: 美联储发出信号，投资者为英伟达业绩做好准备，华尔街期货稳定
   - title: Mark Walter's TWG Global hires Goldman veteran Markowitz as top lawyer amid probe of insurers
     summary: Federal authorities are investigating how two insurers that are part of Mark Walter's business empire classified more than $20 billion in lo…
     link: https://www.cnbc.com/2026/08/24/mark-walter-twg-david-markowitz-goldman-federal-probe.html
@@ -261,6 +267,12 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Wall St futures steady as investors brace for Nvidia results, Fed signals
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-investors-brace-for-nvidia-results-fed-signals-4874359
+    source: Stock Market News
+    time: 08-25 09:05
+    title_zh: 美联储发出信号，投资者为英伟达业绩做好准备，华尔街期货稳定
   - title: Here's what the charts say about Nvidia's stock heading into earnings
     summary: We see a flashing yellow light into Nvidia's earnings report Wednesday night.
     link: https://www.cnbc.com/2026/08/24/heres-what-the-charts-say-about-nvidias-stock-heading-into-earnings.html
