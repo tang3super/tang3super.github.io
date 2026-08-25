@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 00:25
+last_updated: 2026-08-26 01:04
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach
+    summary: As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.
+    link: https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-26 00:39
+    title_zh: 制裁还是导弹？为什么海湾地区可能不喜欢特朗普的新伊朗做法
+    summary_zh: 随着华盛顿向德黑兰施压，海湾国家权衡制裁与升级风险。
   - title: Qatar says US sanctions on Iran are unilateral
     summary: Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss
@@ -156,6 +163,13 @@ topics:
     time: 08-25 05:35
     title_zh: 民意调查显示，特朗普支持率创历史新低，美国公众对伊朗战争的支持率下降
     summary_zh: 共和党支持率下降、天然气价格上涨以及对长期冲突的担忧导致对伊朗战争的支持率下降。
+  - title: Iran Pledges to Defy Trump’s Economic Sanctions
+    summary: Analysts say Tehran could intensify the dispute militarily after the United States announced new efforts to squeeze Iran’s economy. One Iran…
+    link: https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html
+    source: NYT > World News
+    time: 08-25 05:12
+    title_zh: 伊朗承诺无视特朗普的经济制裁
+    summary_zh: 分析人士表示，在美国宣布采取新措施挤压伊朗经济后，德黑兰可能会在军事上加剧争端。一个伊朗.
   - title: A New Effort to Punish Iran
     summary: The Trump administration says it will try to cut the country off from the global economy by targeting its trading partners.
     link: https://www.nytimes.com/2026/08/24/world/iran-sanctions-threat-economy-ukraine.html
@@ -212,13 +226,6 @@ topics:
     time: 08-25 00:02
     title_zh: 伊朗在战争中准备迎接美国新的经济措施，会发生什么
     summary_zh: 德黑兰可能指望与中国和其他国家的联系来度过这场风暴，但普通伊朗人民将首当其冲。
-  - title: Iran Pledges to Defy Trump’s Economic Sanctions
-    summary: Analysts say Tehran could intensify the dispute militarily after attempts to squeeze its economy. An Iranian official vowed “not a single dr…
-    link: https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html
-    source: NYT > World News
-    time: 08-24 22:04
-    title_zh: 伊朗承诺无视特朗普的经济制裁
-    summary_zh: 分析人士表示，德黑兰在试图挤压其经济后可能会在军事上加剧争端。一名伊朗官员发誓“没有一个医生.
   - title: Wall Street opens lower as high-stakes Iran, inflation tests loom
     summary: ''
     link: https://www.investing.com/news/stock-market-news/wall-street-opens-lower-as-highstakes-iran-inflation-tests-loom-4873698
