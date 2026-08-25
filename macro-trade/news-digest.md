@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 02:51
+last_updated: 2026-08-26 03:19
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -425,6 +425,13 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?
+    summary: Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
+    link: https://www.cnbc.com/2026/08/25/openai-says-its-broadcom-chip-is-a-big-advance-what-about-nvidia.html
+    source: US Top News and Analysis
+    time: 08-26 03:01
+    title_zh: OpenAI表示，其Broadcom定制芯片是赢家。这对Nvidia意味着什么？
+    summary_zh: 每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。
   - title: Wall St opens higher as tech stocks rebound before Nvidia results, data
     summary: ''
     link: https://www.investing.com/news/stock-market-news/wall-st-opens-higher-as-tech-stocks-rebound-before-nvidia-results-data-4875525
