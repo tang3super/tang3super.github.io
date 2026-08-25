@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 23:04
+last_updated: 2026-08-25 23:54
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Qatar says US sanctions on Iran are unilateral
+    summary: Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 23:17
+    title_zh: 卡塔尔称美国对伊朗的制裁是单方面的
+    summary_zh: 卡塔尔外交部周二在简报中表示，美国对伊朗的制裁是单方面的。
+  - title: US launches Economic war on Iran
+    summary: The US says it has launched ‘Operation Economic Outcast’, expanding sanctions on Iran
+    link: https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 23:12
+    title_zh: 美国对伊朗发动经济战
+    summary_zh: 美国称已启动“经济驱逐行动”，扩大对伊朗的制裁
   - title: China says will safeguard its own interests as US expands Iran sanctions
     summary: China has advocated for a ceasefire, insisting US sanctions will not resolve the Middle East conflict.
     link: https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions?traffic_source=rss
