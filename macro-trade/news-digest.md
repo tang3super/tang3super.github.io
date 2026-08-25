@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 19:25
+last_updated: 2026-08-25 19:53
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Oil drops 3% to 12-day low as Iran claims two-year plan to cope with Washington’s ‘economic D-Day’
+    summary: Investors shrugged off the latest developments in the U.S.-Iran war.
+    link: https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html
+    source: US Top News and Analysis
+    time: 08-25 19:47
+    title_zh: 油价下跌3%，至12天低点，伊朗声称制定两年计划应对华盛顿的“经济诺曼底登陆日”
+    summary_zh: 投资者对美国的最新事态发展不以为意-伊朗战争。
+  - title: How the US sanctions on Iran impact China
+    summary: US sanctions Chinese firms over Iran links but spare big banks as Trump and Xi eye key talks.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/25/how-the-us-sanctions-on-iran-impact-china?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 19:30
+    title_zh: 美国对伊朗的制裁如何影响中国
+    summary_zh: 美国制裁中国公司与伊朗的联系，但在特朗普和习近平的关键会谈中，
   - title: Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?
     summary: Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington.
     link: https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss
@@ -302,6 +316,12 @@ topics:
     summary_zh: 埃克佩里克佩·埃克波表示，美以对伊朗的战争迫使尼日利亚扩大天然气产量。
 - name: 货币政策
   items:
+  - title: 'Jackson Hole preview: Assets most exposed to Warsh’s rate signal'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/jackson-hole-preview-assets-most-exposed-to-warshs-rate-signal-93CH-4875113
+    source: Stock Market News
+    time: 08-25 19:26
+    title_zh: 杰克逊霍尔预览：最容易受到沃什利率信号影响的资产
   - title: Wolfe forecasts August payrolls growth of 65k ahead of September FOMC
     summary: ''
     link: https://www.investing.com/news/stock-market-news/wolfe-forecasts-august-payrolls-growth-of-65k-ahead-of-september-fomc-93CH-4874798
