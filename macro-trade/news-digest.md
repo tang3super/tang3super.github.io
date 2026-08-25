@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 06:55
+last_updated: 2026-08-26 07:20
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil
+    summary: The United States threatened sanctions for any country or entity that engages with Iran’s gold, digital assets, aviation, shipping and tech…
+    link: https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html
+    source: NYT > World News
+    time: 08-26 06:58
+    title_zh: 美国“经济登陆日”的目标不仅仅是伊朗石油
+    summary_zh: 美国威胁要对任何与伊朗黄金、数字资产、航空、航运和科技有接触的国家或实体实施制裁.
   - title: New US sanctions signal Trump desperation on Iran, experts say
     summary: Economic escalation is unlikely to force the Iranian government to capitulate to US demands, according to experts.
     link: https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss
