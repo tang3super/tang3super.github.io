@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 18:57
+last_updated: 2026-08-25 19:25
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -356,6 +356,12 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Big investors hunt for tomorrow’s AI winners as capex angst fades
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/big-investors-hunt-for-tomorrows-ai-winners-as-capex-angst-fades-4875002
+    source: Stock Market News
+    time: 08-25 19:00
+    title_zh: 随着资本支出焦虑消退，大投资者寻找明天的人工智能赢家
   - title: Nvidia faces growth test as Rubin debut meets AI financing scrutiny
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-faces-growth-test-as-rubin-debut-meets-ai-financing-scrutiny-4874842
