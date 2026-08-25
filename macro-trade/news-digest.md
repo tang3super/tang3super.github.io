@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 22:11
+last_updated: 2026-08-25 23:04
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: China says will safeguard its own interests as US expands Iran sanctions
+    summary: China has advocated for a ceasefire, insisting US sanctions will not resolve the Middle East conflict.
+    link: https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 22:43
+    title_zh: 中国称美国扩大对伊朗制裁将维护自身利益
+    summary_zh: 中国主张停火，坚称美国制裁无法解决中东冲突。
+  - title: 'Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?'
+    summary: Dozens of groups in Iran and other countries face US sanctions over ties to Iranian oil, weapons and cyberoperations.
+    link: https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 22:17
+    title_zh: 特朗普最新一波伊朗制裁：针对哪些60个实体？
+    summary_zh: 伊朗和其他国家的数十个组织因与伊朗石油、武器和网络行动有联系而面临美国制裁。
   - title: China needs U.S. dollars but is building a hedge against Washington’s sanctions
     summary: The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.
     link: https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html
