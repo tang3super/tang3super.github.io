@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 01:04
+last_updated: 2026-08-26 01:39
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission
+    summary: Iran and Oman on Tuesday discussed a proposal to establish a jointly managed shipping route through the Strait of Hormuz.
+    link: https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html
+    source: US Top News and Analysis
+    time: 08-26 01:32
+    title_zh: 伊朗和阿曼讨论霍尔木兹海峡联合航线和扫雷任务
+    summary_zh: 伊朗和阿曼周二讨论了一项建立穿越霍尔木兹海峡联合管理航线的提议。
   - title: Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach
     summary: As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.
     link: https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss
