@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 03:49
+last_updated: 2026-08-26 04:11
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran, Oman discuss temporary shipping lane through Strait of Hormuz
+    summary: Omani FM hopes the two countries will 'soon announce' a joint temporary transit corridor through the Strait of Hormuz.
+    link: https://www.aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-26 03:47
+    title_zh: 伊朗、阿曼讨论穿越霍尔木兹海峡的临时航线
+    summary_zh: 阿曼外交部希望两国“很快宣布”一条穿越霍尔木兹海峡的联合临时过境走廊。
   - title: Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission
     summary: Iran and Oman on Tuesday discussed a proposal to establish a jointly managed shipping route through the Strait of Hormuz.
     link: https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html
