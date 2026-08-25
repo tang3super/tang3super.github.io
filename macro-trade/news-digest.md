@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 12:37
+last_updated: 2026-08-25 13:15
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -274,6 +274,12 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Why is SK Hynix stock falling today?
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-falling-today-93CH-4874461
+    source: Stock Market News
+    time: 08-25 12:37
+    title_zh: SK Hynix股价为何今天下跌？
   - title: Asian stocks fall as tech jitters deepen ahead of Nvidia earnings
     summary: ''
     link: https://www.investing.com/news/stock-market-news/asian-stocks-fall-as-tech-jitters-iran-sanctions-cloud-nvidia-outlook-4874458
