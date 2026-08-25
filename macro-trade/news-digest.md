@@ -5,11 +5,32 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 17:20
+last_updated: 2026-08-25 17:55
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: U.S. Campaign on Iran’s Economy May Still Risk Regional Military Escalation
+    summary: Experts warn that a campaign aimed at avoiding military escalation could instead provoke it, as Iranian leaders vow retaliation across the o…
+    link: https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html
+    source: NYT > World News
+    time: 08-25 17:46
+    title_zh: 美国对伊朗经济的打击可能仍有地区军事升级的风险
+    summary_zh: 专家警告说，一场旨在避免军事升级的运动反而可能会引发军事升级，因为伊朗领导人发誓要在全世界范围内进行报复。
+  - title: Trump Administration to Return Diplomats to Middle East Embassies
+    summary: Evacuated foreign service officers could begin heading back to their posts as early as this week, an internal document shows, suggesting Was…
+    link: https://www.nytimes.com/2026/08/25/world/middleeast/us-diplomats-middle-east-embassies.html
+    source: NYT > World News
+    time: 08-25 17:32
+    title_zh: 特朗普政府将让外交官重返中东大使馆
+    summary_zh: 一份内部文件显示，撤离的外交官员最早可能在本周开始返回岗位，这表明……
+  - title: Who are Iran’s top trading partners US would need to target to isolate it?
+    summary: The US wants to isolate Iran from the global economy. Here is who Tehran trades with, and how much is at stake.
+    link: https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 17:23
+    title_zh: 美国需要针对谁来孤立伊朗的最大贸易伙伴？
+    summary_zh: 美国希望将伊朗与全球经济隔绝。以下是德黑兰与谁进行交易，以及其中的利害关系有多大。
   - title: Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home
     summary: Artemis Ghasemzadeh, who had escaped religious persecution, was deported to Panama under Trump’s immigration crackdown. Now, Canada has give…
     link: https://www.nytimes.com/2026/08/25/world/middleeast/christian-convert-who-fled-iran-and-was-ousted-from-us-finds-a-new-home.html
