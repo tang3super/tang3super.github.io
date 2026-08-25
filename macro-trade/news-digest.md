@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 13:15
+last_updated: 2026-08-25 13:49
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump targets Iran’s trade lifelines — here are the countries most exposed
+    summary: Washington's threat of "economic D-Day" collides with a small group of governments that account for most of what remains of Iran's foreign t…
+    link: https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html
+    source: US Top News and Analysis
+    time: 08-25 13:29
+    title_zh: 特朗普瞄准伊朗的贸易生命线-以下是风险最大的国家
+    summary_zh: 华盛顿的“经济诺曼底登陆日”威胁与一小群政府发生了冲突，这些政府占了伊朗剩余外交事务的大部分。
   - title: Israel’s Netanyahu claims Iran tried to kill one of his sons
     summary: Netanyahu's claim comes after US and Israel killed Iran's supreme leader and four members of his family in Tehran.
     link: https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss
