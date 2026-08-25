@@ -5,11 +5,17 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 15:13
+last_updated: 2026-08-25 15:58
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: European shares climb on Iran sanctions relief, defence gains
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/european-shares-climb-on-iran-sanctions-relief-defence-gains-4874569
+    source: Stock Market News
+    time: 08-25 15:36
+    title_zh: 伊朗制裁解除，国防收益，欧洲股市上涨
   - title: The Iran war is bringing cyberwarfare into critical infrastructure
     summary: Recent attacks in the UK and the US demonstrate critical vulnerabilities that governments need to urgently address.
     link: https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss
