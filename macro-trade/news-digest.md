@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 18:24
+last_updated: 2026-08-25 18:57
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?
+    summary: Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington.
+    link: https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 18:22
+    title_zh: 巴基斯坦的阿西姆·穆尼尔能否说服伊朗军事首脑重返谈判？
+    summary_zh: 巴基斯坦表示，德黑兰取得了进展，但伊朗安全机构仍然对华盛顿保持警惕。
   - title: U.S. Campaign on Iran’s Economy May Still Risk Regional Military Escalation
     summary: Experts warn that a campaign aimed at avoiding military escalation could instead provoke it, as Iranian leaders vow retaliation across the o…
     link: https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html
@@ -34,6 +41,13 @@ topics:
   - title: Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home
     summary: Artemis Ghasemzadeh, who had escaped religious persecution, was deported to Panama under Trump’s immigration crackdown. Now, Canada has give…
     link: https://www.nytimes.com/2026/08/25/world/middleeast/christian-convert-who-fled-iran-and-was-ousted-from-us-finds-a-new-home.html
+    source: NYT > World News
+    time: 08-25 17:02
+    title_zh: 逃离伊朗并被特朗普驱逐的基督徒皈依者找到了新家
+    summary_zh: 逃离宗教迫害的阿尔忒弥斯·加森扎德（Artemis Ghasemzadeh）在特朗普的移民镇压下被驱逐到巴拿马。现在，加拿大已经给予.
+  - title: Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home
+    summary: Artemis Ghasemzadeh, who had escaped religious persecution, was deported to Panama under Trump’s immigration crackdown. Now, Canada has give…
+    link: https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html
     source: NYT > World News
     time: 08-25 17:02
     title_zh: 逃离伊朗并被特朗普驱逐的基督徒皈依者找到了新家
