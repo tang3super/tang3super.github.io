@@ -2,10 +2,10 @@
 layout: news-digest
 permalink: /macro-trade/news-digest/
 title: 新闻监控
-date: '2026-08-25'
+date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 23:54
+last_updated: 2026-08-26 00:25
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
