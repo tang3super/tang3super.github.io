@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 11:57
+last_updated: 2026-08-25 12:37
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -274,6 +274,18 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Asian stocks fall as tech jitters deepen ahead of Nvidia earnings
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/asian-stocks-fall-as-tech-jitters-iran-sanctions-cloud-nvidia-outlook-4874458
+    source: Stock Market News
+    time: 08-25 12:18
+    title_zh: 英伟达盈利前科技股紧张情绪加剧，亚洲股市下跌
+  - title: 'Nvidia earnings on tap: watch these Asian chip stocks for exposure'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-earnings-on-tap-watch-these-asian-chip-stocks-for-exposure-93CH-4874452
+    source: Stock Market News
+    time: 08-25 11:56
+    title_zh: Nvidia即将盈利：关注这些亚洲芯片股的风险敞口
   - title: Wall St futures steady as investors brace for Nvidia results, Fed signals
     summary: ''
     link: https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-investors-brace-for-nvidia-results-fed-signals-4874359
