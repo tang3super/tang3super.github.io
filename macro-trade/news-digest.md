@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 07:54
+last_updated: 2026-08-25 08:40
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners'
+    summary: US tells countries to choose between Washington and Tehran, warns Iran's trade partners they will face consequences.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 08:00
+    title_zh: 伊朗战争直播：德黑兰贸易伙伴警告美国对伊朗实施新制裁
+    summary_zh: 美国要求各国在华盛顿和德黑兰之间做出选择，并警告伊朗的贸易伙伴他们将面临后果。
   - title: How US sanctions on Iran ripple through global markets and consumers
     summary: New sanctions hit Iran's aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.
     link: https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss
