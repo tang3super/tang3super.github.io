@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 17:55
+last_updated: 2026-08-25 18:24
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -288,6 +288,12 @@ topics:
     summary_zh: 埃克佩里克佩·埃克波表示，美以对伊朗的战争迫使尼日利亚扩大天然气产量。
 - name: 货币政策
   items:
+  - title: Wolfe forecasts August payrolls growth of 65k ahead of September FOMC
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/wolfe-forecasts-august-payrolls-growth-of-65k-ahead-of-september-fomc-93CH-4874798
+    source: Stock Market News
+    time: 08-25 17:55
+    title_zh: 沃尔夫预测8月就业人数在9月FOMC之前增长6.5万
   - title: Federer to play tennis at US Open but rules out Williams-like return
     summary: The 20-time Grand Slam champion confirmed he’s only going to play in an exhibition match and has no plans to return.
     link: https://www.aljazeera.com/sports/2026/8/25/federer-to-play-tennis-at-us-open-but-rules-out-williams-like-return?traffic_source=rss
@@ -336,6 +342,12 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Nvidia faces growth test as Rubin debut meets AI financing scrutiny
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-faces-growth-test-as-rubin-debut-meets-ai-financing-scrutiny-4874842
+    source: Stock Market News
+    time: 08-25 18:13
+    title_zh: 鲁宾首次亮相遭遇人工智能融资审查，英伟达面临增长考验
   - title: Nvidia, Supermicro employees charged over export of AI servers to China
     summary: Taiwanese authorities indict nine people over alleged chip smuggling scheme.
     link: https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss
