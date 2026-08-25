@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 20:22
+last_updated: 2026-08-25 21:23
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: China needs U.S. dollars but is building a hedge against Washington’s sanctions
+    summary: The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.
+    link: https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html
+    source: US Top News and Analysis
+    time: 08-25 20:42
+    title_zh: 中国需要美元，但正在为华盛顿的制裁建立对冲
+    summary_zh: 美国可以通过进入其金融体系就伊朗问题向中国银行施压，而北京正在建设CIPS等替代方案。
   - title: Oil drops 3% to 12-day low as Iran claims two-year plan to cope with Washington’s ‘economic D-Day’
     summary: Investors shrugged off the latest developments in the U.S.-Iran war.
     link: https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html
@@ -376,6 +383,13 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Jim Cramer's top 10 things to watch in the stock market Tuesday
+    summary: Chip stocks are bouncing back, one day before Nvidia's earnings report Wednesday night.
+    link: https://www.cnbc.com/2026/08/25/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html
+    source: US Top News and Analysis
+    time: 08-25 20:59
+    title_zh: 吉姆·克莱默（Jim Cramer）周二股市最值得关注的10件事
+    summary_zh: 芯片股正在反弹，距离英伟达周三晚间发布财报的前一天。
   - title: Nvidia’s dependence on hyperscalers faces big test in earnings report
     summary: Nvidia is trying to expand its customer base by creating new financing options that allow for more clients to purchase its costly systems.
     link: https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html
