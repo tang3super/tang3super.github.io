@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 15:58
+last_updated: 2026-08-25 16:44
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -253,6 +253,13 @@ topics:
     summary_zh: 埃克佩里克佩·埃克波表示，美以对伊朗的战争迫使尼日利亚扩大天然气产量。
 - name: 货币政策
   items:
+  - title: Federer to play tennis at US Open but rules out Williams-like return
+    summary: The 20-time Grand Slam champion confirmed he’s only going to play in an exhibition match and has no plans to return.
+    link: https://www.aljazeera.com/sports/2026/8/25/federer-to-play-tennis-at-us-open-but-rules-out-williams-like-return?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 15:45
+    title_zh: 费德勒将在美国公开赛上打网球，但排除了威廉姆斯式回归的可能性
+    summary_zh: 这位20届大满贯冠军证实他只会参加表演赛，并且没有回归的计划。
   - title: Wall St futures steady as investors brace for Nvidia results, Fed signals
     summary: ''
     link: https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-investors-brace-for-nvidia-results-fed-signals-4874359
