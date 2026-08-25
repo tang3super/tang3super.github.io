@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 04:11
+last_updated: 2026-08-26 04:45
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -372,6 +372,13 @@ topics:
     summary_zh: 埃克佩里克佩·埃克波表示，美以对伊朗的战争迫使尼日利亚扩大天然气产量。
 - name: 货币政策
   items:
+  - title: 'Trump administration: Kennedy Center may be demolished if repairs not made'
+    summary: Department of Justice lawyers told a federal judge the venue 'cannot survive' without the US president's help.
+    link: https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-26 04:08
+    title_zh: 特朗普政府：如果不修复肯尼迪中心可能被拆除
+    summary_zh: 司法部律师告诉联邦法官，如果没有美国总统的帮助，该场所“无法生存”。
   - title: 'Jackson Hole preview: Assets most exposed to Warsh’s rate signal'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/jackson-hole-preview-assets-most-exposed-to-warshs-rate-signal-93CH-4875113
