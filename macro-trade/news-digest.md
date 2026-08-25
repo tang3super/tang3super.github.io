@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 10:07
+last_updated: 2026-08-25 11:09
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Israel’s Netanyahu claims Iran tried to kill one of his sons
+    summary: Netanyahu's claim comes after US and Israel killed Iran's supreme leader and four members of his family in Tehran.
+    link: https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 10:54
+    title_zh: 以色列内塔尼亚胡声称伊朗试图杀害他的一个儿子
+    summary_zh: 内塔尼亚胡的说法是在美国和以色列在德黑兰杀害伊朗最高领导人及其四名家庭成员之后提出的。
   - title: 'Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners'
     summary: US tells countries to choose between Washington and Tehran, warns Iran's trade partners they will face consequences.
     link: https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss
