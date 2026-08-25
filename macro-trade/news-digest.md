@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 13:49
+last_updated: 2026-08-25 14:19
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -281,6 +281,12 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Nvidia shares set for $280 billion price swing after earnings, options show
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-shares-set-for-280-billion-price-swing-after-earnings-options-show-4874471
+    source: Stock Market News
+    time: 08-25 13:55
+    title_zh: 期权显示，盈利后英伟达股价将波动2800亿美元
   - title: Why is SK Hynix stock falling today?
     summary: ''
     link: https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-falling-today-93CH-4874461
