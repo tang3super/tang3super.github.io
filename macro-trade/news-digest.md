@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 19:53
+last_updated: 2026-08-25 20:22
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -376,6 +376,25 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Nvidia’s dependence on hyperscalers faces big test in earnings report
+    summary: Nvidia is trying to expand its customer base by creating new financing options that allow for more clients to purchase its costly systems.
+    link: https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html
+    source: US Top News and Analysis
+    time: 08-25 20:00
+    title_zh: 英伟达对超大规模企业的依赖在财报中面临巨大考验
+    summary_zh: Nvidia正试图通过创建新的融资选项来扩大其客户群，允许更多客户购买其昂贵的系统。
+  - title: 'Nvidia Q2 preview: a beat is a fail, a blowout is base case'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-q2-preview-a-beat-is-a-fail-a-blowout-is-base-case-4875164
+    source: Stock Market News
+    time: 08-25 19:44
+    title_zh: Nvidia Q2预览：节拍是失败，井喷是基本案例
+  - title: Nvidia’s AI financing push brings new credit risks, Morgan Stanley says
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidias-ai-financing-push-brings-new-credit-risks-morgan-stanley-says-4875159
+    source: Stock Market News
+    time: 08-25 19:41
+    title_zh: 摩根士丹利表示，英伟达的人工智能融资推动带来新的信用风险
   - title: Big investors hunt for tomorrow’s AI winners as capex angst fades
     summary: ''
     link: https://www.investing.com/news/stock-market-news/big-investors-hunt-for-tomorrows-ai-winners-as-capex-angst-fades-4875002
