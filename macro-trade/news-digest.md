@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 14:19
+last_updated: 2026-08-25 15:13
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: The Iran war is bringing cyberwarfare into critical infrastructure
+    summary: Recent attacks in the UK and the US demonstrate critical vulnerabilities that governments need to urgently address.
+    link: https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 14:37
+    title_zh: 伊朗战争正在将网络战带入关键基础设施
+    summary_zh: 英国和美国最近发生的袭击表明了各国政府需要紧急解决的严重漏洞。
   - title: Trump targets Iran’s trade lifelines — here are the countries most exposed
     summary: Washington's threat of "economic D-Day" collides with a small group of governments that account for most of what remains of Iran's foreign t…
     link: https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html
