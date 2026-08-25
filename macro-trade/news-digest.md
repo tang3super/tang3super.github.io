@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 04:45
+last_updated: 2026-08-26 05:06
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: New US sanctions signal Trump desperation on Iran, experts say
+    summary: Economic escalation is unlikely to force the Iranian government to capitulate to US demands, according to experts.
+    link: https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-26 04:34
+    title_zh: 专家称，美国新制裁表明特朗普对伊朗的绝望
+    summary_zh: 专家表示，经济升级不太可能迫使伊朗政府屈服于美国的要求。
   - title: Iran, Oman discuss temporary shipping lane through Strait of Hormuz
     summary: Omani FM hopes the two countries will 'soon announce' a joint temporary transit corridor through the Strait of Hormuz.
     link: https://www.aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz?traffic_source=rss
