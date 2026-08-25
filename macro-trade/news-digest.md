@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-25'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-25 16:44
+last_updated: 2026-08-25 17:20
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home
+    summary: Artemis Ghasemzadeh, who had escaped religious persecution, was deported to Panama under Trump’s immigration crackdown. Now, Canada has give…
+    link: https://www.nytimes.com/2026/08/25/world/middleeast/christian-convert-who-fled-iran-and-was-ousted-from-us-finds-a-new-home.html
+    source: NYT > World News
+    time: 08-25 17:02
+    title_zh: 逃离伊朗并被特朗普驱逐的基督徒皈依者找到了新家
+    summary_zh: 逃离宗教迫害的阿尔忒弥斯·加森扎德（Artemis Ghasemzadeh）在特朗普的移民镇压下被驱逐到巴拿马。现在，加拿大已经给予.
+  - title: Pakistan says significant progress made in talks on Iran-US war
+    summary: The talks were held during a daylong diplomatic mission to Tehran by Pakistan’s army chief and interior minister.
+    link: https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 16:32
+    title_zh: 巴基斯坦称伊朗与美国战争谈判取得重大进展
+    summary_zh: 会谈是在巴基斯坦陆军参谋长兼内政部长对德黑兰进行为期一天的外交访问期间举行的。
   - title: European shares climb on Iran sanctions relief, defence gains
     summary: ''
     link: https://www.investing.com/news/stock-market-news/european-shares-climb-on-iran-sanctions-relief-defence-gains-4874569
@@ -301,6 +315,13 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Nvidia, Supermicro employees charged over export of AI servers to China
+    summary: Taiwanese authorities indict nine people over alleged chip smuggling scheme.
+    link: https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-25 16:51
+    title_zh: 英伟达、Supermicro员工因向中国出口人工智能服务器而被指控
+    summary_zh: 台湾当局因涉嫌芯片走私计划起诉九人。
   - title: Nvidia shares set for $280 billion price swing after earnings, options show
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-shares-set-for-280-billion-price-swing-after-earnings-options-show-4874471
