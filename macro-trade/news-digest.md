@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 15:04
+last_updated: 2026-08-26 15:54
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Trump threatens Iran’s partners: How do secondary sanctions work?'
+    summary: The US has used threats of secondary sanctions, whereby countries trading with a sanctioned country also face sanctions.
+    link: https://www.aljazeera.com/economy/2026/8/26/trump-threatens-irans-partners-how-do-secondary-sanctions-work?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-26 15:18
+    title_zh: 特朗普威胁伊朗伙伴：二级制裁如何发挥作用？
+    summary_zh: 美国威胁实施二级制裁，与受制裁国家进行贸易的国家也面临制裁。
+  - title: Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions
+    summary: Iran and Oman are approaching a deal to secure safe transit through the Strait of Hormuz and future administration of the vital economic art…
+    link: https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html
+    source: US Top News and Analysis
+    time: 08-26 14:47
+    title_zh: 美国推迟二级制裁，伊朗和阿曼准备霍尔木兹协议
+    summary_zh: 伊朗和阿曼正在接近达成一项协议，以确保霍尔木兹海峡的安全过境以及未来对重要经济艺术的管理..
   - title: Top official says Iran, Oman have agreed new temporary route in Hormuz
     summary: Deputy foreign minster says the route's entry as well as part of the exit would run through Iranian territorial waters.
     link: https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss
@@ -500,6 +514,12 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: European shares edge higher as oil falls; Nvidia earnings in focus
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/european-shares-edge-higher-as-oil-falls-nvidia-earnings-in-focus-4876407
+    source: Stock Market News
+    time: 08-26 15:18
+    title_zh: 随着油价下跌，欧洲股市小幅走高;英伟达盈利成为焦点
   - title: Buying Nvidia ahead of today’s earnings? You must see what our AI models say first
     summary: ''
     link: https://www.investing.com/news/stock-market-news/buying-nvidia-ahead-of-todays-earnings-you-must-see-what-our-ai-models-say-first-4876102
