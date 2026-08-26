@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-27'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-27 02:08
+last_updated: 2026-08-27 03:59
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump says Iran war will continue for as long as necessary
+    summary: Trump says Iran war will continue for as long as necessary
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/26/trump-says-iran-war-will-continue-for-as-long-as-necessary?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-27 02:07
+    title_zh: 特朗普称伊朗战争将持续多久
+    summary_zh: 特朗普称伊朗战争将持续多久
   - title: US inflation remains sticky in July
     summary: Inflation has worsened since the US and Israel attacked Iran, sending energy prices spiralling.
     link: https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss
@@ -640,6 +647,12 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: 'Marvell earnings preview: what Nvidia’s results mean for MRVL'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/marvell-earnings-preview-what-nvidias-results-mean-for-mrvl-93CH-4877793
+    source: Stock Market News
+    time: 08-27 03:40
+    title_zh: Marvell盈利预览：Nvidia的业绩对MRVL意味着什么
   - title: OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground
     summary: OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech co…
     link: https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html
