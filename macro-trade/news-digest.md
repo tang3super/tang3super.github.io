@@ -5,11 +5,39 @@ title: 新闻监控
 date: '2026-08-27'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-27 00:23
+last_updated: 2026-08-27 02:08
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: US inflation remains sticky in July
+    summary: Inflation has worsened since the US and Israel attacked Iran, sending energy prices spiralling.
+    link: https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-27 01:28
+    title_zh: 美国7月份通胀仍居高不下
+    summary_zh: 自美国和以色列攻击伊朗以来，通货膨胀加剧，导致能源价格螺旋式上涨。
+  - title: Why Hormuz remains high risk for ships despite US claims of mine-clearing
+    summary: Analysts say mine clearance alone is unlikely to make shipping 'safe' in the Strait of Hormuz.
+    link: https://www.aljazeera.com/news/2026/8/26/why-hormuz-remains-high-risk-for-ships-despite-us-claims-of-mine-clearing?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-27 01:05
+    title_zh: 为什么尽管美国声称扫雷，霍尔木兹仍然对船只构成高风险
+    summary_zh: 分析人士表示，仅靠扫雷不太可能使霍尔木兹海峡的航运“安全”。
+  - title: Iran emphasises self-sufficiency in battle against US economic war
+    summary: Iranian authorities believe they can withstand US sanctions, but warn of a tough year ahead.
+    link: https://www.aljazeera.com/news/2026/8/26/iran-emphasises-self-sufficiency-battle-against-us-economic-war?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-27 00:53
+    title_zh: 伊朗强调自给自足对抗美国经济战
+    summary_zh: 伊朗当局相信他们能够经受住美国的制裁，但警告未来一年将是艰难的一年。
+  - title: 'Syria removed: Which countries are still on the US ‘terror’ list – and why?'
+    summary: The US decision leaves three nations - Cuba, Iran and North Korea - on its 'State Sponsors of Terrorism' blacklist.
+    link: https://www.aljazeera.com/news/2026/8/26/syria-removed-which-countries-are-still-on-the-us-terror-list-and-why?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-27 00:11
+    title_zh: 叙利亚被删除：哪些国家仍在美国“恐怖”名单上--为什么？
+    summary_zh: 美国的决定将古巴、伊朗和朝鲜这三个国家列入“支持恐怖主义的国家”黑名单。
   - title: Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks
     summary: '''I have no time schedule,'' Trump says when asked when he expects Iran to return to the negotiating table.'
     link: https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss
@@ -482,6 +510,13 @@ topics:
     summary_zh: 埃克佩里克佩·埃克波表示，美以对伊朗的战争迫使尼日利亚扩大天然气产量。
 - name: 货币政策
   items:
+  - title: Economists want Warsh to share more on his view of the economy at Jackson Hole, says CNBC survey
+    summary: Eighty percent of CNBC Fed Survey respondents say the Federal Reserve Chairman Warsh should provide more insight into his economic views.
+    link: https://www.cnbc.com/2026/08/26/fed-survey-warsh-economy-view.html
+    source: US Top News and Analysis
+    time: 08-27 01:02
+    title_zh: CNBC调查显示，经济学家希望沃什更多地分享他对杰克逊霍尔经济的看法
+    summary_zh: CNBC美联储调查受访者中有80%表示，美联储主席沃什应该更深入地了解他的经济观点。
   - title: States sue to block Trump-backed USPS mail-ballot rule after Supreme Court setback
     summary: The rule in question would require election officials to give USPS voter information and use federally reviewed, uniquely barcoded ballot en…
     link: https://www.cnbc.com/2026/08/26/trump-usps-mail-voting-rule-lawsuit-states-supreme-court.html
