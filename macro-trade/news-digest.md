@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 13:42
+last_updated: 2026-08-26 14:06
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran bets economic pain will pressure Trump in game of ‘chicken’
+    summary: Iran is betting global economic fallout and Republicans worried about the midterms will force Trump's retreat.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-26 13:20
+    title_zh: 伊朗押注经济痛苦将在“胆小鬼”游戏中给特朗普施压
+    summary_zh: 伊朗押注全球经济后果，共和党人担心中期选举将迫使特朗普撤退。
   - title: What to Know About Bank Melli, Singled Out in U.S. Call for Economic War
     summary: Bank Melli, Iran’s largest lender, already faces waves of sanctions that severely limit its ability to operate abroad. Every foreign branch…
     link: https://www.nytimes.com/2026/08/26/world/europe/iran-melli-bank-us-sanctions.html
