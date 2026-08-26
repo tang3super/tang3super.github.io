@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 16:32
+last_updated: 2026-08-26 17:21
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -447,6 +447,13 @@ topics:
     summary_zh: 埃克佩里克佩·埃克波表示，美以对伊朗的战争迫使尼日利亚扩大天然气产量。
 - name: 货币政策
   items:
+  - title: Instagram chief Mosseri says in social media addiction trial he doesn't tell team to 'hide anything'
+    summary: Instagram chief Adam Mosseri testified during a federal trial that he doesn't direct employees to withhold information that could pose legal…
+    link: https://www.cnbc.com/2026/08/25/instagram-adam-mosseri-testifies-california-state-ag-federal-meta.html
+    source: US Top News and Analysis
+    time: 08-26 06:41
+    title_zh: Instagram负责人莫塞里表示，在社交媒体成瘾试验中，他不会告诉团队“隐藏任何事情”
+    summary_zh: Instagram首席执行官亚当·莫塞里（Adam Mosseri）在联邦审判中作证称，他不会指示员工隐瞒可能构成合法行为的信息.
   - title: 'Trump administration: Kennedy Center may be demolished if repairs not made'
     summary: Department of Justice lawyers told a federal judge the venue 'cannot survive' without the US president's help.
     link: https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss
