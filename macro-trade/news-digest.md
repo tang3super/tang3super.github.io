@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 19:12
+last_updated: 2026-08-26 19:45
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -542,6 +542,18 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: TSX futures inch lower amid Canada-U.S. trade spat; Nvidia earnings ahead
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/tsx-futures-inch-lower-amid-canadaus-trade-spat-nvidia-earnings-ahead-4876920
+    source: Stock Market News
+    time: 08-26 19:22
+    title_zh: 加拿大与美国贸易争端导致多伦多证券交易所期货小幅下跌;英伟达盈利前景
+  - title: 'Premarket movers: Nvidia in focus, Intuit slides and Semtech surges'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/premarket-movers-nvidia-in-focus-intuit-slides-and-semtech-surges-4876895
+    source: Stock Market News
+    time: 08-26 19:10
+    title_zh: 上市前推动者：Nvidia成为焦点，Intuit下滑，Semtech激增
   - title: U.S. stock futures muted ahead of key inflation report, Nvidia results
     summary: ''
     link: https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-await-pce-inflation-nvidia-results-4876105
