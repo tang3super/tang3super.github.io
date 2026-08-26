@@ -5,11 +5,23 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 09:46
+last_updated: 2026-08-26 10:53
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/asian-stocks-hesitant-before-nvidia-oil-slips-on-hormuz-hopes-4876210
+    source: Stock Market News
+    time: 08-26 10:25
+    title_zh: 亚洲股市在英伟达之前犹豫不决，霍尔木兹希望导致油价下跌
+  - title: Asia energy stocks slide as oil tumbles on Iran-Oman Hormuz talks
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/asia-energy-stocks-slide-as-oil-tumbles-on-iranoman-hormuz-talks-4876168
+    source: Stock Market News
+    time: 08-26 09:51
+    title_zh: 伊朗与阿曼霍尔木兹谈判导致油价暴跌，亚洲能源股下跌
   - title: Oil falls on easing concerns of renewed tensions as the U.S. pivots to economic pressure on Iran
     summary: Oil fell Wednesday, as investors continue to assess the U.S. pivot toward economic sanctions rather than military strikes to add pressure on…
     link: https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html
@@ -467,6 +479,12 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/asian-stocks-hesitant-before-nvidia-oil-slips-on-hormuz-hopes-4876210
+    source: Stock Market News
+    time: 08-26 10:25
+    title_zh: 亚洲股市在英伟达之前犹豫不决，霍尔木兹希望导致油价下跌
   - title: OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?
     summary: Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
     link: https://www.cnbc.com/2026/08/25/openai-says-its-broadcom-chip-is-a-big-advance-what-about-nvidia.html
