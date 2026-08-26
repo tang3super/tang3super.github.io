@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 18:44
+last_updated: 2026-08-26 19:12
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran and Oman Report Progress in Talks on Strait of Hormuz
+    summary: The two countries said they would create a temporary shipping lane and clear mines in the waterway. Global oil prices dipped after the joint…
+    link: https://www.nytimes.com/2026/08/26/world/middleeast/iran-oman-strait-hormuz.html
+    source: NYT > World News
+    time: 08-26 19:02
+    title_zh: 伊朗和阿曼报告霍尔木兹海峡谈判取得进展
+    summary_zh: 两国表示将修建一条临时航道并清除水道中的地雷。联合声明后，全球油价下跌.
   - title: One US dollar now costs 2 million rials in Iran, and here’s what it can buy
     summary: Sanctions and the US-Israel war on Iran have left the country's people unable to keep pace with rising prices.
     link: https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss
