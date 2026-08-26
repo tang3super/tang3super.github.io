@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 14:06
+last_updated: 2026-08-26 15:04
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Top official says Iran, Oman have agreed new temporary route in Hormuz
+    summary: Deputy foreign minster says the route's entry as well as part of the exit would run through Iranian territorial waters.
+    link: https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-26 14:02
+    title_zh: 高级官员称伊朗、阿曼已就霍尔木兹新的临时路线达成一致
+    summary_zh: 副外交部长表示，该路线的入口和部分出口将穿过伊朗领海。
   - title: Iran bets economic pain will pressure Trump in game of ‘chicken’
     summary: Iran is betting global economic fallout and Republicans worried about the midterms will force Trump's retreat.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss
