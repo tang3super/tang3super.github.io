@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 13:02
+last_updated: 2026-08-26 13:42
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -486,6 +486,12 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Buying Nvidia ahead of today’s earnings? You must see what our AI models say first
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/buying-nvidia-ahead-of-todays-earnings-you-must-see-what-our-ai-models-say-first-4876102
+    source: Stock Market News
+    time: 08-26 13:06
+    title_zh: 在今天的盈利之前收购英伟达？你必须先看看我们的人工智能模型说了什么
   - title: Asian stocks rebound as oil slides, Nvidia earnings loom; Thai rate decision due
     summary: ''
     link: https://www.investing.com/news/stock-market-news/asian-stocks-rebound-as-oil-slides-nvidia-earnings-loom-thai-rate-decision-due-4876256
