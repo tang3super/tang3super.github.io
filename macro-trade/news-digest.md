@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 17:21
+last_updated: 2026-08-26 18:02
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: The Bulgarian village that fears becoming an Iranian target
+    summary: US Air Force refuelling planes caused anxiety in Bezmer. While their departure has brought relief, tensions persist.
+    link: https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-26 17:20
+    title_zh: 担心成为伊朗目标的保加利亚村庄
+    summary_zh: 美国空军为飞机加油引起了贝兹默的焦虑。虽然他们的离开让人松了一口气，但紧张局势仍然存在。
   - title: 'Trump threatens Iran’s partners: How do secondary sanctions work?'
     summary: The US has used threats of secondary sanctions, whereby countries trading with a sanctioned country also face sanctions.
     link: https://www.aljazeera.com/economy/2026/8/26/trump-threatens-irans-partners-how-do-secondary-sanctions-work?traffic_source=rss
@@ -521,6 +528,12 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Forget Nvidia’s Q2 results. Wall Street is watching this $200 billion exposure
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/forget-nvidias-q2-results-wall-street-is-watching-this-200-billion-exposure-4876568
+    source: Stock Market News
+    time: 08-26 17:27
+    title_zh: 忘记英伟达第二季度的业绩吧。华尔街正在关注这2000亿美元的风险敞口
   - title: European shares edge higher as oil falls; Nvidia earnings in focus
     summary: ''
     link: https://www.investing.com/news/stock-market-news/european-shares-edge-higher-as-oil-falls-nvidia-earnings-in-focus-4876407
