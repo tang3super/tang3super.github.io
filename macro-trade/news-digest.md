@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 21:19
+last_updated: 2026-08-26 22:08
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -496,6 +496,13 @@ topics:
     time: 08-26 21:06
     title_zh: 马克·沃尔特（Mark Walter）的TWG Global猛烈抨击“攻击”，坚称联邦调查中“没有欺诈行为”
     summary_zh: 亿万富翁洛杉矶道奇队老板马克·沃尔特（Mark Walter）的帝国自从表示将出售自己的大部分股份以来一直面临媒体的审查.
+  - title: 10-year Treasury yield is flat after PCE inflation report is mostly as expected
+    summary: Treasury yields were broadly flat on Wednesday, as investors assessed the publication of the Federal Reserve's preferred inflation metric.
+    link: https://www.cnbc.com/2026/08/26/treasury-yields-inflation-fed.html
+    source: US Top News and Analysis
+    time: 08-26 21:00
+    title_zh: 10-PCE通胀报告基本符合预期后，年国债收益率持平
+    summary_zh: 美国国债收益率周三基本持平，因投资者评估美联储（Fed）公布的首选通胀指标。
   - title: Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh
     summary: Strategists said investors were approaching Jackson Hole “on the back foot."
     link: https://www.cnbc.com/2026/08/26/jackson-hole-warsh-bessent-bonds-treasury-dollar.html
@@ -577,6 +584,13 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground
+    summary: OpenAI’s Jalapeño chip beat Nvidia Blackwell systems on key inference-efficiency tests as custom AI silicon gains ground among major tech co…
+    link: https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html
+    source: US Top News and Analysis
+    time: 08-26 21:27
+    title_zh: OpenAI的Jalapeño AI芯片为Nvidia的利润带来了新的“威胁”，因为定制硅获得了发展
+    summary_zh: OpenAI的Jalapeño芯片在关键的推理效率测试中击败了Nvidia Blackwell系统，定制人工智能芯片在主要科技公司中崭露头角.
   - title: Jim Cramer's top 10 things to watch in the stock market Wednesday
     summary: It's a monumental day of earnings, led by Nvidia.
     link: https://www.cnbc.com/2026/08/26/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html
