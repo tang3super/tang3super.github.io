@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 20:16
+last_updated: 2026-08-26 21:19
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -475,6 +475,34 @@ topics:
     summary_zh: 埃克佩里克佩·埃克波表示，美以对伊朗的战争迫使尼日利亚扩大天然气产量。
 - name: 货币政策
   items:
+  - title: Meta settles federal social media addiction trial with California AG, others
+    summary: Meta and coalition of state attorneys general settled a federal trial centering on allegations that the social media giant misrepresented th…
+    link: https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html
+    source: US Top News and Analysis
+    time: 08-26 21:19
+    title_zh: Meta与加利福尼亚州AG和其他人一起解决联邦社交媒体成瘾审判
+    summary_zh: Meta和州检察长联盟解决了一项联邦审判，该审判围绕着这家社交媒体巨头歪曲事实的指控。
+  - title: Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July
+    summary: The personal consumption expenditures price index was expected to rise 0.1% monthly and 3.6% on a 12-month basis, according to economists su…
+    link: https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html
+    source: US Top News and Analysis
+    time: 08-26 21:08
+    title_zh: 美联储首选的通胀指标显示7月份核心价格年上涨3.3%
+    summary_zh: 根据经济学家的预测，个人消费支出价格指数预计将每月上涨0.1%，12个月上涨3.6%。
+  - title: Mark Walter's TWG Global blasts 'attacks,' insists 'no fraud' amid federal probe
+    summary: The empire of billionaire Los Angeles Dodgers owner Mark Walter has faced media scrutiny since he said he would sell his majority share of t…
+    link: https://www.cnbc.com/2026/08/26/mark-walter-twg-guggenheim-lakers.html
+    source: US Top News and Analysis
+    time: 08-26 21:06
+    title_zh: 马克·沃尔特（Mark Walter）的TWG Global猛烈抨击“攻击”，坚称联邦调查中“没有欺诈行为”
+    summary_zh: 亿万富翁洛杉矶道奇队老板马克·沃尔特（Mark Walter）的帝国自从表示将出售自己的大部分股份以来一直面临媒体的审查.
+  - title: Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh
+    summary: Strategists said investors were approaching Jackson Hole “on the back foot."
+    link: https://www.cnbc.com/2026/08/26/jackson-hole-warsh-bessent-bonds-treasury-dollar.html
+    source: US Top News and Analysis
+    time: 08-26 21:00
+    title_zh: 由于贝森特的市场干预给沃什带来压力，杰克逊霍尔之前美元和债券市场“处于紧张状态”
+    summary_zh: 策略师表示，投资者正在“犹豫不决地接近杰克逊霍尔”。"
   - title: Instagram chief Mosseri says in social media addiction trial he doesn't tell team to 'hide anything'
     summary: Instagram chief Adam Mosseri testified during a federal trial that he doesn't direct employees to withhold information that could pose legal…
     link: https://www.cnbc.com/2026/08/25/instagram-adam-mosseri-testifies-california-state-ag-federal-meta.html
@@ -549,6 +577,13 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Jim Cramer's top 10 things to watch in the stock market Wednesday
+    summary: It's a monumental day of earnings, led by Nvidia.
+    link: https://www.cnbc.com/2026/08/26/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html
+    source: US Top News and Analysis
+    time: 08-26 20:55
+    title_zh: 吉姆·克莱默（Jim Cramer）周三股市最值得关注的10件事
+    summary_zh: 这是英伟达（Nvidia）引领的一个里程碑式的盈利日。
   - title: TSX futures inch lower amid Canada-U.S. trade spat; Nvidia earnings ahead
     summary: ''
     link: https://www.investing.com/news/stock-market-news/tsx-futures-inch-lower-amid-canadaus-trade-spat-nvidia-earnings-ahead-4876920
