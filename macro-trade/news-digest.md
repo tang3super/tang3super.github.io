@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 08:00
+last_updated: 2026-08-26 09:46
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Oil falls on easing concerns of renewed tensions as the U.S. pivots to economic pressure on Iran
+    summary: Oil fell Wednesday, as investors continue to assess the U.S. pivot toward economic sanctions rather than military strikes to add pressure on…
+    link: https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html
+    source: US Top News and Analysis
+    time: 08-26 09:29
+    title_zh: 随着美国转向对伊朗的经济压力，人们对紧张局势再次爆发的担忧缓解，油价下跌
+    summary_zh: 油价周三下跌，因投资者继续评估美国转向经济制裁而非军事打击的做法，以增加美国经济的压力。
+  - title: 'Iran war live: Iran says Hormuz remains closed despite Oman route deal'
+    summary: Tehran says the agreement with Oman on routes through Hormuz does not indicate that the strait is open.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-26 08:00
+    title_zh: 伊朗战争直播：伊朗称尽管阿曼航线达成协议，霍尔木兹仍然关闭
+    summary_zh: 德黑兰表示，与阿曼就穿越霍尔木兹航线达成的协议并不表明该海峡是开放的。
   - title: U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil
     summary: The United States threatened sanctions for any country or entity that engages with Iran’s gold, digital assets, aviation, shipping and tech…
     link: https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html
