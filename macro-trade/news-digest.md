@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 19:45
+last_updated: 2026-08-26 20:16
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran, Oman agree on temporary Hormuz route: What we know'
+    summary: Iran’s deputy foreign minister announced a temporary shipping corridor in the Strait of Hormuz.
+    link: https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-26 20:05
+    title_zh: 伊朗、阿曼就临时霍尔木兹路线达成一致：我们所知道的
+    summary_zh: 伊朗外交部副部长宣布在霍尔木兹海峡建立临时航运走廊。
   - title: Iran and Oman Report Progress in Talks on Strait of Hormuz
     summary: The two countries said they would create a temporary shipping lane and clear mines in the waterway. Global oil prices dipped after the joint…
     link: https://www.nytimes.com/2026/08/26/world/middleeast/iran-oman-strait-hormuz.html
