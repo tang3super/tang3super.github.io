@@ -2,10 +2,10 @@
 layout: news-digest
 permalink: /macro-trade/news-digest/
 title: 新闻监控
-date: '2026-08-26'
+date: '2026-08-27'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 23:00
+last_updated: 2026-08-27 00:23
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -482,6 +482,20 @@ topics:
     summary_zh: 埃克佩里克佩·埃克波表示，美以对伊朗的战争迫使尼日利亚扩大天然气产量。
 - name: 货币政策
   items:
+  - title: States sue to block Trump-backed USPS mail-ballot rule after Supreme Court setback
+    summary: The rule in question would require election officials to give USPS voter information and use federally reviewed, uniquely barcoded ballot en…
+    link: https://www.cnbc.com/2026/08/26/trump-usps-mail-voting-rule-lawsuit-states-supreme-court.html
+    source: US Top News and Analysis
+    time: 08-27 00:22
+    title_zh: 最高法院受挫后，各州起诉阻止特朗普支持的美国邮政邮寄投票规则
+    summary_zh: 该规则将要求选举官员向美国邮政服务局提供选民信息，并使用联邦审查的独特条形码选票.
+  - title: 'Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents'
+    summary: Hackers targeted networks "operated by hospitals, telecommunications providers, power companies, financial institutions, and defense contrac…
+    link: https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html
+    source: US Top News and Analysis
+    time: 08-27 00:19
+    title_zh: 美联储、美国宇航局和司法部均为中国国家支持的黑客组织的受害者：法庭文件
+    summary_zh: 黑客的目标是“由医院、电信提供商、电力公司、金融机构和国防机构运营的网络.
   - title: Meta settles federal social media addiction trial with California AG, others
     summary: Meta and coalition of state attorneys general settled a federal trial centering on allegations that the social media giant misrepresented th…
     link: https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html
