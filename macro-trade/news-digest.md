@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-27'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-27 03:59
+last_updated: 2026-08-27 06:49
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -647,6 +647,18 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Nvidia stock jumps after early dip following results; AI fever is unabated
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-bounce-shows-wall-streets-ai-obsession-is-far-from-over-4878000
+    source: Stock Market News
+    time: 08-27 06:13
+    title_zh: 英伟达股价在业绩公布后早盘下跌后上涨;人工智能热潮有增无减
+  - title: Nvidia forecasts quarterly revenue above estimates, shares rise
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-forecasts-quarterly-revenue-above-estimates-4877887
+    source: Stock Market News
+    time: 08-27 05:42
+    title_zh: 英伟达预计季度收入高于预期，股价上涨
   - title: 'Marvell earnings preview: what Nvidia’s results mean for MRVL'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/marvell-earnings-preview-what-nvidias-results-mean-for-mrvl-93CH-4877793
