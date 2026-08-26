@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 10:53
+last_updated: 2026-08-26 11:42
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -479,6 +479,12 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Asian chip stocks rebound ahead of Nvidia earnings as AI trade faces key test
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/asian-chip-stocks-rebound-ahead-of-nvidia-earnings-as-ai-trade-faces-key-test-4876225
+    source: Stock Market News
+    time: 08-26 11:10
+    title_zh: 人工智能贸易面临关键考验，亚洲芯片股在英伟达盈利前反弹
   - title: Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes
     summary: ''
     link: https://www.investing.com/news/stock-market-news/asian-stocks-hesitant-before-nvidia-oil-slips-on-hormuz-hopes-4876210
