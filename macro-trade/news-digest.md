@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 11:42
+last_updated: 2026-08-26 12:24
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: What to Know About Bank Melli, Singled Out in U.S. Call for Economic War
+    summary: Bank Melli, Iran’s largest lender, already faces waves of sanctions that severely limit its ability to operate abroad. Every foreign branch…
+    link: https://www.nytimes.com/2026/08/26/world/europe/iran-melli-bank-us-sanctions.html
+    source: NYT > World News
+    time: 08-26 12:01
+    title_zh: 关于美国呼吁发动经济战的银行，该了解多少
+    summary_zh: 伊朗最大的银行国民银行已经面临一波又一波的制裁，严重限制了其海外运营的能力。每个外国分支机构.
   - title: Asian stocks hesitant before Nvidia, oil slips on Hormuz hopes
     summary: ''
     link: https://www.investing.com/news/stock-market-news/asian-stocks-hesitant-before-nvidia-oil-slips-on-hormuz-hopes-4876210
