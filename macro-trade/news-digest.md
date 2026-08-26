@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 22:08
+last_updated: 2026-08-26 23:00
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks
+    summary: '''I have no time schedule,'' Trump says when asked when he expects Iran to return to the negotiating table.'
+    link: https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-26 22:16
+    title_zh: 特朗普告诉半岛电视台“不急于”让伊朗重返谈判
+    summary_zh: 当被问及预计伊朗何时重返谈判桌时，特朗普说：“我没有时间安排。”
   - title: 'Iran, Oman agree on temporary Hormuz route: What we know'
     summary: Iran’s deputy foreign minister announced a temporary shipping corridor in the Strait of Hormuz.
     link: https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss
