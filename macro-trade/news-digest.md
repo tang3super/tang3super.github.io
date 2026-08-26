@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-26'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-26 18:02
+last_updated: 2026-08-26 18:44
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: One US dollar now costs 2 million rials in Iran, and here’s what it can buy
+    summary: Sanctions and the US-Israel war on Iran have left the country's people unable to keep pace with rising prices.
+    link: https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-26 18:00
+    title_zh: 1美元现在在伊朗价值200万里亚尔，这是它能买到的东西
+    summary_zh: 制裁和美以对伊朗的战争使该国人民无法跟上物价上涨的步伐。
   - title: The Bulgarian village that fears becoming an Iranian target
     summary: US Air Force refuelling planes caused anxiety in Bezmer. While their departure has brought relief, tensions persist.
     link: https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss
@@ -528,6 +535,18 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: U.S. stock futures muted ahead of key inflation report, Nvidia results
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-await-pce-inflation-nvidia-results-4876105
+    source: Stock Market News
+    time: 08-26 18:16
+    title_zh: 美国股市期货在关键通胀报告和Nvidia业绩公布前低迷
+  - title: Nvidia shares set for $280 billion price swing after earnings, options show
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-shares-set-for-280-billion-price-swing-after-earnings-options-show-4876632
+    source: Stock Market News
+    time: 08-26 18:09
+    title_zh: 期权显示，盈利后英伟达股价将波动2800亿美元
   - title: Forget Nvidia’s Q2 results. Wall Street is watching this $200 billion exposure
     summary: ''
     link: https://www.investing.com/news/stock-market-news/forget-nvidias-q2-results-wall-street-is-watching-this-200-billion-exposure-4876568
