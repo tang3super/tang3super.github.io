@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-27'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-27 06:49
+last_updated: 2026-08-27 12:05
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks
+    summary: Sheikh Mohammed's visit comes as US-Israel war on Iran nears its sixth month with no diplomatic breakthrough in sight.
+    link: https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-27 10:54
+    title_zh: 卡塔尔首相访问德黑兰，寻求重启美伊谈判
+    summary_zh: 谢赫·穆罕默德此次访问之际，美以对伊朗的战争已进入第六个月，而且尚未取得外交突破。
+  - title: 'Iran war live: Qatar PM to visit Tehran; Trump ‘not in a hurry’ over talks'
+    summary: Qatar's PM will meet Iranian officials to discuss ways to de-escalate tensions in the region, foreign ministry says.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/27/iran-war-live-trump-not-in-hurry-over-talks-tehran-defends-us-dialogue?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-27 08:00
+    title_zh: 伊朗战争直播：卡塔尔总理将访问德黑兰;特朗普“不着急”谈判
+    summary_zh: 卡塔尔外交部表示，卡塔尔总理将会见伊朗官员，讨论缓和该地区紧张局势的方法。
   - title: Trump says Iran war will continue for as long as necessary
     summary: Trump says Iran war will continue for as long as necessary
     link: https://www.aljazeera.com/video/newsfeed/2026/8/26/trump-says-iran-war-will-continue-for-as-long-as-necessary?traffic_source=rss
@@ -517,6 +531,27 @@ topics:
     summary_zh: 埃克佩里克佩·埃克波表示，美以对伊朗的战争迫使尼日利亚扩大天然气产量。
 - name: 货币政策
   items:
+  - title: Federal Reserve Governor Lisa Cook denounces Trump’s mortgage fraud claims
+    summary: The Trump administration has doubled down on its accusations against Cook, despite a Supreme Court ruling in her favour.
+    link: https://www.aljazeera.com/news/2026/8/27/federal-reserve-governor-lisa-cook-denounces-trumps-mortgage-fraud-claims?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-27 10:33
+    title_zh: 美联储理事丽莎·库克谴责特朗普的抵押贷款欺诈指控
+    summary_zh: 尽管最高法院的裁决对库克有利，但特朗普政府还是加大了对库克的指控。
+  - title: Fed Gov Lisa Cook’s lawyer fires back at Trump's renewed threat to oust her
+    summary: The Supreme Court in late June blocked Trump from firing Cook from the Federal Reserve, but left the president with a path to try again to r…
+    link: https://www.cnbc.com/2026/08/26/trump-lisa-cook-federal-reserve.html
+    source: US Top News and Analysis
+    time: 08-27 08:15
+    title_zh: 美联储州长丽莎·库克的律师回击特朗普再次威胁要驱逐她
+    summary_zh: 六月底，最高法院阻止特朗普将库克从美联储解雇，但给总统留下了再次尝试重组的道路。
+  - title: Tribe accuses US federal agents of ‘trespassing’ on indigenous border land
+    summary: The Tohono O'odham people have sued the US government to stop construction of a border wall through their reservation.
+    link: https://www.aljazeera.com/news/2026/8/26/tribe-accuses-us-federal-agents-of-trespassing-on-indigenous-border-land?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-27 06:38
+    title_zh: 部落指责美国联邦特工“侵入”原住民边境土地
+    summary_zh: 托霍诺·奥德姆（Tohono O ' odham）人民起诉美国政府，要求其停止通过他们的保留地修建边境墙。
   - title: Economists want Warsh to share more on his view of the economy at Jackson Hole, says CNBC survey
     summary: Eighty percent of CNBC Fed Survey respondents say the Federal Reserve Chairman Warsh should provide more insight into his economic views.
     link: https://www.cnbc.com/2026/08/26/fed-survey-warsh-economy-view.html
@@ -647,6 +682,12 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Asian chip stocks rise as Nvidia outlook reinforces AI demand
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/asian-chip-stocks-rally-after-nvidia-results-reaffirm-ai-spending-boom-4878152
+    source: Stock Market News
+    time: 08-27 08:49
+    title_zh: 英伟达前景增强人工智能需求，亚洲芯片股上涨
   - title: Nvidia stock jumps after early dip following results; AI fever is unabated
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-bounce-shows-wall-streets-ai-obsession-is-far-from-over-4878000
