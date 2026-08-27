@@ -5,11 +5,74 @@ title: 新闻监控
 date: '2026-08-27'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-27 12:05
+last_updated: 2026-08-27 23:09
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'War on Iran: Diplomacy intensifies'
+    summary: Trump talks to Al Jazeera, Qatar’s Prime Minister visits Tehran and a temporary route is agreed in the Strait of Hormuz.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/27/war-on-iran-diplomacy-intensifies?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-27 22:44
+    title_zh: 伊朗战争：外交加剧
+    summary_zh: 特朗普与半岛电视台会谈，卡塔尔首相访问德黑兰，霍尔木兹海峡商定临时路线。
+  - title: Qatar PM visits Tehran as Iran faces mounting US economic pressure
+    summary: Qatar’s Prime Minister met Iran’s foreign minister in Tehran as the US vowed to intensify economic pressure on Iran.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/27/qatar-pm-visits-tehran-as-iran-faces-mounting-us-economic-pressure?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-27 22:32
+    title_zh: 卡塔尔总理访问德黑兰，伊朗面临美国越来越大的经济压力
+    summary_zh: 卡塔尔首相在德黑兰会见了伊朗外交部长，美国发誓要加强对伊朗的经济压力。
+  - title: Qatari Prime Minister Travels to Tehran as Iran War Nears Six-Month Mark
+    summary: Sheikh Mohammed bin Abdulrahman Al Thani has been a key mediator in the conflict, even as his country has blamed Tehran for hundreds of miss…
+    link: https://www.nytimes.com/2026/08/27/world/middleeast/qatar-visit-iran.html
+    source: NYT > World News
+    time: 08-27 22:25
+    title_zh: 伊朗战争接近六个月之际卡塔尔首相前往德黑兰
+    summary_zh: 谢赫·穆罕默德·本·阿卜杜勒拉赫曼·阿勒萨尼一直是冲突的关键调解人，尽管他的国家指责德黑兰造成了数百起失误.
+  - title: Six months after US strike on Iran school, parents still grieve
+    summary: Six months after a US missile strike on an Iranian school killed at least 170 people, most of them children.
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/27/six-months-after-us-strike-on-iran-school-parents-still-grieve?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-27 21:47
+    title_zh: 在美国对伊朗学校进行罢工六个月后，家长们仍然感到悲伤
+    summary_zh: 六个月前，美国导弹袭击伊朗一所学校，造成至少170人死亡，其中大多数是儿童。
+  - title: Saudi Response to Houthis’ Attacks on Ships May Be a New War
+    summary: Analysts say that weeks of Houthi attacks on Saudi targets have brought the kingdom and the Iranian-backed militia to the brink of full-blow…
+    link: https://www.nytimes.com/2026/08/27/world/middleeast/saudi-arabia-yemen-houthis-war.html
+    source: NYT > World News
+    time: 08-27 19:59
+    title_zh: 沙特对胡塞武装袭击船只的反应可能是一场新战争
+    summary_zh: 分析人士表示，胡塞武装对沙特目标的几周袭击已使沙特王国和伊朗支持的民兵组织处于全面打击的边缘……
+  - title: Is Iran war diplomacy ramping up, as Qatar, Oman, Pakistan officials visit?
+    summary: There are signs both sides could be ready to de-escalate, at least militarily, analysts say.
+    link: https://www.aljazeera.com/news/2026/8/27/is-iran-war-diplomacy-ramping-up-as-qatar-oman-pakistan-officials-visit?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-27 18:50
+    title_zh: 卡塔尔、阿曼、巴基斯坦官员访问伊朗时，伊朗战争外交是否加剧？
+    summary_zh: 分析人士称，有迹象表明双方都已准备好缓和局势，至少在军事上是这样。
+  - title: Six months of the Iran war – as told through Trump’s social media posts
+    summary: How a war was announced, prosecuted, declared won, negotiated and then reopened, all in the president's own words.
+    link: https://www.aljazeera.com/news/2026/8/27/six-months-of-the-iran-war-as-told-through-trumps-social-media-posts?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-27 18:37
+    title_zh: 伊朗战争的六个月-正如通过特朗普的社交媒体帖子所说的那样
+    summary_zh: 一场战争是如何宣布、起诉、宣布获胜、谈判然后重新开放的，这一切都是用总统自己的话来形容的。
+  - title: How a 95 percent drop in Hormuz traffic changed global shipping
+    summary: A crisis in one narrow passage has disrupted an industry that carries about 80 percent of the world’s trade.
+    link: https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-27 17:29
+    title_zh: 霍尔木兹航运量下降95%如何改变全球航运
+    summary_zh: 一个狭窄的通道中的危机扰乱了这个占世界贸易量约80%的行业。
+  - title: Qatari PM heads to Iran to 'de-escalate tensions' as tanker attack tests Trump’s Hormuz claim
+    summary: The Prime Minister of U.S.-ally Qatar is in Iran for talks on Thursday as part of efforts to "de-escalate tensions" between Tehran and Washi…
+    link: https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html
+    source: US Top News and Analysis
+    time: 08-27 16:22
+    title_zh: 卡塔尔总理前往伊朗“缓和紧张局势”，油轮袭击考验特朗普的霍尔木兹主张
+    summary_zh: 美国总理-盟友卡塔尔周四将在伊朗举行会谈，这是“缓和德黑兰和和纸之间紧张局势”努力的一部分..
   - title: Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks
     summary: Sheikh Mohammed's visit comes as US-Israel war on Iran nears its sixth month with no diplomatic breakthrough in sight.
     link: https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss
@@ -501,36 +564,43 @@ topics:
     time: 08-24 05:45
     title_zh: 德黑兰否认经济战威胁，财政部长宣布对伊朗实施制裁
     summary_zh: 贝森特告诉CNBC，制裁将是历史上“最严厉”的。
-  - title: Will Donald Trump’s new sanctions against Iran work?
-    summary: The US president says he will impose 'crushing measures' on Tehran.
-    link: https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-24 05:34
-    title_zh: 唐纳德·特朗普对伊朗的新制裁会奏效吗？
-    summary_zh: 美国总统表示，他将对德黑兰实施“毁灭性措施”。
-  - title: 'Trump has ‘run out of options’ in Iran war: Stephen Walt'
-    summary: Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.
-    link: https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-24 02:15
-    title_zh: 斯蒂芬·沃尔特：特朗普在伊朗战争中“别无选择”
-    summary_zh: 政治学家斯蒂芬·沃尔特表示，特朗普承诺让美国变得更强大，但他的许多政策却让美国变得更弱。
-  - title: 'Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms'
-    summary: House Speaker Mike Johnson, a Trump ally, admits it 'would be helpful' if conflict ends before elections in November.
-    link: https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-24 01:53
-    title_zh: 伊朗战争：美国最高议员表示共和党“绝对”可以赢得中期选举
-    summary_zh: 特朗普的盟友、众议院议长迈克·约翰逊承认，如果冲突在11月选举前结束，“将会有所帮助”。
-  - title: Can Nigeria cash in on Iran war?
-    summary: Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production.
-    link: https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-24 00:07
-    title_zh: 尼日利亚能从伊朗战争中获利吗？
-    summary_zh: 埃克佩里克佩·埃克波表示，美以对伊朗的战争迫使尼日利亚扩大天然气产量。
 - name: 货币政策
   items:
+  - title: Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico
+    summary: Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico
+    link: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm
+    source: 'FRB: Press Release - All Releases'
+    time: 08-27 23:00
+    title_zh: 美联储对波多黎各人民银行前雇员采取执法行动
+    summary_zh: 美联储对波多黎各人民银行前雇员采取执法行动
+  - title: Fed's Hammack says 'now is the time to act' on raising interest rates
+    summary: She still thinks the Fed needs to take action against inflation that is straining household budgets.
+    link: https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html
+    source: US Top News and Analysis
+    time: 08-27 22:49
+    title_zh: 美联储成员哈马克表示“现在是采取行动”加息的时候了
+    summary_zh: 她仍然认为美联储需要采取行动应对导致家庭预算紧张的通货膨胀。
+  - title: After Meta's landmark settlement with state AGs, legal headaches remain
+    summary: Meta's agreement to settle a federal social media addiction case with state AGs doesn't absolve the company of similar litigation or potenti…
+    link: https://www.cnbc.com/2026/08/27/after-meta-landmark-settlement-with-state-ags-legal-headaches-remain.html
+    source: US Top News and Analysis
+    time: 08-27 22:30
+    title_zh: 在Meta与州政府达成具有里程碑意义的和解协议后，法律问题依然存在
+    summary_zh: Meta与州总检察长达成和解联邦社交媒体成瘾案件的协议并不免除该公司类似诉讼或潜在诉讼。
+  - title: World Cup 2034 hosts Saudi Arabia back Infantino amid FIFA crisis
+    summary: Saudi football federation says it supports Infantino's ​'efforts' as he garners support to remain in power as president.
+    link: https://www.aljazeera.com/sports/2026/8/27/world-cup-2034-hosts-saudi-arabia-back-infantino-amid-fifa-crisis?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-27 21:18
+    title_zh: 2034年世界杯东道主沙特阿拉伯在国际足联危机中支持因凡蒂诺
+    summary_zh: 沙特足协表示支持因凡蒂诺的“努力”，因为他赢得了继续担任总统的支持。
+  - title: Italy withdraws support for Infantino, but Cannavaro backs FIFA chief
+    summary: Italian Football Federation says its decision is based on Infantino's recent initiatives on international competitions.
+    link: https://www.aljazeera.com/sports/2026/8/27/italy-withdraws-support-for-infantino-but-cannavaro-backs-fifa-chief?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-27 18:05
+    title_zh: 意大利撤回对因凡蒂诺的支持，但卡纳瓦罗支持国际足联主席
+    summary_zh: 意大利足协表示，其决定是基于因凡蒂诺最近在国际比赛上的举措。
   - title: Federal Reserve Governor Lisa Cook denounces Trump’s mortgage fraud claims
     summary: The Trump administration has doubled down on its accusations against Cook, despite a Supreme Court ruling in her favour.
     link: https://www.aljazeera.com/news/2026/8/27/federal-reserve-governor-lisa-cook-denounces-trumps-mortgage-fraud-claims?traffic_source=rss
@@ -682,6 +752,47 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown
+    summary: Nvidia is optimizing hardware for DeepSeek and Qwen while warning that potential U.S. restrictions on models originating in China could hurt…
+    link: https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html
+    source: US Top News and Analysis
+    time: 08-27 22:37
+    title_zh: 英伟达正在加强对中国开放人工智能模型的支持，警告白宫将进行镇压
+    summary_zh: Nvidia正在为DeepSeek和Qwen优化硬件，同时警告称，美国对原产于中国的型号的潜在限制可能会伤害.
+  - title: OpenAI, Nvidia CEOs to speak at tech-focused G20 meeting
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/spacexs-musk-david-sacks-to-join-altman-huang-at-g20-event-4879721
+    source: Stock Market News
+    time: 08-27 22:25
+    title_zh: OpenAI，Nvidia首席执行官将在以技术为重点的G20会议上发言
+  - title: Nvidia jumps 7% after blockbuster earnings boost AI confidence
+    summary: Nvidia shares rose on Thursday after the chip giant's revenue guidance reassured investors that AI demand will remain strong.
+    link: https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html
+    source: US Top News and Analysis
+    time: 08-27 22:06
+    title_zh: 重磅盈利提振人工智能信心，英伟达股价上涨7%
+    summary_zh: 英伟达股价周四上涨，此前该芯片巨头的收入指引让投资者放心人工智能需求将保持强劲。
+  - title: Nvidia agrees to buy Hugging Face for $12.9 billion, report says
+    summary: Nvidia reportedly agreed to buy open source AI platform Hugging Face for $12.9 billion as the chipmaker expands deeper into the AI ecosystem…
+    link: https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html
+    source: US Top News and Analysis
+    time: 08-27 20:26
+    title_zh: 报告称，英伟达同意以129亿美元收购Hugging Face
+    summary_zh: 据报道，Nvidia同意以129亿美元收购开源人工智能平台Hugging Face，该芯片制造商正在深入拓展人工智能生态系统..
+  - title: Nvidia’s 70% growth forecast puts it on track to become tech’s No. 2 company by revenue
+    summary: '"Our demand is much greater than 70%," CEO Jensen Huang said on the earnings call.'
+    link: https://www.cnbc.com/2026/08/26/nvidia-70percent-growth-forecast-puts-it-on-track-to-be-tech-no-2-company.html
+    source: US Top News and Analysis
+    time: 08-27 13:11
+    title_zh: 英伟达70%的增长预测使其有望成为收入第二的科技公司
+    summary_zh: “我们的需求远高于70%，”首席执行官黄詹森在财报电话会议上表示。
+  - title: Jensen Huang defends Nvidia's growing financial support for AI ecosystem, says 'the risk is low'
+    summary: Nvidia CEO Jensen Huang defended the chipmaker’s growing role in financing AI companies, calling its investments a “once in a generation” op…
+    link: https://www.cnbc.com/2026/08/26/jensen-huang-defends-nvidias-growing-financial-support-for-ai-ecosystem-says-the-risk-is-low-.html
+    source: US Top News and Analysis
+    time: 08-27 08:53
+    title_zh: Jensen Huang为Nvidia对人工智能生态系统日益增长的财务支持辩护，称“风险很低”
+    summary_zh: Nvidia首席执行官Jensen Huang为这家芯片制造商在人工智能公司融资方面日益重要的角色进行了辩护，称其投资是“一代人一次”的投资.
   - title: Asian chip stocks rise as Nvidia outlook reinforces AI demand
     summary: ''
     link: https://www.investing.com/news/stock-market-news/asian-chip-stocks-rally-after-nvidia-results-reaffirm-ai-spending-boom-4878152
