@@ -5,11 +5,60 @@ title: 新闻监控
 date: '2026-08-28'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-28 08:23
+last_updated: 2026-08-28 19:34
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran calls for global pushback against U.S. sanctions, says diplomacy 'isn't impossible'
+    summary: Iran said the conflict in the Gaza Strip has to end, Israel has to withdraw from Lebanon and also halt its attacks on Syria.
+    link: https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html
+    source: US Top News and Analysis
+    time: 08-28 19:15
+    title_zh: 伊朗呼吁全球抵制美国制裁，称外交“并非不可能”
+    summary_zh: 伊朗表示，加沙地带的冲突必须结束，以色列必须从黎巴嫩撤军，并停止对叙利亚的袭击。
+  - title: Why Many Iranians Are Losing Hope After Six Months of War
+    summary: Iranians have become increasingly desperate, as they grapple with an economic crisis made worse by the conflict and grow increasingly skepti…
+    link: https://www.nytimes.com/2026/08/28/world/middleeast/iranians-war-six-months-losing-hope.html
+    source: NYT > World News
+    time: 08-28 16:58
+    title_zh: 为什么许多伊朗人在六个月的战争后失去希望
+    summary_zh: 伊朗人变得越来越绝望，因为他们正在努力应对因冲突而变得更糟的经济危机，并且越来越怀疑。
+  - title: Six Months In, Iran Appears Stronger and U.S. Goals Unclear
+    summary: Trump’s replacement of a military war with a heightened economic one is not expected to alter Iran’s strategy, while further impoverishing i…
+    link: https://www.nytimes.com/2026/08/28/world/europe/iran-regime-war-us.html
+    source: NYT > World News
+    time: 08-28 16:55
+    title_zh: 六个月后，伊朗显得更加强大，美国目标不明
+    summary_zh: 特朗普用加强经济战争取代军事战争预计不会改变伊朗的战略，同时进一步摧毁伊朗.
+  - title: Six months on, Iran is still standing, but survival is becoming more costly
+    summary: Economic pressure is testing Iran where it is weakest and sharpening divisions within its leadership.
+    link: https://www.aljazeera.com/opinions/2026/8/28/six-months-on-iran-is-still-standing-but-survival-is-becoming-more-costly?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-28 14:35
+    title_zh: 六个月过去了，伊朗仍然屹立不倒，但生存成本变得越来越高
+    summary_zh: 经济压力正在考验伊朗，因为伊朗是该国最弱的国家，并加剧了其领导层内部的分歧。
+  - title: Six months on, Trump’s Iran strategy is starting to pay off
+    summary: The US has not won the war, but sustained pressure is weakening Tehran and giving Washington a stronger hand.
+    link: https://www.aljazeera.com/opinions/2026/8/28/six-months-on-trumps-iran-strategy-is-starting-to-pay-off?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-28 14:31
+    title_zh: 六个月过去了，特朗普的伊朗战略开始取得成效
+    summary_zh: 美国没有赢得这场战争，但持续的压力正在削弱德黑兰，并给予华盛顿更强大的力量。
+  - title: Six months of war between Iran, US leave Arab states facing tough questions
+    summary: The Iran war is settling into attrition, with no regime collapse and Gulf economies facing growing uncertainty.
+    link: https://www.aljazeera.com/news/2026/8/28/six-months-of-war-between-iran-us-leave-arab-states-facing-tough-questions?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-28 13:37
+    title_zh: 伊朗和美国之间六个月的战争使阿拉伯国家面临严峻的问题
+    summary_zh: 伊朗战争正在进入消耗状态，政权没有崩溃，海湾经济体面临越来越大的不确定性。
+  - title: 'Six months into the Iran war: Markets become accustomed to stalemate with no end in sight'
+    summary: The war has far exceeded the four to six weeks the Trump administration estimated it would take to meet its objectives in Iran.
+    link: https://www.cnbc.com/2026/08/28/us-iran-war-six-months-trump.html
+    source: US Top News and Analysis
+    time: 08-28 13:02
+    title_zh: 伊朗战争六个月：市场习惯了僵局，看不到尽头
+    summary_zh: 这场战争远远超出了特朗普政府预计实现其在伊朗的目标所需的四到六周时间。
   - title: 'Iran war live: Tehran prepares conditions to open Strait of Hormuz'
     summary: Iran says it is preparing to draft conditions to open the Strait of Hormuz following mediator requests.
     link: https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz?traffic_source=rss
@@ -517,55 +566,26 @@ topics:
     time: 08-24 16:47
     title_zh: 伊朗年轻人聚集的地方，政府看到对其权威的威胁
     summary_zh: 最近几周，警方关闭了数十家咖啡馆，经常援引法律规定女性必须在公共场合戴面纱。专家称关闭.
-  - title: How much more are you spending on petrol since the war in Iran began?
-    summary: At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.
-    link: https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-24 15:26
-    title_zh: 自伊朗战争开始以来，您在汽油上又花了多少钱？
-    summary_zh: 自美国和以色列对伊朗发动袭击以来，至少有145个国家报告汽油价格上涨。
-  - title: 'FTSE 100 today: Stocks lower as Iran sanctions and tech selloff weigh'
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-lower-as-iran-sanctions-and-tech-selloff-weigh-4872749
-    source: Stock Market News
-    time: 08-24 15:17
-    title_zh: 今日富时100指数：伊朗制裁和科技股抛售导致股市走低
-  - title: European equities trade sideways as markets await Iran sanctions
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/european-equities-trade-sideways-as-markets-await-iran-sanctions-4872688
-    source: Stock Market News
-    time: 08-24 15:14
-    title_zh: 市场等待伊朗制裁，欧洲股市横向交易
-  - title: 'Pakistan’s army chief Munir returns to Iran: Can he break US war deadlock?'
-    summary: Pakistan says it can offer a channel between Tehran and Washington, but analysts differ over how much influence it has.
-    link: https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-24 14:30
-    title_zh: 巴基斯坦陆军参谋长穆尼尔重返伊朗：他能打破美国战争僵局吗？
-    summary_zh: 巴基斯坦表示，它可以在德黑兰和华盛顿之间提供一个渠道，但分析人士对其影响力有多大存在分歧。
-  - title: '‘We know this movie’: Iran mocks latest US sanctions'
-    summary: Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the 'same movie on repeat'.
-    link: https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-24 12:02
-    title_zh: “我们知道这部电影”：伊朗嘲笑美国最新制裁
-    summary_zh: 阿巴斯·阿拉奇表示，美国可能于周一公布的新制裁就像“重复看同一部电影”。
-  - title: U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures
-    summary: The escalation came as both sides have missed a 60-day ceasefire window to reach a deal, closing off the formal truce mechanism to end the s…
-    link: https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html
-    source: US Top News and Analysis
-    time: 08-24 10:25
-    title_zh: 德黑兰威胁扣押船只，美国将对伊朗发起“最大规模的金融攻势”
-    summary_zh: 事态升级之际，双方错过了达成协议的60天停火窗口，关闭了正式停火机制以结束冲突.
-  - title: Oil prices fall as investors await 'toughest' U.S. sanctions on Iran
-    summary: Oil prices fell Monday as investors awaited details of what Washington has billed as its toughest-ever sanctions campaign against Iran.
-    link: https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html
-    source: US Top News and Analysis
-    time: 08-24 08:59
-    title_zh: 投资者等待美国对伊朗实施“最严厉”制裁，油价下跌
-    summary_zh: 油价周一下跌，投资者等待华盛顿所称的对伊朗有史以来最严厉制裁行动的细节。
 - name: 货币政策
   items:
+  - title: Canada futures flatline ahead of Warsh’s Jackson Hole speech
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/canada-futures-flatline-as-resource-heavyweights-counter-jackson-hole-suspense-4880935
+    source: Stock Market News
+    time: 08-28 18:56
+    title_zh: 沃什杰克逊霍尔演讲前加拿大期货持平
+  - title: European shares bounce ahead of Warsh; macro worries seal 3rd week of losses
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/european-shares-bounce-ahead-of-warsh-macro-worries-seal-3rd-week-of-losses-4880599
+    source: Stock Market News
+    time: 08-28 18:35
+    title_zh: 欧股在沃什之前反弹;宏观担忧导致第三周下跌
+  - title: Bitcoin steadies below $80k with Warsh speech in focus
+    summary: ''
+    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-near-80k-with-warsh-speech-in-focus-4880563
+    source: Cryptocurrency News
+    time: 08-28 17:56
+    title_zh: 沃什演讲成为焦点，比特币跌破8万美元
   - title: US charges 81 in Puerto Rico gang case, as Trump cartel crackdown continues
     summary: The arrests are part of a federal task force initiative targeting criminal gangs and transnational organisations.
     link: https://www.aljazeera.com/news/2026/8/27/us-charges-81-in-puerto-rico-gang-case-as-trump-cartel-crackdown-continues?traffic_source=rss
