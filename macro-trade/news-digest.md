@@ -2,14 +2,42 @@
 layout: news-digest
 permalink: /macro-trade/news-digest/
 title: 新闻监控
-date: '2026-08-28'
+date: '2026-08-29'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-28 19:34
+last_updated: 2026-08-29 05:30
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Yemen’s divided education system leaves students’ futures in limbo
+    summary: Students in Houthi areas fear lost opportunities after government decision not to authenticate some certificates.
+    link: https://www.aljazeera.com/features/2026/8/28/yemens-divided-education-system-leaves-students-futures-in-limbo?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-29 02:50
+    title_zh: 也门分裂的教育体系使学生的未来陷入困境
+    summary_zh: 胡塞武装地区的学生担心，在政府决定不认证一些证书后，他们会失去机会。
+  - title: Why Many Iranians Are Losing Hope After Six Months of War
+    summary: Iranians have become increasingly desperate, as they grapple with an economic crisis made worse by the conflict and grow increasingly skepti…
+    link: https://www.nytimes.com/2026/08/28/world/middleeast/iran-war-six-months-israel-us.html
+    source: NYT > World News
+    time: 08-29 02:14
+    title_zh: 为什么许多伊朗人在六个月的战争后失去希望
+    summary_zh: 伊朗人变得越来越绝望，因为他们正在努力应对因冲突而变得更糟的经济危机，并且越来越怀疑。
+  - title: Treasury moves to sanction UAE branch of Egyptian bank over Iran ties
+    summary: Banque Misr UAE processed about $1.8 billion over two years for some 100 companies that are potentially part of Iran's shadow banking networ…
+    link: https://www.cnbc.com/2026/08/28/treasury-uae-banque-misr-sanctions-iran.html
+    source: US Top News and Analysis
+    time: 08-29 02:13
+    title_zh: 财政部因伊朗关系而制裁埃及银行阿联酋分行
+    summary_zh: 阿联酋Misr银行在两年内为约100家可能属于伊朗影子银行业务的公司处理了约18亿美元..
+  - title: U.S. Navy blockade slashes Iran oil exports as Trump administration shifts to economic warfare
+    summary: The U.S. has shifted to a campaign of economic warfare, after a dozen waves of airstrikes in July failed to force Tehran to abandon its clai…
+    link: https://www.cnbc.com/2026/08/28/navy-blockade-iran-oil-exports-sanctions-trump.html
+    source: US Top News and Analysis
+    time: 08-28 19:50
+    title_zh: 特朗普政府转向经济战，美国海军封锁大幅削减伊朗石油出口
+    summary_zh: 在7月份的十几波空袭未能迫使德黑兰放弃其主张后，美国已转向经济战。
   - title: Iran calls for global pushback against U.S. sanctions, says diplomacy 'isn't impossible'
     summary: Iran said the conflict in the Gaza Strip has to end, Israel has to withdraw from Lebanon and also halt its attacks on Syria.
     link: https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html
@@ -538,36 +566,56 @@ topics:
     time: 08-24 20:28
     title_zh: 韩国称美国因伊朗战争取消了即将举行的联合海上演习
     summary_zh: 此次取消是在特朗普上周意外下令缩减单独的年度联合军事演习之后进行的。
-  - title: 'US threatens toughest sanctions yet against Iran: What we know'
-    summary: Tehran has threatened to retaliate against any country that joins new US economic measures.
-    link: https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-24 18:23
-    title_zh: 美国威胁对伊朗实施迄今为止最严厉的制裁：我们所知道的
-    summary_zh: 德黑兰威胁要对任何加入美国新经济措施的国家进行报复。
-  - title: U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands
-    summary: The move to call off the high-profile event was communicated in June, South Korea said. President Trump shortened another joint military exe…
-    link: https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html
-    source: NYT > World News
-    time: 08-24 17:19
-    title_zh: 美国海军陆战队员以伊朗战争需求为由取消与韩国的演习
-    summary_zh: 韩国表示，取消这一备受瞩目的活动的举措是在六月份传达的。特朗普总统缩短了另一项联合军事行动.
-  - title: US threat of ‘economic D-Day’ for Iran tests Trump’s China detente
-    summary: Exerting maximum economic pressure on Tehran would risk blowback from Beijing.
-    link: https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-24 17:10
-    title_zh: 美国对伊朗的“经济登陆日”威胁考验特朗普对华缓和
-    summary_zh: 向德黑兰施加最大经济压力可能会遭到北京的反击。
-  - title: Where Iran’s Young People Gather, the Government Sees Threats to Its Authority
-    summary: In recent weeks, the police have closed dozens of cafes, often citing laws that stipulate women must veil in public. Experts say the closure…
-    link: https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html
-    source: NYT > World News
-    time: 08-24 16:47
-    title_zh: 伊朗年轻人聚集的地方，政府看到对其权威的威胁
-    summary_zh: 最近几周，警方关闭了数十家咖啡馆，经常援引法律规定女性必须在公共场合戴面纱。专家称关闭.
 - name: 货币政策
   items:
+  - title: Trump loses bid to transfer New York hush money case to federal court
+    summary: Trump's conviction in the hush money case relates to conduct that preceded the 2016 presidential election, which led to his first term in th…
+    link: https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html
+    source: US Top News and Analysis
+    time: 08-29 04:56
+    title_zh: 特朗普未能将纽约封口费案移交联邦法院
+    summary_zh: 特朗普在封口费案中的定罪与2016年总统选举之前的行为有关，这次选举导致了他在总统选举中的第一个任期.
+  - title: Wall Street ends lower on hawkish Warsh at Jackson Hole, but rises for the week
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/wall-st-futures-steady-after-nvidialed-gains-warshs-jackson-hole-speech-looms-4880398
+    source: Stock Market News
+    time: 08-29 04:15
+    title_zh: 杰克逊霍尔的鹰派沃什导致华尔街收盘走低，但本周上涨
+  - title: 2-year Treasury yield jumps as Warsh says Fed may 'have work to do'
+    summary: Investors assessed Federal Reserve Chair Kevin Warsh's hawkish message in his keynote address at Jackson Hole.
+    link: https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html
+    source: US Top News and Analysis
+    time: 08-29 04:08
+    title_zh: 2-沃什表示美联储可能“还有工作要做”，今年国债收益率跃升
+    summary_zh: 投资者评估了美联储主席凯文·沃什在杰克逊霍尔发表的主题演讲中的鹰派信息。
+  - title: Stock traders warm up to Warsh as volatility index touches year-to-date low
+    summary: The Cboe Volatility Index (VIX), which measures the price of 30-day options on the S&P 500 Index, fell to as low as 14.1.
+    link: https://www.cnbc.com/2026/08/28/stock-traders-warm-up-to-warsh-as-volatility-index-touches-year-to-date-low.html
+    source: US Top News and Analysis
+    time: 08-29 03:35
+    title_zh: 波动率指数触及年初迄今低点，股票交易员对Warsh升温
+    summary_zh: 衡量标准普尔500指数30天期权价格的Cboe波动率指数（VIX）跌至14.1。
+  - title: What we learned from Warsh's Jackson Hole speech, and GE Vernova's CFO to retire
+    summary: Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
+    link: https://www.cnbc.com/2026/08/28/what-we-learned-from-warshs-jackson-hole-speech-and-ge-vernovas-cfo-to-retire.html
+    source: US Top News and Analysis
+    time: 08-29 02:03
+    title_zh: 我们从Warsh的Jackson Hole演讲以及GE Vernova首席财务官退休中学到了什么
+    summary_zh: 每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。
+  - title: US Fed chair warns inflation progress insufficient, hints at rate hikes
+    summary: Kevin Warsh in speech underscores Fed's commitment to tackling inflation, with rate hikes possibly on horizon.
+    link: https://www.aljazeera.com/economy/2026/8/28/us-fed-chair-warns-inflation-progress-insufficient-hints-at-rate-hikes?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-29 01:22
+    title_zh: 美联储主席警告通胀进展不足，暗示加息
+    summary_zh: 凯文·沃什（Kevin Warsh）在演讲中强调了美联储应对通胀的承诺，加息可能即将到来。
+  - title: Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank
+    summary: He used the speech to outline his philosophy on policymaking while carefully sidestepping any signals
+    link: https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html
+    source: US Top News and Analysis
+    time: 08-29 00:11
+    title_zh: 美联储主席沃什对通胀表示担忧，主张央行“安静”
+    summary_zh: 他利用这次演讲概述了他的政策制定哲学，同时小心翼翼地回避了任何信号
   - title: Canada futures flatline ahead of Warsh’s Jackson Hole speech
     summary: ''
     link: https://www.investing.com/news/stock-market-news/canada-futures-flatline-as-resource-heavyweights-counter-jackson-hole-suspense-4880935
