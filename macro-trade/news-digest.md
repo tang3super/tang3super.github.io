@@ -2,14 +2,28 @@
 layout: news-digest
 permalink: /macro-trade/news-digest/
 title: 新闻监控
-date: '2026-08-27'
+date: '2026-08-28'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-27 23:09
+last_updated: 2026-08-28 08:23
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran war live: Tehran prepares conditions to open Strait of Hormuz'
+    summary: Iran says it is preparing to draft conditions to open the Strait of Hormuz following mediator requests.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-28 08:00
+    title_zh: 伊朗战争直播：德黑兰准备开放霍尔木兹海峡的条件
+    summary_zh: 伊朗表示，应调解人的要求，准备起草开放霍尔木兹海峡的条件。
+  - title: 'Brian Sullivan: Gulf nations are unlikely to agree to a toll plan for Strait of Hormuz safe passage'
+    summary: Gulf nations will be reluctant to agree to or adhere to a fee or toll for safe passage through the Strait of Hormuz, according to my convers…
+    link: https://www.cnbc.com/2026/08/27/brian-sullivan-gulf-nations-are-unlikely-to-agree-to-a-toll-plan-for-strait-of-hormuz-safe-passage.html
+    source: US Top News and Analysis
+    time: 08-28 01:45
+    title_zh: 布莱恩·沙利文：海湾国家不太可能同意霍尔木兹海峡安全通行的收费计划
+    summary_zh: 据我的同事称，海湾国家将不愿意同意或遵守安全通过霍尔木兹海峡的费用或通行费.
   - title: 'War on Iran: Diplomacy intensifies'
     summary: Trump talks to Al Jazeera, Qatar’s Prime Minister visits Tehran and a temporary route is agreed in the Strait of Hormuz.
     link: https://www.aljazeera.com/video/newsfeed/2026/8/27/war-on-iran-diplomacy-intensifies?traffic_source=rss
@@ -550,22 +564,43 @@ topics:
     time: 08-24 08:59
     title_zh: 投资者等待美国对伊朗实施“最严厉”制裁，油价下跌
     summary_zh: 油价周一下跌，投资者等待华盛顿所称的对伊朗有史以来最严厉制裁行动的细节。
-  - title: 'Iran war live: Iranian parliament advances plans for Hormuz service fees'
-    summary: Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for Tehran's services.
-    link: https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-24 08:00
-    title_zh: 伊朗战争直播：伊朗议会推进霍尔木兹服务费计划
-    summary_zh: 法律草案规定，获准通过霍尔木兹海峡的国家船只将支付德黑兰的服务费用。
-  - title: Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat
-    summary: Bessent told CNBC that the sanctions will be the "toughest" in history.
-    link: https://www.cnbc.com/2026/08/23/treasury-secretary-bessent-iran-sanctions-press-conference.html
-    source: US Top News and Analysis
-    time: 08-24 05:45
-    title_zh: 德黑兰否认经济战威胁，财政部长宣布对伊朗实施制裁
-    summary_zh: 贝森特告诉CNBC，制裁将是历史上“最严厉”的。
 - name: 货币政策
   items:
+  - title: US charges 81 in Puerto Rico gang case, as Trump cartel crackdown continues
+    summary: The arrests are part of a federal task force initiative targeting criminal gangs and transnational organisations.
+    link: https://www.aljazeera.com/news/2026/8/27/us-charges-81-in-puerto-rico-gang-case-as-trump-cartel-crackdown-continues?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-28 07:58
+    title_zh: 美国在波多黎各帮派案件中指控81人，因为特朗普卡特尔镇压继续
+    summary_zh: 此次逮捕是联邦特别工作组针对犯罪团伙和跨国组织的举措的一部分。
+  - title: Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect
+    summary: Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.
+    link: https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html
+    source: US Top News and Analysis
+    time: 08-28 06:58
+    title_zh: 美联储主席凯文·沃什周五发表了杰克逊霍尔的关键演讲。这是值得期待的
+    summary_zh: 美联储前任主席利用这次演讲作为制定广泛政策框架和意图的机会。
+  - title: UAE ‘spy sheikh’ backs 49% stake in Trump family’s crypto bank venture, WSJ reports
+    summary: World Liberty’s proposed trust bank has preliminary federal approval as the Trump-backed crypto venture deepens its ties to a senior UAE off…
+    link: https://www.cnbc.com/2026/08/27/uae-spy-sheikh-trump-family-crypto-bank.html
+    source: US Top News and Analysis
+    time: 08-28 05:22
+    title_zh: 据《华尔街日报》报道，阿联酋“间谍酋长”支持特朗普家族加密银行合资企业49%的股份
+    summary_zh: 世界自由党拟议的信托银行已获得联邦政府初步批准，因为特朗普支持的加密货币企业加深了与阿联酋高级官员的联系.
+  - title: What Warsh will say and how the market will react, according to prediction markets
+    summary: Kalshi sees a low chance that Federal Reserve Chairman Kevin Warsh will mention "bond market" or "rate cut" at the annual Jackson Hole Sympo…
+    link: https://www.cnbc.com/2026/08/27/what-warsh-will-say-and-how-the-market-will-react-according-to-prediction-markets.html
+    source: US Top News and Analysis
+    time: 08-28 05:17
+    title_zh: 根据预测市场，沃什会说什么以及市场将如何反应
+    summary_zh: 卡尔什认为美联储主席凯文·沃什在年度杰克逊霍尔症状会议上提及“债券市场”或“降息”的可能性很低……
+  - title: Nigeria’s football federation chief resigns amid corruption allegations
+    summary: President Bola Tinubu's office says he has ordered 'comprehensive reform' of the country's football administration.
+    link: https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-28 03:57
+    title_zh: 尼日利亚足协主席因腐败指控辞职
+    summary_zh: 总统博拉·蒂努布的办公室表示，他已下令对该国足球管理部门进行“全面改革”。
   - title: Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico
     summary: Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico
     link: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm
@@ -752,6 +787,20 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: Jim Cramer says Nvidia and Salesforce earnings upended two bear narratives
+    summary: CNBC’s Jim Cramer said strong earnings from Nvidia and Salesforce shattered two major bear cases that had weighed on the tech stocks.
+    link: https://www.cnbc.com/2026/08/27/cramer-nvidia-salesforce-earnings-upended-two-bear-narratives.html
+    source: US Top News and Analysis
+    time: 08-28 06:20
+    title_zh: 吉姆·克莱默（Jim Cramer）表示Nvidia和Salesforce的盈利颠覆了两种熊市叙事
+    summary_zh: CNBC的吉姆·克莱默（Jim Cramer）表示，英伟达（Nvidia）和Salesforce（Salesforce）的强劲收益打破了拖累科技股的两大重大熊市。
+  - title: SK Hynix CEO says Indiana will be key memory production base by 2030, first U.S. facility now underway
+    summary: At the groundbreaking ceremony for SK Hynix's first U.S. facility, CEO Kwak Noh-Jung says Indiana will be a key memory production base by 20…
+    link: https://www.cnbc.com/2026/08/27/sk-hynix-ceo-says-indiana-will-be-key-memory-production-base-by-2030.html
+    source: US Top News and Analysis
+    time: 08-28 02:07
+    title_zh: SK Hynix首席执行官表示，到2030年，印第安纳州将成为主要的存储器生产基地，目前美国第一家工厂正在建设中
+    summary_zh: 在SK Hynix第一家美国工厂的奠基仪式上，首席执行官Kwak Noh-Jung表示，到20年，印第安纳州将成为一个重要的存储器生产基地.
   - title: Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown
     summary: Nvidia is optimizing hardware for DeepSeek and Qwen while warning that potential U.S. restrictions on models originating in China could hurt…
     link: https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html
