@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-08-30'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-30 02:21
+last_updated: 2026-08-30 05:00
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -568,6 +568,13 @@ topics:
     summary_zh: 美国表示，它的目标是伊朗的所有收入来源，包括石油。
 - name: 货币政策
   items:
+  - title: US judge rules against Trump’s effort to deport pro-Palestinian students
+    summary: A federal judge criticised the Trump government for attempting to infringe upon foreign students' rights to free speech.
+    link: https://www.aljazeera.com/news/2026/8/29/us-judge-rules-against-trumps-effort-to-deport-pro-palestinian-students?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-30 02:56
+    title_zh: 美国法官裁定，特朗普试图驱逐那些支持巴勒斯坦的学生是无效的
+    summary_zh: 一名联邦法官批评特朗普政府试图侵犯外国学生的言论自由权。
   - title: US revises statements suggesting Chinese hackers attacked agencies
     summary: US Justice Department clarifies that the US Senate and Federal Reserve were targets but were not successfully hacked.
     link: https://www.aljazeera.com/news/2026/8/29/us-revises-statements-suggesting-chinese-hackers-attacked-agencies?traffic_source=rss
