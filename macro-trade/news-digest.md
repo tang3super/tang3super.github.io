@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-08-29'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-29 18:11
+last_updated: 2026-08-29 23:03
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar
+    summary: Iran's president says sanctions are hitting imports and exports, as its supreme leader urges less reliance on the U.S. dollar.
+    link: https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html
+    source: US Top News and Analysis
+    time: 08-29 20:08
+    title_zh: 最高领袖哈梅内伊敦促减少对美元的依赖，伊朗贸易下降
+    summary_zh: 伊朗总统表示，制裁正在影响进出口，因为其最高领导人敦促减少对美元的依赖。
+  - title: Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence
+    summary: Iran's president said sanctions and the US naval blockade had caused exports and imports to slump by nearly 35 percent.
+    link: https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-29 18:09
+    title_zh: 伊朗领导人承认战争的经济损失，承诺外交，国防
+    summary_zh: 伊朗总统表示，制裁和美国的海上封锁导致伊朗的进出口下降了近35%。
   - title: Six months into the Iran war, a new Gulf security architecture is emerging
     summary: Gulf states are building overlapping partnerships that complement, rather than replace, the US security role.
     link: https://www.aljazeera.com/opinions/2026/8/29/six-months-into-the-iran-war-a-new-gulf-security-architecture-is-emerging?traffic_source=rss
@@ -552,20 +566,6 @@ topics:
     time: 08-25 01:53
     title_zh: 特朗普政府宣布对伊朗发动全球经济战
     summary_zh: 美国表示，它的目标是伊朗的所有收入来源，包括石油。
-  - title: Trump admin unveils anti-Iran global sanctions plan, signals China not exempt
-    summary: The Trump administration unveiled a plan to isolate Iran's economy by threatening to impose secondary sanctions on the Islamic Republic's "e…
-    link: https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html
-    source: US Top News and Analysis
-    time: 08-25 01:49
-    title_zh: 特朗普政府公布反伊朗全球制裁计划，暗示中国不会豁免
-    summary_zh: 特朗普政府公布了一项孤立伊朗经济的计划，威胁要对伊朗伊斯兰共和国实施二级制裁。
-  - title: Trump administration announces ‘economic D-day’ sanctions on Iran
-    summary: Treasury Secretary Scott Bessent says US sanctions will intensify to choke off Iran's revenues and isolate the country.
-    link: https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-25 01:10
-    title_zh: 特朗普政府宣布对伊朗实施“D日”经济制裁
-    summary_zh: 财政部长斯科特·贝森特表示，美国将加强制裁，以扼杀伊朗的收入并孤立该国。
 - name: 货币政策
   items:
   - title: US revises statements suggesting Chinese hackers attacked agencies
