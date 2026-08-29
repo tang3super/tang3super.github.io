@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-29'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-29 11:16
+last_updated: 2026-08-29 18:11
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Six months into the Iran war, a new Gulf security architecture is emerging
+    summary: Gulf states are building overlapping partnerships that complement, rather than replace, the US security role.
+    link: https://www.aljazeera.com/opinions/2026/8/29/six-months-into-the-iran-war-a-new-gulf-security-architecture-is-emerging?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-29 14:11
+    title_zh: 伊朗战争六个月后，一个新的海湾安全架构正在形成
+    summary_zh: 海湾国家正在建立重叠的伙伴关系，以补充而不是取代美国的安全角色。
   - title: War weighs on Iran’s economy as US intensifies sanctions
     summary: ''
     link: https://www.investing.com/news/stock-market-news/war-weighs-on-irans-economy-as-us-intensifies-sanctions-4881923
@@ -559,13 +566,6 @@ topics:
     time: 08-25 01:10
     title_zh: 特朗普政府宣布对伊朗实施“D日”经济制裁
     summary_zh: 财政部长斯科特·贝森特表示，美国将加强制裁，以扼杀伊朗的收入并孤立该国。
-  - title: What to expect as Iran braces for new US economic measures amid war
-    summary: Tehran may count on links with China and others to weather the storm, but average Iranian people will bear the brunt.
-    link: https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-25 00:02
-    title_zh: 伊朗在战争中准备迎接美国新的经济措施，会发生什么
-    summary_zh: 德黑兰可能指望与中国和其他国家的联系来度过这场风暴，但普通伊朗人民将首当其冲。
 - name: 货币政策
   items:
   - title: US revises statements suggesting Chinese hackers attacked agencies
