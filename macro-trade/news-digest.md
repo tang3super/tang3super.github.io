@@ -2,10 +2,10 @@
 layout: news-digest
 permalink: /macro-trade/news-digest/
 title: 新闻监控
-date: '2026-08-29'
+date: '2026-08-30'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-29 23:03
+last_updated: 2026-08-30 02:21
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -876,6 +876,13 @@ topics:
     summary_zh: 英伟达公布财报，美联储主席凯文·沃什将发表他的首次杰克逊霍尔演讲。
 - name: AI基建
   items:
+  - title: 'The big lesson from this week''s earnings: The AI buildout is not a zero-sum game'
+    summary: Salesforce, CrowdStrike, and Nvidia all faced major tests with investors and crushed expectations.
+    link: https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html
+    source: US Top News and Analysis
+    time: 08-29 21:25
+    title_zh: 本周收益的重要教训：人工智能的建设不是零和游戏
+    summary_zh: Salesforce、CrowdStrike和Nvidia都面临着投资者的重大考验，并辜负了预期。
   - title: Jim Cramer says Nvidia and Salesforce earnings upended two bear narratives
     summary: CNBC’s Jim Cramer said strong earnings from Nvidia and Salesforce shattered two major bear cases that had weighed on the tech stocks.
     link: https://www.cnbc.com/2026/08/27/cramer-nvidia-salesforce-earnings-upended-two-bear-narratives.html
