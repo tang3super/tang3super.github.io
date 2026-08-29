@@ -5,11 +5,24 @@ title: 新闻监控
 date: '2026-08-29'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-29 05:30
+last_updated: 2026-08-29 11:16
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: War weighs on Iran’s economy as US intensifies sanctions
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/war-weighs-on-irans-economy-as-us-intensifies-sanctions-4881923
+    source: Stock Market News
+    time: 08-29 10:06
+    title_zh: 随着美国加强制裁，战争对伊朗经济造成影响
+  - title: 'Iran war live: IRGC asserts strait control, US enforces blockade'
+    summary: Iran's IRGC claims decisive control over the Strait of Hormuz as the US maintains its naval blockade.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-29 08:00
+    title_zh: 伊朗战争直播：伊斯兰革命卫队声称控制海峡，美国实施封锁
+    summary_zh: 伊朗伊斯兰革命卫队声称对霍尔木兹海峡拥有决定性控制权，美国维持海上封锁。
   - title: Yemen’s divided education system leaves students’ futures in limbo
     summary: Students in Houthi areas fear lost opportunities after government decision not to authenticate some certificates.
     link: https://www.aljazeera.com/features/2026/8/28/yemens-divided-education-system-leaves-students-futures-in-limbo?traffic_source=rss
@@ -553,21 +566,22 @@ topics:
     time: 08-25 00:02
     title_zh: 伊朗在战争中准备迎接美国新的经济措施，会发生什么
     summary_zh: 德黑兰可能指望与中国和其他国家的联系来度过这场风暴，但普通伊朗人民将首当其冲。
-  - title: Wall Street opens lower as high-stakes Iran, inflation tests loom
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/wall-street-opens-lower-as-highstakes-iran-inflation-tests-loom-4873698
-    source: Stock Market News
-    time: 08-24 21:37
-    title_zh: 伊朗面临高风险，通胀测试迫在眉睫，华尔街开盘走低
-  - title: South Korea says US cancelled upcoming joint marine exercises over Iran war
-    summary: The cancellation follows Trump's surprise order last week to scale back a separate annual joint military drill.
-    link: https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-24 20:28
-    title_zh: 韩国称美国因伊朗战争取消了即将举行的联合海上演习
-    summary_zh: 此次取消是在特朗普上周意外下令缩减单独的年度联合军事演习之后进行的。
 - name: 货币政策
   items:
+  - title: US revises statements suggesting Chinese hackers attacked agencies
+    summary: US Justice Department clarifies that the US Senate and Federal Reserve were targets but were not successfully hacked.
+    link: https://www.aljazeera.com/news/2026/8/29/us-revises-statements-suggesting-chinese-hackers-attacked-agencies?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-29 08:46
+    title_zh: 美国修改暗示中国黑客攻击机构的声明
+    summary_zh: 美国司法部澄清称，美国参议院和美联储是攻击目标，但并未被成功黑客攻击。
+  - title: US judge rejects Trump’s bid to switch hush-money case to federal court
+    summary: The US president has sought to overturn his criminal conviction for falsifying business records, citing immunity.
+    link: https://www.aljazeera.com/news/2026/8/29/us-judge-rejects-trumps-bid-to-switch-hush-money-case-to-federal-court?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-29 08:19
+    title_zh: 美国法官拒绝特朗普将封口费案件移交联邦法院的请求
+    summary_zh: 美国总统以豁免权为由，试图推翻他伪造商业记录的刑事定罪。
   - title: Trump loses bid to transfer New York hush money case to federal court
     summary: Trump's conviction in the hush money case relates to conduct that preceded the 2016 presidential election, which led to his first term in th…
     link: https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html
@@ -602,6 +616,13 @@ topics:
     time: 08-29 02:03
     title_zh: 我们从Warsh的Jackson Hole演讲以及GE Vernova首席财务官退休中学到了什么
     summary_zh: 每个工作日，投资俱乐部都会发布Homestretch;一个可操作的下午更新，正好赶上交易的最后一个小时。
+  - title: 'Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike'
+    summary: After confusing markets at his July news conference, Fed Chairman Kevin Warsh used Jackson Hole to give a clearer view of the case for highe…
+    link: https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html
+    source: US Top News and Analysis
+    time: 08-29 01:44
+    title_zh: 分析：凯文·沃什（Kevin Warsh）在杰克逊霍尔（Jackson Hole）发出通胀警告，暗示可能加息
+    summary_zh: 美联储主席凯文·沃什（Kevin Warsh）在7月份的新闻发布会上混淆了市场，随后他利用杰克逊霍尔（Jackson Hole）对高……的情况给出了更清晰的看法。
   - title: US Fed chair warns inflation progress insufficient, hints at rate hikes
     summary: Kevin Warsh in speech underscores Fed's commitment to tackling inflation, with rate hikes possibly on horizon.
     link: https://www.aljazeera.com/economy/2026/8/28/us-fed-chair-warns-inflation-progress-insufficient-hints-at-rate-hikes?traffic_source=rss
