@@ -5,11 +5,39 @@ title: 新闻监控
 date: '2026-08-30'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-30 14:42
+last_updated: 2026-08-30 20:14
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Six months on, what did the strikes on Iran achieve?
+    summary: The US-Israeli bombing of Iran became a fight for the Strait of Hormuz. AJLabs counts the cost of the war.
+    link: https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-30 19:24
+    title_zh: 六个月过去了，对伊朗的打击取得了什么成果？
+    summary_zh: 美国和以色列对伊朗的轰炸变成了一场争夺霍尔木兹海峡的战斗。AJLabs计算了战争的成本。
+  - title: Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist
+    summary: Khamenei urges Gulf rulers to confront their 'real enemy' as Iran keeps Hormuz restricted amid stalled diplomacy.
+    link: https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-30 18:30
+    title_zh: 霍尔木兹紧张局势持续存在，伊朗哈梅内伊呼吁海湾地区团结
+    summary_zh: 哈梅内伊敦促海湾统治者面对他们的“真正的敌人”，因为伊朗在外交停滞的情况下限制霍尔木兹。
+  - title: Long Lines for Gas in Iran Show War and U.S. Blockade Squeezing Supply
+    summary: The government is struggling to meet a shortfall in fuel and is wary that higher prices at the pump could stir unrest.
+    link: https://www.nytimes.com/2026/08/30/world/middleeast/iran-fuel-supplies-blockade.html
+    source: NYT > World News
+    time: 08-30 18:12
+    title_zh: 伊朗天然气排长队显示战争和美国封锁挤压供应
+    summary_zh: 政府正在努力解决燃料短缺问题，并担心加油站价格上涨可能会引发骚乱。
+  - title: 'The home front: How Israel, Iran, and US leaders have been hit by the war'
+    summary: Six months into the US-Israel war on Iran, the governments in the three countries are fighting political wars at home.
+    link: https://www.aljazeera.com/news/2026/8/30/the-home-front-how-israel-iran-and-us-leaders-have-been-hit-by-the-war?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-30 17:32
+    title_zh: 后方：以色列、伊朗和美国领导人如何受到战争的打击
+    summary_zh: 美以对伊朗战争已持续六个月，三国政府正在国内打政治战争。
   - title: Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil
     summary: US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.
     link: https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss
@@ -538,36 +566,22 @@ topics:
     time: 08-25 05:35
     title_zh: 民意调查显示，特朗普支持率创历史新低，美国公众对伊朗战争的支持率下降
     summary_zh: 共和党支持率下降、天然气价格上涨以及对长期冲突的担忧导致对伊朗战争的支持率下降。
-  - title: Iran Pledges to Defy Trump’s Economic Sanctions
-    summary: Analysts say Tehran could intensify the dispute militarily after the United States announced new efforts to squeeze Iran’s economy. One Iran…
-    link: https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html
-    source: NYT > World News
-    time: 08-25 05:12
-    title_zh: 伊朗承诺无视特朗普的经济制裁
-    summary_zh: 分析人士表示，在美国宣布采取新措施挤压伊朗经济后，德黑兰可能会在军事上加剧争端。一个伊朗.
-  - title: A New Effort to Punish Iran
-    summary: The Trump administration says it will try to cut the country off from the global economy by targeting its trading partners.
-    link: https://www.nytimes.com/2026/08/24/world/iran-sanctions-threat-economy-ukraine.html
-    source: NYT > World News
-    time: 08-25 04:48
-    title_zh: 惩罚伊朗的新努力
-    summary_zh: 特朗普政府表示，将试图通过针对其贸易伙伴来切断该国与全球经济的联系。
-  - title: 'Video: Iran reacts to US ‘economic D-Day’ sanctions'
-    summary: Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.
-    link: https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-25 04:48
-    title_zh: 视频：伊朗对美国“诺曼底登陆”经济制裁的反应
-    summary_zh: 伊朗经济部长阿里·马达尼-扎德对美国宣布的新经济压力运动做出了回应。
-  - title: Yemen’s Houthis report attack on Saudi ship
-    summary: Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.
-    link: https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-25 03:44
-    title_zh: 也门胡塞武装报告袭击沙特船只
-    summary_zh: 沙特航运公司Bahri证实其船只遭到袭击，所有船员都安全。
 - name: 货币政策
   items:
+  - title: Tearful Roger Federer inducted into Tennis Hall of Fame
+    summary: '''I''m still writing my love letter to tennis,'' Swiss legend says as he is applauded by former tennis rivals and friends.'
+    link: https://www.aljazeera.com/sports/2026/8/30/tearful-roger-federer-inducted-into-tennis-hall-of-fame?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-30 18:18
+    title_zh: 泪流满面的罗杰·费德勒入选网球名人堂
+    summary_zh: “我仍在写写给网球的情书，”瑞士传奇人物说道，他受到了前网球对手和朋友的掌声。
+  - title: Far Right Is Poised to Win in a German State, but Fight Over Power Won’t End There
+    summary: State and federal leaders are trying to avoid sharing sensitive intelligence with the Alternative for Germany should it take power in a stat…
+    link: https://www.nytimes.com/2026/08/30/world/europe/germany-afd-saxony-anhalt.html
+    source: NYT > World News
+    time: 08-30 17:00
+    title_zh: 极右翼有望在德国获胜，但权力之争不会就此结束
+    summary_zh: 如果德国另类选择党上台，州和联邦领导人正试图避免与其分享敏感情报.
   - title: Expedia Faces Off With Cuban Families Over Land Seized Decades Ago
     summary: A trial involving claims against the travel company has opened in federal court. Dozens of such lawsuits have been filed since President Tru…
     link: https://www.nytimes.com/2026/08/30/world/americas/cuba-expedia-lawsuit.html
