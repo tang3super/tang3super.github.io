@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-30'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-30 09:14
+last_updated: 2026-08-30 14:42
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil
+    summary: US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.
+    link: https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-30 13:09
+    title_zh: 绘制伊朗战争对海湾能源的打击-以及石油的下一步发展
+    summary_zh: 美国能源公司从油价上涨中获利数十亿美元，但它们在该地区的资产仍面临风险。
   - title: 'Iran war live: Tehran in no rush to reopen Hormuz; settlers besiege Qusra'
     summary: Deputy foreign minister says Iranian forces have 'full oversight' of movements in the strait.
     link: https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss
@@ -559,15 +566,15 @@ topics:
     time: 08-25 03:44
     title_zh: 也门胡塞武装报告袭击沙特船只
     summary_zh: 沙特航运公司Bahri证实其船只遭到袭击，所有船员都安全。
-  - title: Trump’s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say
-    summary: Trump’s stock trading could face heightened congressional scrutiny if Democrats retake either chamber in the midterms.
-    link: https://www.cnbc.com/2026/08/24/trump-oil-gas-stocks-iran-war-investments-democrats.html
-    source: US Top News and Analysis
-    time: 08-25 02:34
-    title_zh: 国会民主党人称，伊朗战争期间特朗普的石油和天然气股票上涨至1550万美元
-    summary_zh: 如果民主党在中期选举中重新夺回任何一个议院，特朗普的股票交易可能会面临国会的严格审查。
 - name: 货币政策
   items:
+  - title: Expedia Faces Off With Cuban Families Over Land Seized Decades Ago
+    summary: A trial involving claims against the travel company has opened in federal court. Dozens of such lawsuits have been filed since President Tru…
+    link: https://www.nytimes.com/2026/08/30/world/americas/cuba-expedia-lawsuit.html
+    source: NYT > World News
+    time: 08-30 12:01
+    title_zh: Expedia因数十年前被没收土地问题与古巴家庭对峙
+    summary_zh: 联邦法院已开始审理针对该旅游公司的索赔。自特鲁总统以来，已提起数十起此类诉讼.
   - title: US judge rules against Trump’s effort to deport pro-Palestinian students
     summary: A federal judge criticised the Trump government for attempting to infringe upon foreign students' rights to free speech.
     link: https://www.aljazeera.com/news/2026/8/29/us-judge-rules-against-trumps-effort-to-deport-pro-palestinian-students?traffic_source=rss
