@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-08-30'
 summary: 2026年第35周监控
 week_label: 2026年第35周监控
-last_updated: 2026-08-30 07:11
+last_updated: 2026-08-30 09:14
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran war live: Tehran in no rush to reopen Hormuz; settlers besiege Qusra'
+    summary: Deputy foreign minister says Iranian forces have 'full oversight' of movements in the strait.
+    link: https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-30 08:00
+    title_zh: 伊朗战争现场：德黑兰不急于重新开放霍尔木兹;定居者围攻Qusra
+    summary_zh: 外交部副部长表示，伊朗军队“全面监督”该海峡的动向。
   - title: Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar
     summary: Iran's president says sanctions are hitting imports and exports, as its supreme leader urges less reliance on the U.S. dollar.
     link: https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html
@@ -559,13 +566,6 @@ topics:
     time: 08-25 02:34
     title_zh: 国会民主党人称，伊朗战争期间特朗普的石油和天然气股票上涨至1550万美元
     summary_zh: 如果民主党在中期选举中重新夺回任何一个议院，特朗普的股票交易可能会面临国会的严格审查。
-  - title: Trump administration announces global economic war on Iran
-    summary: The US says it is targeting all of Iran’s sources of revenue, including oil.
-    link: https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-25 01:53
-    title_zh: 特朗普政府宣布对伊朗发动全球经济战
-    summary_zh: 美国表示，它的目标是伊朗的所有收入来源，包括石油。
 - name: 货币政策
   items:
   - title: US judge rules against Trump’s effort to deport pro-Palestinian students
