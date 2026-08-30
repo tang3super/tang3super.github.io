@@ -5,9 +5,25 @@ title: 新闻监控
 date: '2026-08-31'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-08-31 03:27
+last_updated: 2026-08-31 05:58
 refresh_note: 每 5 分钟自动刷新
 topics:
+- name: 地缘政治
+  items:
+  - title: U.S. strikes Iranian rocket launchers near Strait of Hormuz
+    summary: The last major U.S. strikes on Iran were carried out in late July.
+    link: https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html
+    source: US Top News and Analysis
+    time: 08-31 05:32
+    title_zh: 美国袭击霍尔木兹海峡附近的伊朗火箭发射器
+    summary_zh: 美国对伊朗的最后一次大规模打击是在7月下旬进行的。
+  - title: US strikes Iran’s Larak Island in first attack in weeks
+    summary: IRGC says attack in southern Iran killed and injured several soldiers.
+    link: https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-31 04:15
+    title_zh: 美国几周来首次袭击伊朗拉拉克岛
+    summary_zh: 伊斯兰革命卫队说，伊朗南部的袭击造成几名士兵死亡和受伤。
 - name: 货币政策
   items:
   - title: Trump-promoted Freedom Fuel stations sold gas a distributor says went unpaid for
