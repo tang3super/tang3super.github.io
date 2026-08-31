@@ -2,14 +2,63 @@
 layout: news-digest
 permalink: /macro-trade/news-digest/
 title: 新闻监控
-date: '2026-08-31'
+date: '2026-09-01'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-08-31 19:49
+last_updated: 2026-09-01 02:11
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up
+    summary: The expectation had been for falling rates this year, but the war with Iran and its resulting rise in oil prices upended that.
+    link: https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html
+    source: US Top News and Analysis
+    time: 09-01 01:56
+    title_zh: 抵押贷款利率飙升至2025年6月以来的最高水平，新的中东袭击推动油价上涨
+    summary_zh: 人们原本预计今年利率会下降，但与伊朗的战争及其导致的油价上涨颠覆了这一点。
+  - title: 'War on Iran: US bombs Iran'
+    summary: 'War on Iran: US bombs Iran'
+    link: https://www.aljazeera.com/video/newsfeed/2026/8/31/war-on-iran-us-bombs-iran?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-01 01:22
+    title_zh: 伊朗战争：美国轰炸伊朗
+    summary_zh: 伊朗战争：美国轰炸伊朗
+  - title: Vance says Trump ‘sending a message’ to Iran with AI-generated video
+    summary: Video depicting Kharg Island being attacked is later followed by more warnings from President Trump.
+    link: https://www.aljazeera.com/economy/2026/8/31/vance-says-trump-sending-a-message-to-iran-with-ai-generated-video?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-01 01:11
+    title_zh: 万斯称特朗普通过人工智能生成的视频向伊朗“发送信息”
+    summary_zh: 描绘哈格岛遭到袭击的视频随后特朗普总统发出了更多警告。
+  - title: Iran could face economic collapse in months, US Treasury’s Bessent warns
+    summary: Treasury Secretary Scott Bessent weighs in on the US's economic pressure campaign at a meeting of G20 finance ministers.
+    link: https://www.aljazeera.com/economy/2026/8/31/iran-could-face-economic-collapse-in-months-us-treasurys-bessent-warns?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-01 01:04
+    title_zh: 美国财政部贝森特警告称，伊朗可能在几个月内面临经济崩溃
+    summary_zh: 财政部长斯科特·贝森特在二十国集团财长会议上就美国的经济压力运动发表了看法。
+  - title: Trump says Iran is ‘dead’, vows to respond after renewed clashes
+    summary: US president promises to hit Iran and calls for the country's leaders to be prosecuted for killing protesters.
+    link: https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-31 23:11
+    title_zh: 特朗普称伊朗“已死”，誓言在新一轮冲突后做出回应
+    summary_zh: 美国总统承诺打击伊朗，并呼吁起诉该国领导人杀害抗议者。
+  - title: Why has Greece signed a $3.5bn missile deal with Israel?
+    summary: Analysts say Greece is concerned about threats posed by the US-Israel war on Iran and Turkiye's growing capabilities.
+    link: https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-31 22:57
+    title_zh: 希腊为何与以色列签署价值35亿美元的导弹协议？
+    summary_zh: 分析人士表示，希腊对美以战争对伊朗以及土耳其不断增强的能力构成的威胁感到担忧。
+  - title: Brent jumps 3% to above $90 after flare-up in U.S.-Iran hostilities
+    summary: Oil prices moved higher Monday, after the U.S. struck Iranian targets for the first time in weeks.
+    link: https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html
+    source: US Top News and Analysis
+    time: 08-31 20:33
+    title_zh: 美国油价爆发后，布伦特原油价格上涨3%，至90美元上方伊朗敌对行动
+    summary_zh: 油价周一走高，此前美国数周来首次打击伊朗目标。
   - title: Why Larak Island Is Strategically Important for Iran
     summary: The roughly 30-square-mile island serves as a foothold for Iran’s military to advance its control over shipping through the Strait of Hormuz…
     link: https://www.nytimes.com/2026/08/31/world/middleeast/larak-island-iran-us-strikes.html
@@ -71,6 +120,13 @@ topics:
     time: 08-31 17:09
     title_zh: G20财长齐聚美国，伊朗战争影响全球经济
     summary_zh: 预计会议将重点讨论伊朗战争造成的持续经济冲击，伊朗战争推高了全球油价。
+  - title: U.S.-Iran escalation shows Washington's frustration with slow-moving sanctions
+    summary: Renewed hostilities reopen the question of whether the conflict is grinding toward a settlement or further escalation.
+    link: https://www.cnbc.com/2026/08/31/us-trump-hormuz-iran-kharg-larak-oil-analysts-sanctions-.html
+    source: US Top News and Analysis
+    time: 08-31 14:59
+    title_zh: 美国-伊朗局势升级表明华盛顿对缓慢制裁的不满
+    summary_zh: 重新爆发的敌对行动重新提出了一个问题，即冲突是在朝着解决的方向发展，还是在进一步升级。
   - title: Iran targets Jordan after first US attack in a month
     summary: The US has launched its first strikes on Iran in a month, hitting sites on Larak Island. Iran hit back targeting bases h
     link: https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss
@@ -108,6 +164,20 @@ topics:
     summary_zh: 伊斯兰革命卫队说，伊朗南部的袭击造成几名士兵死亡和受伤。
 - name: 货币政策
   items:
+  - title: American Airlines announces Trump Accounts matching program
+    summary: To help fund Trump Accounts, American Airlines said it will match the federal $1,000 contribution for employees' children.
+    link: https://www.cnbc.com/2026/08/31/trump-accounts-american-airlines-matching-program.html
+    source: US Top News and Analysis
+    time: 09-01 01:19
+    title_zh: 美国航空宣布特朗普账户匹配计划
+    summary_zh: 为了帮助资助特朗普账户，美国航空表示将与联邦政府为员工子女提供的1，000美元捐款相匹配。
+  - title: Ukrainian Drone Mastermind, Fired by Kyiv, Will Advise Italy’s Defense Chief
+    summary: The appointment of Mykhailo Fedorov, a Ukrainian former defense minister, showed how other militaries are racing to adapt to battlefield cha…
+    link: https://www.nytimes.com/2026/08/31/world/europe/italy-ukraine-fedorov-adviser.html
+    source: NYT > World News
+    time: 09-01 00:33
+    title_zh: 被基辅解雇的乌克兰无人机策划者将为意大利国防部长提供建议
+    summary_zh: 乌克兰前国防部长米哈伊洛·费多罗夫的任命显示了其他军队如何竞相适应战场冲突.
   - title: 'Jackson Hole analyst roundup: Warsh''s speech sends hike chances higher, may put Fed `at odds'' with Treasury'
     summary: Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting i…
     link: https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html
