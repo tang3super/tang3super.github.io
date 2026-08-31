@@ -5,11 +5,72 @@ title: 新闻监控
 date: '2026-08-31'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-08-31 13:37
+last_updated: 2026-08-31 19:49
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Why Larak Island Is Strategically Important for Iran
+    summary: The roughly 30-square-mile island serves as a foothold for Iran’s military to advance its control over shipping through the Strait of Hormuz…
+    link: https://www.nytimes.com/2026/08/31/world/middleeast/larak-island-iran-us-strikes.html
+    source: NYT > World News
+    time: 08-31 19:38
+    title_zh: 为什么拉拉克岛对伊朗具有战略重要性
+    summary_zh: 这个面积约30平方英里的岛屿是伊朗军队加强对霍尔木兹海峡航运控制的立足点..
+  - title: Wartime Presidents of Russia and Iran Rally With Chinese and Indian Leaders
+    summary: The two-day summit of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.
+    link: https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html
+    source: NYT > World News
+    time: 08-31 19:31
+    title_zh: 俄罗斯和伊朗战时总统与中国和印度领导人举行集会
+    summary_zh: 在吉尔吉斯斯坦举行的为期两天的上海合作组织十国峰会显示了美国经济战的局限性。
+  - title: UAE intercepts drone after US and Iran exchange attacks
+    summary: The UAE says it intercepted a drone coming from Iran and rejected 'false' reports of an attack on its Al Menhad airbase.
+    link: https://www.aljazeera.com/news/2026/8/31/uae-intercepts-drone-after-us-and-iran-exchange-attacks?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-31 19:25
+    title_zh: 美国和伊朗交火后阿联酋拦截无人机
+    summary_zh: 阿联酋表示，它拦截了一架来自伊朗的无人机，并否认了有关其门哈德空军基地遭到袭击的“虚假”报道。
+  - title: 'Premarket movers: Tenax, Snap rise; Miniso slides amid Iran tensions'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/premarket-movers-tenax-snap-rise-miniso-slides-amid-iran-tensions-4882540
+    source: Stock Market News
+    time: 08-31 19:07
+    title_zh: 上市前推动者：Tenax、Snap上涨; Miniso因伊朗紧张局势下滑
+  - title: The looming failure of Operation Economic Outcast
+    summary: The latest package of US sanctions on Iran is unlikely to achieve Washington’s objectives.
+    link: https://www.aljazeera.com/opinions/2026/8/31/the-looming-failure-of-operation-economic-outcast?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-31 18:18
+    title_zh: 经济弃儿行动即将失败
+    summary_zh: 美国对伊朗的最新制裁方案不太可能实现华盛顿的目标。
+  - title: U.S. and Iran Exchange Strikes Overnight After Monthlong Calm
+    summary: The renewed attacks were the latest sign that the war that began six months ago appears far from over.
+    link: https://www.nytimes.com/2026/08/31/world/middleeast/us-iran-uae-jordan-attacks.html
+    source: NYT > World News
+    time: 08-31 18:16
+    title_zh: 美国和伊朗在经过一个月的平静后隔夜发生交易
+    summary_zh: 新的袭击是六个月前开始的战争似乎远未结束的最新迹象。
+  - title: Bitcoin steadies near $79k despite Iran escalation, rate jitters
+    summary: ''
+    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-78k-as-rate-jitters-iran-escalation-weigh-4882178
+    source: Cryptocurrency News
+    time: 08-31 17:29
+    title_zh: 尽管伊朗局势升级、利率动荡，比特币仍接近7.9万美元
+  - title: 'Iran attacks Jordan, UAE after US bombs Larak Island: What’s the latest?'
+    summary: The retaliatory attacks came after the US targeted two Iranian launchers on Larak Island in the Strait of Hormuz.
+    link: https://www.aljazeera.com/news/2026/8/31/iran-attacks-jordan-uae-after-us-bombs-larak-island-whats-the-latest?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 08-31 17:19
+    title_zh: 美国轰炸拉拉克岛后伊朗袭击阿联酋约旦：最新消息是什么？
+    summary_zh: 此次报复性袭击是在美国瞄准霍尔木兹海峡拉拉克岛的两个伊朗发射器之后发生的。
+  - title: G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy
+    summary: The meeting is expected to focus on the ongoing economic shock from the war in Iran, which has driven up oil prices globally.
+    link: https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html
+    source: NYT > World News
+    time: 08-31 17:09
+    title_zh: G20财长齐聚美国，伊朗战争影响全球经济
+    summary_zh: 预计会议将重点讨论伊朗战争造成的持续经济冲击，伊朗战争推高了全球油价。
   - title: Iran targets Jordan after first US attack in a month
     summary: The US has launched its first strikes on Iran in a month, hitting sites on Larak Island. Iran hit back targeting bases h
     link: https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss
