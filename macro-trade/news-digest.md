@@ -5,11 +5,24 @@ title: 新闻监控
 date: '2026-09-01'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-01 02:11
+last_updated: 2026-09-01 06:49
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump vows to hit Iran hard after first exchanges of fire in a month
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/trump-posts-ai-video-of-irans-kharg-in-smithereens-no-evidence-of-attack-4882150
+    source: Stock Market News
+    time: 09-01 05:54
+    title_zh: 特朗普在一个月内首次交火后发誓要严厉打击伊朗
+  - title: Your Iran Questions, Answered
+    summary: Today, we hand the mic over to reporters covering diplomacy, the White House, the Middle East and more.
+    link: https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html
+    source: NYT > World News
+    time: 09-01 04:56
+    title_zh: 你的伊朗问题，焦虑
+    summary_zh: 今天，我们将麦克风交给报道外交、白宫、中东等地的记者。
   - title: Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up
     summary: The expectation had been for falling rates this year, but the war with Iran and its resulting rise in oil prices upended that.
     link: https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html
@@ -52,6 +65,13 @@ topics:
     time: 08-31 22:57
     title_zh: 希腊为何与以色列签署价值35亿美元的导弹协议？
     summary_zh: 分析人士表示，希腊对美以战争对伊朗以及土耳其不断增强的能力构成的威胁感到担忧。
+  - title: Why Larak Island Is Strategically Important for Iran
+    summary: The roughly 30-square-mile island serves as a foothold for Iran’s military to advance its control over shipping through the Strait of Hormuz…
+    link: https://www.nytimes.com/2026/08/31/world/middleeast/larak-island-iran-us-strikes.html
+    source: NYT > World News
+    time: 08-31 22:26
+    title_zh: 为什么拉拉克岛对伊朗具有战略重要性
+    summary_zh: 这个面积约30平方英里的岛屿是伊朗军队加强对霍尔木兹海峡航运控制的立足点..
   - title: Brent jumps 3% to above $90 after flare-up in U.S.-Iran hostilities
     summary: Oil prices moved higher Monday, after the U.S. struck Iranian targets for the first time in weeks.
     link: https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html
@@ -59,13 +79,6 @@ topics:
     time: 08-31 20:33
     title_zh: 美国油价爆发后，布伦特原油价格上涨3%，至90美元上方伊朗敌对行动
     summary_zh: 油价周一走高，此前美国数周来首次打击伊朗目标。
-  - title: Why Larak Island Is Strategically Important for Iran
-    summary: The roughly 30-square-mile island serves as a foothold for Iran’s military to advance its control over shipping through the Strait of Hormuz…
-    link: https://www.nytimes.com/2026/08/31/world/middleeast/larak-island-iran-us-strikes.html
-    source: NYT > World News
-    time: 08-31 19:38
-    title_zh: 为什么拉拉克岛对伊朗具有战略重要性
-    summary_zh: 这个面积约30平方英里的岛屿是伊朗军队加强对霍尔木兹海峡航运控制的立足点..
   - title: Wartime Presidents of Russia and Iran Rally With Chinese and Indian Leaders
     summary: The two-day summit of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.
     link: https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html
@@ -164,6 +177,20 @@ topics:
     summary_zh: 伊斯兰革命卫队说，伊朗南部的袭击造成几名士兵死亡和受伤。
 - name: 货币政策
   items:
+  - title: Trump says U.S. growth could hit 20%. It’s happened only once since WWII
+    summary: Trump argued rapid growth should not prompt Fed rate hikes, even as inflation remains above the central bank’s 2% target.
+    link: https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html
+    source: US Top News and Analysis
+    time: 09-01 04:50
+    title_zh: 特朗普称美国经济增长可能达到20%。二战以来只发生过一次
+    summary_zh: 特朗普认为，尽管通胀仍高于央行2%的目标，但快速增长不应促使美联储加息。
+  - title: Markets see Warsh endorsing a rate hike in September. Not everyone is convinced
+    summary: The path toward the move still looks cluttered.
+    link: https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html
+    source: US Top News and Analysis
+    time: 09-01 03:38
+    title_zh: 市场认为沃什支持9月份加息。并非所有人都相信
+    summary_zh: 搬迁之路看起来仍然混乱。
   - title: American Airlines announces Trump Accounts matching program
     summary: To help fund Trump Accounts, American Airlines said it will match the federal $1,000 contribution for employees' children.
     link: https://www.cnbc.com/2026/08/31/trump-accounts-american-airlines-matching-program.html
