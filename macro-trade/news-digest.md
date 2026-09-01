@@ -5,11 +5,24 @@ title: 新闻监控
 date: '2026-09-01'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-01 06:49
+last_updated: 2026-09-01 09:26
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: U.S. stock futures steady as markets digest rate risks, Iran escalation
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-markets-digest-rate-risks-iran-escalation-4883399
+    source: Stock Market News
+    time: 09-01 08:30
+    title_zh: 市场消化利率风险，伊朗局势升级，美国股市期货企稳
+  - title: 'Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month'
+    summary: President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.
+    link: https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-01 08:00
+    title_zh: 伊朗战争直播：特朗普誓言在数月来首次冲突后将“严厉”打击伊朗
+    summary_zh: 唐纳德·特朗普总统表示，美国将对伊朗对其驻约旦人员的袭击做出回应。
   - title: Trump vows to hit Iran hard after first exchanges of fire in a month
     summary: ''
     link: https://www.investing.com/news/stock-market-news/trump-posts-ai-video-of-irans-kharg-in-smithereens-no-evidence-of-attack-4882150
@@ -235,6 +248,18 @@ topics:
     summary_zh: 特朗普领导下的联邦通信委员会试图针对传播“假”新闻的新闻媒体。
 - name: AI基建
   items:
+  - title: Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/anthropic-signs-35-billion-cloud-deal-with-nvidiabacked-lambda-source-says-4883414
+    source: Stock Market News
+    time: 09-01 08:54
+    title_zh: 消息人士称，Anthropic与Nvidia支持的Lambda签署了350亿美元的云协议
+  - title: Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, WSJ reports
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/anthropic-signs-35-billion-cloud-deal-with-nvidiabacked-lambda-wsj-reports-93CH-4883381
+    source: Stock Market News
+    time: 09-01 07:42
+    title_zh: 据《华尔街日报》报道，Anthropic与英伟达支持的Lambda签署了350亿美元的云协议
   - title: 'SK Hynix consolidates above Ichimoku cloud: Live levels'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-krw-range-live-breakout-levels-93CH-4882096
