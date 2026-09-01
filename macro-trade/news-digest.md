@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-09-02'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-02 05:51
+last_updated: 2026-09-02 07:35
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Some Allies Are Pushing Back on Trump’s Economic Approach
+    summary: At a summit meant to showcase President Trump’s economic policies as a model for the world, Europeans complained about tariffs and the war w…
+    link: https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html
+    source: NYT > World News
+    time: 09-02 06:45
+    title_zh: 一些盟友正在反击特朗普的经济方针
+    summary_zh: 在一次旨在展示特朗普总统经济政策作为世界典范的峰会上，欧洲人抱怨关税和战争.
   - title: Urgent need for access to Iranian sites, cautions UN nuclear watchdog
     summary: The IAEA said lack of information and access to facilities to verify Iran's nuclear material is a proliferation concern.
     link: https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss
@@ -343,6 +350,13 @@ topics:
     summary_zh: 伊斯兰革命卫队说，伊朗南部的袭击造成几名士兵死亡和受伤。
 - name: 货币政策
   items:
+  - title: US House passes funding bill to avert government shutdown ahead of midterms
+    summary: The temporary measure gives Congress until December to fully fund the federal government for fiscal year 2027.
+    link: https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 06:44
+    title_zh: 美国众议院通过拨款法案以避免中期选举前政府关门
+    summary_zh: 这项临时措施要求国会在12月之前为联邦政府提供2027财年的全额资金。
   - title: Fed Governor Barr says he'll support rate hike if inflation doesn't ease
     summary: The policymaker said he's concerned about "broader price pressures taking hold" as inflation has prevailed above the Fed's 2% target.
     link: https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html
@@ -408,6 +422,12 @@ topics:
     summary_zh: 特朗普领导下的联邦通信委员会试图针对传播“假”新闻的新闻媒体。
 - name: AI基建
   items:
+  - title: 'Analysis-Not just Nvidia: these power and cooling firms are riding the trillion-dollar data centre boom'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/analysisnot-just-nvidia-these-power-and-cooling-firms-are-riding-the-trilliondollar-data-centre-boom-4884721
+    source: Stock Market News
+    time: 09-02 07:13
+    title_zh: 分析-不仅仅是Nvidia：这些电力和冷却公司正在利用数万亿美元的数据中心繁荣
   - title: OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions
     summary: Last-mile delivery company OneRail is launching a new platform with Nvidia to use AI to help retailers make faster and more efficient delive…
     link: https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html
