@@ -2,14 +2,49 @@
 layout: news-digest
 permalink: /macro-trade/news-digest/
 title: 新闻监控
-date: '2026-09-01'
+date: '2026-09-02'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-01 19:57
+last_updated: 2026-09-02 00:03
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz
+    summary: Qatar accuses Israel of exploiting regional conflicts to impose new realities in Palestine, Lebanon, and Syria.
+    link: https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-01 23:29
+    title_zh: 卡塔尔称正在努力结束伊朗与美国的战争并重新开放霍尔木兹海峡
+    summary_zh: 卡塔尔指责以色列利用地区冲突在巴勒斯坦、黎巴嫩和叙利亚强加新的现实。
+  - title: 'SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit'
+    summary: The SCO started in 1996 and accounts for 43 percent of the world’s population and 23 percent of the global economy.
+    link: https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-01 21:32
+    title_zh: 上合组织猛烈抨击对伊朗的袭击和制裁：比什凯克峰会的关键要点
+    summary_zh: 上合组织成立于1996年，占世界人口的43%和全球经济的23%。
+  - title: 'Video: SCO summit leaders meet in aftermath of US war on Iran'
+    summary: Leaders are meeting in Kyrgyzstan for the annual Shanghai Cooperation Organisation Summit.
+    link: https://www.aljazeera.com/video/newsfeed/2026/9/1/video-sco-summit-leaders-meet-in-aftermath-of-us-war-on-iran?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-01 21:27
+    title_zh: 视频：美国对伊朗战争后上合组织峰会领导人会面
+    summary_zh: 各国领导人正在吉尔吉斯斯坦参加一年一度的上海合作组织峰会。
+  - title: Why China will not comply with US sanctions on Iran
+    summary: Beijing will not comply with US measures because it can and because it’s in its interest not to.
+    link: https://www.aljazeera.com/opinions/2026/9/1/why-china-will-not-comply-with-us-sanctions-on-iran?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-01 21:08
+    title_zh: 为什么中国不会遵守美国对伊朗的制裁
+    summary_zh: 北京不会遵守美国的措施，因为它可以遵守，而且不遵守符合它的利益。
+  - title: Iran urges US to honour commitments under MoU
+    summary: Tehran calls for Washington to respect terms of MoU after attacks send tensions soaring in the Strait of Hormuz.
+    link: https://www.aljazeera.com/news/2026/9/1/iran-urges-us-to-honour-commitments-under-mou?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-01 21:01
+    title_zh: 伊朗敦促美国履行谅解备忘录下的承诺
+    summary_zh: 袭击事件导致霍尔木兹海峡紧张局势加剧后，德黑兰呼吁华盛顿尊重谅解备忘录的条款。
   - title: '‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?'
     summary: Trump signals harsher response as US-Iran hostilities escalate, raising fears of prolonged conflict in the Gulf region.
     link: https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work?traffic_source=rss
@@ -259,6 +294,13 @@ topics:
     summary_zh: 伊斯兰革命卫队说，伊朗南部的袭击造成几名士兵死亡和受伤。
 - name: 货币政策
   items:
+  - title: Fed Governor Barr says he'll support rate hike if inflation doesn't ease
+    summary: The policymaker said he's concerned about "broader price pressures taking hold" as inflation has prevailed above the Fed's 2% target.
+    link: https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html
+    source: US Top News and Analysis
+    time: 09-01 22:01
+    title_zh: 美联储理事巴尔表示，如果通胀不缓解，他将支持加息
+    summary_zh: 这位政策制定者表示，由于通胀率已高于美联储2%的目标，他担心“更广泛的价格压力将持续存在”。
   - title: Trump says U.S. growth could hit 20%. It’s happened only once since WWII
     summary: Trump argued rapid growth should not prompt Fed rate hikes, even as inflation remains above the central bank’s 2% target.
     link: https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html
