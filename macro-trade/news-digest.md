@@ -5,11 +5,66 @@ title: 新闻监控
 date: '2026-09-01'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-01 14:30
+last_updated: 2026-09-01 19:57
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: '‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?'
+    summary: Trump signals harsher response as US-Iran hostilities escalate, raising fears of prolonged conflict in the Gulf region.
+    link: https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-01 19:38
+    title_zh: “严厉打击他们”：特朗普是否还有另一个“新”伊朗战略，它能奏效吗？
+    summary_zh: 随着美伊敌对行动升级，特朗普发出更严厉的回应，引发了对海湾地区长期冲突的担忧。
+  - title: Euro zone inflation is back above 3%. Higher interest rates are likely to follow
+    summary: The European Central Bank is seen hiking rates in September as the Iran war raises energy costs in the region.
+    link: https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html
+    source: US Top News and Analysis
+    time: 09-01 18:50
+    title_zh: 欧元区通胀率重回3%以上。更高的利率可能会随之而来
+    summary_zh: 由于伊朗战争提高了该地区的能源成本，欧洲央行预计将在9月份加息。
+  - title: 'Abroad and at odds: How the war has divided Iranians in the diaspora'
+    summary: Many Iranians in the diaspora remain caught in the paradox of opposing the war and the government in Tehran.
+    link: https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-01 18:27
+    title_zh: 国外和分歧：战争如何分裂散居国外的伊朗人
+    summary_zh: 许多散居国外的伊朗人仍然陷入反对战争和德黑兰政府的矛盾之中。
+  - title: China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
+    summary: As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen v…
+    link: https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html
+    source: NYT > World News
+    time: 09-01 17:56
+    title_zh: 中国还是美国？两场会议提供了全球权力的相互竞争的展示。
+    summary_zh: 当习近平与俄罗斯和伊朗领导人齐聚一堂时，欧洲在G20峰会上挑战特朗普政府，提出了分屏电视……
+  - title: Bitcoin steady near $78k as Strategy resumes buying; rate, Iran jitters persist
+    summary: ''
+    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-79k-as-strategy-resumes-buying-rate-iran-jitters-persist-4883529
+    source: Cryptocurrency News
+    time: 09-01 17:23
+    title_zh: 随着Strategy恢复购买，比特币稳定在7.8万美元附近;利率、伊朗的不安情绪持续存在
+  - title: U.S. Sanctions on Iran Cut Off Students from Tests Needed for Study Abroad
+    summary: The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster tie…
+    link: https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html
+    source: NYT > World News
+    time: 09-01 17:03
+    title_zh: 美国对伊朗的制裁导致学生无法参加出国留学所需的考试
+    summary_zh: 最新措施迫使英语水平和研究生考试取消，孤立了许多最渴望培养关系的伊朗人..
+  - title: Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies
+    summary: A price cap increase is on the way, the latest blow to people already struggling with rising costs.
+    link: https://www.aljazeera.com/news/2026/9/1/uk-energy-price-rise-britons-face-risk-premium-for-supply-amid-iran-war?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-01 16:14
+    title_zh: 随着美以对伊朗的战争加剧，英国人面临能源“风险溢价”
+    summary_zh: 价格上限即将提高，这是对已经在成本上涨中苦苦挣扎的人们的最新打击。
+  - title: 'Duolingo D-Day: Iranians question latest US sanctions targeting education'
+    summary: Many Iranians inside the country feel they are being unjustly erased from the international community.
+    link: https://www.aljazeera.com/news/2026/9/1/duolingo-d-day-iranians-question-latest-us-sanctions-targeting-education?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-01 15:25
+    title_zh: Duolingo诺曼底登陆日：伊朗人质疑美国针对教育的最新制裁
+    summary_zh: 该国境内的许多伊朗人认为他们被不公正地从国际社会中抹去。
   - title: Oil prices climb as US, Iranian attacks stoke fears of escalation
     summary: After peaking at $94.40 a barrel on August 21, Brent has been trading in the range of $86-$91 since the MoU lapsed.
     link: https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss
@@ -262,6 +317,20 @@ topics:
     summary_zh: 特朗普领导下的联邦通信委员会试图针对传播“假”新闻的新闻媒体。
 - name: AI基建
   items:
+  - title: OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions
+    summary: Last-mile delivery company OneRail is launching a new platform with Nvidia to use AI to help retailers make faster and more efficient delive…
+    link: https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html
+    source: US Top News and Analysis
+    time: 09-01 19:00
+    title_zh: OneRail与Nvidia合作推出人工智能平台，供零售商做出更快的交付决策
+    summary_zh: 最后一英里送货公司OneRail正在与Nvidia合作推出一个新平台，利用人工智能帮助零售商更快、更有效地送货。
+  - title: Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal
+    summary: The two companies will work on integrating Nvidia technology with MediaTek's custom AI chip business as well as other areas such as PCs and…
+    link: https://www.cnbc.com/2026/09/01/nvidia-deal-mediatek-shares.html
+    source: US Top News and Analysis
+    time: 09-01 16:00
+    title_zh: 高通竞争对手联发科在35亿美元Nvidia AI芯片交易后股价上涨10%
+    summary_zh: 两家公司将致力于将Nvidia技术与联发科的定制人工智能芯片业务以及PC和.
   - title: Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says
     summary: ''
     link: https://www.investing.com/news/stock-market-news/anthropic-signs-35-billion-cloud-deal-with-nvidiabacked-lambda-source-says-4883414
