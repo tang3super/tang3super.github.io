@@ -5,11 +5,39 @@ title: 新闻监控
 date: '2026-09-02'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-02 00:03
+last_updated: 2026-09-02 03:21
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom'
+    summary: U.S. Central Command announced new strikes around the Strait of Hormuz following Iranian attacks on ships and U.S. military personnel.
+    link: https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html
+    source: US Top News and Analysis
+    time: 09-02 02:45
+    title_zh: 美国在霍尔木兹海峡新的航运袭击后袭击伊朗：Centcom
+    summary_zh: 在伊朗袭击船只和美国军事人员后，美国中央司令部宣布对霍尔木兹海峡周围进行新的打击。
+  - title: The US military began striking targets in Iran, CENTCOM says
+    summary: The US military said it has begun striking targets in Iran.
+    link: https://www.aljazeera.com/video/newsfeed/2026/9/1/the-us-military-began-striking-targets-in-iran-centcom-says?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 01:39
+    title_zh: 中央司令部称，美军开始打击伊朗目标
+    summary_zh: 美国军方表示，已开始打击伊朗境内的目标。
+  - title: Iran promises to respond to new wave of US strikes despite Trump’s threats
+    summary: Trump says the US attacks were 'large and powerful' and warns that Iran would be hit 'much harder' if it retaliates.
+    link: https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 00:45
+    title_zh: 尽管特朗普威胁，伊朗仍承诺回应美国新一波袭击
+    summary_zh: 特朗普表示，美国的袭击“大规模而强大”，并警告称，如果伊朗进行报复，伊朗将受到“更严重”的打击。
+  - title: Iran and Russia vow to stand against US ‘unilateralism’
+    summary: Iranian President Pezeshkian thanked Putin for Moscow’s support, vowing to resist US 'unilateralism'.
+    link: https://www.aljazeera.com/video/newsfeed/2026/9/1/iran-and-russia-vow-to-stand-against-us?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-01 23:55
+    title_zh: 伊朗和俄罗斯誓言反对美国“单边主义”
+    summary_zh: 伊朗总统佩泽什基安感谢普京的支持，誓言抵制美国的“单边主义”。
   - title: Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz
     summary: Qatar accuses Israel of exploiting regional conflicts to impose new realities in Palestine, Lebanon, and Syria.
     link: https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss
@@ -45,6 +73,13 @@ topics:
     time: 09-01 21:01
     title_zh: 伊朗敦促美国履行谅解备忘录下的承诺
     summary_zh: 袭击事件导致霍尔木兹海峡紧张局势加剧后，德黑兰呼吁华盛顿尊重谅解备忘录的条款。
+  - title: Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fears
+    summary: Bond yields surged across major markets Tuesday as U.S.-Iran hostilities revived energy and inflation risks, with Japan and U.K. yields at m…
+    link: https://www.cnbc.com/2026/09/01/bond-yields-iran-inflation-treasurys-japan-uk.html
+    source: US Top News and Analysis
+    time: 09-01 20:39
+    title_zh: 中东动荡重燃通胀担忧，全球债券收益率飙升至数十年高位
+    summary_zh: 周二，由于美国股市上涨，主要市场债券收益率飙升伊朗敌对行动加剧了能源和通胀风险，日本和英国收益率为m.
   - title: '‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?'
     summary: Trump signals harsher response as US-Iran hostilities escalate, raising fears of prolonged conflict in the Gulf region.
     link: https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work?traffic_source=rss
