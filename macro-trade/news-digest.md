@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-09-02'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-02 03:21
+last_updated: 2026-09-02 05:51
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Urgent need for access to Iranian sites, cautions UN nuclear watchdog
+    summary: The IAEA said lack of information and access to facilities to verify Iran's nuclear material is a proliferation concern.
+    link: https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 05:28
+    title_zh: 联合国核监管机构警告称，迫切需要进入伊朗核设施
+    summary_zh: 国际原子能机构说，缺乏信息和进入设施核实伊朗的核材料是一个扩散问题。
+  - title: Iranian state media announces numerous US strikes on the country
+    summary: Iranian state television has reported numerous strikes on Iranian territory on Tuesday.
+    link: https://www.aljazeera.com/video/newsfeed/2026/9/1/iranian-state-media-announces-numerous-us-strikes-on-the-country?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 04:38
+    title_zh: 伊朗官方媒体宣布美国对该国进行多次袭击
+    summary_zh: 伊朗国家电视台报道称，周二伊朗领土发生了多起袭击事件。
   - title: 'U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom'
     summary: U.S. Central Command announced new strikes around the Strait of Hormuz following Iranian attacks on ships and U.S. military personnel.
     link: https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html
