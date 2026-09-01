@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-09-01'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-01 09:26
+last_updated: 2026-09-01 14:30
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Oil prices climb as US, Iranian attacks stoke fears of escalation
+    summary: After peaking at $94.40 a barrel on August 21, Brent has been trading in the range of $86-$91 since the MoU lapsed.
+    link: https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-01 14:07
+    title_zh: 美国、伊朗袭击引发局势升级担忧，油价攀升
+    summary_zh: 布伦特原油在8月21日达到每桶94.40美元的峰值后，自谅解备忘录失效以来，布伦特原油的交易价格一直在86 - 91美元之间。
+  - title: Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard'
+    summary: Iran launched an attack on two American bases in Jordan on Monday in retaliation for the U.S. attack on its Larak Island.
+    link: https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html
+    source: US Top News and Analysis
+    time: 09-01 10:05
+    title_zh: 油轮在霍尔木兹袭击，引发了对升级的担忧，因为特朗普发誓要“严厉”打击伊朗
+    summary_zh: 伊朗周一对美国在约旦的两个基地发动袭击，以报复美国对其拉拉克岛的袭击。
   - title: U.S. stock futures steady as markets digest rate risks, Iran escalation
     summary: ''
     link: https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-markets-digest-rate-risks-iran-escalation-4883399
