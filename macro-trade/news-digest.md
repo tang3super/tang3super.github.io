@@ -2,14 +2,28 @@
 layout: news-digest
 permalink: /macro-trade/news-digest/
 title: 新闻监控
-date: '2026-09-02'
+date: '2026-09-03'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-02 22:39
+last_updated: 2026-09-03 02:02
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump floats renaming Strait of Hormuz the 'Trump Strait'
+    summary: U.S. Energy Secretary Chris Wright told CNBC that more than 17 million barrels of oil transited the strait on Monday, a new wartime record.
+    link: https://www.cnbc.com/2026/09/02/trump-hormuz-strait-ontario-iran.html
+    source: US Top News and Analysis
+    time: 09-03 00:04
+    title_zh: 特朗普将霍尔木兹海峡更名为“特朗普海峡”
+    summary_zh: 美国能源部长克里斯·赖特（Chris Wright）告诉CNBC，周一有超过1700万桶石油通过该海峡，创下战时新纪录。
+  - title: China’s Xi urges new Middle East security framework during rare Egypt visit
+    summary: Chinese, Egyptian leaders discuss the US-Israel war on Iran, which has prompted regional powers to rethink defence.
+    link: https://www.aljazeera.com/news/2026/9/2/chinas-xi-urges-new-middle-east-security-framework-during-rare-egypt-visit?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 23:42
+    title_zh: 中国习近平在罕见的埃及访问期间敦促建立新的中东安全框架
+    summary_zh: 中国、埃及领导人讨论美以对伊朗的战争，这促使地区大国重新考虑国防。
   - title: Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again
     summary: President Trump called on Iranians to “rise up and fight” on Tuesday as the United States seems increasingly bogged down after six months of…
     link: https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html
