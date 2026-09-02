@@ -5,11 +5,32 @@ title: 新闻监控
 date: '2026-09-03'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-03 02:02
+last_updated: 2026-09-03 04:57
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war
+    summary: Despite renewed fighting with Iran and near daily attacks on ships, Trump says Strait of Hormuz is 'under USA control'.
+    link: https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-03 04:12
+    title_zh: 特朗普建议在伊朗战争期间将霍尔木兹海峡更名为特朗普海峡
+    summary_zh: 尽管与伊朗再次发生战斗，船只几乎每天都受到袭击，特朗普仍表示霍尔木兹海峡“处于美国控制之下”。
+  - title: Trump says US sees ‘everything’ Iran does, threatens further attacks
+    summary: US President Donald Trump has threatened further attacks on Iran and says the military destroyed a mine-laying rocket.
+    link: https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-03 04:04
+    title_zh: 特朗普称美国看到了伊朗所做的“一切”，并威胁要进行进一步袭击
+    summary_zh: 美国总统唐纳德·特朗普威胁要对伊朗进行进一步袭击，并表示军方摧毁了一枚布雷火箭。
+  - title: Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz
+    summary: Regional neighbours condemn attack this week that killed two crew members from the Philippines.
+    link: https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-03 03:16
+    title_zh: 沙特阿拉伯谴责伊朗对霍尔木兹海峡油轮的致命袭击
+    summary_zh: 该地区邻国谴责本周造成两名菲律宾船员死亡的袭击事件。
   - title: Trump floats renaming Strait of Hormuz the 'Trump Strait'
     summary: U.S. Energy Secretary Chris Wright told CNBC that more than 17 million barrels of oil transited the strait on Monday, a new wartime record.
     link: https://www.cnbc.com/2026/09/02/trump-hormuz-strait-ontario-iran.html
@@ -530,6 +551,13 @@ topics:
     summary_zh: 伊斯兰革命卫队说，伊朗南部的袭击造成几名士兵死亡和受伤。
 - name: 货币政策
   items:
+  - title: States now must report undocumented immigrants to DHS or risk federal funding, DOJ says
+    summary: The new DOJ opinion relates to funding states get for Temporary Assistance for Needy Families and the Supplemental Security Income programs.
+    link: https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html
+    source: US Top News and Analysis
+    time: 09-03 02:25
+    title_zh: 司法部表示，各州现在必须向国土安全部报告无证移民，否则将面临联邦资金的风险
+    summary_zh: 司法部的新意见涉及各州为贫困家庭临时援助和补充保障收入计划获得的资金。
   - title: New York Fed's Williams says yield surge due to strong economic prospects
     summary: The central bank policymaker in a CNBC interview did not commit on whether he thinks an interest rate hike is necessary.
     link: https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html
