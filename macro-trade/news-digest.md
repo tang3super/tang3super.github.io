@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-09-03'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-03 04:57
+last_updated: 2026-09-03 06:58
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Republican senator calls on Trump to fire Secretary of Defence Hegseth
+    summary: Senator Thom Tillis accuses Pentagon chief of 'inept mismanagement' as US military is strained by war on Iran.
+    link: https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-03 05:37
+    title_zh: 共和党参议员呼吁特朗普解雇国防部长赫格塞斯
+    summary_zh: 参议员汤姆·蒂利斯指责五角大楼负责人“管理不善”，因为美军因对伊朗战争而感到紧张。
+  - title: Israeli PM says Israel is working to overthrow Iran’s government
+    summary: Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.
+    link: https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-03 05:23
+    title_zh: 以色列总理称以色列正在努力推翻伊朗政府
+    summary_zh: 以色列总理本杰明·内塔尼亚胡周三表示，以色列正在努力推翻伊朗政府。
   - title: Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war
     summary: Despite renewed fighting with Iran and near daily attacks on ships, Trump says Strait of Hormuz is 'under USA control'.
     link: https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss
