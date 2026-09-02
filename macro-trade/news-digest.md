@@ -5,11 +5,52 @@ title: 新闻监控
 date: '2026-09-02'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-02 07:35
+last_updated: 2026-09-02 09:21
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Moment US strikes on Iranian port city hit wedding party
+    summary: Iran says a series of US strikes near the southern Iranian port city of Sirik has killed at least four people.
+    link: https://www.aljazeera.com/video/newsfeed/2026/9/2/moment-us-strikes-on-iranian-port-city-hit-wedding-party?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 08:47
+    title_zh: 美国对伊朗港口城市的罢工打击了婚礼派对
+    summary_zh: 伊朗说，美国在伊朗南部港口城市伊兹密尔附近发动的一系列袭击造成至少4人死亡。
+  - title: U.S. completes fresh strikes on Iran as Mideast tensions flare again
+    summary: U.S. forces completed another wave of strikes against Iran on Tuesday stateside, hitting multiple Islamic Revolutionary Guard Corps sites ac…
+    link: https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html
+    source: US Top News and Analysis
+    time: 09-02 08:44
+    title_zh: 中东紧张局势再次爆发，美国完成对伊朗的新一轮打击
+    summary_zh: 美军周二完成了对伊朗本土的另一波打击，袭击了伊斯兰革命卫队的多个驻地.
+  - title: U.S. futures muted as markets parse rate jitters, more Iran strikes
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/us-futures-muted-as-markets-parse-rate-jitters-more-iran-strikes-4885211
+    source: Stock Market News
+    time: 09-02 08:14
+    title_zh: 随着市场分析利率波动和更多伊朗袭击，美国期货低迷
+  - title: Putin Pledges Increased Strikes in Ukraine and Support for Iran
+    summary: The Russian president promised continued retaliation against the Ukrainians and “full solidarity” with Iran.
+    link: https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html
+    source: NYT > World News
+    time: 09-02 08:00
+    title_zh: 普京承诺加强对乌克兰的打击并支持伊朗
+    summary_zh: 俄罗斯总统承诺继续对乌克兰人进行报复，并“全力声援”伊朗。
+  - title: 'Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan'
+    summary: Tehran pledges 'severe punishment' and retaliation against Washington following a new wave of US attacks.
+    link: https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 08:00
+    title_zh: 伊朗战争直播：美国轰炸伊朗，德黑兰报复海湾邻国约旦
+    summary_zh: 德黑兰承诺在美国新一波袭击后对华盛顿进行“严厉惩罚”和报复。
+  - title: China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says
+    summary: Bessent is leading the Trump administration's plan to choke off Iran's economy by threatening its business partners with secondary sanctions…
+    link: https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html
+    source: US Top News and Analysis
+    time: 09-02 07:52
+    title_zh: 贝森特表示，中国反对G20声明反对“廉价出口”涌入市场
+    summary_zh: 贝森特正在领导特朗普政府通过威胁其商业伙伴实施二级制裁来扼杀伊朗经济的计划。
   - title: Some Allies Are Pushing Back on Trump’s Economic Approach
     summary: At a summit meant to showcase President Trump’s economic policies as a model for the world, Europeans complained about tariffs and the war w…
     link: https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html
@@ -422,6 +463,12 @@ topics:
     summary_zh: 特朗普领导下的联邦通信委员会试图针对传播“假”新闻的新闻媒体。
 - name: AI基建
   items:
+  - title: Nvidia could seal $14 bln Hugging Face deal this week, Bloomberg reports
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-could-seal-14-bln-hugging-face-deal-this-week-bloomberg-reports-4885231
+    source: Stock Market News
+    time: 09-02 08:56
+    title_zh: 据彭博社报道，英伟达本周可能会达成140亿美元的Hugging Face交易
   - title: 'Analysis-Not just Nvidia: these power and cooling firms are riding the trillion-dollar data centre boom'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/analysisnot-just-nvidia-these-power-and-cooling-firms-are-riding-the-trilliondollar-data-centre-boom-4884721
