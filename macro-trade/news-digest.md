@@ -5,11 +5,60 @@ title: 新闻监控
 date: '2026-09-02'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-02 18:31
+last_updated: 2026-09-02 22:39
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again
+    summary: President Trump called on Iranians to “rise up and fight” on Tuesday as the United States seems increasingly bogged down after six months of…
+    link: https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html
+    source: NYT > World News
+    time: 09-02 22:00
+    title_zh: 随着与伊朗的战争再次爆发，特朗普回归熟悉的剧本
+    summary_zh: 特朗普总统周二呼吁伊朗人“站起来战斗”，因为美国在六个月的战争后似乎越来越陷入困境。
+  - title: U.S. and Iran Survey the Damage After a Night of Intense Strikes
+    summary: The American military said its barrage was retaliation against recent attacks on U.S. forces and marine traffic. Iranian officials said a we…
+    link: https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html
+    source: NYT > World News
+    time: 09-02 21:51
+    title_zh: 美国和伊朗调查一夜激烈袭击后造成的损失
+    summary_zh: 美国军方表示，其炮击是对最近针对美军和海上交通的袭击的报复。伊朗官员表示，我们.
+  - title: Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday
+    summary: The Energy Secretary spoke to CNBC's Brian Sullivan in Venezuela Wednesday, after President Donald Trump announced a massive oil deal with C…
+    link: https://www.cnbc.com/2026/09/02/energy-secretary-chris-wright-tells-cnbc-that-more-than-17-million-barrels-of-oil-transited-hormuz-on-monday.html
+    source: US Top News and Analysis
+    time: 09-02 21:42
+    title_zh: 能源部长克里斯·赖特（Chris Wright）告诉CNBC，周一有超过1700万桶石油通过霍尔木兹
+    summary_zh: 在唐纳德·特朗普总统宣布与委内瑞拉达成大规模石油协议后，能源部长周三在委内瑞拉接受了CNBC的布莱恩·沙利文的采访.
+  - title: What is Iran’s Castle Breaker missile, used against US bases?
+    summary: Kheibar Shekan, Iran's medium-range missile, is said to play a pivotal role in escalating US-Israel tensions.
+    link: https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 20:38
+    title_zh: 伊朗针对美国基地的“城堡破碎者”导弹是什么？
+    summary_zh: 据称，伊朗的中程导弹凯巴尔·谢坎（Khibar Shekan）在美以紧张局势升级中发挥了关键作用。
+  - title: The US is gobbling up Venezuelan oil, but will it lower fuel prices?
+    summary: Analysts say Venezuelan crude is hard to extract and refine, and likely can't replace oil stuck in the Strait of Hormuz.
+    link: https://www.aljazeera.com/news/2026/9/2/the-us-is-gobbling-up-venezuelan-oil-but-will-it-lower-fuel-prices?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 19:43
+    title_zh: 美国正在吞噬委内瑞拉石油，但它会降低燃油价格吗？
+    summary_zh: 分析人士表示，委内瑞拉原油很难开采和精炼，而且可能无法取代滞留在霍尔木兹海峡的石油。
+  - title: What do we know about the fatal US bombing of a wedding in Iran’s Sirik?
+    summary: A residential building and a telecom tower were struck overnight, as Iran and the US launched more strikes over Hormuz.
+    link: https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 18:57
+    title_zh: 我们对美国在伊朗清真寺爆炸的致命婚礼了解多少？
+    summary_zh: 随着伊朗和美国对霍尔木兹发动更多袭击，一栋住宅楼和一座电信塔连夜遭到袭击。
+  - title: Status of Iran’s Nuclear Program Is Unclear, U.N. Watchdog Says
+    summary: As the war sputters on, an internal report from the International Atomic Energy Agency said Iran’s refusal to grant access to its inspectors…
+    link: https://www.nytimes.com/2026/09/02/world/middleeast/iran-nuclear-program-iaea.html
+    source: NYT > World News
+    time: 09-02 18:32
+    title_zh: 联合国监督机构称伊朗核计划状况尚不清楚
+    summary_zh: 随着战争的持续，国际原子能机构的一份内部报告称，伊朗拒绝允许其检查人员进入……
   - title: U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break
     summary: Thousands of sailors and Marines serve on the U.S.S. Abraham Lincoln, which came into the spotlight because of a tough deployment in the war…
     link: https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html
@@ -467,6 +516,13 @@ topics:
     summary_zh: 伊斯兰革命卫队说，伊朗南部的袭击造成几名士兵死亡和受伤。
 - name: 货币政策
   items:
+  - title: New York Fed's Williams says yield surge due to strong economic prospects
+    summary: The central bank policymaker in a CNBC interview did not commit on whether he thinks an interest rate hike is necessary.
+    link: https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html
+    source: US Top News and Analysis
+    time: 09-02 21:45
+    title_zh: 纽约联邦储备银行的威廉姆斯表示，由于强劲的经济前景，收益率飙升
+    summary_zh: 央行政策制定者在接受CNBC采访时没有承诺他是否认为有必要加息。
   - title: Palantir CEO Alex Karp backs ousted Ukraine defense minister's new defense tech startup
     summary: Fedorov is launching a defense tech company backed by Palantir CEO Alex Karp, aiming to turn Ukraine’s wartime experience into new technolog…
     link: https://www.cnbc.com/2026/09/02/palantir-alex-karp-ukraine-federov-defense-startup.html
@@ -546,6 +602,12 @@ topics:
     summary_zh: 特朗普领导下的联邦通信委员会试图针对传播“假”新闻的新闻媒体。
 - name: AI基建
   items:
+  - title: 'NVIDIA stuck near $222.50 in tight range: Live levels'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-pivots-at-215-support-momentum-on-edge-live-levels-93CH-4882987
+    source: Stock Market News
+    time: 09-02 22:18
+    title_zh: 英伟达在窄幅区间徘徊在222.50美元附近：实时水平
   - title: Nvidia could seal $14 bln Hugging Face deal this week, Bloomberg reports
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-could-seal-14-bln-hugging-face-deal-this-week-bloomberg-reports-4885231
