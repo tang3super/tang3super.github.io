@@ -5,11 +5,59 @@ title: 新闻监控
 date: '2026-09-02'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-02 13:56
+last_updated: 2026-09-02 18:31
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break
+    summary: Thousands of sailors and Marines serve on the U.S.S. Abraham Lincoln, which came into the spotlight because of a tough deployment in the war…
+    link: https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html
+    source: NYT > World News
+    time: 09-02 17:32
+    title_zh: U.S.S.亚伯拉罕·林肯（Abraham Lincoln）在泰国停靠，让疲惫不堪的船员休息一下
+    summary_zh: 数千名水手和海军陆战队员在美国服役亚伯拉罕·林肯，因在战争中的艰难部署而成为人们关注的焦点……
+  - title: Bitcoin dips below $77k as U.S.-Iran fighting, rate jitters weigh
+    summary: ''
+    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-776k-as-usiran-fighting-rate-jitters-weigh-4885342
+    source: Cryptocurrency News
+    time: 09-02 17:30
+    title_zh: 比特币跌破7.7万美元，美国-伊朗交战，利率紧张不安
+  - title: 'Iran, US exchange new attacks: Who was hit in latest strikes?'
+    summary: Iran says the US bombed a wedding near the Strait of Hormuz; hits Kuwait, Bahrain, and Jordan in retaliation.
+    link: https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 16:55
+    title_zh: 伊朗、美国互相攻击：谁在最近的袭击中受到打击？
+    summary_zh: 伊朗称美国轰炸了霍尔木兹海峡附近的一场婚礼;袭击了科威特、巴林和约旦作为报复。
+  - title: U.S. crude tops $90 as Iran retaliates with strikes on Kuwait, Jordan and Bahrain
+    summary: Oil were volatile Wednesday, as Mideast tensions continue to escalate after the U.S. attacked Iran, while Tehran reportedly struck back at U…
+    link: https://www.cnbc.com/2026/09/02/brent-oil-us-iran-strikes.html
+    source: US Top News and Analysis
+    time: 09-02 16:50
+    title_zh: 伊朗对科威特、约旦和巴林进行报复，美国原油价格突破90美元
+    summary_zh: 周三油价波动，美国袭击伊朗后，中东紧张局势继续升级，而据报道德黑兰也对美国进行了反击。
+  - title: Why Greece is betting on Israel’s Achilles Shield
+    summary: The defence deal between the two countries fits into a larger shift in regional alliances amid the US-Israel war on Iran.
+    link: https://www.aljazeera.com/opinions/2026/9/2/why-greece-is-betting-on-israels-achilles-shield?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 15:35
+    title_zh: 为什么希腊押注以色列的阿基里斯盾
+    summary_zh: 两国之间的国防协议符合美以对伊朗战争期间地区联盟的更大转变。
+  - title: China's Xi keeps Iranian president at arm's length weeks ahead of Trump summit
+    summary: China's Xi gave Iran's Pezeshkian a brief, low-profile audience at the SCO summit, as Beijing seeks to avoid appearing close to Tehran ahead…
+    link: https://www.cnbc.com/2026/09/02/china-trump-iran-summit-nuclear-trade-tariffs-sanctions-.html
+    source: US Top News and Analysis
+    time: 09-02 15:26
+    title_zh: 中国的习近平在特朗普峰会前几周与伊朗总统保持距离
+    summary_zh: 中国的习近平在上海合作组织峰会上给了伊朗的Pezeshkian一个简短的，低调的观众，因为北京试图避免出现接近德黑兰。
+  - title: '‘We had an ordinary life’: Iran fisherwoman navigates uncertainty of war'
+    summary: An Iranian fisherwoman explains how her idyllic seaside life was shattered when the US and Israel began their bombing.
+    link: https://www.aljazeera.com/economy/2026/9/2/we-had-an-ordinary-life-iran-fisherwoman-navigates-uncertainty-of-war?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 14:26
+    title_zh: “我们过着平凡的生活”：伊朗女领导人应对战争的不确定性
+    summary_zh: 一名伊朗女酋长解释了当美国和以色列开始轰炸时，她田园诗般的海滨生活如何被打破。
   - title: US strikes on Iran kill child at wedding ceremony
     summary: Dozens of people are injured, and at least five dead, after US strikes hit a wedding ceremony near Sirik, Iran.
     link: https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss
@@ -419,6 +467,13 @@ topics:
     summary_zh: 伊斯兰革命卫队说，伊朗南部的袭击造成几名士兵死亡和受伤。
 - name: 货币政策
   items:
+  - title: Palantir CEO Alex Karp backs ousted Ukraine defense minister's new defense tech startup
+    summary: Fedorov is launching a defense tech company backed by Palantir CEO Alex Karp, aiming to turn Ukraine’s wartime experience into new technolog…
+    link: https://www.cnbc.com/2026/09/02/palantir-alex-karp-ukraine-federov-defense-startup.html
+    source: US Top News and Analysis
+    time: 09-02 17:30
+    title_zh: Palantir首席执行官Alex Karp支持乌克兰国防部长的新国防技术创业公司
+    summary_zh: Fedorov正在成立一家由Palantir首席执行官Alex Karp支持的国防科技公司，旨在将乌克兰的战时经验转化为新技术.
   - title: US House passes funding bill to avert government shutdown ahead of midterms
     summary: The temporary measure gives Congress until December to fully fund the federal government for fiscal year 2027.
     link: https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss
