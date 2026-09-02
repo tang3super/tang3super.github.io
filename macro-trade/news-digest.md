@@ -5,11 +5,39 @@ title: 新闻监控
 date: '2026-09-02'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-02 09:21
+last_updated: 2026-09-02 13:56
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: US strikes on Iran kill child at wedding ceremony
+    summary: Dozens of people are injured, and at least five dead, after US strikes hit a wedding ceremony near Sirik, Iran.
+    link: https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 11:27
+    title_zh: 美国袭击伊朗导致婚礼上的儿童死亡
+    summary_zh: 美国袭击袭击了伊朗拉扎克附近的一场婚礼，造成数十人受伤，至少五人死亡。
+  - title: Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion
+    summary: The Republican House speaker defends the US-Israel war on Iran and praises Trump's 'steady hands at the wheel'.
+    link: https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 10:20
+    title_zh: 美国高级议员迈克·约翰逊表示撒谎是一些伊朗人宗教的一部分
+    summary_zh: 这位共和党众议院议长为美以对伊朗的战争辩护，并赞扬特朗普“稳定的双手”。
+  - title: Iran says US bombed a wedding party in Sirik, killing five people
+    summary: Officials say at least 63 others wounded in attack on city of Kuhestak, including women and children.
+    link: https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 09:34
+    title_zh: 伊朗称美国轰炸了穆克的一场婚礼，造成五人死亡
+    summary_zh: 官员称，库赫斯塔克市的袭击造成至少63人受伤，其中包括妇女和儿童。
+  - title: US launches new strikes on Iran, denies its bases hit in Jordan
+    summary: The US launched new strikes on Iran's southern coast with explosions reported in several locations.
+    link: https://www.aljazeera.com/video/newsfeed/2026/9/2/us-launches-new-strikes-on-iran-denies-its-bases-hit-in-jordan?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-02 09:06
+    title_zh: 美国对伊朗发动新的打击，否认其在约旦的基地受到打击
+    summary_zh: 美国对伊朗南部海岸发动了新的打击，据报道多个地点发生爆炸。
   - title: Moment US strikes on Iranian port city hit wedding party
     summary: Iran says a series of US strikes near the southern Iranian port city of Sirik has killed at least four people.
     link: https://www.aljazeera.com/video/newsfeed/2026/9/2/moment-us-strikes-on-iranian-port-city-hit-wedding-party?traffic_source=rss
