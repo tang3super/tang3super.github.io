@@ -5,11 +5,39 @@ title: 新闻监控
 date: '2026-09-03'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-03 08:59
+last_updated: 2026-09-03 13:32
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran attacks U.S. bases in Kuwait as Trump says renewed Mideast hostilities will not last 'too long'
+    summary: On Thursday, Kuwait's army said it was confronting hostile missile and drone attacks from Iran.
+    link: https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html
+    source: US Top News and Analysis
+    time: 09-03 13:21
+    title_zh: 伊朗袭击美国在科威特的基地，特朗普表示中东新一轮敌对行动不会持续“太久”
+    summary_zh: 周四，科威特军队表示，它正面临来自伊朗的敌对导弹和无人机袭击。
+  - title: Shipping stocks at a crossroads amid their best rally in decades
+    summary: A months-long crisis in the Strait of Hormuz has turned an overlooked corner of the market into one of 2026's hottest trades.
+    link: https://www.cnbc.com/2026/09/03/shipping-hormuz-tankers-earnings-freight-rates-iran-trump-crude-china-stocks.html
+    source: US Top News and Analysis
+    time: 09-03 12:31
+    title_zh: 航运股正处于数十年来最佳涨势的十字路口
+    summary_zh: 霍尔木兹海峡长达数月的危机已将市场上一个被忽视的角落变成了2026年最热门的交易之一。
+  - title: Asia looks to store oil, gas closer to home after Strait of Hormuz crisis
+    summary: Asian economies are racing to build up storage capacity to reduce their exposure to conflict in the Middle East.
+    link: https://www.aljazeera.com/economy/2026/9/3/asia-looks-to-store-oil-gas-closer-to-home-after-strait-of-hormuz-crisis?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-03 12:26
+    title_zh: 霍尔木兹海峡危机后，亚洲希望在离家更近的地方储存石油和天然气
+    summary_zh: 亚洲经济体正在竞相建立储存能力，以减少其受中东冲突影响的风险。
+  - title: Trump threatens more strikes as death toll in Iran rises to 18
+    summary: Trump says US can hit Iran 'anytime we want' as Tehran says deadly strikes, including on wedding party, a war crime.
+    link: https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-03 09:45
+    title_zh: 伊朗死亡人数升至18人，特朗普威胁要发动更多袭击
+    summary_zh: 特朗普表示，美国可以“随时”打击伊朗，而德黑兰则表示致命打击，包括婚礼派对，是战争罪。
   - title: U.S. stock futures flat amid Iran, rate caution; Broadcom dips after earnings
     summary: ''
     link: https://www.investing.com/news/stock-market-news/us-stock-futures-flat-amid-iran-rate-caution-broadcom-dips-after-earnings-4886896
@@ -534,34 +562,6 @@ topics:
     time: 08-31 17:19
     title_zh: 美国轰炸拉拉克岛后伊朗袭击阿联酋约旦：最新消息是什么？
     summary_zh: 此次报复性袭击是在美国瞄准霍尔木兹海峡拉拉克岛的两个伊朗发射器之后发生的。
-  - title: G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy
-    summary: The meeting is expected to focus on the ongoing economic shock from the war in Iran, which has driven up oil prices globally.
-    link: https://www.nytimes.com/2026/08/31/business/g20-finance-iran-bessent.html
-    source: NYT > World News
-    time: 08-31 17:09
-    title_zh: G20财长齐聚美国，伊朗战争影响全球经济
-    summary_zh: 预计会议将重点讨论伊朗战争造成的持续经济冲击，伊朗战争推高了全球油价。
-  - title: U.S.-Iran escalation shows Washington's frustration with slow-moving sanctions
-    summary: Renewed hostilities reopen the question of whether the conflict is grinding toward a settlement or further escalation.
-    link: https://www.cnbc.com/2026/08/31/us-trump-hormuz-iran-kharg-larak-oil-analysts-sanctions-.html
-    source: US Top News and Analysis
-    time: 08-31 14:59
-    title_zh: 美国-伊朗局势升级表明华盛顿对缓慢制裁的不满
-    summary_zh: 重新爆发的敌对行动重新提出了一个问题，即冲突是在朝着解决的方向发展，还是在进一步升级。
-  - title: Iran targets Jordan after first US attack in a month
-    summary: The US has launched its first strikes on Iran in a month, hitting sites on Larak Island. Iran hit back targeting bases h
-    link: https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-31 11:06
-    title_zh: 美国一个月来首次袭击伊朗后瞄准约旦
-    summary_zh: 美国对伊朗发动了一个月来的首次打击，袭击了拉拉克岛的一些地点。伊朗回击针对基地h
-  - title: US plans to sanction another bank to keep economic pressure on Iran
-    summary: Washington has recently stepped up efforts to economically pressure Tehran amid the deadlocked truce talks.
-    link: https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-31 10:08
-    title_zh: 美国计划制裁另一家银行以保持对伊朗的经济压力
-    summary_zh: 在陷入僵局的休战谈判中，华盛顿最近加大了对德黑兰的经济压力。
 - name: 货币政策
   items:
   - title: States now must report undocumented immigrants to DHS or risk federal funding, DOJ says
