@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-09-03'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-03 18:03
+last_updated: 2026-09-03 22:24
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Brent oil price above $96 per barrel after Iran fires missiles at Kuwait
+    summary: Oil prices have gained more than 7% this week The U.S. and Iran have traded military strikes this week for the first time since July.
+    link: https://www.cnbc.com/2026/09/03/oil-price-today-iran-war-strait-hormuz.html
+    source: US Top News and Analysis
+    time: 09-03 21:40
+    title_zh: 伊朗向科威特发射导弹后布伦特油价突破每桶96美元
+    summary_zh: 油价本周上涨逾7%美国和伊朗本周自7月以来首次进行军事打击。
+  - title: China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'
+    summary: China rejected G20 pressure over export-driven growth while also challenging U.S. Iran sanctions and European trade measures.
+    link: https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html
+    source: US Top News and Analysis
+    time: 09-03 19:12
+    title_zh: 中国回击G20关于其依赖出口的声明，指责其“宣扬保护主义”
+    summary_zh: 中国拒绝了G20对出口驱动型增长的压力，同时也挑战了美国对伊朗的制裁和欧洲的贸易措施。
   - title: Gulf insecurity fuels US energy dominance
     summary: The no-war, no-peace status quo with Iran increasingly benefits the US, its energy sector and its ally Israel.
     link: https://www.aljazeera.com/opinions/2026/9/3/how-gulf-insecurity-fuels-us-energy-dominance?traffic_source=rss
@@ -550,21 +564,15 @@ topics:
     time: 08-31 19:25
     title_zh: 美国和伊朗交火后阿联酋拦截无人机
     summary_zh: 阿联酋表示，它拦截了一架来自伊朗的无人机，并否认了有关其门哈德空军基地遭到袭击的“虚假”报道。
-  - title: 'Premarket movers: Tenax, Snap rise; Miniso slides amid Iran tensions'
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/premarket-movers-tenax-snap-rise-miniso-slides-amid-iran-tensions-4882540
-    source: Stock Market News
-    time: 08-31 19:07
-    title_zh: 上市前推动者：Tenax、Snap上涨; Miniso因伊朗紧张局势下滑
-  - title: The looming failure of Operation Economic Outcast
-    summary: The latest package of US sanctions on Iran is unlikely to achieve Washington’s objectives.
-    link: https://www.aljazeera.com/opinions/2026/8/31/the-looming-failure-of-operation-economic-outcast?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-31 18:18
-    title_zh: 经济弃儿行动即将失败
-    summary_zh: 美国对伊朗的最新制裁方案不太可能实现华盛顿的目标。
 - name: 货币政策
   items:
+  - title: Fed Governor Waller indicates he will support holding rates steady at September meeting
+    summary: In remarks that seem to contrast with statements last week from Chairman Kevin Warsh, Waller expressed confidence in the current inflation t…
+    link: https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html
+    source: US Top News and Analysis
+    time: 09-03 22:06
+    title_zh: 美联储理事沃勒表示将在9月份会议上支持维持利率稳定
+    summary_zh: 沃勒在似乎与董事长凯文·沃什（Kevin Warsh）上周的声明形成鲜明对比的言论中表达了对当前通胀的信心。
   - title: Eto’o calls on African football federations to support FIFA chief Infantino
     summary: Samuel Eto'o says a higher budget might have attracted the likes of Mbappe and Tchouameni to play for Africa instead.
     link: https://www.aljazeera.com/sports/2026/9/3/etoo-calls-on-african-football-federations-to-support-fifa-chief-infantino?traffic_source=rss
@@ -665,6 +673,13 @@ topics:
     summary_zh: 特朗普领导下的联邦通信委员会试图针对传播“假”新闻的新闻媒体。
 - name: AI基建
   items:
+  - title: Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC
+    summary: Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will "expand access to AI for developers and institutions worldwide."
+    link: https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html
+    source: US Top News and Analysis
+    time: 09-03 21:10
+    title_zh: Nvidia首席执行官告诉CNBC，Hugging Face在129亿美元收购前几周与Nvidia的黄进行了接触
+    summary_zh: Nvidia首席执行官Jensen Huang表示，通过Hugging Face，这家芯片制造商将“扩大全球开发者和机构对人工智能的访问范围。"
   - title: How Equinix has found a niche in the multitrillion-dollar AI data center boom
     summary: Nvidia announced a new data center deal with Equinix and Together AI on Wednesday to help enterprise customers with open-model inference.
     link: https://www.cnbc.com/2026/09/02/equinix-partners-with-nvidia-carves-niche-in-ai-data-center-boom.html
