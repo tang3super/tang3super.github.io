@@ -5,11 +5,31 @@ title: 新闻监控
 date: '2026-09-03'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-03 06:58
+last_updated: 2026-09-03 08:59
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: U.S. stock futures flat amid Iran, rate caution; Broadcom dips after earnings
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/us-stock-futures-flat-amid-iran-rate-caution-broadcom-dips-after-earnings-4886896
+    source: Stock Market News
+    time: 09-03 08:15
+    title_zh: 伊朗影响美国股市期货持平，利率谨慎;博通在盈利后下跌
+  - title: In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy
+    summary: The bomb that hit the residential area was American, according to a weapons expert and a visual analysis by The Times. It killed five people…
+    link: https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html
+    source: NYT > World News
+    time: 09-03 08:03
+    title_zh: 伊朗小镇，美国袭击将婚礼变成悲剧
+    summary_zh: 根据武器专家和《泰晤士报》的视觉分析，击中住宅区的炸弹是美国的。它杀死了五人.
+  - title: 'Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’'
+    summary: Iran's health minister says the death toll from US attacks has risen to 18, including two children.
+    link: https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-03 08:00
+    title_zh: 伊朗战争直播：特朗普表示美伊新一轮冲突不会持续“太久”
+    summary_zh: 伊朗卫生部长表示，美国袭击造成的死亡人数已上升至18人，其中包括两名儿童。
   - title: Republican senator calls on Trump to fire Secretary of Defence Hegseth
     summary: Senator Thom Tillis accuses Pentagon chief of 'inept mismanagement' as US military is strained by war on Iran.
     link: https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss
@@ -59,6 +79,13 @@ topics:
     time: 09-02 23:42
     title_zh: 中国习近平在罕见的埃及访问期间敦促建立新的中东安全框架
     summary_zh: 中国、埃及领导人讨论美以对伊朗的战争，这促使地区大国重新考虑国防。
+  - title: Status of Iran’s Nuclear Program Is Unclear, U.N. Watchdog Says
+    summary: As the war sputters on, an internal report from the International Atomic Energy Agency said Iran’s refusal to grant access to its inspectors…
+    link: https://www.nytimes.com/2026/09/02/world/middleeast/iran-nuclear-program-iaea.html
+    source: NYT > World News
+    time: 09-02 23:41
+    title_zh: 联合国监督机构称伊朗核计划状况尚不清楚
+    summary_zh: 随着战争的持续，国际原子能机构的一份内部报告称，伊朗拒绝允许其检查人员进入……
   - title: Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again
     summary: President Trump called on Iranians to “rise up and fight” on Tuesday as the United States seems increasingly bogged down after six months of…
     link: https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html
@@ -101,13 +128,6 @@ topics:
     time: 09-02 18:57
     title_zh: 我们对美国在伊朗清真寺爆炸的致命婚礼了解多少？
     summary_zh: 随着伊朗和美国对霍尔木兹发动更多袭击，一栋住宅楼和一座电信塔连夜遭到袭击。
-  - title: Status of Iran’s Nuclear Program Is Unclear, U.N. Watchdog Says
-    summary: As the war sputters on, an internal report from the International Atomic Energy Agency said Iran’s refusal to grant access to its inspectors…
-    link: https://www.nytimes.com/2026/09/02/world/middleeast/iran-nuclear-program-iaea.html
-    source: NYT > World News
-    time: 09-02 18:32
-    title_zh: 联合国监督机构称伊朗核计划状况尚不清楚
-    summary_zh: 随着战争的持续，国际原子能机构的一份内部报告称，伊朗拒绝允许其检查人员进入……
   - title: U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break
     summary: Thousands of sailors and Marines serve on the U.S.S. Abraham Lincoln, which came into the spotlight because of a tough deployment in the war…
     link: https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html
@@ -542,27 +562,6 @@ topics:
     time: 08-31 10:08
     title_zh: 美国计划制裁另一家银行以保持对伊朗的经济压力
     summary_zh: 在陷入僵局的休战谈判中，华盛顿最近加大了对德黑兰的经济压力。
-  - title: 'Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island'
-    summary: Centcom says US forces bombed two rocket launchers of the IRGC on Larak Island.
-    link: https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-31 08:00
-    title_zh: 伊朗战争直播：美国轰炸拉拉克岛后，伊斯兰革命卫队袭击了美国在约旦的基地
-    summary_zh: 中央司令部表示，美军轰炸了拉拉克岛伊斯兰革命卫队的两个火箭发射器。
-  - title: U.S. strikes Iranian rocket launchers near Strait of Hormuz
-    summary: The last major U.S. strikes on Iran were carried out in late July.
-    link: https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html
-    source: US Top News and Analysis
-    time: 08-31 05:32
-    title_zh: 美国袭击霍尔木兹海峡附近的伊朗火箭发射器
-    summary_zh: 美国对伊朗的最后一次大规模打击是在7月下旬进行的。
-  - title: US strikes Iran’s Larak Island in first attack in weeks
-    summary: IRGC says attack in southern Iran killed and injured several soldiers.
-    link: https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-31 04:15
-    title_zh: 美国几周来首次袭击伊朗拉拉克岛
-    summary_zh: 伊斯兰革命卫队说，伊朗南部的袭击造成几名士兵死亡和受伤。
 - name: 货币政策
   items:
   - title: States now must report undocumented immigrants to DHS or risk federal funding, DOJ says
@@ -658,6 +657,13 @@ topics:
     summary_zh: 特朗普领导下的联邦通信委员会试图针对传播“假”新闻的新闻媒体。
 - name: AI基建
   items:
+  - title: How Equinix has found a niche in the multitrillion-dollar AI data center boom
+    summary: Nvidia announced a new data center deal with Equinix and Together AI on Wednesday to help enterprise customers with open-model inference.
+    link: https://www.cnbc.com/2026/09/02/equinix-partners-with-nvidia-carves-niche-in-ai-data-center-boom.html
+    source: US Top News and Analysis
+    time: 09-03 06:49
+    title_zh: Equinix如何在数万亿美元的人工智能数据中心热潮中找到利基市场
+    summary_zh: Nvidia周三宣布与Equinix和Together AI达成一项新的数据中心协议，以帮助企业客户进行开放模型推理。
   - title: 'NVIDIA stuck near $222.50 in tight range: Live levels'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-pivots-at-215-support-momentum-on-edge-live-levels-93CH-4882987
