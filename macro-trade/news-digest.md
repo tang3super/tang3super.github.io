@@ -2,14 +2,56 @@
 layout: news-digest
 permalink: /macro-trade/news-digest/
 title: 新闻监控
-date: '2026-09-03'
+date: '2026-09-04'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-03 22:24
+last_updated: 2026-09-04 01:55
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Trump calls media ‘treasonous scum’ over reports of low Iran war munitions
+    summary: Comments latest swipe by president against critical media coverage of what experts call troubling shortages.
+    link: https://www.aljazeera.com/news/2026/9/3/trump-calls-media-treasonous-scum-over-reports-of-low-iran-war-munitions?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-04 01:26
+    title_zh: 特朗普因伊朗战争弹药不足的报道称媒体为“叛国败类”
+    summary_zh: 总统对批评媒体对专家所说的令人不安的短缺的报道进行了最新的批评。
+  - title: Houthi fighters clash with Yemeni government forces in country’s southwest
+    summary: Houthis attempt to cut road linking Taiz to al-Makha in apparent bid to sever government's strategic supply route.
+    link: https://www.aljazeera.com/news/2026/9/3/houthi-fighters-clash-with-yemeni-government-forces-in-countrys-southwest?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-04 00:13
+    title_zh: 胡希战士在该国西南部与也门政府军发生冲突
+    summary_zh: 胡塞武装试图切断连接塔伊兹和马哈的道路，显然是为了切断政府的战略供应路线。
+  - title: Through the Hands of Strangers, Missing Iranian Artists Put on a Show in L.A.
+    summary: Isolated by war, they nevertheless are taking part in an exhibition at The Brick, paired with local artists who interpreted and realized the…
+    link: https://www.nytimes.com/2026/09/03/arts/design/iranian-artists-los-angeles-the-brick.html
+    source: NYT > World News
+    time: 09-03 23:41
+    title_zh: 失踪的伊朗艺术家在陌生人手中在洛杉矶演出
+    summary_zh: 他们因战争而孤立，但仍与当地艺术家合作，参加了The Brick的一场展览，他们解释并实现了……
+  - title: How much oil is going through Hormuz? Why data doesn’t match US claims
+    summary: Trump says the US is helping around 30 ships cross the waterway daily, but ship-tracking data suggests it's fewer.
+    link: https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-03 23:38
+    title_zh: 霍尔木兹有多少石油？为什么数据与美国的说法不符
+    summary_zh: 特朗普表示，美国每天帮助约30艘船只穿越该水道，但船只跟踪数据显示，数量较少。
+  - title: 'Panama Canal restricts traffic amid Hormuz crisis: Why this matters'
+    summary: Limits on the number of vessels in the canal could create shipping delays and increase freight costs.
+    link: https://www.aljazeera.com/news/2026/9/3/panama-canal-restricts-traffic-amid-hormuz-crisis-why-this-matters?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-03 23:35
+    title_zh: 霍尔木兹危机期间巴拿马运河限制交通：为什么这很重要
+    summary_zh: 限制运河中的船只数量可能会造成航运延误并增加货运成本。
+  - title: Iranian drone damages residential building in Kuwait City
+    summary: An Iranian drone attack damaged a residential building in Kuwait, authorities say, with no casualties reported.
+    link: https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-03 22:47
+    title_zh: 伊朗无人机损坏科威特市住宅楼
+    summary_zh: 当局称，伊朗无人机袭击损坏了科威特的一栋住宅楼，目前尚无人员伤亡报告。
   - title: Brent oil price above $96 per barrel after Iran fires missiles at Kuwait
     summary: Oil prices have gained more than 7% this week The U.S. and Iran have traded military strikes this week for the first time since July.
     link: https://www.cnbc.com/2026/09/03/oil-price-today-iran-war-strait-hormuz.html
@@ -522,48 +564,6 @@ topics:
     time: 09-01 01:04
     title_zh: 美国财政部贝森特警告称，伊朗可能在几个月内面临经济崩溃
     summary_zh: 财政部长斯科特·贝森特在二十国集团财长会议上就美国的经济压力运动发表了看法。
-  - title: Trump says Iran is ‘dead’, vows to respond after renewed clashes
-    summary: US president promises to hit Iran and calls for the country's leaders to be prosecuted for killing protesters.
-    link: https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-31 23:11
-    title_zh: 特朗普称伊朗“已死”，誓言在新一轮冲突后做出回应
-    summary_zh: 美国总统承诺打击伊朗，并呼吁起诉该国领导人杀害抗议者。
-  - title: Why has Greece signed a $3.5bn missile deal with Israel?
-    summary: Analysts say Greece is concerned about threats posed by the US-Israel war on Iran and Turkiye's growing capabilities.
-    link: https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-31 22:57
-    title_zh: 希腊为何与以色列签署价值35亿美元的导弹协议？
-    summary_zh: 分析人士表示，希腊对美以战争对伊朗以及土耳其不断增强的能力构成的威胁感到担忧。
-  - title: Why Larak Island Is Strategically Important for Iran
-    summary: The roughly 30-square-mile island serves as a foothold for Iran’s military to advance its control over shipping through the Strait of Hormuz…
-    link: https://www.nytimes.com/2026/08/31/world/middleeast/larak-island-iran-us-strikes.html
-    source: NYT > World News
-    time: 08-31 22:26
-    title_zh: 为什么拉拉克岛对伊朗具有战略重要性
-    summary_zh: 这个面积约30平方英里的岛屿是伊朗军队加强对霍尔木兹海峡航运控制的立足点..
-  - title: Brent jumps 3% to above $90 after flare-up in U.S.-Iran hostilities
-    summary: Oil prices moved higher Monday, after the U.S. struck Iranian targets for the first time in weeks.
-    link: https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html
-    source: US Top News and Analysis
-    time: 08-31 20:33
-    title_zh: 美国油价爆发后，布伦特原油价格上涨3%，至90美元上方伊朗敌对行动
-    summary_zh: 油价周一走高，此前美国数周来首次打击伊朗目标。
-  - title: Wartime Presidents of Russia and Iran Rally With Chinese and Indian Leaders
-    summary: The two-day summit of the 10-nation Shanghai Cooperation Organization in Kyrgyzstan shows the limits of U.S. economic warfare.
-    link: https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html
-    source: NYT > World News
-    time: 08-31 19:31
-    title_zh: 俄罗斯和伊朗战时总统与中国和印度领导人举行集会
-    summary_zh: 在吉尔吉斯斯坦举行的为期两天的上海合作组织十国峰会显示了美国经济战的局限性。
-  - title: UAE intercepts drone after US and Iran exchange attacks
-    summary: The UAE says it intercepted a drone coming from Iran and rejected 'false' reports of an attack on its Al Menhad airbase.
-    link: https://www.aljazeera.com/news/2026/8/31/uae-intercepts-drone-after-us-and-iran-exchange-attacks?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-31 19:25
-    title_zh: 美国和伊朗交火后阿联酋拦截无人机
-    summary_zh: 阿联酋表示，它拦截了一架来自伊朗的无人机，并否认了有关其门哈德空军基地遭到袭击的“虚假”报道。
 - name: 货币政策
   items:
   - title: Fed Governor Waller indicates he will support holding rates steady at September meeting
@@ -673,6 +673,12 @@ topics:
     summary_zh: 特朗普领导下的联邦通信委员会试图针对传播“假”新闻的新闻媒体。
 - name: AI基建
   items:
+  - title: Nvidia sets October launch for RTX Spark AI PCs
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-sets-october-launch-for-rtx-sparkai-pcs-4888369
+    source: Stock Market News
+    time: 09-04 01:37
+    title_zh: Nvidia将于10月推出RTX Spark AI PC
   - title: Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC
     summary: Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will "expand access to AI for developers and institutions worldwide."
     link: https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html
