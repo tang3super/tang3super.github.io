@@ -5,11 +5,32 @@ title: 新闻监控
 date: '2026-09-03'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-03 13:32
+last_updated: 2026-09-03 18:03
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Gulf insecurity fuels US energy dominance
+    summary: The no-war, no-peace status quo with Iran increasingly benefits the US, its energy sector and its ally Israel.
+    link: https://www.aljazeera.com/opinions/2026/9/3/how-gulf-insecurity-fuels-us-energy-dominance?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-03 17:16
+    title_zh: 海湾不安全加剧美国能源主导地位
+    summary_zh: 与伊朗不战不和的现状越来越有利于美国、其能源部门及其盟友以色列。
+  - title: Iran Red Crescent urges ICC probe into deadly US strike on wedding party
+    summary: Outrage grows over US strike that killed four people and wounded 67 at a wedding party in Kuhestak.
+    link: https://www.aljazeera.com/news/2026/9/3/iran-red-crescent-urges-icc-probe-into-deadly-us-strike-on-wedding-party?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-03 15:41
+    title_zh: 伊朗红新月会敦促国际刑事法院调查美国致命袭击婚礼派对
+    summary_zh: 美国在库赫斯塔克的一场婚礼上发动袭击，造成4人死亡、67人受伤，引发了愤怒。
+  - title: China’s support for Iran shows its limits as US ramps up pressure on Tehran
+    summary: Beijing's support for Tehran is balanced against other relationships in the region, analysts say.
+    link: https://www.aljazeera.com/economy/2026/9/3/chinas-support-for-iran-shows-its-limits-as-us-ramps-up-pressure-on-tehran?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-03 14:48
+    title_zh: 随着美国加大对德黑兰的压力，中国对伊朗的支持显示其局限性
+    summary_zh: 分析人士表示，北京对德黑兰的支持与该地区其他关系是平衡的。
   - title: Iran attacks U.S. bases in Kuwait as Trump says renewed Mideast hostilities will not last 'too long'
     summary: On Thursday, Kuwait's army said it was confronting hostile missile and drone attacks from Iran.
     link: https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html
@@ -542,28 +563,15 @@ topics:
     time: 08-31 18:18
     title_zh: 经济弃儿行动即将失败
     summary_zh: 美国对伊朗的最新制裁方案不太可能实现华盛顿的目标。
-  - title: U.S. and Iran Exchange Strikes Overnight After Monthlong Calm
-    summary: The renewed attacks were the latest sign that the war that began six months ago appears far from over.
-    link: https://www.nytimes.com/2026/08/31/world/middleeast/us-iran-uae-jordan-attacks.html
-    source: NYT > World News
-    time: 08-31 18:16
-    title_zh: 美国和伊朗在经过一个月的平静后隔夜发生交易
-    summary_zh: 新的袭击是六个月前开始的战争似乎远未结束的最新迹象。
-  - title: Bitcoin steadies near $79k despite Iran escalation, rate jitters
-    summary: ''
-    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-78k-as-rate-jitters-iran-escalation-weigh-4882178
-    source: Cryptocurrency News
-    time: 08-31 17:29
-    title_zh: 尽管伊朗局势升级、利率动荡，比特币仍接近7.9万美元
-  - title: 'Iran attacks Jordan, UAE after US bombs Larak Island: What’s the latest?'
-    summary: The retaliatory attacks came after the US targeted two Iranian launchers on Larak Island in the Strait of Hormuz.
-    link: https://www.aljazeera.com/news/2026/8/31/iran-attacks-jordan-uae-after-us-bombs-larak-island-whats-the-latest?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 08-31 17:19
-    title_zh: 美国轰炸拉拉克岛后伊朗袭击阿联酋约旦：最新消息是什么？
-    summary_zh: 此次报复性袭击是在美国瞄准霍尔木兹海峡拉拉克岛的两个伊朗发射器之后发生的。
 - name: 货币政策
   items:
+  - title: Eto’o calls on African football federations to support FIFA chief Infantino
+    summary: Samuel Eto'o says a higher budget might have attracted the likes of Mbappe and Tchouameni to play for Africa instead.
+    link: https://www.aljazeera.com/sports/2026/9/3/etoo-calls-on-african-football-federations-to-support-fifa-chief-infantino?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-03 14:15
+    title_zh: 埃托奥呼吁非洲足协支持国际足联主席因凡蒂诺
+    summary_zh: 塞缪尔·埃托奥表示，更高的预算可能会吸引姆巴佩和楚阿梅尼等人为非洲效力。
   - title: States now must report undocumented immigrants to DHS or risk federal funding, DOJ says
     summary: The new DOJ opinion relates to funding states get for Temporary Assistance for Needy Families and the Supplemental Security Income programs.
     link: https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html
