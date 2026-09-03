@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-09-04'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-04 04:24
+last_updated: 2026-09-04 06:40
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: US Vice President JD Vance declines to offer timeline for end of Iran war
+    summary: The Trump official expressed scepticism at White House briefing about the conflict being a war despite recent flare-up.
+    link: https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-04 05:07
+    title_zh: 美国副总统JD Vance拒绝提供结束伊朗战争的时间轴
+    summary_zh: 尽管最近爆发了冲突，但特朗普官员在白宫简报会上对这场冲突是否是一场战争表示怀疑。
+  - title: Funeral held for child killed in US strike on Iranian wedding
+    summary: Mourners carried the coffin of a child killed in a US strike on a wedding in Kuhestak, along the Strait of Hormuz.
+    link: https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-iran-child-funeral-minisv?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-04 04:00
+    title_zh: 为美国袭击伊朗婚礼中丧生的儿童举行葬礼
+    summary_zh: 哀悼者抬着一名在美国袭击霍尔木兹海峡沿岸库赫斯塔克举行的婚礼中丧生的儿童的棺材。
   - title: Trump calls media ‘treasonous scum’ over reports of low Iran war munitions
     summary: Comments latest swipe by president against critical media coverage of what experts call troubling shortages.
     link: https://www.aljazeera.com/news/2026/9/3/trump-calls-media-treasonous-scum-over-reports-of-low-iran-war-munitions?traffic_source=rss
@@ -550,20 +564,6 @@ topics:
     time: 09-01 01:22
     title_zh: 伊朗战争：美国轰炸伊朗
     summary_zh: 伊朗战争：美国轰炸伊朗
-  - title: Vance says Trump ‘sending a message’ to Iran with AI-generated video
-    summary: Video depicting Kharg Island being attacked is later followed by more warnings from President Trump.
-    link: https://www.aljazeera.com/economy/2026/8/31/vance-says-trump-sending-a-message-to-iran-with-ai-generated-video?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-01 01:11
-    title_zh: 万斯称特朗普通过人工智能生成的视频向伊朗“发送信息”
-    summary_zh: 描绘哈格岛遭到袭击的视频随后特朗普总统发出了更多警告。
-  - title: Iran could face economic collapse in months, US Treasury’s Bessent warns
-    summary: Treasury Secretary Scott Bessent weighs in on the US's economic pressure campaign at a meeting of G20 finance ministers.
-    link: https://www.aljazeera.com/economy/2026/8/31/iran-could-face-economic-collapse-in-months-us-treasurys-bessent-warns?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-01 01:04
-    title_zh: 美国财政部贝森特警告称，伊朗可能在几个月内面临经济崩溃
-    summary_zh: 财政部长斯科特·贝森特在二十国集团财长会议上就美国的经济压力运动发表了看法。
 - name: 货币政策
   items:
   - title: Dutch Central Bank Cuts Gold Reserves in U.S., Citing ‘Geopolitical Unrest’
@@ -573,6 +573,13 @@ topics:
     time: 09-04 04:07
     title_zh: 荷兰央行削减美国黄金储备引用“地缘政治动荡”
     summary_zh: 荷兰将约90吨黄金从纽约联邦储备银行取出，这是今年第二个宣布将黄金转移到欧洲的国家。
+  - title: The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer
+    summary: August nonfarm payrolls are expected to rise by 53,000 as a subdued labor market keeps Fed attention focused on inflation.
+    link: https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html
+    source: US Top News and Analysis
+    time: 09-04 03:38
+    title_zh: 8月份大型就业报告将于周五发布。以下是失业夏季的预期
+    summary_zh: 由于劳动力市场低迷使美联储的注意力集中在通胀上，8月份非农就业人数预计将增加53，000人。
   - title: 'Vance says Fed should lower interest rates: ''Would be nice to have some help'''
     summary: Vice President J.D. Vance's remarks came less than two weeks before the Federal Open Market Committee is set to convene and decide whether t…
     link: https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html
