@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-09-04'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-04 01:55
+last_updated: 2026-09-04 04:24
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -566,6 +566,20 @@ topics:
     summary_zh: 财政部长斯科特·贝森特在二十国集团财长会议上就美国的经济压力运动发表了看法。
 - name: 货币政策
   items:
+  - title: Dutch Central Bank Cuts Gold Reserves in U.S., Citing ‘Geopolitical Unrest’
+    summary: The Netherlands moved some 90 tons of gold out of the Federal Reserve Bank in New York, the second European nation this year to announce it…
+    link: https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html
+    source: NYT > World News
+    time: 09-04 04:07
+    title_zh: 荷兰央行削减美国黄金储备引用“地缘政治动荡”
+    summary_zh: 荷兰将约90吨黄金从纽约联邦储备银行取出，这是今年第二个宣布将黄金转移到欧洲的国家。
+  - title: 'Vance says Fed should lower interest rates: ''Would be nice to have some help'''
+    summary: Vice President J.D. Vance's remarks came less than two weeks before the Federal Open Market Committee is set to convene and decide whether t…
+    link: https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html
+    source: US Top News and Analysis
+    time: 09-04 03:18
+    title_zh: 万斯表示美联储应该降低利率：“如果能得到一些帮助就好了”
+    summary_zh: 副总裁JD万斯发表上述言论的距离联邦公开市场委员会即将召开会议并决定是否.
   - title: Fed Governor Waller indicates he will support holding rates steady at September meeting
     summary: In remarks that seem to contrast with statements last week from Chairman Kevin Warsh, Waller expressed confidence in the current inflation t…
     link: https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html
