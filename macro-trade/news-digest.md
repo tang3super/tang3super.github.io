@@ -5,11 +5,45 @@ title: 新闻监控
 date: '2026-09-04'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-04 17:06
+last_updated: 2026-09-04 21:27
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: US equity funds record second weekly outflow on Iran tensions, high yields
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/us-equity-funds-record-second-weekly-outflow-on-iran-tensions-high-yields-4889638
+    source: Stock Market News
+    time: 09-04 21:06
+    title_zh: 伊朗紧张局势导致美国股票基金创第二周资金外流纪录，收益率高
+  - title: Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries
+    summary: Higher prices come as Ukraine pounds Russian refineries, forcing Moscow to ban diesel exports.
+    link: https://www.cnbc.com/2026/09/04/diesel-price-record-high-ukraine-iran-inflation.html
+    source: US Top News and Analysis
+    time: 09-04 20:40
+    title_zh: 乌克兰和伊朗战争摧毁炼油厂，加剧通胀担忧，柴油创下历史新高
+    summary_zh: 油价上涨之际，乌克兰对俄罗斯炼油厂发起了沉重打击，迫使莫斯科禁止柴油出口。
+  - title: South Korea mulls ‘contributions’ in Strait of Hormuz
+    summary: Seoul heavily affected by closure of strategic waterway and under heavy US pressure for participation against Iran.
+    link: https://www.aljazeera.com/news/2026/9/4/south-korea-mulls-contributions-in-strait-of-hormuz?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-04 20:10
+    title_zh: 韩国考虑在霍尔木兹海峡“做出贡献”
+    summary_zh: 首尔受到战略水道关闭的严重影响，以及美国要求其参与对抗伊朗的巨大压力。
+  - title: 'Iran war: Why US midterms could be a pivotal moment'
+    summary: Rising prices and opposition to war may pressure Trump to de-escalate until after the midterms, analysts say.
+    link: https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-04 19:12
+    title_zh: 伊朗战争：为什么美国中期选举可能成为关键时刻
+    summary_zh: 分析人士表示，物价上涨和反对战争可能会迫使特朗普缓和局势，直到中期选举结束。
+  - title: Why has the Philippine peso plunged to a record low?
+    summary: The Southeast Asian country's currency has plummeted amid the fallout of the Iran war and economic challenges at home.
+    link: https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-04 16:38
+    title_zh: 菲律宾比索为何跌至历史新低？
+    summary_zh: 由于伊朗战争和国内经济挑战的影响，这个东南亚国家的货币暴跌。
   - title: Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave
     summary: Government-Houthi clashes in Taiz intensify, displacing thousands and threatening vital roadways to the Red Sea coast.
     link: https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss
@@ -531,42 +565,21 @@ topics:
     time: 09-01 16:14
     title_zh: 随着美以对伊朗的战争加剧，英国人面临能源“风险溢价”
     summary_zh: 价格上限即将提高，这是对已经在成本上涨中苦苦挣扎的人们的最新打击。
-  - title: 'Duolingo D-Day: Iranians question latest US sanctions targeting education'
-    summary: Many Iranians inside the country feel they are being unjustly erased from the international community.
-    link: https://www.aljazeera.com/news/2026/9/1/duolingo-d-day-iranians-question-latest-us-sanctions-targeting-education?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-01 15:25
-    title_zh: Duolingo诺曼底登陆日：伊朗人质疑美国针对教育的最新制裁
-    summary_zh: 该国境内的许多伊朗人认为他们被不公正地从国际社会中抹去。
-  - title: Oil prices climb as US, Iranian attacks stoke fears of escalation
-    summary: After peaking at $94.40 a barrel on August 21, Brent has been trading in the range of $86-$91 since the MoU lapsed.
-    link: https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-01 14:07
-    title_zh: 美国、伊朗袭击引发局势升级担忧，油价攀升
-    summary_zh: 布伦特原油在8月21日达到每桶94.40美元的峰值后，自谅解备忘录失效以来，布伦特原油的交易价格一直在86 - 91美元之间。
-  - title: Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard'
-    summary: Iran launched an attack on two American bases in Jordan on Monday in retaliation for the U.S. attack on its Larak Island.
-    link: https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html
-    source: US Top News and Analysis
-    time: 09-01 10:05
-    title_zh: 油轮在霍尔木兹袭击，引发了对升级的担忧，因为特朗普发誓要“严厉”打击伊朗
-    summary_zh: 伊朗周一对美国在约旦的两个基地发动袭击，以报复美国对其拉拉克岛的袭击。
-  - title: U.S. stock futures steady as markets digest rate risks, Iran escalation
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-markets-digest-rate-risks-iran-escalation-4883399
-    source: Stock Market News
-    time: 09-01 08:30
-    title_zh: 市场消化利率风险，伊朗局势升级，美国股市期货企稳
-  - title: 'Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month'
-    summary: President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.
-    link: https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-01 08:00
-    title_zh: 伊朗战争直播：特朗普誓言在数月来首次冲突后将“严厉”打击伊朗
-    summary_zh: 唐纳德·特朗普总统表示，美国将对伊朗对其驻约旦人员的袭击做出回应。
 - name: 货币政策
   items:
+  - title: 'FTSE 100 today: Stocks slip as strong U.S. jobs data lifts Fed hike bets'
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-traders-eye-us-jobs-data-4888877
+    source: Stock Market News
+    time: 09-04 21:09
+    title_zh: 今日富时100指数：美国强劲就业数据提振美联储加息押注，股市下跌
+  - title: THC drinks could soon be harder to find as Congress delays hemp ban again
+    summary: THC drinks are booming as an alcohol alternative, but a looming federal crackdown is squeezing makers, distributors and consumers.
+    link: https://www.cnbc.com/2026/09/04/thc-drinks-congress-hemp-ban.html
+    source: US Top News and Analysis
+    time: 09-04 19:00
+    title_zh: 随着国会再次推迟大麻禁令，THC饮料可能很快就很难找到
+    summary_zh: THC饮料作为酒精替代品正在蓬勃发展，但即将到来的联邦打击措施正在挤压制造商、分销商和消费者。
   - title: Asia stocks rise as reduced Fed hike bets lift tech; U.S. jobs data awaited
     summary: ''
     link: https://www.investing.com/news/stock-market-news/asia-stocks-rise-as-reduced-fed-hike-bets-lift-tech-us-jobs-data-awaited-4888803
@@ -701,6 +714,13 @@ topics:
     summary_zh: 特朗普领导下的联邦通信委员会试图针对传播“假”新闻的新闻媒体。
 - name: AI基建
   items:
+  - title: Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips
+    summary: Nvidia’s $12.9 billion Hugging Face deal could protect its open AI ecosystem, deepen ties with developers and keep the platform from rivals.
+    link: https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html
+    source: US Top News and Analysis
+    time: 09-04 19:31
+    title_zh: 为什么英伟达收购Hugging Face的“防御举措”不仅仅是芯片
+    summary_zh: Nvidia价值129亿美元的Hugging Face交易可以保护其开放的人工智能生态系统，加深与开发者的关系，并使该平台免受竞争对手的侵害。
   - title: Nvidia becomes one of world's biggest strategic tech backers as equity investments soar to $99 billion
     summary: Nvidia reported $99 billion in equity holdings as it backs AI labs, cloud providers and infrastructure companies across the sector.
     link: https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html
