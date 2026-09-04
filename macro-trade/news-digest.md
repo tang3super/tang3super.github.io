@@ -5,11 +5,32 @@ title: 新闻监控
 date: '2026-09-04'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-04 08:24
+last_updated: 2026-09-04 12:49
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: EU joins U.S. sanctions push on Iran as South Korea weighs Hormuz deployment
+    summary: The bloc's endorsement came as the Group of 20 finance ministers and central bank governors gathered in Asheville, North Carolina, earlier t…
+    link: https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html
+    source: US Top News and Analysis
+    time: 09-04 12:02
+    title_zh: 韩国考虑部署霍尔木兹，欧盟加入美国对伊朗的制裁
+    summary_zh: 该集团的支持正值20国集团财长和央行行长早些时候齐聚北卡罗来纳州阿什维尔之际.
+  - title: Israel Says It Cleared Tunnels to Strategic Hezbollah Fortress in Lebanon
+    summary: The operation, which began in June and is ongoing, came as fighting between the U.S. and Iran flared anew.
+    link: https://www.nytimes.com/2026/09/03/world/middleeast/israeli-hezbollah-lebanon.html
+    source: NYT > World News
+    time: 09-04 09:42
+    title_zh: 以色列称已清理通往黎巴嫩真主党战略堡垒的隧道
+    summary_zh: 此次行动于六月开始，目前仍在继续，正值美国和伊朗之间的战斗再次爆发之际。
+  - title: 'Iran war live: US rules out Iran talks until ship attacks stop'
+    summary: Iran's First Vice President Mohammad Reza Aref vows “asymmetrical” and “multi-layered” response to US attacks.
+    link: https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-04 08:00
+    title_zh: 伊朗战争直播：美国排除伊朗谈判，直到船只袭击停止
+    summary_zh: 伊朗第一副总统穆罕默德·礼萨·阿里夫誓言对美国的袭击做出“不对称”和“多层次”的回应。
   - title: US Vice President JD Vance declines to offer timeline for end of Iran war
     summary: The Trump official expressed scepticism at White House briefing about the conflict being a war despite recent flare-up.
     link: https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss
@@ -543,29 +564,14 @@ topics:
     source: Stock Market News
     time: 09-01 05:54
     title_zh: 特朗普在一个月内首次交火后发誓要严厉打击伊朗
-  - title: Your Iran Questions, Answered
-    summary: Today, we hand the mic over to reporters covering diplomacy, the White House, the Middle East and more.
-    link: https://www.nytimes.com/2026/08/31/world/iran-war-john-galliano.html
-    source: NYT > World News
-    time: 09-01 04:56
-    title_zh: 你的伊朗问题，焦虑
-    summary_zh: 今天，我们将麦克风交给报道外交、白宫、中东等地的记者。
-  - title: Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up
-    summary: The expectation had been for falling rates this year, but the war with Iran and its resulting rise in oil prices upended that.
-    link: https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html
-    source: US Top News and Analysis
-    time: 09-01 01:56
-    title_zh: 抵押贷款利率飙升至2025年6月以来的最高水平，新的中东袭击推动油价上涨
-    summary_zh: 人们原本预计今年利率会下降，但与伊朗的战争及其导致的油价上涨颠覆了这一点。
-  - title: 'War on Iran: US bombs Iran'
-    summary: 'War on Iran: US bombs Iran'
-    link: https://www.aljazeera.com/video/newsfeed/2026/8/31/war-on-iran-us-bombs-iran?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-01 01:22
-    title_zh: 伊朗战争：美国轰炸伊朗
-    summary_zh: 伊朗战争：美国轰炸伊朗
 - name: 货币政策
   items:
+  - title: Asia stocks rise as reduced Fed hike bets lift tech; U.S. jobs data awaited
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/asia-stocks-rise-as-reduced-fed-hike-bets-lift-tech-us-jobs-data-awaited-4888803
+    source: Stock Market News
+    time: 09-04 11:28
+    title_zh: 美联储加息押注减少提振科技股，亚洲股市上涨;美国就业数据等待
   - title: Dutch Central Bank Cuts Gold Reserves in U.S., Citing ‘Geopolitical Unrest’
     summary: The Netherlands moved some 90 tons of gold out of the Federal Reserve Bank in New York, the second European nation this year to announce it…
     link: https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html
@@ -694,6 +700,12 @@ topics:
     summary_zh: 特朗普领导下的联邦通信委员会试图针对传播“假”新闻的新闻媒体。
 - name: AI基建
   items:
+  - title: Nvidia in talks to invest $2.5 bln in Thinking Machines Lab - The Information
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-25-bln-in-thinking-machines-lab--the-information-4888766
+    source: Stock Market News
+    time: 09-04 10:12
+    title_zh: Nvidia正在洽谈向Thinking Machines Lab投资25亿美元- The Data
   - title: Nvidia sets October launch for RTX Spark AI PCs
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-sets-october-launch-for-rtx-sparkai-pcs-4888369
