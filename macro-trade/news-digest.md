@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-09-05'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-05 03:16
+last_updated: 2026-09-05 05:32
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -14,9 +14,23 @@ topics:
     summary: President Donald Trump hyped the sanctions plan as "economic D-Day" against Iran, but the U.S. has so far taken few steps to implement it.
     link: https://www.cnbc.com/2026/09/04/iran-turkey-sanctions-economy-bessent.html
     source: US Top News and Analysis
-    time: 09-05 01:34
+    time: 09-05 04:39
     title_zh: 美国制裁土耳其银行被指控为伊朗提供便利，贝森特表示他“希望”不会对银行进行进一步处罚
     summary_zh: 唐纳德·特朗普总统将制裁计划宣传为针对伊朗的“经济诺曼底登陆日”，但美国迄今为止几乎没有采取任何措施来实施该计划。
+  - title: Netanyahu Posts A.I. Video Pairing Mamdani With Iranian Ruler
+    summary: The video shows fictitious scenes of Mayor Zohran Mamdani on the phone, celebrating with Ayatollah Mojtaba Khamenei and others, at the prosp…
+    link: https://www.nytimes.com/2026/09/04/world/middleeast/netanyahu-ai-video-mamdani.html
+    source: NYT > World News
+    time: 09-05 04:34
+    title_zh: 内塔尼亚胡发布人工智能视频马姆达尼与伊朗统治者配对
+    summary_zh: 该视频显示了市长佐兰·马姆达尼（Zohran Mamdani）在电话中与阿亚图拉·莫伊塔巴·哈梅内伊（Ayatollah Mojtaba Khamenei）等人在现场庆祝的虚构场景.
+  - title: Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war
+    summary: US President Donald Trump called the Iran war small potatoes, saying only 18 Americans had been killed.
+    link: https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-05 04:22
+    title_zh: 特朗普称伊朗战争为“小土豆”，将美国死亡人数与越南战争进行比较
+    summary_zh: 美国总统唐纳德·特朗普称伊朗战争为小人物，称只有18名美国人丧生。
   - title: Yemen’s army says recaptured key territory as clashes with Houthis continue
     summary: Two days of fighting between government forces and Houthi fighters has left dozens dead on both sides, sources say.
     link: https://www.aljazeera.com/news/2026/9/4/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue?traffic_source=rss
@@ -552,20 +566,6 @@ topics:
     time: 09-01 21:01
     title_zh: 伊朗敦促美国履行谅解备忘录下的承诺
     summary_zh: 袭击事件导致霍尔木兹海峡紧张局势加剧后，德黑兰呼吁华盛顿尊重谅解备忘录的条款。
-  - title: Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fears
-    summary: Bond yields surged across major markets Tuesday as U.S.-Iran hostilities revived energy and inflation risks, with Japan and U.K. yields at m…
-    link: https://www.cnbc.com/2026/09/01/bond-yields-iran-inflation-treasurys-japan-uk.html
-    source: US Top News and Analysis
-    time: 09-01 20:39
-    title_zh: 中东动荡重燃通胀担忧，全球债券收益率飙升至数十年高位
-    summary_zh: 周二，由于美国股市上涨，主要市场债券收益率飙升伊朗敌对行动加剧了能源和通胀风险，日本和英国收益率为m.
-  - title: '‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?'
-    summary: Trump signals harsher response as US-Iran hostilities escalate, raising fears of prolonged conflict in the Gulf region.
-    link: https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-01 19:38
-    title_zh: “严厉打击他们”：特朗普是否还有另一个“新”伊朗战略，它能奏效吗？
-    summary_zh: 随着美伊敌对行动升级，特朗普发出更严厉的回应，引发了对海湾地区长期冲突的担忧。
 - name: 货币政策
   items:
   - title: Evercore sees strong jobs data not altering Fed September call
