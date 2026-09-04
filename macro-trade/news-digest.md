@@ -2,14 +2,42 @@
 layout: news-digest
 permalink: /macro-trade/news-digest/
 title: 新闻监控
-date: '2026-09-04'
+date: '2026-09-05'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-04 21:27
+last_updated: 2026-09-05 00:57
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Diesel price hits all-time high in US amid Iran war woes
+    summary: Price of gasoline also sets new record for Labor Day weekend ahead of crucial midterm elections in November.
+    link: https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-04 23:28
+    title_zh: 伊朗战争困境导致美国柴油价格创历史新高
+    summary_zh: 汽油价格也创下了11月关键中期选举前劳动节周末的新纪录。
+  - title: Yemen’s Houthis Push Toward Red Sea Strait as Ground Fighting Escalates
+    summary: The Houthis, an Iran-backed militia, appear to be trying to gain control of a port city near the Bab al-Mandab Strait, a key choke point for…
+    link: https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html
+    source: NYT > World News
+    time: 09-04 22:08
+    title_zh: 地面战斗升级，也门胡塞武装向红海海峡推进
+    summary_zh: 伊朗支持的民兵组织Houthis似乎正试图控制Bab al-Mandab海峡附近的一个港口城市，这是一个关键的咽喉点。
+  - title: '‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern'
+    summary: From My Lai to civilian killings in Afghanistan, Iraq, the US has often denied role before later quietly acknowledging.
+    link: https://www.aljazeera.com/news/2026/9/4/things-happen-how-vances-comment-on-iran-wedding-strike-fits-us-pattern?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-04 21:15
+    title_zh: “事情发生了”：万斯对伊朗婚礼罢工的评论如何符合美国模式
+    summary_zh: 从美莱到阿富汗、伊拉克的平民杀戮，美国经常否认自己所扮演的角色，后来又悄悄承认。
+  - title: At least 100 killed as Yemen’s Houthis push towards key strait
+    summary: Fighting has intensified between Iran-backed Houthi rebels and Yemeni government forces since Thursday.
+    link: https://www.aljazeera.com/video/newsfeed/2026/9/4/at-least-100-killed-as-yemens-houthis-push-towards-key-strait?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-04 21:13
+    title_zh: 也门胡塞武装向关键海峡推进至少100人死亡
+    summary_zh: 自周四以来，伊朗支持的胡塞叛军与也门政府军之间的战斗愈演愈烈。
   - title: US equity funds record second weekly outflow on Iran tensions, high yields
     summary: ''
     link: https://www.investing.com/news/stock-market-news/us-equity-funds-record-second-weekly-outflow-on-iran-tensions-high-yields-4889638
@@ -538,35 +566,35 @@ topics:
     time: 09-01 18:27
     title_zh: 国外和分歧：战争如何分裂散居国外的伊朗人
     summary_zh: 许多散居国外的伊朗人仍然陷入反对战争和德黑兰政府的矛盾之中。
-  - title: China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.
-    summary: As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen v…
-    link: https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html
-    source: NYT > World News
-    time: 09-01 17:56
-    title_zh: 中国还是美国？两场会议提供了全球权力的相互竞争的展示。
-    summary_zh: 当习近平与俄罗斯和伊朗领导人齐聚一堂时，欧洲在G20峰会上挑战特朗普政府，提出了分屏电视……
-  - title: Bitcoin steady near $78k as Strategy resumes buying; rate, Iran jitters persist
-    summary: ''
-    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-79k-as-strategy-resumes-buying-rate-iran-jitters-persist-4883529
-    source: Cryptocurrency News
-    time: 09-01 17:23
-    title_zh: 随着Strategy恢复购买，比特币稳定在7.8万美元附近;利率、伊朗的不安情绪持续存在
-  - title: U.S. Sanctions on Iran Cut Off Students from Tests Needed for Study Abroad
-    summary: The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster tie…
-    link: https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html
-    source: NYT > World News
-    time: 09-01 17:03
-    title_zh: 美国对伊朗的制裁导致学生无法参加出国留学所需的考试
-    summary_zh: 最新措施迫使英语水平和研究生考试取消，孤立了许多最渴望培养关系的伊朗人..
-  - title: Britons face ‘risk premium’ for energy as US-Israel war on Iran intensifies
-    summary: A price cap increase is on the way, the latest blow to people already struggling with rising costs.
-    link: https://www.aljazeera.com/news/2026/9/1/uk-energy-price-rise-britons-face-risk-premium-for-supply-amid-iran-war?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-01 16:14
-    title_zh: 随着美以对伊朗的战争加剧，英国人面临能源“风险溢价”
-    summary_zh: 价格上限即将提高，这是对已经在成本上涨中苦苦挣扎的人们的最新打击。
 - name: 货币政策
   items:
+  - title: Evercore sees strong jobs data not altering Fed September call
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/evercore-sees-strong-jobs-data-not-altering-fed-september-call-93CH-4889854
+    source: Stock Market News
+    time: 09-05 00:26
+    title_zh: Evercore认为强劲的就业数据不会改变美联储9月的决策
+  - title: Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses
+    summary: President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains…
+    link: https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html
+    source: US Top News and Analysis
+    time: 09-05 00:08
+    title_zh: 特朗普要求美联储大幅降息，否则他将终止与美国盈余国家的贸易
+    summary_zh: 唐纳德·特朗普总统要求美联储降息，否则他将切断与美国维持贸易关系的国家的贸易.
+  - title: 2-year yield rises to highest since January 2025 after hot jobs report boosts expectations that the Fed could raise rates
+    summary: Treasury yields rose as the hot jobs report along with sticky inflation may give the Fed more cover to hike interest rates in September.
+    link: https://www.cnbc.com/2026/09/04/treasurys-bonds-nonfarm-payrolls-unemployment-data.html
+    source: US Top News and Analysis
+    time: 09-04 23:02
+    title_zh: 2-热门就业报告提振美联储可能加息的预期后，年收益率升至2025年1月以来最高
+    summary_zh: 由于热门就业报告以及粘性通胀可能为美联储在9月份加息提供更多掩护，美国国债收益率上升。
+  - title: Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.
+    summary: Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank…
+    link: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm
+    source: 'FRB: Press Release - All Releases'
+    time: 09-04 23:00
+    title_zh: 美联储宣布终止与德克萨斯联合银行、Quontic Bank Acquisition Corp.和Quontic Bank Holdings Corp.
+    summary_zh: 美联储宣布终止与德克萨斯联合银行、Quontic Bank Acquisition Corp.还有Quontic Bank.
   - title: 'FTSE 100 today: Stocks slip as strong U.S. jobs data lifts Fed hike bets'
     summary: ''
     link: https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-traders-eye-us-jobs-data-4888877
