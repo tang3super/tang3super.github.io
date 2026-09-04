@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-09-05'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-05 00:57
+last_updated: 2026-09-05 03:16
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: U.S. sanctions Turkish bank accused of enabling Iran as Bessent says he 'hopes for' no further bank penalties
+    summary: President Donald Trump hyped the sanctions plan as "economic D-Day" against Iran, but the U.S. has so far taken few steps to implement it.
+    link: https://www.cnbc.com/2026/09/04/iran-turkey-sanctions-economy-bessent.html
+    source: US Top News and Analysis
+    time: 09-05 01:34
+    title_zh: 美国制裁土耳其银行被指控为伊朗提供便利，贝森特表示他“希望”不会对银行进行进一步处罚
+    summary_zh: 唐纳德·特朗普总统将制裁计划宣传为针对伊朗的“经济诺曼底登陆日”，但美国迄今为止几乎没有采取任何措施来实施该计划。
+  - title: Yemen’s army says recaptured key territory as clashes with Houthis continue
+    summary: Two days of fighting between government forces and Houthi fighters has left dozens dead on both sides, sources say.
+    link: https://www.aljazeera.com/news/2026/9/4/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-05 01:29
+    title_zh: 也门军队称，随着与胡塞武装的冲突持续，已夺回关键领土
+    summary_zh: 消息人士称，政府军与胡塞武装之间持续两天的战斗已造成双方数十人死亡。
   - title: Diesel price hits all-time high in US amid Iran war woes
     summary: Price of gasoline also sets new record for Labor Day weekend ahead of crucial midterm elections in November.
     link: https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss
@@ -552,20 +566,6 @@ topics:
     time: 09-01 19:38
     title_zh: “严厉打击他们”：特朗普是否还有另一个“新”伊朗战略，它能奏效吗？
     summary_zh: 随着美伊敌对行动升级，特朗普发出更严厉的回应，引发了对海湾地区长期冲突的担忧。
-  - title: Euro zone inflation is back above 3%. Higher interest rates are likely to follow
-    summary: The European Central Bank is seen hiking rates in September as the Iran war raises energy costs in the region.
-    link: https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html
-    source: US Top News and Analysis
-    time: 09-01 18:50
-    title_zh: 欧元区通胀率重回3%以上。更高的利率可能会随之而来
-    summary_zh: 由于伊朗战争提高了该地区的能源成本，欧洲央行预计将在9月份加息。
-  - title: 'Abroad and at odds: How the war has divided Iranians in the diaspora'
-    summary: Many Iranians in the diaspora remain caught in the paradox of opposing the war and the government in Tehran.
-    link: https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-01 18:27
-    title_zh: 国外和分歧：战争如何分裂散居国外的伊朗人
-    summary_zh: 许多散居国外的伊朗人仍然陷入反对战争和德黑兰政府的矛盾之中。
 - name: 货币政策
   items:
   - title: Evercore sees strong jobs data not altering Fed September call
