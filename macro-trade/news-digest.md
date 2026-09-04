@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-09-04'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-04 12:49
+last_updated: 2026-09-04 17:06
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave
+    summary: Government-Houthi clashes in Taiz intensify, displacing thousands and threatening vital roadways to the Red Sea coast.
+    link: https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-04 14:22
+    title_zh: 胡塞武装对也门塔伊兹的袭击升级，引发新一轮流离失所浪潮
+    summary_zh: 塔伊兹政府与胡塞武装的冲突加剧，数千人流离失所，并威胁到通往红海海岸的重要道路。
   - title: EU joins U.S. sanctions push on Iran as South Korea weighs Hormuz deployment
     summary: The bloc's endorsement came as the Group of 20 finance ministers and central bank governors gathered in Asheville, North Carolina, earlier t…
     link: https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html
@@ -558,12 +565,6 @@ topics:
     time: 09-01 08:00
     title_zh: 伊朗战争直播：特朗普誓言在数月来首次冲突后将“严厉”打击伊朗
     summary_zh: 唐纳德·特朗普总统表示，美国将对伊朗对其驻约旦人员的袭击做出回应。
-  - title: Trump vows to hit Iran hard after first exchanges of fire in a month
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/trump-posts-ai-video-of-irans-kharg-in-smithereens-no-evidence-of-attack-4882150
-    source: Stock Market News
-    time: 09-01 05:54
-    title_zh: 特朗普在一个月内首次交火后发誓要严厉打击伊朗
 - name: 货币政策
   items:
   - title: Asia stocks rise as reduced Fed hike bets lift tech; U.S. jobs data awaited
@@ -700,6 +701,13 @@ topics:
     summary_zh: 特朗普领导下的联邦通信委员会试图针对传播“假”新闻的新闻媒体。
 - name: AI基建
   items:
+  - title: Nvidia becomes one of world's biggest strategic tech backers as equity investments soar to $99 billion
+    summary: Nvidia reported $99 billion in equity holdings as it backs AI labs, cloud providers and infrastructure companies across the sector.
+    link: https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html
+    source: US Top News and Analysis
+    time: 09-04 16:08
+    title_zh: 随着股权投资飙升至990亿美元，英伟达成为全球最大的战略科技支持者之一
+    summary_zh: 英伟达报告称，该公司持有990亿美元的股权，支持整个行业的人工智能实验室、云提供商和基础设施公司。
   - title: Nvidia in talks to invest $2.5 bln in Thinking Machines Lab - The Information
     summary: ''
     link: https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-25-bln-in-thinking-machines-lab--the-information-4888766
