@@ -5,11 +5,46 @@ title: 新闻监控
 date: '2026-09-05'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-05 20:40
+last_updated: 2026-09-05 23:32
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: U.S. attacks 3 Iranian oil tankers after missiles target Navy warships
+    summary: Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf, U.S. Central…
+    link: https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html
+    source: US Top News and Analysis
+    time: 09-05 23:00
+    title_zh: 导弹瞄准海军军舰后，美国袭击了3艘伊朗油轮
+    summary_zh: 周六，三艘伊朗原油船在伊朗主要石油出口中心哈格岛附近遭到美军袭击，哈格岛位于海湾、美国中部..
+  - title: US says it hit Iran oil tankers helping finance ‘regional proxies’
+    summary: US strikes have hit Iranian oil tankers in the Gulf of Oman and near Iran’s Kharg island.
+    link: https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-05 22:49
+    title_zh: 美国称袭击了帮助资助“地区代理人”的伊朗油轮
+    summary_zh: 美国的袭击袭击了阿曼湾和伊朗哈格岛附近的伊朗油轮。
+  - title: Iran President Pezeshkian calls for unity as US ramps up economic pressure
+    summary: Amid rising public discontent, Iranian authorities say adversaries are focused on encouraging domestic unrest.
+    link: https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-05 21:07
+    title_zh: 伊朗总统Pezeshkian呼吁团结，因为美国加大了经济压力
+    summary_zh: 在公众不满情绪日益高涨的情况下，伊朗当局表示，对手的重点是煽动国内骚乱。
+  - title: At least four civilians killed in Houthi missile strike near Yemen’s Taiz
+    summary: The attack on a crowded road comes amid fierce clashes across Taiz and Hodeidah and rapid civilian displacement.
+    link: https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-05 20:54
+    title_zh: 也门塔伊兹附近胡塞武装导弹袭击至少四名平民死亡
+    summary_zh: 此次袭击发生在一条拥挤的道路上，正值塔伊兹和荷台达发生激烈冲突，平民迅速流离失所之际。
+  - title: 'Yemen government launches own air attacks on Houthis: What that means'
+    summary: A major Houthi offensive towards Bab al-Mandeb has triggered some of Yemen’s worst fighting in years.
+    link: https://www.aljazeera.com/news/2026/9/5/yemen-government-launches-own-air-attacks-on-houthis-what-that-means?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-05 20:43
+    title_zh: 也门政府对胡塞武装发动空袭：这意味着什么
+    summary_zh: 胡塞武装对巴布·曼德布的大规模进攻引发了也门多年来最严重的战斗。
   - title: Iran’s State Media Says U.S. Missiles Hit Iranian Oil Tanker Near Kharg
     summary: The United States military has not confirmed an attack. The reports came after a barrage of U.S. strikes in retaliation for Iranian attacks…
     link: https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html
@@ -531,43 +566,15 @@ topics:
     time: 09-02 05:28
     title_zh: 联合国核监管机构警告称，迫切需要进入伊朗核设施
     summary_zh: 国际原子能机构说，缺乏信息和进入设施核实伊朗的核材料是一个扩散问题。
-  - title: Iranian state media announces numerous US strikes on the country
-    summary: Iranian state television has reported numerous strikes on Iranian territory on Tuesday.
-    link: https://www.aljazeera.com/video/newsfeed/2026/9/1/iranian-state-media-announces-numerous-us-strikes-on-the-country?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-02 04:38
-    title_zh: 伊朗官方媒体宣布美国对该国进行多次袭击
-    summary_zh: 伊朗国家电视台报道称，周二伊朗领土发生了多起袭击事件。
-  - title: 'U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom'
-    summary: U.S. Central Command announced new strikes around the Strait of Hormuz following Iranian attacks on ships and U.S. military personnel.
-    link: https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html
-    source: US Top News and Analysis
-    time: 09-02 02:45
-    title_zh: 美国在霍尔木兹海峡新的航运袭击后袭击伊朗：Centcom
-    summary_zh: 在伊朗袭击船只和美国军事人员后，美国中央司令部宣布对霍尔木兹海峡周围进行新的打击。
-  - title: The US military began striking targets in Iran, CENTCOM says
-    summary: The US military said it has begun striking targets in Iran.
-    link: https://www.aljazeera.com/video/newsfeed/2026/9/1/the-us-military-began-striking-targets-in-iran-centcom-says?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-02 01:39
-    title_zh: 中央司令部称，美军开始打击伊朗目标
-    summary_zh: 美国军方表示，已开始打击伊朗境内的目标。
-  - title: Iran promises to respond to new wave of US strikes despite Trump’s threats
-    summary: Trump says the US attacks were 'large and powerful' and warns that Iran would be hit 'much harder' if it retaliates.
-    link: https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-02 00:45
-    title_zh: 尽管特朗普威胁，伊朗仍承诺回应美国新一波袭击
-    summary_zh: 特朗普表示，美国的袭击“大规模而强大”，并警告称，如果伊朗进行报复，伊朗将受到“更严重”的打击。
-  - title: Iran and Russia vow to stand against US ‘unilateralism’
-    summary: Iranian President Pezeshkian thanked Putin for Moscow’s support, vowing to resist US 'unilateralism'.
-    link: https://www.aljazeera.com/video/newsfeed/2026/9/1/iran-and-russia-vow-to-stand-against-us?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-01 23:55
-    title_zh: 伊朗和俄罗斯誓言反对美国“单边主义”
-    summary_zh: 伊朗总统佩泽什基安感谢普京的支持，誓言抵制美国的“单边主义”。
 - name: 货币政策
   items:
+  - title: U.S. attacks 3 Iranian oil tankers after missiles target Navy warships
+    summary: Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf, U.S. Central…
+    link: https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html
+    source: US Top News and Analysis
+    time: 09-05 23:00
+    title_zh: 导弹瞄准海军军舰后，美国袭击了3艘伊朗油轮
+    summary_zh: 周六，三艘伊朗原油船在伊朗主要石油出口中心哈格岛附近遭到美军袭击，哈格岛位于海湾、美国中部..
   - title: Citi pushes Fed rate-cut forecast to June 2027 after resilient jobs market
     summary: ''
     link: https://www.investing.com/news/stock-market-news/citi-pushes-fed-ratecut-forecast-to-june-2027-after-resilient-jobs-market-4890197
