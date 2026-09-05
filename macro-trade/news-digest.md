@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-09-05'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-05 13:19
+last_updated: 2026-09-05 17:09
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: US imposes sanctions on Turkish bank, prompting legal threat
+    summary: US sanctions Turkish bank over alleged IRGC ties, accusing it of facilitating millions in transactions for Iran.
+    link: https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-05 13:19
+    title_zh: 美国对土耳其银行实施制裁，引发法律威胁
+    summary_zh: 美国因涉嫌与伊斯兰革命卫队有联系而制裁土耳其银行，指控其为伊朗提供数百万笔交易。
   - title: 'Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’'
     summary: US President Donald Trump has repeated an earlier warning that the US may attack Iran's Pickaxe Mountain "very soon".
     link: https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss
@@ -559,13 +566,6 @@ topics:
     time: 09-01 21:32
     title_zh: 上合组织猛烈抨击对伊朗的袭击和制裁：比什凯克峰会的关键要点
     summary_zh: 上合组织成立于1996年，占世界人口的43%和全球经济的23%。
-  - title: 'Video: SCO summit leaders meet in aftermath of US war on Iran'
-    summary: Leaders are meeting in Kyrgyzstan for the annual Shanghai Cooperation Organisation Summit.
-    link: https://www.aljazeera.com/video/newsfeed/2026/9/1/video-sco-summit-leaders-meet-in-aftermath-of-us-war-on-iran?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-01 21:27
-    title_zh: 视频：美国对伊朗战争后上合组织峰会领导人会面
-    summary_zh: 各国领导人正在吉尔吉斯斯坦参加一年一度的上海合作组织峰会。
 - name: 货币政策
   items:
   - title: Evercore sees strong jobs data not altering Fed September call
