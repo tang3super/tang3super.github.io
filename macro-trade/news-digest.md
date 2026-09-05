@@ -2,14 +2,21 @@
 layout: news-digest
 permalink: /macro-trade/news-digest/
 title: 新闻监控
-date: '2026-09-05'
+date: '2026-09-06'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-05 23:32
+last_updated: 2026-09-06 01:32
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: US says it hit three Iranian oil tankers after attacks on warships
+    summary: US Central Command says its forces struck three Iranian crude oil carriers on Saturday.
+    link: https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-05 23:49
+    title_zh: 美国称军舰袭击后袭击了三艘伊朗油轮
+    summary_zh: 美国中央司令部表示，其部队周六袭击了三艘伊朗原油运输船。
   - title: U.S. attacks 3 Iranian oil tankers after missiles target Navy warships
     summary: Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf, U.S. Central…
     link: https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html
@@ -559,15 +566,15 @@ topics:
     time: 09-02 06:45
     title_zh: 一些盟友正在反击特朗普的经济方针
     summary_zh: 在一次旨在展示特朗普总统经济政策作为世界典范的峰会上，欧洲人抱怨关税和战争.
-  - title: Urgent need for access to Iranian sites, cautions UN nuclear watchdog
-    summary: The IAEA said lack of information and access to facilities to verify Iran's nuclear material is a proliferation concern.
-    link: https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-02 05:28
-    title_zh: 联合国核监管机构警告称，迫切需要进入伊朗核设施
-    summary_zh: 国际原子能机构说，缺乏信息和进入设施核实伊朗的核材料是一个扩散问题。
 - name: 货币政策
   items:
+  - title: US says it hit three Iranian oil tankers after attacks on warships
+    summary: US Central Command says its forces struck three Iranian crude oil carriers on Saturday.
+    link: https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-05 23:49
+    title_zh: 美国称军舰袭击后袭击了三艘伊朗油轮
+    summary_zh: 美国中央司令部表示，其部队周六袭击了三艘伊朗原油运输船。
   - title: U.S. attacks 3 Iranian oil tankers after missiles target Navy warships
     summary: Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf, U.S. Central…
     link: https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html
