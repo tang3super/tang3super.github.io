@@ -5,11 +5,17 @@ title: 新闻监控
 date: '2026-09-06'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-06 05:23
+last_updated: 2026-09-06 07:02
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Is TTF gas fairly priced as Hormuz, winter risks keep prices elevated?
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/is-ttf-gas-fairly-priced-as-hormuz-winter-risks-keep-prices-elevated-4890238
+    source: Stock Market News
+    time: 09-06 05:06
+    title_zh: TTF天然气的价格是否公平，因为霍尔木兹冬季风险导致价格居高不下？
   - title: US says it hit three Iranian oil tankers after attacks on warships
     summary: US Central Command says its forces struck three Iranian crude oil carriers on Saturday.
     link: https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss
@@ -559,13 +565,6 @@ topics:
     time: 09-02 07:52
     title_zh: 贝森特表示，中国反对G20声明反对“廉价出口”涌入市场
     summary_zh: 贝森特正在领导特朗普政府通过威胁其商业伙伴实施二级制裁来扼杀伊朗经济的计划。
-  - title: Some Allies Are Pushing Back on Trump’s Economic Approach
-    summary: At a summit meant to showcase President Trump’s economic policies as a model for the world, Europeans complained about tariffs and the war w…
-    link: https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html
-    source: NYT > World News
-    time: 09-02 06:45
-    title_zh: 一些盟友正在反击特朗普的经济方针
-    summary_zh: 在一次旨在展示特朗普总统经济政策作为世界典范的峰会上，欧洲人抱怨关税和战争.
 - name: 货币政策
   items:
   - title: Trump turns up the heat on Warsh as Fed rate hike looms
