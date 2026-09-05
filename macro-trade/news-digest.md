@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-09-05'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-05 07:13
+last_updated: 2026-09-05 08:58
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’'
+    summary: US President Donald Trump has repeated an earlier warning that the US may attack Iran's Pickaxe Mountain "very soon".
+    link: https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-05 08:00
+    title_zh: 伊朗战争直播：特朗普称美国可能“很快”瞄准伊朗镐山
+    summary_zh: 美国总统唐纳德·特朗普重申了早些时候的警告，称美国可能“很快”袭击伊朗的镐山。
+  - title: '‘Small potatoes’: US President Trump downplays war on Iran'
+    summary: Trump tells reporters the US is 'not fighting right now' despite a recent exchange of fire with Iran.
+    link: https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-05 07:55
+    title_zh: “小土豆”：美国总统特朗普淡化对伊朗的战争
+    summary_zh: 特朗普告诉记者，尽管最近与伊朗发生了交火，但美国“现在没有战斗”。
   - title: U.S. sanctions Turkish bank accused of enabling Iran as Bessent says he 'hopes for' no further bank penalties
     summary: President Donald Trump hyped the sanctions plan as "economic D-Day" against Iran, but the U.S. has so far taken few steps to implement it.
     link: https://www.cnbc.com/2026/09/04/iran-turkey-sanctions-economy-bessent.html
@@ -552,20 +566,6 @@ topics:
     time: 09-01 21:27
     title_zh: 视频：美国对伊朗战争后上合组织峰会领导人会面
     summary_zh: 各国领导人正在吉尔吉斯斯坦参加一年一度的上海合作组织峰会。
-  - title: Why China will not comply with US sanctions on Iran
-    summary: Beijing will not comply with US measures because it can and because it’s in its interest not to.
-    link: https://www.aljazeera.com/opinions/2026/9/1/why-china-will-not-comply-with-us-sanctions-on-iran?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-01 21:08
-    title_zh: 为什么中国不会遵守美国对伊朗的制裁
-    summary_zh: 北京不会遵守美国的措施，因为它可以遵守，而且不遵守符合它的利益。
-  - title: Iran urges US to honour commitments under MoU
-    summary: Tehran calls for Washington to respect terms of MoU after attacks send tensions soaring in the Strait of Hormuz.
-    link: https://www.aljazeera.com/news/2026/9/1/iran-urges-us-to-honour-commitments-under-mou?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-01 21:01
-    title_zh: 伊朗敦促美国履行谅解备忘录下的承诺
-    summary_zh: 袭击事件导致霍尔木兹海峡紧张局势加剧后，德黑兰呼吁华盛顿尊重谅解备忘录的条款。
 - name: 货币政策
   items:
   - title: Evercore sees strong jobs data not altering Fed September call
