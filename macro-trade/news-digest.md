@@ -5,7 +5,7 @@ title: 新闻监控
 date: '2026-09-06'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-06 01:32
+last_updated: 2026-09-06 03:22
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
@@ -568,6 +568,13 @@ topics:
     summary_zh: 在一次旨在展示特朗普总统经济政策作为世界典范的峰会上，欧洲人抱怨关税和战争.
 - name: 货币政策
   items:
+  - title: Trump turns up the heat on Warsh as Fed rate hike looms
+    summary: Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tr…
+    link: https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html
+    source: US Top News and Analysis
+    time: 09-06 03:12
+    title_zh: 美联储加息迫在眉睫，特朗普加大对沃什的批评力度
+    summary_zh: 在下一次美联储会议召开前10天，特朗普政府似乎正在全力施压，要求其停止加息。
   - title: US says it hit three Iranian oil tankers after attacks on warships
     summary: US Central Command says its forces struck three Iranian crude oil carriers on Saturday.
     link: https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss
