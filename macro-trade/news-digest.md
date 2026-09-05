@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-09-05'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-05 17:09
+last_updated: 2026-09-05 20:40
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran’s State Media Says U.S. Missiles Hit Iranian Oil Tanker Near Kharg
+    summary: The United States military has not confirmed an attack. The reports came after a barrage of U.S. strikes in retaliation for Iranian attacks…
+    link: https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html
+    source: NYT > World News
+    time: 09-05 19:39
+    title_zh: 伊朗官方媒体称美国导弹击中哈格附近的伊朗油轮
+    summary_zh: 美国军方尚未证实发生袭击。这些报道是在美国对伊朗袭击进行报复之后发布的……
+  - title: Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?
+    summary: As oil tanker struck off Kharg island, Trump threatens one of the remaining parts of Iran’s nuclear complex.
+    link: https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-05 17:56
+    title_zh: 为什么特朗普现在威胁要再次袭击伊朗镐山？
+    summary_zh: 当一艘油轮在哈格岛附近相撞时，特朗普威胁到了伊朗核设施的剩余部分之一。
   - title: US imposes sanctions on Turkish bank, prompting legal threat
     summary: US sanctions Turkish bank over alleged IRGC ties, accusing it of facilitating millions in transactions for Iran.
     link: https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss
@@ -552,22 +566,20 @@ topics:
     time: 09-01 23:55
     title_zh: 伊朗和俄罗斯誓言反对美国“单边主义”
     summary_zh: 伊朗总统佩泽什基安感谢普京的支持，誓言抵制美国的“单边主义”。
-  - title: Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz
-    summary: Qatar accuses Israel of exploiting regional conflicts to impose new realities in Palestine, Lebanon, and Syria.
-    link: https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-01 23:29
-    title_zh: 卡塔尔称正在努力结束伊朗与美国的战争并重新开放霍尔木兹海峡
-    summary_zh: 卡塔尔指责以色列利用地区冲突在巴勒斯坦、黎巴嫩和叙利亚强加新的现实。
-  - title: 'SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit'
-    summary: The SCO started in 1996 and accounts for 43 percent of the world’s population and 23 percent of the global economy.
-    link: https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-01 21:32
-    title_zh: 上合组织猛烈抨击对伊朗的袭击和制裁：比什凯克峰会的关键要点
-    summary_zh: 上合组织成立于1996年，占世界人口的43%和全球经济的23%。
 - name: 货币政策
   items:
+  - title: Citi pushes Fed rate-cut forecast to June 2027 after resilient jobs market
+    summary: ''
+    link: https://www.investing.com/news/stock-market-news/citi-pushes-fed-ratecut-forecast-to-june-2027-after-resilient-jobs-market-4890197
+    source: Stock Market News
+    time: 09-05 19:38
+    title_zh: 就业市场反弹后，花旗将美联储降息预期推至2027年6月
+  - title: Bitcoin falls below $80,000 as strong U.S. jobs data revives Fed rate hike fears
+    summary: ''
+    link: https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-80000-as-strong-us-jobs-data-revives-fed-rate-hike-fears-4890184
+    source: Cryptocurrency News
+    time: 09-05 17:24
+    title_zh: 美国强劲就业数据重燃美联储加息担忧，比特币跌破8万美元
   - title: Evercore sees strong jobs data not altering Fed September call
     summary: ''
     link: https://www.investing.com/news/stock-market-news/evercore-sees-strong-jobs-data-not-altering-fed-september-call-93CH-4889854
