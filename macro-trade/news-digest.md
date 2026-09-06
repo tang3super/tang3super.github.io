@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-09-06'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-06 17:23
+last_updated: 2026-09-06 20:58
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts
+    summary: Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.
+    link: https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html
+    source: US Top News and Analysis
+    time: 09-06 20:02
+    title_zh: 伊朗警告称，随着经济压力的增加，伊朗将对美国的袭击做出“更痛苦”的反应
+    summary_zh: 伊朗警告称，将对美国的袭击进行更快、更严厉的报复，同时承认战争对其经济造成的损失越来越大。
+  - title: 'US, Iran engaged in tanker war: Where is the months-long conflict headed?'
+    summary: The US and Iran attack tankers in Strait of Hormuz, as the two sides try to exert control over the strategic waterway.
+    link: https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-06 18:49
+    title_zh: 美国、伊朗卷入油轮战争：长达数月的冲突将走向何方？
+    summary_zh: 美国和伊朗袭击霍尔木兹海峡的油轮，双方试图控制这条战略水道。
   - title: Yemeni forces claim strategic district amid intensified Houthi clashes
     summary: More than 60 people, including civilians, killed as clashes between Yemeni forces and Houthis intensify in Taiz.
     link: https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss
@@ -552,19 +566,6 @@ topics:
     time: 09-02 08:47
     title_zh: 美国对伊朗港口城市的罢工打击了婚礼派对
     summary_zh: 伊朗说，美国在伊朗南部港口城市伊兹密尔附近发动的一系列袭击造成至少4人死亡。
-  - title: U.S. completes fresh strikes on Iran as Mideast tensions flare again
-    summary: U.S. forces completed another wave of strikes against Iran on Tuesday stateside, hitting multiple Islamic Revolutionary Guard Corps sites ac…
-    link: https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html
-    source: US Top News and Analysis
-    time: 09-02 08:44
-    title_zh: 中东紧张局势再次爆发，美国完成对伊朗的新一轮打击
-    summary_zh: 美军周二完成了对伊朗本土的另一波打击，袭击了伊斯兰革命卫队的多个驻地.
-  - title: U.S. futures muted as markets parse rate jitters, more Iran strikes
-    summary: ''
-    link: https://www.investing.com/news/stock-market-news/us-futures-muted-as-markets-parse-rate-jitters-more-iran-strikes-4885211
-    source: Stock Market News
-    time: 09-02 08:14
-    title_zh: 随着市场分析利率波动和更多伊朗袭击，美国期货低迷
 - name: 货币政策
   items:
   - title: 'Iran war live: IRGC claims new attacks on US warships over naval blockade'
@@ -781,6 +782,13 @@ topics:
     summary_zh: 特朗普领导下的联邦通信委员会试图针对传播“假”新闻的新闻媒体。
 - name: AI基建
   items:
+  - title: ‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace
+    summary: Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it's acquiring open-source AI platform Hugging Fa…
+    link: https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html
+    source: US Top News and Analysis
+    time: 09-06 20:13
+    title_zh: 人工智能实验室竞相推出新版本，“模型疲劳”开始
+    summary_zh: Anthropic、OpenAI、Meta和Google本周均发布了模型更新，而Nvidia则表示正在收购开源人工智能平台Hugging Alpha.
   - title: Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips
     summary: Nvidia’s $12.9 billion Hugging Face deal could protect its open AI ecosystem, deepen ties with developers and keep the platform from rivals.
     link: https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html
