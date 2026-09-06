@@ -5,11 +5,18 @@ title: 新闻监控
 date: '2026-09-06'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-06 13:09
+last_updated: 2026-09-06 17:23
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: Yemeni forces claim strategic district amid intensified Houthi clashes
+    summary: More than 60 people, including civilians, killed as clashes between Yemeni forces and Houthis intensify in Taiz.
+    link: https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-06 13:02
+    title_zh: 也门军队在胡塞武装冲突加剧中占领了战略地区
+    summary_zh: 也门军队与胡塞武装在塔伊兹的冲突加剧，造成包括平民在内的60多人死亡。
   - title: 'Iran war live: IRGC claims new attacks on US warships over naval blockade'
     summary: IRGC says it fired ballistic missiles at US aircraft carrier and destroyer as standoff intensifies in Strait of Hormuz.
     link: https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss
@@ -558,13 +565,6 @@ topics:
     source: Stock Market News
     time: 09-02 08:14
     title_zh: 随着市场分析利率波动和更多伊朗袭击，美国期货低迷
-  - title: Putin Pledges Increased Strikes in Ukraine and Support for Iran
-    summary: The Russian president promised continued retaliation against the Ukrainians and “full solidarity” with Iran.
-    link: https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html
-    source: NYT > World News
-    time: 09-02 08:00
-    title_zh: 普京承诺加强对乌克兰的打击并支持伊朗
-    summary_zh: 俄罗斯总统承诺继续对乌克兰人进行报复，并“全力声援”伊朗。
 - name: 货币政策
   items:
   - title: 'Iran war live: IRGC claims new attacks on US warships over naval blockade'
