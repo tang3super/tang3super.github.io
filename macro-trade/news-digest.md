@@ -5,11 +5,25 @@ title: 新闻监控
 date: '2026-09-06'
 summary: 2026年第36周监控
 week_label: 2026年第36周监控
-last_updated: 2026-09-06 07:02
+last_updated: 2026-09-06 08:48
 refresh_note: 每 5 分钟自动刷新
 topics:
 - name: 地缘政治
   items:
+  - title: 'Iran war live: IRGC claims new attacks on US warships over naval blockade'
+    summary: IRGC says it fired ballistic missiles at US aircraft carrier and destroyer as standoff intensifies in Strait of Hormuz.
+    link: https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-06 08:00
+    title_zh: 伊朗战争直播：伊斯兰革命卫队声称美国军舰因海军封锁而受到新袭击
+    summary_zh: 伊斯兰革命卫队表示，随着霍尔木兹海峡对峙加剧，它向美国航空母舰和驱逐舰发射了弹道导弹。
+  - title: Fuel tanker blast in western Iran kills at least 10
+    summary: At least six other people were injured in the tanker blast on Iran's Hamedan-Sanandaj highway, officials say.
+    link: https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-06 07:07
+    title_zh: 伊朗西部油罐车爆炸造成至少10人死亡
+    summary_zh: 官员称，伊朗哈梅丹-萨南达杰高速公路上发生的油轮爆炸造成至少六人受伤。
   - title: Is TTF gas fairly priced as Hormuz, winter risks keep prices elevated?
     summary: ''
     link: https://www.investing.com/news/stock-market-news/is-ttf-gas-fairly-priced-as-hormuz-winter-risks-keep-prices-elevated-4890238
@@ -551,22 +565,15 @@ topics:
     time: 09-02 08:00
     title_zh: 普京承诺加强对乌克兰的打击并支持伊朗
     summary_zh: 俄罗斯总统承诺继续对乌克兰人进行报复，并“全力声援”伊朗。
-  - title: 'Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan'
-    summary: Tehran pledges 'severe punishment' and retaliation against Washington following a new wave of US attacks.
-    link: https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss
-    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
-    time: 09-02 08:00
-    title_zh: 伊朗战争直播：美国轰炸伊朗，德黑兰报复海湾邻国约旦
-    summary_zh: 德黑兰承诺在美国新一波袭击后对华盛顿进行“严厉惩罚”和报复。
-  - title: China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says
-    summary: Bessent is leading the Trump administration's plan to choke off Iran's economy by threatening its business partners with secondary sanctions…
-    link: https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html
-    source: US Top News and Analysis
-    time: 09-02 07:52
-    title_zh: 贝森特表示，中国反对G20声明反对“廉价出口”涌入市场
-    summary_zh: 贝森特正在领导特朗普政府通过威胁其商业伙伴实施二级制裁来扼杀伊朗经济的计划。
 - name: 货币政策
   items:
+  - title: 'Iran war live: IRGC claims new attacks on US warships over naval blockade'
+    summary: IRGC says it fired ballistic missiles at US aircraft carrier and destroyer as standoff intensifies in Strait of Hormuz.
+    link: https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss
+    source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+    time: 09-06 08:00
+    title_zh: 伊朗战争直播：伊斯兰革命卫队声称美国军舰因海军封锁而受到新袭击
+    summary_zh: 伊斯兰革命卫队表示，随着霍尔木兹海峡对峙加剧，它向美国航空母舰和驱逐舰发射了弹道导弹。
   - title: Trump turns up the heat on Warsh as Fed rate hike looms
     summary: Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tr…
     link: https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html
